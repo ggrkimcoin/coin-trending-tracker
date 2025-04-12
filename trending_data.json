@@ -319,5 +319,112 @@
       "price_btc": 6.317231464192435e-06,
       "timestamp": "2025-04-12 14:32"
     }
+  ],
+  "2025-04-12 15:29": [
+    {
+      "rank": 1,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.8480965180429753e-06,
+      "timestamp": "2025-04-12 15:29"
+    },
+    {
+      "rank": 2,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 6.307683635416075e-06,
+      "timestamp": "2025-04-12 15:29"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0636790086308712e-05,
+      "timestamp": "2025-04-12 15:29"
+    },
+    {
+      "rank": 4,
+      "name": "PumpBTC",
+      "symbol": "PUMP",
+      "price_btc": 1.1451784905802772e-06,
+      "timestamp": "2025-04-12 15:29"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0768202785904965e-05,
+      "timestamp": "2025-04-12 15:29"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001535978173977228,
+      "timestamp": "2025-04-12 15:29"
+    },
+    {
+      "rank": 7,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.916468978135269e-06,
+      "timestamp": "2025-04-12 15:29"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 9.00683495665593e-06,
+      "timestamp": "2025-04-12 15:29"
+    },
+    {
+      "rank": 9,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.3190985204296914e-07,
+      "timestamp": "2025-04-12 15:29"
+    },
+    {
+      "rank": 10,
+      "name": "StakeStone",
+      "symbol": "STO",
+      "price_btc": 1.3519401511999493e-06,
+      "timestamp": "2025-04-12 15:29"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01951166023455953,
+      "timestamp": "2025-04-12 15:29"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018434807545461123,
+      "timestamp": "2025-04-12 15:29"
+    },
+    {
+      "rank": 13,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.0630518024791992e-06,
+      "timestamp": "2025-04-12 15:29"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.5356014827856075e-05,
+      "timestamp": "2025-04-12 15:29"
+    },
+    {
+      "rank": 15,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 6.790798942846456e-08,
+      "timestamp": "2025-04-12 15:29"
+    }
   ]
 }
