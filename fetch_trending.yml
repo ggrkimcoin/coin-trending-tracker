@@ -2,8 +2,11 @@ name: Fetch CoinGecko Trending Data
 
 on:
   schedule:
-    - cron: "0 * * * *"  # 매시 정각 (UTC 기준, 한국은 +9시간)
+    - cron: "0 * * * *"  # 매시 정각 (UTC 기준)
   workflow_dispatch:      # 수동 실행도 가능
+
+permissions:
+  contents: write
 
 jobs:
   fetch-data:
@@ -28,6 +31,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add trending_data.json
           git commit -m "📈 자동 수집: ${{ github.event.schedule || 'manual run' }}" || echo "No changes"
           git push
