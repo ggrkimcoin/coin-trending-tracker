@@ -533,5 +533,112 @@
       "price_btc": 8.658014136807625e-11,
       "timestamp": "2025-04-12 16:39"
     }
+  ],
+  "2025-04-12 17:32": [
+    {
+      "rank": 1,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.6877617704458025e-06,
+      "timestamp": "2025-04-12 17:32"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015226991314595051,
+      "timestamp": "2025-04-12 17:32"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0331468715372472e-05,
+      "timestamp": "2025-04-12 17:32"
+    },
+    {
+      "rank": 4,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 6.361149724405709e-06,
+      "timestamp": "2025-04-12 17:32"
+    },
+    {
+      "rank": 5,
+      "name": "Mind Network",
+      "symbol": "FHE",
+      "price_btc": 1.080077440985308e-06,
+      "timestamp": "2025-04-12 17:32"
+    },
+    {
+      "rank": 6,
+      "name": "PumpBTC",
+      "symbol": "PUMP",
+      "price_btc": 1.3348524932823428e-06,
+      "timestamp": "2025-04-12 17:32"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.493535537751904e-06,
+      "timestamp": "2025-04-12 17:32"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01933731996388395,
+      "timestamp": "2025-04-12 17:32"
+    },
+    {
+      "rank": 9,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.060718325221485e-06,
+      "timestamp": "2025-04-12 17:32"
+    },
+    {
+      "rank": 10,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 5.010107541426751e-05,
+      "timestamp": "2025-04-12 17:32"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0625767584475416e-05,
+      "timestamp": "2025-04-12 17:32"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003041123805337355,
+      "timestamp": "2025-04-12 17:32"
+    },
+    {
+      "rank": 13,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.596784194763323e-05,
+      "timestamp": "2025-04-12 17:32"
+    },
+    {
+      "rank": 14,
+      "name": "AIOZ Network",
+      "symbol": "AIOZ",
+      "price_btc": 3.502701139604868e-06,
+      "timestamp": "2025-04-12 17:32"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-12 17:32"
+    }
   ]
 }
