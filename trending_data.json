@@ -426,5 +426,112 @@
       "price_btc": 6.790798942846456e-08,
       "timestamp": "2025-04-12 15:29"
     }
+  ],
+  "2025-04-12 16:39": [
+    {
+      "rank": 1,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.8093029423465632e-06,
+      "timestamp": "2025-04-12 16:39"
+    },
+    {
+      "rank": 2,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 6.410692148021472e-06,
+      "timestamp": "2025-04-12 16:39"
+    },
+    {
+      "rank": 3,
+      "name": "PumpBTC",
+      "symbol": "PUMP",
+      "price_btc": 1.2621010118941018e-06,
+      "timestamp": "2025-04-12 16:39"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015409146294959979,
+      "timestamp": "2025-04-12 16:39"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0935622551721889e-05,
+      "timestamp": "2025-04-12 16:39"
+    },
+    {
+      "rank": 6,
+      "name": "Mind Network",
+      "symbol": "FHE",
+      "price_btc": 1.0768057374763757e-06,
+      "timestamp": "2025-04-12 16:39"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019489007437259443,
+      "timestamp": "2025-04-12 16:39"
+    },
+    {
+      "rank": 8,
+      "name": "StakeStone",
+      "symbol": "STO",
+      "price_btc": 1.2210401114556431e-06,
+      "timestamp": "2025-04-12 16:39"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0721399093847233e-05,
+      "timestamp": "2025-04-12 16:39"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-12 16:39"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.7235905555708228e-05,
+      "timestamp": "2025-04-12 16:39"
+    },
+    {
+      "rank": 12,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 3.2419171582535284e-06,
+      "timestamp": "2025-04-12 16:39"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.634959277248931e-06,
+      "timestamp": "2025-04-12 16:39"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00010000965896912662,
+      "timestamp": "2025-04-12 16:39"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.658014136807625e-11,
+      "timestamp": "2025-04-12 16:39"
+    }
   ]
 }
