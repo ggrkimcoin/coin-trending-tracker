@@ -1,0 +1,33 @@
+name: Fetch CoinGecko Trending Data
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # 매시 정각 (UTC 기준, 한국은 +9시간)
+  workflow_dispatch:      # 수동 실행도 가능
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Run fetch_trending.py
+        run: python fetch_trending.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add trending_data.json
+          git commit -m "📈 자동 수집: ${{ github.event.schedule || 'manual run' }}" || echo "No changes"
+          git push
