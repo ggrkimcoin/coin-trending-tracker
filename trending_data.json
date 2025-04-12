@@ -105,5 +105,112 @@
       "price_btc": 0.0030038617235701357,
       "timestamp": "2025-04-12 11:49"
     }
+  ],
+  "2025-04-12 13:02": [
+    {
+      "rank": 1,
+      "name": "Neiro",
+      "symbol": "NEIRO",
+      "price_btc": 2.0959918137508678e-09,
+      "timestamp": "2025-04-12 13:02"
+    },
+    {
+      "rank": 2,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.6825690484287102e-06,
+      "timestamp": "2025-04-12 13:02"
+    },
+    {
+      "rank": 3,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 5.806925391403506e-06,
+      "timestamp": "2025-04-12 13:02"
+    },
+    {
+      "rank": 4,
+      "name": "Tezos",
+      "symbol": "XTZ",
+      "price_btc": 6.433459384662573e-06,
+      "timestamp": "2025-04-12 13:02"
+    },
+    {
+      "rank": 5,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.0388483879810998e-06,
+      "timestamp": "2025-04-12 13:02"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0499891939463264e-05,
+      "timestamp": "2025-04-12 13:02"
+    },
+    {
+      "rank": 7,
+      "name": "JasmyCoin",
+      "symbol": "JASMY",
+      "price_btc": 1.988263689259059e-07,
+      "timestamp": "2025-04-12 13:02"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0513133317122059e-05,
+      "timestamp": "2025-04-12 13:02"
+    },
+    {
+      "rank": 9,
+      "name": "TRON",
+      "symbol": "TRX",
+      "price_btc": 2.9849640270489202e-06,
+      "timestamp": "2025-04-12 13:02"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014995487063519384,
+      "timestamp": "2025-04-12 13:02"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.732688145501831e-06,
+      "timestamp": "2025-04-12 13:02"
+    },
+    {
+      "rank": 12,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.2585962771953613e-07,
+      "timestamp": "2025-04-12 13:02"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018410902710267452,
+      "timestamp": "2025-04-12 13:02"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019100427862890155,
+      "timestamp": "2025-04-12 13:02"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 6.641261457760169e-06,
+      "timestamp": "2025-04-12 13:02"
+    }
   ]
 }
