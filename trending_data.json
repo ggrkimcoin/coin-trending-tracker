@@ -1175,5 +1175,112 @@
       "price_btc": 1.9697771694071317e-06,
       "timestamp": "2025-04-12 22:33"
     }
+  ],
+  "2025-04-13 04:19": [
+    {
+      "rank": 1,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 1.5927253595608676e-10,
+      "timestamp": "2025-04-13 04:19"
+    },
+    {
+      "rank": 2,
+      "name": "Mind Network",
+      "symbol": "FHE",
+      "price_btc": 1.076341647386407e-06,
+      "timestamp": "2025-04-13 04:19"
+    },
+    {
+      "rank": 3,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 5.736475341495492e-06,
+      "timestamp": "2025-04-13 04:19"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.853158869240562e-06,
+      "timestamp": "2025-04-13 04:19"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015460846474982604,
+      "timestamp": "2025-04-13 04:19"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018985862049074502,
+      "timestamp": "2025-04-13 04:19"
+    },
+    {
+      "rank": 7,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.6043242217994599e-06,
+      "timestamp": "2025-04-13 04:19"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0181220856628761e-05,
+      "timestamp": "2025-04-13 04:19"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.530247774690172e-05,
+      "timestamp": "2025-04-13 04:19"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01903617101295229,
+      "timestamp": "2025-04-13 04:19"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-13 04:19"
+    },
+    {
+      "rank": 12,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 3.1845101962353205e-06,
+      "timestamp": "2025-04-13 04:19"
+    },
+    {
+      "rank": 13,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.2951176540383303e-07,
+      "timestamp": "2025-04-13 04:19"
+    },
+    {
+      "rank": 14,
+      "name": "Gunz",
+      "symbol": "GUN",
+      "price_btc": 6.455419919471066e-07,
+      "timestamp": "2025-04-13 04:19"
+    },
+    {
+      "rank": 15,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.714331980621914e-06,
+      "timestamp": "2025-04-13 04:19"
+    }
   ]
 }
