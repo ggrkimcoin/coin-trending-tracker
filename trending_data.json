@@ -1710,5 +1710,112 @@
       "price_btc": 8.832582732315844e-07,
       "timestamp": "2025-04-13 08:39"
     }
+  ],
+  "2025-04-13 09:32": [
+    {
+      "rank": 1,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.5855423685775467e-06,
+      "timestamp": "2025-04-13 09:32"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.85951317122399e-06,
+      "timestamp": "2025-04-13 09:32"
+    },
+    {
+      "rank": 3,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0473929736942163e-05,
+      "timestamp": "2025-04-13 09:32"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0158776613844917e-05,
+      "timestamp": "2025-04-13 09:32"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015342399199607627,
+      "timestamp": "2025-04-13 09:32"
+    },
+    {
+      "rank": 6,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.844704972650763e-05,
+      "timestamp": "2025-04-13 09:32"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.765638473970113e-05,
+      "timestamp": "2025-04-13 09:32"
+    },
+    {
+      "rank": 8,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 5.969698471758307e-06,
+      "timestamp": "2025-04-13 09:32"
+    },
+    {
+      "rank": 9,
+      "name": "Helium",
+      "symbol": "HNT",
+      "price_btc": 4.716529328759115e-05,
+      "timestamp": "2025-04-13 09:32"
+    },
+    {
+      "rank": 10,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00010094456862360377,
+      "timestamp": "2025-04-13 09:32"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019141761081212544,
+      "timestamp": "2025-04-13 09:32"
+    },
+    {
+      "rank": 12,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.35088314224418e-07,
+      "timestamp": "2025-04-13 09:32"
+    },
+    {
+      "rank": 13,
+      "name": "Toshi",
+      "symbol": "TOSHI",
+      "price_btc": 4.410857794800686e-09,
+      "timestamp": "2025-04-13 09:32"
+    },
+    {
+      "rank": 14,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 3.437785501045744e-07,
+      "timestamp": "2025-04-13 09:32"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.5680542839692923e-05,
+      "timestamp": "2025-04-13 09:32"
+    }
   ]
 }
