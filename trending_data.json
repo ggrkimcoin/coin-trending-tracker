@@ -1817,5 +1817,112 @@
       "price_btc": 2.5680542839692923e-05,
       "timestamp": "2025-04-13 09:32"
     }
+  ],
+  "2025-04-13 10:39": [
+    {
+      "rank": 1,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015440354315790798,
+      "timestamp": "2025-04-13 10:39"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01911567789397745,
+      "timestamp": "2025-04-13 10:39"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019106556113073124,
+      "timestamp": "2025-04-13 10:39"
+    },
+    {
+      "rank": 4,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.058947055833499e-05,
+      "timestamp": "2025-04-13 10:39"
+    },
+    {
+      "rank": 5,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.681068977425763e-06,
+      "timestamp": "2025-04-13 10:39"
+    },
+    {
+      "rank": 6,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.335083744689136e-05,
+      "timestamp": "2025-04-13 10:39"
+    },
+    {
+      "rank": 7,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 6.0859039843548506e-06,
+      "timestamp": "2025-04-13 10:39"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0405858910407056e-05,
+      "timestamp": "2025-04-13 10:39"
+    },
+    {
+      "rank": 9,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.750818734718416e-06,
+      "timestamp": "2025-04-13 10:39"
+    },
+    {
+      "rank": 10,
+      "name": "Helium",
+      "symbol": "HNT",
+      "price_btc": 4.797204892908876e-05,
+      "timestamp": "2025-04-13 10:39"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.851912123344769e-06,
+      "timestamp": "2025-04-13 10:39"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.770875566553267e-05,
+      "timestamp": "2025-04-13 10:39"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 6.030985225101792e-06,
+      "timestamp": "2025-04-13 10:39"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.8694487890667955e-05,
+      "timestamp": "2025-04-13 10:39"
+    },
+    {
+      "rank": 15,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 6.131182722785594e-06,
+      "timestamp": "2025-04-13 10:39"
+    }
   ]
 }
