@@ -2780,5 +2780,112 @@
       "price_btc": 3.106605895433931e-06,
       "timestamp": "2025-04-13 19:21"
     }
+  ],
+  "2025-04-13 20:31": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.1008378971843e-06,
+      "timestamp": "2025-04-13 20:31"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5609612142135547e-11,
+      "timestamp": "2025-04-13 20:31"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0062957679081942e-05,
+      "timestamp": "2025-04-13 20:31"
+    },
+    {
+      "rank": 4,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0309200077165275e-05,
+      "timestamp": "2025-04-13 20:31"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015339296304724601,
+      "timestamp": "2025-04-13 20:31"
+    },
+    {
+      "rank": 6,
+      "name": "Retard Finder Coin",
+      "symbol": "RFC",
+      "price_btc": 1.1443523379215833e-06,
+      "timestamp": "2025-04-13 20:31"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6638199356439432e-05,
+      "timestamp": "2025-04-13 20:31"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019087615535324554,
+      "timestamp": "2025-04-13 20:31"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.792065679088492e-06,
+      "timestamp": "2025-04-13 20:31"
+    },
+    {
+      "rank": 10,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 5.491335126560712e-06,
+      "timestamp": "2025-04-13 20:31"
+    },
+    {
+      "rank": 11,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.555776292769872e-06,
+      "timestamp": "2025-04-13 20:31"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.723992254642376e-05,
+      "timestamp": "2025-04-13 20:31"
+    },
+    {
+      "rank": 13,
+      "name": "Terra Luna Classic",
+      "symbol": "LUNC",
+      "price_btc": 7.004237101209594e-10,
+      "timestamp": "2025-04-13 20:31"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018450080811524108,
+      "timestamp": "2025-04-13 20:31"
+    },
+    {
+      "rank": 15,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.855702578355961e-06,
+      "timestamp": "2025-04-13 20:31"
+    }
   ]
 }
