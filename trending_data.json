@@ -2459,5 +2459,112 @@
       "price_btc": 1.624874630313555e-06,
       "timestamp": "2025-04-13 16:43"
     }
+  ],
+  "2025-04-13 17:31": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5985814013929226e-11,
+      "timestamp": "2025-04-13 17:31"
+    },
+    {
+      "rank": 2,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.631174135774004e-06,
+      "timestamp": "2025-04-13 17:31"
+    },
+    {
+      "rank": 3,
+      "name": "Retard Finder Coin",
+      "symbol": "RFC",
+      "price_btc": 1.2663832426840077e-06,
+      "timestamp": "2025-04-13 17:31"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015408543584843175,
+      "timestamp": "2025-04-13 17:31"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.789279185520266e-06,
+      "timestamp": "2025-04-13 17:31"
+    },
+    {
+      "rank": 6,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.616081562575796e-11,
+      "timestamp": "2025-04-13 17:31"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.986686057607723e-06,
+      "timestamp": "2025-04-13 17:31"
+    },
+    {
+      "rank": 8,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 6.11163393428456e-06,
+      "timestamp": "2025-04-13 17:31"
+    },
+    {
+      "rank": 9,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 5.736253002805187e-06,
+      "timestamp": "2025-04-13 17:31"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.703266469757801e-05,
+      "timestamp": "2025-04-13 17:31"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01891846349647459,
+      "timestamp": "2025-04-13 17:31"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.5591110692325758e-05,
+      "timestamp": "2025-04-13 17:31"
+    },
+    {
+      "rank": 13,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 9.093915386810307e-07,
+      "timestamp": "2025-04-13 17:31"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-13 17:31"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 6.731052498606168e-06,
+      "timestamp": "2025-04-13 17:31"
+    }
   ]
 }
