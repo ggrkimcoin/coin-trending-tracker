@@ -1924,5 +1924,112 @@
       "price_btc": 6.131182722785594e-06,
       "timestamp": "2025-04-13 10:39"
     }
+  ],
+  "2025-04-13 11:23": [
+    {
+      "rank": 1,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015359741388335905,
+      "timestamp": "2025-04-13 11:23"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019062430127792318,
+      "timestamp": "2025-04-13 11:23"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019039906661485535,
+      "timestamp": "2025-04-13 11:23"
+    },
+    {
+      "rank": 4,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0017009403958819968,
+      "timestamp": "2025-04-13 11:23"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.884120946312319e-06,
+      "timestamp": "2025-04-13 11:23"
+    },
+    {
+      "rank": 6,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 6.071404386735792e-06,
+      "timestamp": "2025-04-13 11:23"
+    },
+    {
+      "rank": 7,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.63053930527691e-05,
+      "timestamp": "2025-04-13 11:23"
+    },
+    {
+      "rank": 8,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.625036291452637e-06,
+      "timestamp": "2025-04-13 11:23"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.762789376325683e-05,
+      "timestamp": "2025-04-13 11:23"
+    },
+    {
+      "rank": 10,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 6.4674255533365854e-06,
+      "timestamp": "2025-04-13 11:23"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-13 11:23"
+    },
+    {
+      "rank": 12,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.744980187567433e-06,
+      "timestamp": "2025-04-13 11:23"
+    },
+    {
+      "rank": 13,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 6.006735553200672e-06,
+      "timestamp": "2025-04-13 11:23"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0365870848204739e-05,
+      "timestamp": "2025-04-13 11:23"
+    },
+    {
+      "rank": 15,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.9728674347584346e-05,
+      "timestamp": "2025-04-13 11:23"
+    }
   ]
 }
