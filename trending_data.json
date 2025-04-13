@@ -2352,5 +2352,112 @@
       "price_btc": 1.0374179246650166e-05,
       "timestamp": "2025-04-13 15:32"
     }
+  ],
+  "2025-04-13 16:43": [
+    {
+      "rank": 1,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.578065693654968e-06,
+      "timestamp": "2025-04-13 16:43"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6106052915222365e-11,
+      "timestamp": "2025-04-13 16:43"
+    },
+    {
+      "rank": 3,
+      "name": "Retard Finder Coin",
+      "symbol": "RFC",
+      "price_btc": 1.1516923083559084e-06,
+      "timestamp": "2025-04-13 16:43"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.788914093395523e-06,
+      "timestamp": "2025-04-13 16:43"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015386588760568335,
+      "timestamp": "2025-04-13 16:43"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018948438049427547,
+      "timestamp": "2025-04-13 16:43"
+    },
+    {
+      "rank": 7,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 6.1087191277540856e-06,
+      "timestamp": "2025-04-13 16:43"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.896093078538437e-06,
+      "timestamp": "2025-04-13 16:43"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-13 16:43"
+    },
+    {
+      "rank": 10,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.414931530489617e-07,
+      "timestamp": "2025-04-13 16:43"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.992493739131151e-06,
+      "timestamp": "2025-04-13 16:43"
+    },
+    {
+      "rank": 12,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 5.734003056708848e-06,
+      "timestamp": "2025-04-13 16:43"
+    },
+    {
+      "rank": 13,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 6.208723786978665e-06,
+      "timestamp": "2025-04-13 16:43"
+    },
+    {
+      "rank": 14,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 9.076077709816371e-07,
+      "timestamp": "2025-04-13 16:43"
+    },
+    {
+      "rank": 15,
+      "name": "Alchemist AI",
+      "symbol": "ALCH",
+      "price_btc": 1.624874630313555e-06,
+      "timestamp": "2025-04-13 16:43"
+    }
   ]
 }
