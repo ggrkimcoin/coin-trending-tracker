@@ -2245,5 +2245,112 @@
       "price_btc": 5.655994007256918e-06,
       "timestamp": "2025-04-13 14:32"
     }
+  ],
+  "2025-04-13 15:32": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.513158791887876e-11,
+      "timestamp": "2025-04-13 15:32"
+    },
+    {
+      "rank": 2,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.3851367315534074e-05,
+      "timestamp": "2025-04-13 15:32"
+    },
+    {
+      "rank": 3,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 5.915217750667962e-06,
+      "timestamp": "2025-04-13 15:32"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.898129699655902e-06,
+      "timestamp": "2025-04-13 15:32"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018887496607278554,
+      "timestamp": "2025-04-13 15:32"
+    },
+    {
+      "rank": 6,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.5788416645634897e-06,
+      "timestamp": "2025-04-13 15:32"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-13 15:32"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001528569483862116,
+      "timestamp": "2025-04-13 15:32"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00292285071724734,
+      "timestamp": "2025-04-13 15:32"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.551858498990932e-05,
+      "timestamp": "2025-04-13 15:32"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6890903138769342e-05,
+      "timestamp": "2025-04-13 15:32"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018307489308641076,
+      "timestamp": "2025-04-13 15:32"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.645072158840401e-06,
+      "timestamp": "2025-04-13 15:32"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.7918072887766746e-06,
+      "timestamp": "2025-04-13 15:32"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0374179246650166e-05,
+      "timestamp": "2025-04-13 15:32"
+    }
   ]
 }
