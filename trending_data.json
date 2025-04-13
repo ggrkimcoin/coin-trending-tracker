@@ -2673,5 +2673,112 @@
       "price_btc": 0.019246397423072045,
       "timestamp": "2025-04-13 18:41"
     }
+  ],
+  "2025-04-13 19:21": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 1.5703249297150023e-05,
+      "timestamp": "2025-04-13 19:21"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4914217624425004e-11,
+      "timestamp": "2025-04-13 19:21"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.014273124050712e-05,
+      "timestamp": "2025-04-13 19:21"
+    },
+    {
+      "rank": 4,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 5.602548457552093e-06,
+      "timestamp": "2025-04-13 19:21"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0474080821176539e-05,
+      "timestamp": "2025-04-13 19:21"
+    },
+    {
+      "rank": 6,
+      "name": "Retard Finder Coin",
+      "symbol": "RFC",
+      "price_btc": 1.1754876635835755e-06,
+      "timestamp": "2025-04-13 19:21"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.945319426286257e-06,
+      "timestamp": "2025-04-13 19:21"
+    },
+    {
+      "rank": 8,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.672541805516606e-06,
+      "timestamp": "2025-04-13 19:21"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019234372239206033,
+      "timestamp": "2025-04-13 19:21"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015514960374962358,
+      "timestamp": "2025-04-13 19:21"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.7128734850126298e-05,
+      "timestamp": "2025-04-13 19:21"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-13 19:21"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019051974301952416,
+      "timestamp": "2025-04-13 19:21"
+    },
+    {
+      "rank": 14,
+      "name": "Gunz",
+      "symbol": "GUN",
+      "price_btc": 6.639208638579208e-07,
+      "timestamp": "2025-04-13 19:21"
+    },
+    {
+      "rank": 15,
+      "name": "The Sandbox",
+      "symbol": "SAND",
+      "price_btc": 3.106605895433931e-06,
+      "timestamp": "2025-04-13 19:21"
+    }
   ]
 }
