@@ -1603,5 +1603,112 @@
       "price_btc": 3.1704225708840602e-06,
       "timestamp": "2025-04-13 07:27"
     }
+  ],
+  "2025-04-13 08:39": [
+    {
+      "rank": 1,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.584034219292674e-06,
+      "timestamp": "2025-04-13 08:39"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001524170463683105,
+      "timestamp": "2025-04-13 08:39"
+    },
+    {
+      "rank": 3,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 5.794509871212681e-06,
+      "timestamp": "2025-04-13 08:39"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0148530233006187e-05,
+      "timestamp": "2025-04-13 08:39"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.796981100328217e-06,
+      "timestamp": "2025-04-13 08:39"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0451336459487586e-05,
+      "timestamp": "2025-04-13 08:39"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.747614848194816e-05,
+      "timestamp": "2025-04-13 08:39"
+    },
+    {
+      "rank": 8,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 5.731282891244102e-06,
+      "timestamp": "2025-04-13 08:39"
+    },
+    {
+      "rank": 9,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00023677475811448138,
+      "timestamp": "2025-04-13 08:39"
+    },
+    {
+      "rank": 10,
+      "name": "Brett",
+      "symbol": "BRETT",
+      "price_btc": 3.5045179491630723e-07,
+      "timestamp": "2025-04-13 08:39"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.613129618509163e-11,
+      "timestamp": "2025-04-13 08:39"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018947195797760076,
+      "timestamp": "2025-04-13 08:39"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030017901068444476,
+      "timestamp": "2025-04-13 08:39"
+    },
+    {
+      "rank": 14,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 1.589103448000515e-10,
+      "timestamp": "2025-04-13 08:39"
+    },
+    {
+      "rank": 15,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 8.832582732315844e-07,
+      "timestamp": "2025-04-13 08:39"
+    }
   ]
 }
