@@ -1389,5 +1389,112 @@
       "price_btc": 2.310409624859527e-05,
       "timestamp": "2025-04-13 05:41"
     }
+  ],
+  "2025-04-13 06:45": [
+    {
+      "rank": 1,
+      "name": "Mind Network",
+      "symbol": "FHE",
+      "price_btc": 1.0926162103080378e-06,
+      "timestamp": "2025-04-13 06:45"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0103508890692208e-05,
+      "timestamp": "2025-04-13 06:45"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015322248372613093,
+      "timestamp": "2025-04-13 06:45"
+    },
+    {
+      "rank": 4,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.5417229191100487e-06,
+      "timestamp": "2025-04-13 06:45"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.737450504670518e-06,
+      "timestamp": "2025-04-13 06:45"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.7749977742588263e-05,
+      "timestamp": "2025-04-13 06:45"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019060779199086456,
+      "timestamp": "2025-04-13 06:45"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0503572804632084e-05,
+      "timestamp": "2025-04-13 06:45"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0029874421937446612,
+      "timestamp": "2025-04-13 06:45"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019207272868806171,
+      "timestamp": "2025-04-13 06:45"
+    },
+    {
+      "rank": 11,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 5.563157726083293e-06,
+      "timestamp": "2025-04-13 06:45"
+    },
+    {
+      "rank": 12,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 4.6663661721878854e-05,
+      "timestamp": "2025-04-13 06:45"
+    },
+    {
+      "rank": 13,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00015262829460940466,
+      "timestamp": "2025-04-13 06:45"
+    },
+    {
+      "rank": 14,
+      "name": "Lista DAO",
+      "symbol": "LISTA",
+      "price_btc": 1.9284142085185285e-06,
+      "timestamp": "2025-04-13 06:45"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.5281555020946785e-05,
+      "timestamp": "2025-04-13 06:45"
+    }
   ]
 }
