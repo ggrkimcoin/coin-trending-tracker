@@ -1282,5 +1282,112 @@
       "price_btc": 4.714331980621914e-06,
       "timestamp": "2025-04-13 04:19"
     }
+  ],
+  "2025-04-13 05:41": [
+    {
+      "rank": 1,
+      "name": "Mind Network",
+      "symbol": "FHE",
+      "price_btc": 1.1411955948566555e-06,
+      "timestamp": "2025-04-13 05:41"
+    },
+    {
+      "rank": 2,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.5400051379249718e-06,
+      "timestamp": "2025-04-13 05:41"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0147412220877703e-05,
+      "timestamp": "2025-04-13 05:41"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.777439799099122e-06,
+      "timestamp": "2025-04-13 05:41"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018986401213048086,
+      "timestamp": "2025-04-13 05:41"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0001920287353699509,
+      "timestamp": "2025-04-13 05:41"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015384206338391344,
+      "timestamp": "2025-04-13 05:41"
+    },
+    {
+      "rank": 8,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 1.5886597615566013e-10,
+      "timestamp": "2025-04-13 05:41"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.774995980650201e-05,
+      "timestamp": "2025-04-13 05:41"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-13 05:41"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0506095268058205e-05,
+      "timestamp": "2025-04-13 05:41"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.5235589374988847e-05,
+      "timestamp": "2025-04-13 05:41"
+    },
+    {
+      "rank": 13,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.2746591515930224e-07,
+      "timestamp": "2025-04-13 05:41"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001019335205645819,
+      "timestamp": "2025-04-13 05:41"
+    },
+    {
+      "rank": 15,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.310409624859527e-05,
+      "timestamp": "2025-04-13 05:41"
+    }
   ]
 }
