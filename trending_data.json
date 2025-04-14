@@ -4492,5 +4492,112 @@
       "price_btc": 4.871174238981755e-06,
       "timestamp": "2025-04-14 14:20"
     }
+  ],
+  "2025-04-14 15:21": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 8.130807256664716e-06,
+      "timestamp": "2025-04-14 15:21"
+    },
+    {
+      "rank": 2,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 4.139521817586376e-06,
+      "timestamp": "2025-04-14 15:21"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5714771130033808e-11,
+      "timestamp": "2025-04-14 15:21"
+    },
+    {
+      "rank": 4,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0597933700370483e-05,
+      "timestamp": "2025-04-14 15:21"
+    },
+    {
+      "rank": 5,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.3096177758824094e-06,
+      "timestamp": "2025-04-14 15:21"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0746965500040066e-05,
+      "timestamp": "2025-04-14 15:21"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015484363164720947,
+      "timestamp": "2025-04-14 15:21"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.774490663690213e-06,
+      "timestamp": "2025-04-14 15:21"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6961473873060073e-05,
+      "timestamp": "2025-04-14 15:21"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019607237542380272,
+      "timestamp": "2025-04-14 15:21"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-14 15:21"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019040266699360526,
+      "timestamp": "2025-04-14 15:21"
+    },
+    {
+      "rank": 13,
+      "name": "Fluid",
+      "symbol": "FLUID",
+      "price_btc": 4.960780081873548e-05,
+      "timestamp": "2025-04-14 15:21"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.7667536317298795e-05,
+      "timestamp": "2025-04-14 15:21"
+    },
+    {
+      "rank": 15,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.136906677777144e-07,
+      "timestamp": "2025-04-14 15:21"
+    }
   ]
 }
