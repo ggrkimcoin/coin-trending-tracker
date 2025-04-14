@@ -3208,5 +3208,112 @@
       "price_btc": 0.002837332436056033,
       "timestamp": "2025-04-13 23:31"
     }
+  ],
+  "2025-04-14 03:15": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 1.0494958038565734e-05,
+      "timestamp": "2025-04-14 03:15"
+    },
+    {
+      "rank": 2,
+      "name": "Retard Finder Coin",
+      "symbol": "RFC",
+      "price_btc": 1.3154974417316498e-06,
+      "timestamp": "2025-04-14 03:15"
+    },
+    {
+      "rank": 3,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.5124162873730043e-06,
+      "timestamp": "2025-04-14 03:15"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015741317347082418,
+      "timestamp": "2025-04-14 03:15"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.034174606510827e-05,
+      "timestamp": "2025-04-14 03:15"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.815988213336848e-06,
+      "timestamp": "2025-04-14 03:15"
+    },
+    {
+      "rank": 7,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.533738997296102e-05,
+      "timestamp": "2025-04-14 03:15"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0152575894535468e-05,
+      "timestamp": "2025-04-14 03:15"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-14 03:15"
+    },
+    {
+      "rank": 10,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.8322193385310823e-06,
+      "timestamp": "2025-04-14 03:15"
+    },
+    {
+      "rank": 11,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.5575565465881006e-06,
+      "timestamp": "2025-04-14 03:15"
+    },
+    {
+      "rank": 12,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.2919477594483776e-07,
+      "timestamp": "2025-04-14 03:15"
+    },
+    {
+      "rank": 13,
+      "name": "Manta Network",
+      "symbol": "MANTA",
+      "price_btc": 2.1622991842176477e-06,
+      "timestamp": "2025-04-14 03:15"
+    },
+    {
+      "rank": 14,
+      "name": "GMX",
+      "symbol": "GMX",
+      "price_btc": 0.00017575466283529793,
+      "timestamp": "2025-04-14 03:15"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019255318564306383,
+      "timestamp": "2025-04-14 03:15"
+    }
   ]
 }
