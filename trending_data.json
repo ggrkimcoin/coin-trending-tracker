@@ -4813,5 +4813,112 @@
       "price_btc": 0.0001857882482690194,
       "timestamp": "2025-04-14 17:17"
     }
+  ],
+  "2025-04-14 18:28": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.895002355579422e-06,
+      "timestamp": "2025-04-14 18:28"
+    },
+    {
+      "rank": 2,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 3.7491059733881497e-06,
+      "timestamp": "2025-04-14 18:28"
+    },
+    {
+      "rank": 3,
+      "name": "Story",
+      "symbol": "IP",
+      "price_btc": 4.141638661364115e-05,
+      "timestamp": "2025-04-14 18:28"
+    },
+    {
+      "rank": 4,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5531779644391126e-11,
+      "timestamp": "2025-04-14 18:28"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019342372670624965,
+      "timestamp": "2025-04-14 18:28"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018530097008394834,
+      "timestamp": "2025-04-14 18:28"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.06426205670081e-05,
+      "timestamp": "2025-04-14 18:28"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-14 18:28"
+    },
+    {
+      "rank": 9,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.2085102550616877e-06,
+      "timestamp": "2025-04-14 18:28"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0489836037986586e-05,
+      "timestamp": "2025-04-14 18:28"
+    },
+    {
+      "rank": 11,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.696729428957222e-05,
+      "timestamp": "2025-04-14 18:28"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015339289377933952,
+      "timestamp": "2025-04-14 18:28"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6284821708355975e-05,
+      "timestamp": "2025-04-14 18:28"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.722692735174664e-06,
+      "timestamp": "2025-04-14 18:28"
+    },
+    {
+      "rank": 15,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 4.346641315560715e-06,
+      "timestamp": "2025-04-14 18:28"
+    }
   ]
 }
