@@ -5027,5 +5027,112 @@
       "price_btc": 2.533463864029259e-05,
       "timestamp": "2025-04-14 19:16"
     }
+  ],
+  "2025-04-14 20:21": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.562462245041578e-06,
+      "timestamp": "2025-04-14 20:21"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5377433575441274e-11,
+      "timestamp": "2025-04-14 20:21"
+    },
+    {
+      "rank": 3,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 3.875207207799883e-06,
+      "timestamp": "2025-04-14 20:21"
+    },
+    {
+      "rank": 4,
+      "name": "Story",
+      "symbol": "IP",
+      "price_btc": 4.719961384076866e-05,
+      "timestamp": "2025-04-14 20:21"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.077360326181124e-05,
+      "timestamp": "2025-04-14 20:21"
+    },
+    {
+      "rank": 6,
+      "name": "Act I The AI Prophecy",
+      "symbol": "ACT",
+      "price_btc": 5.46107152714931e-07,
+      "timestamp": "2025-04-14 20:21"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.603525396607264e-05,
+      "timestamp": "2025-04-14 20:21"
+    },
+    {
+      "rank": 8,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.2233699113360032e-06,
+      "timestamp": "2025-04-14 20:21"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0464876682103877e-05,
+      "timestamp": "2025-04-14 20:21"
+    },
+    {
+      "rank": 10,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.86695205958777e-06,
+      "timestamp": "2025-04-14 20:21"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015436790492559793,
+      "timestamp": "2025-04-14 20:21"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01926307437002194,
+      "timestamp": "2025-04-14 20:21"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-14 20:21"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.406636066216912e-05,
+      "timestamp": "2025-04-14 20:21"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002845985333226882,
+      "timestamp": "2025-04-14 20:21"
+    }
   ]
 }
