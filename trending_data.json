@@ -3636,5 +3636,112 @@
       "price_btc": 5.919821493252112e-08,
       "timestamp": "2025-04-14 06:30"
     }
+  ],
+  "2025-04-14 07:20": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 8.722520642896592e-06,
+      "timestamp": "2025-04-14 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0248573736706264e-05,
+      "timestamp": "2025-04-14 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.85129688764567e-06,
+      "timestamp": "2025-04-14 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.856200399353861e-06,
+      "timestamp": "2025-04-14 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.495910144821455e-06,
+      "timestamp": "2025-04-14 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019170788136717392,
+      "timestamp": "2025-04-14 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 5.3250205328016745e-06,
+      "timestamp": "2025-04-14 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-14 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001561132306153045,
+      "timestamp": "2025-04-14 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0028845355324669973,
+      "timestamp": "2025-04-14 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Mantle",
+      "symbol": "MNT",
+      "price_btc": 8.157505165339732e-06,
+      "timestamp": "2025-04-14 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.06450109482657e-06,
+      "timestamp": "2025-04-14 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.65688502875791e-05,
+      "timestamp": "2025-04-14 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.70166750540571e-05,
+      "timestamp": "2025-04-14 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "price_btc": 1.4319346647699274e-10,
+      "timestamp": "2025-04-14 07:20"
+    }
   ]
 }
