@@ -3529,5 +3529,112 @@
       "price_btc": 7.083790558431862e-10,
       "timestamp": "2025-04-14 05:20"
     }
+  ],
+  "2025-04-14 06:30": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.312032846529612e-06,
+      "timestamp": "2025-04-14 06:30"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0006929551224898e-05,
+      "timestamp": "2025-04-14 06:30"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019184562174142977,
+      "timestamp": "2025-04-14 06:30"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015698388337187128,
+      "timestamp": "2025-04-14 06:30"
+    },
+    {
+      "rank": 5,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.5652802451398103e-06,
+      "timestamp": "2025-04-14 06:30"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0338986449477473e-05,
+      "timestamp": "2025-04-14 06:30"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-14 06:30"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.864457552193874e-06,
+      "timestamp": "2025-04-14 06:30"
+    },
+    {
+      "rank": 9,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 5.249493171899137e-06,
+      "timestamp": "2025-04-14 06:30"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.5238959107207355e-05,
+      "timestamp": "2025-04-14 06:30"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.917635924388077e-06,
+      "timestamp": "2025-04-14 06:30"
+    },
+    {
+      "rank": 12,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 5.77557467425443e-06,
+      "timestamp": "2025-04-14 06:30"
+    },
+    {
+      "rank": 13,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.398062106687632e-05,
+      "timestamp": "2025-04-14 06:30"
+    },
+    {
+      "rank": 14,
+      "name": "Gunz",
+      "symbol": "GUN",
+      "price_btc": 6.510658581981732e-07,
+      "timestamp": "2025-04-14 06:30"
+    },
+    {
+      "rank": 15,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 5.919821493252112e-08,
+      "timestamp": "2025-04-14 06:30"
+    }
   ]
 }
