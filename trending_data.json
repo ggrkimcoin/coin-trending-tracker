@@ -5348,5 +5348,112 @@
       "price_btc": 6.117947479405743e-06,
       "timestamp": "2025-04-14 22:18"
     }
+  ],
+  "2025-04-14 23:18": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.0322894902046866e-06,
+      "timestamp": "2025-04-14 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5490901250003685e-11,
+      "timestamp": "2025-04-14 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0191735639086955,
+      "timestamp": "2025-04-14 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0957822098092352e-05,
+      "timestamp": "2025-04-14 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 4.047674765394767e-06,
+      "timestamp": "2025-04-14 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0397679482682656e-05,
+      "timestamp": "2025-04-14 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018496736475215344,
+      "timestamp": "2025-04-14 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015329939286538772,
+      "timestamp": "2025-04-14 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00023839679441065928,
+      "timestamp": "2025-04-14 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.225151196778714e-06,
+      "timestamp": "2025-04-14 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "Alchemy Pay",
+      "symbol": "ACH",
+      "price_btc": 3.074203563757005e-07,
+      "timestamp": "2025-04-14 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.522322018904545e-06,
+      "timestamp": "2025-04-14 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.67925314020861e-06,
+      "timestamp": "2025-04-14 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.643601568898751e-11,
+      "timestamp": "2025-04-14 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.7385843955256484e-05,
+      "timestamp": "2025-04-14 23:18"
+    }
   ]
 }
