@@ -3743,5 +3743,112 @@
       "price_btc": 1.4319346647699274e-10,
       "timestamp": "2025-04-14 07:20"
     }
+  ],
+  "2025-04-14 08:27": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 8.38515712624757e-06,
+      "timestamp": "2025-04-14 08:27"
+    },
+    {
+      "rank": 2,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0258452495956878e-05,
+      "timestamp": "2025-04-14 08:27"
+    },
+    {
+      "rank": 3,
+      "name": "Retard Finder Coin",
+      "symbol": "RFC",
+      "price_btc": 1.3584253939121095e-06,
+      "timestamp": "2025-04-14 08:27"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019305130337320606,
+      "timestamp": "2025-04-14 08:27"
+    },
+    {
+      "rank": 5,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 5.289454318433934e-06,
+      "timestamp": "2025-04-14 08:27"
+    },
+    {
+      "rank": 6,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.47188217066079e-06,
+      "timestamp": "2025-04-14 08:27"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015657417304949775,
+      "timestamp": "2025-04-14 08:27"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.963969091334996e-06,
+      "timestamp": "2025-04-14 08:27"
+    },
+    {
+      "rank": 9,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.686335146099424e-05,
+      "timestamp": "2025-04-14 08:27"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0112120494366223e-05,
+      "timestamp": "2025-04-14 08:27"
+    },
+    {
+      "rank": 11,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 3.859241087997255e-06,
+      "timestamp": "2025-04-14 08:27"
+    },
+    {
+      "rank": 12,
+      "name": "Terra Luna Classic",
+      "symbol": "LUNC",
+      "price_btc": 6.95162801516677e-10,
+      "timestamp": "2025-04-14 08:27"
+    },
+    {
+      "rank": 13,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.088965020129226e-06,
+      "timestamp": "2025-04-14 08:27"
+    },
+    {
+      "rank": 14,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.755411903835023e-05,
+      "timestamp": "2025-04-14 08:27"
+    },
+    {
+      "rank": 15,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.3471447698090998e-05,
+      "timestamp": "2025-04-14 08:27"
+    }
   ]
 }
