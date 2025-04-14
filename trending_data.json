@@ -5241,5 +5241,112 @@
       "price_btc": 2.530143413278447e-05,
       "timestamp": "2025-04-14 21:18"
     }
+  ],
+  "2025-04-14 22:18": [
+    {
+      "rank": 1,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019182750822221994,
+      "timestamp": "2025-04-14 22:18"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.018501844588955e-06,
+      "timestamp": "2025-04-14 22:18"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.540847033922061e-11,
+      "timestamp": "2025-04-14 22:18"
+    },
+    {
+      "rank": 4,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 4.030432402024722e-06,
+      "timestamp": "2025-04-14 22:18"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1142918050876264e-05,
+      "timestamp": "2025-04-14 22:18"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0460161322264973e-05,
+      "timestamp": "2025-04-14 22:18"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015298800327001728,
+      "timestamp": "2025-04-14 22:18"
+    },
+    {
+      "rank": 8,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00023799552407822454,
+      "timestamp": "2025-04-14 22:18"
+    },
+    {
+      "rank": 9,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.2291073163798507e-06,
+      "timestamp": "2025-04-14 22:18"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.5277625441052876e-05,
+      "timestamp": "2025-04-14 22:18"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.661147428470147e-06,
+      "timestamp": "2025-04-14 22:18"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018594902319623704,
+      "timestamp": "2025-04-14 22:18"
+    },
+    {
+      "rank": 13,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 4.346421832421846e-06,
+      "timestamp": "2025-04-14 22:18"
+    },
+    {
+      "rank": 14,
+      "name": "VeChain",
+      "symbol": "VET",
+      "price_btc": 2.771312361670578e-07,
+      "timestamp": "2025-04-14 22:18"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 6.117947479405743e-06,
+      "timestamp": "2025-04-14 22:18"
+    }
   ]
 }
