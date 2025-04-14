@@ -3422,5 +3422,112 @@
       "price_btc": 2.0698617105320575e-06,
       "timestamp": "2025-04-14 04:23"
     }
+  ],
+  "2025-04-14 05:20": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.722007825098252e-06,
+      "timestamp": "2025-04-14 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015797569896016876,
+      "timestamp": "2025-04-14 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0303625839198491e-05,
+      "timestamp": "2025-04-14 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0247256611481144e-05,
+      "timestamp": "2025-04-14 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019315267082604507,
+      "timestamp": "2025-04-14 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.8778462568799e-06,
+      "timestamp": "2025-04-14 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.5300450804369273e-06,
+      "timestamp": "2025-04-14 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Retard Finder Coin",
+      "symbol": "RFC",
+      "price_btc": 1.535605854481719e-06,
+      "timestamp": "2025-04-14 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.7705411262626634e-05,
+      "timestamp": "2025-04-14 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 5.310064309334023e-06,
+      "timestamp": "2025-04-14 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.944742963094718e-05,
+      "timestamp": "2025-04-14 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002924009422957768,
+      "timestamp": "2025-04-14 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "CHEX Token",
+      "symbol": "CHEX",
+      "price_btc": 2.0727390583082095e-06,
+      "timestamp": "2025-04-14 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Mantle",
+      "symbol": "MNT",
+      "price_btc": 8.233051966147823e-06,
+      "timestamp": "2025-04-14 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "Terra Luna Classic",
+      "symbol": "LUNC",
+      "price_btc": 7.083790558431862e-10,
+      "timestamp": "2025-04-14 05:20"
+    }
   ]
 }
