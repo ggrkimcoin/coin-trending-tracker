@@ -4920,5 +4920,112 @@
       "price_btc": 4.346641315560715e-06,
       "timestamp": "2025-04-14 18:28"
     }
+  ],
+  "2025-04-14 19:16": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.185274649116005e-06,
+      "timestamp": "2025-04-14 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 3.7398975238682723e-06,
+      "timestamp": "2025-04-14 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Story",
+      "symbol": "IP",
+      "price_btc": 4.5408944990215456e-05,
+      "timestamp": "2025-04-14 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5514066261670856e-11,
+      "timestamp": "2025-04-14 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019279840576660965,
+      "timestamp": "2025-04-14 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0001868195661761279,
+      "timestamp": "2025-04-14 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0800721318043115e-05,
+      "timestamp": "2025-04-14 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.2237310868138324e-06,
+      "timestamp": "2025-04-14 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0384333045405028e-05,
+      "timestamp": "2025-04-14 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6112179636089237e-05,
+      "timestamp": "2025-04-14 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015329842460820049,
+      "timestamp": "2025-04-14 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.724614800539008e-06,
+      "timestamp": "2025-04-14 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.705629317576824e-05,
+      "timestamp": "2025-04-14 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 4.429977758058085e-06,
+      "timestamp": "2025-04-14 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.533463864029259e-05,
+      "timestamp": "2025-04-14 19:16"
+    }
   ]
 }
