@@ -6739,5 +6739,112 @@
       "price_btc": 2.3276439738825877e-07,
       "timestamp": "2025-04-15 13:29"
     }
+  ],
+  "2025-04-15 14:19": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.210626645963212e-06,
+      "timestamp": "2025-04-15 14:19"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.1755345304098e-06,
+      "timestamp": "2025-04-15 14:19"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6531457486934125e-11,
+      "timestamp": "2025-04-15 14:19"
+    },
+    {
+      "rank": 4,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 5.153948872887249e-07,
+      "timestamp": "2025-04-15 14:19"
+    },
+    {
+      "rank": 5,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 3.291577359877777e-06,
+      "timestamp": "2025-04-15 14:19"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0392952576059624e-05,
+      "timestamp": "2025-04-15 14:19"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.768046425679135e-06,
+      "timestamp": "2025-04-15 14:19"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01904370957714142,
+      "timestamp": "2025-04-15 14:19"
+    },
+    {
+      "rank": 9,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 4.934056870505709e-06,
+      "timestamp": "2025-04-15 14:19"
+    },
+    {
+      "rank": 10,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.1010297568468545e-06,
+      "timestamp": "2025-04-15 14:19"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018480009101039523,
+      "timestamp": "2025-04-15 14:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0170945097083077e-05,
+      "timestamp": "2025-04-15 14:19"
+    },
+    {
+      "rank": 13,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 3.2755040809562466e-06,
+      "timestamp": "2025-04-15 14:19"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.524994208907468e-05,
+      "timestamp": "2025-04-15 14:19"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5752968627168844e-05,
+      "timestamp": "2025-04-15 14:19"
+    }
   ]
 }
