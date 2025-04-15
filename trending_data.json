@@ -7702,5 +7702,112 @@
       "price_btc": 4.6543228489508155e-05,
       "timestamp": "2025-04-15 22:19"
     }
+  ],
+  "2025-04-15 23:18": [
+    {
+      "rank": 1,
+      "name": "XYO Network",
+      "symbol": "XYO",
+      "price_btc": 1.2098718947509556e-07,
+      "timestamp": "2025-04-15 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.646201501742853e-06,
+      "timestamp": "2025-04-15 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.604460920846652e-11,
+      "timestamp": "2025-04-15 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 3.445609562525483e-06,
+      "timestamp": "2025-04-15 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.1017853103755812e-06,
+      "timestamp": "2025-04-15 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-15 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.966837605800705e-06,
+      "timestamp": "2025-04-15 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015098378081545454,
+      "timestamp": "2025-04-15 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.5037394543253592e-05,
+      "timestamp": "2025-04-15 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Alchemy Pay",
+      "symbol": "ACH",
+      "price_btc": 3.3843616662809867e-07,
+      "timestamp": "2025-04-15 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 5.557734958161643e-07,
+      "timestamp": "2025-04-15 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 3.3295056975502846e-06,
+      "timestamp": "2025-04-15 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.6539976373832935e-05,
+      "timestamp": "2025-04-15 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019001694956870336,
+      "timestamp": "2025-04-15 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.776430769201155e-06,
+      "timestamp": "2025-04-15 23:18"
+    }
   ]
 }
