@@ -5883,5 +5883,112 @@
       "price_btc": 5.6636639292114935e-06,
       "timestamp": "2025-04-15 05:19"
     }
+  ],
+  "2025-04-15 06:28": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.038964862123945e-06,
+      "timestamp": "2025-04-15 06:28"
+    },
+    {
+      "rank": 2,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 3.7483840300044447e-06,
+      "timestamp": "2025-04-15 06:28"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0782203881309047e-05,
+      "timestamp": "2025-04-15 06:28"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015328935974898506,
+      "timestamp": "2025-04-15 06:28"
+    },
+    {
+      "rank": 5,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 3.7765768518146504e-06,
+      "timestamp": "2025-04-15 06:28"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.558196338015992e-05,
+      "timestamp": "2025-04-15 06:28"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0001890306422378068,
+      "timestamp": "2025-04-15 06:28"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.721132289099707e-06,
+      "timestamp": "2025-04-15 06:28"
+    },
+    {
+      "rank": 9,
+      "name": "Story",
+      "symbol": "IP",
+      "price_btc": 4.720874571618594e-05,
+      "timestamp": "2025-04-15 06:28"
+    },
+    {
+      "rank": 10,
+      "name": "Ronin",
+      "symbol": "RON",
+      "price_btc": 5.617167332103148e-06,
+      "timestamp": "2025-04-15 06:28"
+    },
+    {
+      "rank": 11,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.833880100446913e-05,
+      "timestamp": "2025-04-15 06:28"
+    },
+    {
+      "rank": 12,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.1682936741711329e-06,
+      "timestamp": "2025-04-15 06:28"
+    },
+    {
+      "rank": 13,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.3815265363336575e-07,
+      "timestamp": "2025-04-15 06:28"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0027729156147646736,
+      "timestamp": "2025-04-15 06:28"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 6.879548616325164e-06,
+      "timestamp": "2025-04-15 06:28"
+    }
   ]
 }
