@@ -6953,5 +6953,112 @@
       "price_btc": 0.01904465866378857,
       "timestamp": "2025-04-15 15:21"
     }
+  ],
+  "2025-04-15 16:23": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.776157423168548e-06,
+      "timestamp": "2025-04-15 16:23"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.158758708560261e-06,
+      "timestamp": "2025-04-15 16:23"
+    },
+    {
+      "rank": 3,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 5.346869355239173e-07,
+      "timestamp": "2025-04-15 16:23"
+    },
+    {
+      "rank": 4,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6352049973101658e-11,
+      "timestamp": "2025-04-15 16:23"
+    },
+    {
+      "rank": 5,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 3.193601031242787e-06,
+      "timestamp": "2025-04-15 16:23"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019105110871283665,
+      "timestamp": "2025-04-15 16:23"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0167303025757284e-05,
+      "timestamp": "2025-04-15 16:23"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.833205029521889e-06,
+      "timestamp": "2025-04-15 16:23"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001526593482697338,
+      "timestamp": "2025-04-15 16:23"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002789329088170321,
+      "timestamp": "2025-04-15 16:23"
+    },
+    {
+      "rank": 11,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 1.45455454221272e-06,
+      "timestamp": "2025-04-15 16:23"
+    },
+    {
+      "rank": 12,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.1062387368303125e-06,
+      "timestamp": "2025-04-15 16:23"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0001854023010167807,
+      "timestamp": "2025-04-15 16:23"
+    },
+    {
+      "rank": 14,
+      "name": "Alchemy Pay",
+      "symbol": "ACH",
+      "price_btc": 3.413666539477682e-07,
+      "timestamp": "2025-04-15 16:23"
+    },
+    {
+      "rank": 15,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.237677278338402e-05,
+      "timestamp": "2025-04-15 16:23"
+    }
   ]
 }
