@@ -7167,5 +7167,112 @@
       "price_btc": 5.145901312720151e-06,
       "timestamp": "2025-04-15 17:17"
     }
+  ],
+  "2025-04-15 18:26": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.302400694072198e-06,
+      "timestamp": "2025-04-15 18:26"
+    },
+    {
+      "rank": 2,
+      "name": "XYO Network",
+      "symbol": "XYO",
+      "price_btc": 1.2358272915181393e-07,
+      "timestamp": "2025-04-15 18:26"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5977953710834128e-11,
+      "timestamp": "2025-04-15 18:26"
+    },
+    {
+      "rank": 4,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 3.884259308369233e-06,
+      "timestamp": "2025-04-15 18:26"
+    },
+    {
+      "rank": 5,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 5.521869673245362e-07,
+      "timestamp": "2025-04-15 18:26"
+    },
+    {
+      "rank": 6,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 3.0674589931078545e-06,
+      "timestamp": "2025-04-15 18:26"
+    },
+    {
+      "rank": 7,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.0848570318795843e-06,
+      "timestamp": "2025-04-15 18:26"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015178934184303012,
+      "timestamp": "2025-04-15 18:26"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0035098877772997e-05,
+      "timestamp": "2025-04-15 18:26"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5125553157630518e-05,
+      "timestamp": "2025-04-15 18:26"
+    },
+    {
+      "rank": 11,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.134945875024469e-06,
+      "timestamp": "2025-04-15 18:26"
+    },
+    {
+      "rank": 12,
+      "name": "Alchemy Pay",
+      "symbol": "ACH",
+      "price_btc": 3.328533577761208e-07,
+      "timestamp": "2025-04-15 18:26"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01911605292758546,
+      "timestamp": "2025-04-15 18:26"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018322341856182126,
+      "timestamp": "2025-04-15 18:26"
+    },
+    {
+      "rank": 15,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.3080361516925075e-05,
+      "timestamp": "2025-04-15 18:26"
+    }
   ]
 }
