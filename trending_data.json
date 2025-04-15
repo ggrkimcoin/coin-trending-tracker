@@ -6311,5 +6311,112 @@
       "price_btc": 2.3612540191665813e-07,
       "timestamp": "2025-04-15 09:22"
     }
+  ],
+  "2025-04-15 10:22": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.859560181431554e-06,
+      "timestamp": "2025-04-15 10:22"
+    },
+    {
+      "rank": 2,
+      "name": "XYO Network",
+      "symbol": "XYO",
+      "price_btc": 1.230951367454595e-07,
+      "timestamp": "2025-04-15 10:22"
+    },
+    {
+      "rank": 3,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 3.7464070846367605e-06,
+      "timestamp": "2025-04-15 10:22"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0929290621681134e-05,
+      "timestamp": "2025-04-15 10:22"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001554021037679319,
+      "timestamp": "2025-04-15 10:22"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019176603277343343,
+      "timestamp": "2025-04-15 10:22"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000191474171828283,
+      "timestamp": "2025-04-15 10:22"
+    },
+    {
+      "rank": 8,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 4.844875665245333e-06,
+      "timestamp": "2025-04-15 10:22"
+    },
+    {
+      "rank": 9,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.795120198366416e-05,
+      "timestamp": "2025-04-15 10:22"
+    },
+    {
+      "rank": 10,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.121078864040666e-06,
+      "timestamp": "2025-04-15 10:22"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.593648874641938e-05,
+      "timestamp": "2025-04-15 10:22"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 7.241321776463125e-06,
+      "timestamp": "2025-04-15 10:22"
+    },
+    {
+      "rank": 13,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.8672847284381894e-06,
+      "timestamp": "2025-04-15 10:22"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.26315870748096e-06,
+      "timestamp": "2025-04-15 10:22"
+    },
+    {
+      "rank": 15,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 2.9395834687737638e-05,
+      "timestamp": "2025-04-15 10:22"
+    }
   ]
 }
