@@ -5455,5 +5455,112 @@
       "price_btc": 4.7385843955256484e-05,
       "timestamp": "2025-04-14 23:18"
     }
+  ],
+  "2025-04-15 01:40": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.012528590226779e-06,
+      "timestamp": "2025-04-15 01:40"
+    },
+    {
+      "rank": 2,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 3.5559211294160376e-06,
+      "timestamp": "2025-04-15 01:40"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0757257420906266e-05,
+      "timestamp": "2025-04-15 01:40"
+    },
+    {
+      "rank": 4,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 3.88484739339072e-06,
+      "timestamp": "2025-04-15 01:40"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015184664758351794,
+      "timestamp": "2025-04-15 01:40"
+    },
+    {
+      "rank": 6,
+      "name": "VeThor",
+      "symbol": "VTHO",
+      "price_btc": 3.7796281403379155e-08,
+      "timestamp": "2025-04-15 01:40"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018811991354774368,
+      "timestamp": "2025-04-15 01:40"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.783086368578244e-06,
+      "timestamp": "2025-04-15 01:40"
+    },
+    {
+      "rank": 9,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 4.385722589021268e-06,
+      "timestamp": "2025-04-15 01:40"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0361959266897713e-05,
+      "timestamp": "2025-04-15 01:40"
+    },
+    {
+      "rank": 11,
+      "name": "Alchemist AI",
+      "symbol": "ALCH",
+      "price_btc": 1.8359776104772243e-06,
+      "timestamp": "2025-04-15 01:40"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01915392247398876,
+      "timestamp": "2025-04-15 01:40"
+    },
+    {
+      "rank": 13,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.1912331526547837e-06,
+      "timestamp": "2025-04-15 01:40"
+    },
+    {
+      "rank": 14,
+      "name": "Ronin",
+      "symbol": "RON",
+      "price_btc": 5.627203624020798e-06,
+      "timestamp": "2025-04-15 01:40"
+    },
+    {
+      "rank": 15,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.072362977147843e-06,
+      "timestamp": "2025-04-15 01:40"
+    }
   ]
 }
