@@ -6418,5 +6418,112 @@
       "price_btc": 2.9395834687737638e-05,
       "timestamp": "2025-04-15 10:22"
     }
+  ],
+  "2025-04-15 11:16": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.331012632173253e-06,
+      "timestamp": "2025-04-15 11:16"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6555004625786248e-11,
+      "timestamp": "2025-04-15 11:16"
+    },
+    {
+      "rank": 3,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 3.4598990930840122e-06,
+      "timestamp": "2025-04-15 11:16"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015462145951173217,
+      "timestamp": "2025-04-15 11:16"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018967377522425947,
+      "timestamp": "2025-04-15 11:16"
+    },
+    {
+      "rank": 6,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.1341307775684362e-06,
+      "timestamp": "2025-04-15 11:16"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5675850697944018e-05,
+      "timestamp": "2025-04-15 11:16"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0752964753667033e-05,
+      "timestamp": "2025-04-15 11:16"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.85069872366853e-06,
+      "timestamp": "2025-04-15 11:16"
+    },
+    {
+      "rank": 10,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 4.894021662326874e-06,
+      "timestamp": "2025-04-15 11:16"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019052510585378993,
+      "timestamp": "2025-04-15 11:16"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.757236260844415e-05,
+      "timestamp": "2025-04-15 11:16"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.918755898352567e-06,
+      "timestamp": "2025-04-15 11:16"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0193013223606325e-05,
+      "timestamp": "2025-04-15 11:16"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.518376163137547e-05,
+      "timestamp": "2025-04-15 11:16"
+    }
   ]
 }
