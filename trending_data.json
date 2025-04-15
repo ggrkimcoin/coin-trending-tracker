@@ -7274,5 +7274,112 @@
       "price_btc": 2.3080361516925075e-05,
       "timestamp": "2025-04-15 18:26"
     }
+  ],
+  "2025-04-15 19:15": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.315284545031842e-06,
+      "timestamp": "2025-04-15 19:15"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 3.852146698534075e-06,
+      "timestamp": "2025-04-15 19:15"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.61715135482743e-11,
+      "timestamp": "2025-04-15 19:15"
+    },
+    {
+      "rank": 4,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 5.561487032166215e-07,
+      "timestamp": "2025-04-15 19:15"
+    },
+    {
+      "rank": 5,
+      "name": "XYO Network",
+      "symbol": "XYO",
+      "price_btc": 1.2399186414659522e-07,
+      "timestamp": "2025-04-15 19:15"
+    },
+    {
+      "rank": 6,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.1045714365800667e-06,
+      "timestamp": "2025-04-15 19:15"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019137192988696084,
+      "timestamp": "2025-04-15 19:15"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.816840880909715e-06,
+      "timestamp": "2025-04-15 19:15"
+    },
+    {
+      "rank": 9,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 2.8829303729108345e-06,
+      "timestamp": "2025-04-15 19:15"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-15 19:15"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015205300273587298,
+      "timestamp": "2025-04-15 19:15"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.64694576916464e-05,
+      "timestamp": "2025-04-15 19:15"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0069413716660913e-05,
+      "timestamp": "2025-04-15 19:15"
+    },
+    {
+      "rank": 14,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.8267863196644567e-06,
+      "timestamp": "2025-04-15 19:15"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5124472811492478e-05,
+      "timestamp": "2025-04-15 19:15"
+    }
   ]
 }
