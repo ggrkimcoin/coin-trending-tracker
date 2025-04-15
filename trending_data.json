@@ -6097,5 +6097,112 @@
       "price_btc": 0.00023342207830778065,
       "timestamp": "2025-04-15 07:21"
     }
+  ],
+  "2025-04-15 08:27": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.1667428140556035e-06,
+      "timestamp": "2025-04-15 08:27"
+    },
+    {
+      "rank": 2,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.1747558375482812e-06,
+      "timestamp": "2025-04-15 08:27"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0695551487705277e-05,
+      "timestamp": "2025-04-15 08:27"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0001899227840921192,
+      "timestamp": "2025-04-15 08:27"
+    },
+    {
+      "rank": 5,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 3.7330918091634966e-06,
+      "timestamp": "2025-04-15 08:27"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5700433531974247e-05,
+      "timestamp": "2025-04-15 08:27"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019149602554463577,
+      "timestamp": "2025-04-15 08:27"
+    },
+    {
+      "rank": 8,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.819590442337904e-05,
+      "timestamp": "2025-04-15 08:27"
+    },
+    {
+      "rank": 9,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 5.016593450935474e-06,
+      "timestamp": "2025-04-15 08:27"
+    },
+    {
+      "rank": 10,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.367667421895293e-05,
+      "timestamp": "2025-04-15 08:27"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-15 08:27"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.642223868536528e-06,
+      "timestamp": "2025-04-15 08:27"
+    },
+    {
+      "rank": 13,
+      "name": "Story",
+      "symbol": "IP",
+      "price_btc": 4.811704600759485e-05,
+      "timestamp": "2025-04-15 08:27"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.038390684068039e-05,
+      "timestamp": "2025-04-15 08:27"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002771581024119851,
+      "timestamp": "2025-04-15 08:27"
+    }
   ]
 }
