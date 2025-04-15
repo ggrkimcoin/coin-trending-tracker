@@ -5990,5 +5990,112 @@
       "price_btc": 6.879548616325164e-06,
       "timestamp": "2025-04-15 06:28"
     }
+  ],
+  "2025-04-15 07:21": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.190132811536369e-06,
+      "timestamp": "2025-04-15 07:21"
+    },
+    {
+      "rank": 2,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 3.748757259177221e-06,
+      "timestamp": "2025-04-15 07:21"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.698202931595987e-06,
+      "timestamp": "2025-04-15 07:21"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019171553063044806,
+      "timestamp": "2025-04-15 07:21"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0609361015290761e-05,
+      "timestamp": "2025-04-15 07:21"
+    },
+    {
+      "rank": 6,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.197821490067801e-06,
+      "timestamp": "2025-04-15 07:21"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018951766283482267,
+      "timestamp": "2025-04-15 07:21"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.561563125802004e-05,
+      "timestamp": "2025-04-15 07:21"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015365494791932794,
+      "timestamp": "2025-04-15 07:21"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-15 07:21"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.9386096522440675e-06,
+      "timestamp": "2025-04-15 07:21"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.500116692375169e-05,
+      "timestamp": "2025-04-15 07:21"
+    },
+    {
+      "rank": 13,
+      "name": "VeChain",
+      "symbol": "VET",
+      "price_btc": 2.7582619735183983e-07,
+      "timestamp": "2025-04-15 07:21"
+    },
+    {
+      "rank": 14,
+      "name": "Alchemy Pay",
+      "symbol": "ACH",
+      "price_btc": 3.254398601875242e-07,
+      "timestamp": "2025-04-15 07:21"
+    },
+    {
+      "rank": 15,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00023342207830778065,
+      "timestamp": "2025-04-15 07:21"
+    }
   ]
 }
