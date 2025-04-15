@@ -5776,5 +5776,112 @@
       "price_btc": 8.698648324191914e-06,
       "timestamp": "2025-04-15 04:23"
     }
+  ],
+  "2025-04-15 05:19": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.193372126543586e-06,
+      "timestamp": "2025-04-15 05:19"
+    },
+    {
+      "rank": 2,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 3.5390121313320377e-06,
+      "timestamp": "2025-04-15 05:19"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001530378531925107,
+      "timestamp": "2025-04-15 05:19"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019173008456609724,
+      "timestamp": "2025-04-15 05:19"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.713796749646391e-06,
+      "timestamp": "2025-04-15 05:19"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0720977860146262e-05,
+      "timestamp": "2025-04-15 05:19"
+    },
+    {
+      "rank": 7,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 3.897178699145893e-06,
+      "timestamp": "2025-04-15 05:19"
+    },
+    {
+      "rank": 8,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.182536353143271e-06,
+      "timestamp": "2025-04-15 05:19"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.575516907189343e-05,
+      "timestamp": "2025-04-15 05:19"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.5129327953242877e-05,
+      "timestamp": "2025-04-15 05:19"
+    },
+    {
+      "rank": 11,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.087795953174754e-06,
+      "timestamp": "2025-04-15 05:19"
+    },
+    {
+      "rank": 12,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00023517579254786673,
+      "timestamp": "2025-04-15 05:19"
+    },
+    {
+      "rank": 13,
+      "name": "Stellar",
+      "symbol": "XLM",
+      "price_btc": 2.8221307083479227e-06,
+      "timestamp": "2025-04-15 05:19"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-15 05:19"
+    },
+    {
+      "rank": 15,
+      "name": "Ronin",
+      "symbol": "RON",
+      "price_btc": 5.6636639292114935e-06,
+      "timestamp": "2025-04-15 05:19"
+    }
   ]
 }
