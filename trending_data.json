@@ -7595,5 +7595,112 @@
       "price_btc": 2.513331357149254e-05,
       "timestamp": "2025-04-15 21:18"
     }
+  ],
+  "2025-04-15 22:19": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 1.004560623373198e-05,
+      "timestamp": "2025-04-15 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "XYO Network",
+      "symbol": "XYO",
+      "price_btc": 1.2150006652544696e-07,
+      "timestamp": "2025-04-15 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.623148545135485e-11,
+      "timestamp": "2025-04-15 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 3.640497366350694e-06,
+      "timestamp": "2025-04-15 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 5.59966851690409e-07,
+      "timestamp": "2025-04-15 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 3.355713688610765e-06,
+      "timestamp": "2025-04-15 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 2.861505923012212e-06,
+      "timestamp": "2025-04-15 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018245902268712187,
+      "timestamp": "2025-04-15 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.2553068739299098e-07,
+      "timestamp": "2025-04-15 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 8.921408953683087e-07,
+      "timestamp": "2025-04-15 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001524601994254917,
+      "timestamp": "2025-04-15 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0190562885112502,
+      "timestamp": "2025-04-15 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.5210239067203538e-05,
+      "timestamp": "2025-04-15 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-15 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.6543228489508155e-05,
+      "timestamp": "2025-04-15 22:19"
+    }
   ]
 }
