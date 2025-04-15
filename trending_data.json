@@ -5669,5 +5669,112 @@
       "price_btc": 5.867862596849657e-06,
       "timestamp": "2025-04-15 03:05"
     }
+  ],
+  "2025-04-15 04:23": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.378043797898985e-06,
+      "timestamp": "2025-04-15 04:23"
+    },
+    {
+      "rank": 2,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 3.540474541868157e-06,
+      "timestamp": "2025-04-15 04:23"
+    },
+    {
+      "rank": 3,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 3.943070201504858e-06,
+      "timestamp": "2025-04-15 04:23"
+    },
+    {
+      "rank": 4,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.1984943011791335e-06,
+      "timestamp": "2025-04-15 04:23"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015270238443924093,
+      "timestamp": "2025-04-15 04:23"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0215423737787669e-05,
+      "timestamp": "2025-04-15 04:23"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019168132330744533,
+      "timestamp": "2025-04-15 04:23"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0835763278436187e-05,
+      "timestamp": "2025-04-15 04:23"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5704173888907007e-05,
+      "timestamp": "2025-04-15 04:23"
+    },
+    {
+      "rank": 10,
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price_btc": 2.1481196013215024e-06,
+      "timestamp": "2025-04-15 04:23"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-15 04:23"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.633843064616173e-11,
+      "timestamp": "2025-04-15 04:23"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.5154045358796072e-05,
+      "timestamp": "2025-04-15 04:23"
+    },
+    {
+      "rank": 14,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.498677954635414e-06,
+      "timestamp": "2025-04-15 04:23"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.698648324191914e-06,
+      "timestamp": "2025-04-15 04:23"
+    }
   ]
 }
