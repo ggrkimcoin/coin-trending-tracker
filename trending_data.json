@@ -9735,5 +9735,112 @@
       "price_btc": 0.03997618862554199,
       "timestamp": "2025-04-16 19:14"
     }
+  ],
+  "2025-04-16 20:22": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 9.63803022473272e-07,
+      "timestamp": "2025-04-16 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.143947889238127e-06,
+      "timestamp": "2025-04-16 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.768647280864768e-06,
+      "timestamp": "2025-04-16 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1245510351536501e-05,
+      "timestamp": "2025-04-16 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.7677675782578537e-05,
+      "timestamp": "2025-04-16 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001571201028632423,
+      "timestamp": "2025-04-16 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 1.948449114681265e-06,
+      "timestamp": "2025-04-16 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4782538432934078e-11,
+      "timestamp": "2025-04-16 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018805308368056998,
+      "timestamp": "2025-04-16 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.915705551344477e-06,
+      "timestamp": "2025-04-16 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 2.7482169376473275e-05,
+      "timestamp": "2025-04-16 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.466456224967096e-05,
+      "timestamp": "2025-04-16 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "ArbDoge AI",
+      "symbol": "AIDOGE",
+      "price_btc": 3.408882552909622e-15,
+      "timestamp": "2025-04-16 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.285028282888451e-06,
+      "timestamp": "2025-04-16 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.581644021439818e-11,
+      "timestamp": "2025-04-16 20:22"
+    }
   ]
 }
