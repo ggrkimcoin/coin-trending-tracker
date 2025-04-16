@@ -7809,5 +7809,112 @@
       "price_btc": 9.776430769201155e-06,
       "timestamp": "2025-04-15 23:18"
     }
+  ],
+  "2025-04-16 01:40": [
+    {
+      "rank": 1,
+      "name": "XYO Network",
+      "symbol": "XYO",
+      "price_btc": 1.2022329828118566e-07,
+      "timestamp": "2025-04-16 01:40"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.227283342190756e-06,
+      "timestamp": "2025-04-16 01:40"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 3.772876086874141e-06,
+      "timestamp": "2025-04-16 01:40"
+    },
+    {
+      "rank": 4,
+      "name": "Immutable",
+      "symbol": "IMX",
+      "price_btc": 4.837833645460019e-06,
+      "timestamp": "2025-04-16 01:40"
+    },
+    {
+      "rank": 5,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 5.678671058830728e-07,
+      "timestamp": "2025-04-16 01:40"
+    },
+    {
+      "rank": 6,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.1398270171485881e-06,
+      "timestamp": "2025-04-16 01:40"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-16 01:40"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0125267925373746e-05,
+      "timestamp": "2025-04-16 01:40"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015118572115527845,
+      "timestamp": "2025-04-16 01:40"
+    },
+    {
+      "rank": 10,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 3.6571660695890296e-06,
+      "timestamp": "2025-04-16 01:40"
+    },
+    {
+      "rank": 11,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.37471500396975e-06,
+      "timestamp": "2025-04-16 01:40"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.484838263987235e-06,
+      "timestamp": "2025-04-16 01:40"
+    },
+    {
+      "rank": 13,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 5.291445302684194e-06,
+      "timestamp": "2025-04-16 01:40"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019114970999319827,
+      "timestamp": "2025-04-16 01:40"
+    },
+    {
+      "rank": 15,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 2.9047519862213376e-06,
+      "timestamp": "2025-04-16 01:40"
+    }
   ]
 }
