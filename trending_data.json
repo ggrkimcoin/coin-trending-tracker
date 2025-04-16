@@ -8772,5 +8772,112 @@
       "price_btc": 2.719856279582613e-05,
       "timestamp": "2025-04-16 10:21"
     }
+  ],
+  "2025-04-16 11:16": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 9.649395669705257e-07,
+      "timestamp": "2025-04-16 11:16"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.036435571175775e-06,
+      "timestamp": "2025-04-16 11:16"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.487563255140082e-11,
+      "timestamp": "2025-04-16 11:16"
+    },
+    {
+      "rank": 4,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.150788303978754e-06,
+      "timestamp": "2025-04-16 11:16"
+    },
+    {
+      "rank": 5,
+      "name": "XYO Network",
+      "symbol": "XYO",
+      "price_btc": 1.1965624929447323e-07,
+      "timestamp": "2025-04-16 11:16"
+    },
+    {
+      "rank": 6,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 6.004998130655674e-06,
+      "timestamp": "2025-04-16 11:16"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014970164467019357,
+      "timestamp": "2025-04-16 11:16"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0448349791181492e-05,
+      "timestamp": "2025-04-16 11:16"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.348231670174396e-06,
+      "timestamp": "2025-04-16 11:16"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018156623356159943,
+      "timestamp": "2025-04-16 11:16"
+    },
+    {
+      "rank": 11,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.0297329733553015e-06,
+      "timestamp": "2025-04-16 11:16"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4875518090945282e-05,
+      "timestamp": "2025-04-16 11:16"
+    },
+    {
+      "rank": 13,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 3.0515045686051373e-06,
+      "timestamp": "2025-04-16 11:16"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-16 11:16"
+    },
+    {
+      "rank": 15,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.268942010528815e-06,
+      "timestamp": "2025-04-16 11:16"
+    }
   ]
 }
