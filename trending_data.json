@@ -9093,5 +9093,112 @@
       "price_btc": 2.468656228060067e-05,
       "timestamp": "2025-04-16 13:29"
     }
+  ],
+  "2025-04-16 14:20": [
+    {
+      "rank": 1,
+      "name": "XYO Network",
+      "symbol": "XYO",
+      "price_btc": 1.1587281233295648e-07,
+      "timestamp": "2025-04-16 14:20"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.500389210379148e-06,
+      "timestamp": "2025-04-16 14:20"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4599230975947273e-11,
+      "timestamp": "2025-04-16 14:20"
+    },
+    {
+      "rank": 4,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.498182206134439e-06,
+      "timestamp": "2025-04-16 14:20"
+    },
+    {
+      "rank": 5,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 3.8057585216503238e-06,
+      "timestamp": "2025-04-16 14:20"
+    },
+    {
+      "rank": 6,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 9.656465145253998e-07,
+      "timestamp": "2025-04-16 14:20"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014926954253662134,
+      "timestamp": "2025-04-16 14:20"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.297931112262365e-06,
+      "timestamp": "2025-04-16 14:20"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0590028050690124e-05,
+      "timestamp": "2025-04-16 14:20"
+    },
+    {
+      "rank": 10,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.6529264059142553e-05,
+      "timestamp": "2025-04-16 14:20"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4782456805144086e-05,
+      "timestamp": "2025-04-16 14:20"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.3187164527751556e-05,
+      "timestamp": "2025-04-16 14:20"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018271705801439425,
+      "timestamp": "2025-04-16 14:20"
+    },
+    {
+      "rank": 14,
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "price_btc": 7.571502649290522e-06,
+      "timestamp": "2025-04-16 14:20"
+    },
+    {
+      "rank": 15,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 5.802457808670064e-07,
+      "timestamp": "2025-04-16 14:20"
+    }
   ]
 }
