@@ -8237,5 +8237,112 @@
       "price_btc": 2.451184205852535e-07,
       "timestamp": "2025-04-16 05:19"
     }
+  ],
+  "2025-04-16 06:28": [
+    {
+      "rank": 1,
+      "name": "XYO Network",
+      "symbol": "XYO",
+      "price_btc": 1.1874537103694519e-07,
+      "timestamp": "2025-04-16 06:28"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 6.675478979208099e-06,
+      "timestamp": "2025-04-16 06:28"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.241074671403699e-06,
+      "timestamp": "2025-04-16 06:28"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.321459195222167e-06,
+      "timestamp": "2025-04-16 06:28"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015039762383843322,
+      "timestamp": "2025-04-16 06:28"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0113389109973319e-05,
+      "timestamp": "2025-04-16 06:28"
+    },
+    {
+      "rank": 7,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 5.696830037723237e-07,
+      "timestamp": "2025-04-16 06:28"
+    },
+    {
+      "rank": 8,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 9.904147191404372e-07,
+      "timestamp": "2025-04-16 06:28"
+    },
+    {
+      "rank": 9,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 3.222560106462884e-06,
+      "timestamp": "2025-04-16 06:28"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018832837484951827,
+      "timestamp": "2025-04-16 06:28"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4990567672529656e-05,
+      "timestamp": "2025-04-16 06:28"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.595079140757015e-06,
+      "timestamp": "2025-04-16 06:28"
+    },
+    {
+      "rank": 13,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 5.4061041104620875e-06,
+      "timestamp": "2025-04-16 06:28"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0027945538063867403,
+      "timestamp": "2025-04-16 06:28"
+    },
+    {
+      "rank": 15,
+      "name": "Supra",
+      "symbol": "SUPRA",
+      "price_btc": 5.7419194632241454e-08,
+      "timestamp": "2025-04-16 06:28"
+    }
   ]
 }
