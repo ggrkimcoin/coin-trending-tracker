@@ -10056,5 +10056,112 @@
       "price_btc": 0.01881136002635242,
       "timestamp": "2025-04-16 22:18"
     }
+  ],
+  "2025-04-16 23:18": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 9.636402632593907e-07,
+      "timestamp": "2025-04-16 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.439983135044067e-11,
+      "timestamp": "2025-04-16 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 8.464325891249107e-06,
+      "timestamp": "2025-04-16 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.1684609350726805e-06,
+      "timestamp": "2025-04-16 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0959603269267058e-05,
+      "timestamp": "2025-04-16 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 1.6663289219303999e-06,
+      "timestamp": "2025-04-16 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015658597646985846,
+      "timestamp": "2025-04-16 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4871552388513606e-05,
+      "timestamp": "2025-04-16 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "price_btc": 7.688962317761301e-06,
+      "timestamp": "2025-04-16 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.23987446480578e-05,
+      "timestamp": "2025-04-16 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.7626637846180404e-05,
+      "timestamp": "2025-04-16 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.9266496878714275e-06,
+      "timestamp": "2025-04-16 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-16 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018808413475361857,
+      "timestamp": "2025-04-16 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019140613129513576,
+      "timestamp": "2025-04-16 23:18"
+    }
   ]
 }
