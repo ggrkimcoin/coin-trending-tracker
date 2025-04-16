@@ -7916,5 +7916,112 @@
       "price_btc": 2.9047519862213376e-06,
       "timestamp": "2025-04-16 01:40"
     }
+  ],
+  "2025-04-16 03:04": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 8.859272289263862e-06,
+      "timestamp": "2025-04-16 03:04"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 3.6669015323768946e-06,
+      "timestamp": "2025-04-16 03:04"
+    },
+    {
+      "rank": 3,
+      "name": "XYO Network",
+      "symbol": "XYO",
+      "price_btc": 1.2007628525728017e-07,
+      "timestamp": "2025-04-16 03:04"
+    },
+    {
+      "rank": 4,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 5.629219213200463e-07,
+      "timestamp": "2025-04-16 03:04"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01905006984366383,
+      "timestamp": "2025-04-16 03:04"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-16 03:04"
+    },
+    {
+      "rank": 7,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.100476842430627e-06,
+      "timestamp": "2025-04-16 03:04"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015061044332920085,
+      "timestamp": "2025-04-16 03:04"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0207088848208532e-05,
+      "timestamp": "2025-04-16 03:04"
+    },
+    {
+      "rank": 10,
+      "name": "ArbDoge AI",
+      "symbol": "AIDOGE",
+      "price_btc": 2.1053141377055534e-15,
+      "timestamp": "2025-04-16 03:04"
+    },
+    {
+      "rank": 11,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.8497015599497758e-06,
+      "timestamp": "2025-04-16 03:04"
+    },
+    {
+      "rank": 12,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 5.372039677090713e-06,
+      "timestamp": "2025-04-16 03:04"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0016186006154093322,
+      "timestamp": "2025-04-16 03:04"
+    },
+    {
+      "rank": 14,
+      "name": "Immutable",
+      "symbol": "IMX",
+      "price_btc": 4.795831996391666e-06,
+      "timestamp": "2025-04-16 03:04"
+    },
+    {
+      "rank": 15,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.222261395500541e-07,
+      "timestamp": "2025-04-16 03:04"
+    }
   ]
 }
