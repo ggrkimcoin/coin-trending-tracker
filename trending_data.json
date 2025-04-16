@@ -9414,5 +9414,112 @@
       "price_btc": 4.509803463882738e-06,
       "timestamp": "2025-04-16 16:26"
     }
+  ],
+  "2025-04-16 17:17": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 9.600236690927415e-07,
+      "timestamp": "2025-04-16 17:17"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4378840671334813e-11,
+      "timestamp": "2025-04-16 17:17"
+    },
+    {
+      "rank": 3,
+      "name": "XYO Network",
+      "symbol": "XYO",
+      "price_btc": 1.1586208507934482e-07,
+      "timestamp": "2025-04-16 17:17"
+    },
+    {
+      "rank": 4,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.104145118261937e-06,
+      "timestamp": "2025-04-16 17:17"
+    },
+    {
+      "rank": 5,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.524806437377898e-06,
+      "timestamp": "2025-04-16 17:17"
+    },
+    {
+      "rank": 6,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.805976466125635e-05,
+      "timestamp": "2025-04-16 17:17"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0878994926232766e-05,
+      "timestamp": "2025-04-16 17:17"
+    },
+    {
+      "rank": 8,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 2.4300595717256415e-06,
+      "timestamp": "2025-04-16 17:17"
+    },
+    {
+      "rank": 9,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.338453807622672e-05,
+      "timestamp": "2025-04-16 17:17"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01869988009182553,
+      "timestamp": "2025-04-16 17:17"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.172809711770804e-06,
+      "timestamp": "2025-04-16 17:17"
+    },
+    {
+      "rank": 12,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 9.951720830022574e-07,
+      "timestamp": "2025-04-16 17:17"
+    },
+    {
+      "rank": 13,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.5196032296357724e-05,
+      "timestamp": "2025-04-16 17:17"
+    },
+    {
+      "rank": 14,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 2.695473643659805e-05,
+      "timestamp": "2025-04-16 17:17"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.774983430004775e-06,
+      "timestamp": "2025-04-16 17:17"
+    }
   ]
 }
