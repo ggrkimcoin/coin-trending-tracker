@@ -9307,5 +9307,112 @@
       "price_btc": 2.520191474195203e-05,
       "timestamp": "2025-04-16 15:21"
     }
+  ],
+  "2025-04-16 16:26": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 9.590058644781166e-07,
+      "timestamp": "2025-04-16 16:26"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.293840221249451e-06,
+      "timestamp": "2025-04-16 16:26"
+    },
+    {
+      "rank": 3,
+      "name": "XYO Network",
+      "symbol": "XYO",
+      "price_btc": 1.1589479952406654e-07,
+      "timestamp": "2025-04-16 16:26"
+    },
+    {
+      "rank": 4,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.490670711626982e-06,
+      "timestamp": "2025-04-16 16:26"
+    },
+    {
+      "rank": 5,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.7715997864527686e-05,
+      "timestamp": "2025-04-16 16:26"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1054802918208653e-05,
+      "timestamp": "2025-04-16 16:26"
+    },
+    {
+      "rank": 7,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.442546273438791e-11,
+      "timestamp": "2025-04-16 16:26"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015143426458263053,
+      "timestamp": "2025-04-16 16:26"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01874910063501538,
+      "timestamp": "2025-04-16 16:26"
+    },
+    {
+      "rank": 10,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 2.9086498460429456e-06,
+      "timestamp": "2025-04-16 16:26"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.236379887756607e-06,
+      "timestamp": "2025-04-16 16:26"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4660536306766142e-05,
+      "timestamp": "2025-04-16 16:26"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-16 16:26"
+    },
+    {
+      "rank": 14,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.5105667312407136e-05,
+      "timestamp": "2025-04-16 16:26"
+    },
+    {
+      "rank": 15,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 4.509803463882738e-06,
+      "timestamp": "2025-04-16 16:26"
+    }
   ]
 }
