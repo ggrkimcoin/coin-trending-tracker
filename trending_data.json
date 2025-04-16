@@ -8986,5 +8986,112 @@
       "price_btc": 5.800185159291932e-07,
       "timestamp": "2025-04-16 12:40"
     }
+  ],
+  "2025-04-16 13:29": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 9.736081176957139e-07,
+      "timestamp": "2025-04-16 13:29"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.510944249553792e-06,
+      "timestamp": "2025-04-16 13:29"
+    },
+    {
+      "rank": 3,
+      "name": "XYO Network",
+      "symbol": "XYO",
+      "price_btc": 1.1798802401991092e-07,
+      "timestamp": "2025-04-16 13:29"
+    },
+    {
+      "rank": 4,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.6928291028346325e-06,
+      "timestamp": "2025-04-16 13:29"
+    },
+    {
+      "rank": 5,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.483021115683683e-11,
+      "timestamp": "2025-04-16 13:29"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014950459607332878,
+      "timestamp": "2025-04-16 13:29"
+    },
+    {
+      "rank": 7,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 4.360529856644528e-06,
+      "timestamp": "2025-04-16 13:29"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.476419649682044e-05,
+      "timestamp": "2025-04-16 13:29"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0377957762604527e-05,
+      "timestamp": "2025-04-16 13:29"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018837544556718214,
+      "timestamp": "2025-04-16 13:29"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.256479333281922e-06,
+      "timestamp": "2025-04-16 13:29"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.3623864678346975e-05,
+      "timestamp": "2025-04-16 13:29"
+    },
+    {
+      "rank": 13,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 3.0638707256085902e-06,
+      "timestamp": "2025-04-16 13:29"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-16 13:29"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.468656228060067e-05,
+      "timestamp": "2025-04-16 13:29"
+    }
   ]
 }
