@@ -9628,5 +9628,112 @@
       "price_btc": 0.0001840353641787978,
       "timestamp": "2025-04-16 18:28"
     }
+  ],
+  "2025-04-16 19:14": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.19369300648993e-06,
+      "timestamp": "2025-04-16 19:14"
+    },
+    {
+      "rank": 2,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 9.689472003630915e-07,
+      "timestamp": "2025-04-16 19:14"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.775810208722467e-06,
+      "timestamp": "2025-04-16 19:14"
+    },
+    {
+      "rank": 4,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4596099650217628e-11,
+      "timestamp": "2025-04-16 19:14"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1040907988995551e-05,
+      "timestamp": "2025-04-16 19:14"
+    },
+    {
+      "rank": 6,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 2.18696201060335e-06,
+      "timestamp": "2025-04-16 19:14"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001531942761797041,
+      "timestamp": "2025-04-16 19:14"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4747472468639867e-05,
+      "timestamp": "2025-04-16 19:14"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-16 19:14"
+    },
+    {
+      "rank": 10,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.444942808633059e-05,
+      "timestamp": "2025-04-16 19:14"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.489692998267973e-11,
+      "timestamp": "2025-04-16 19:14"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018521180453613505,
+      "timestamp": "2025-04-16 19:14"
+    },
+    {
+      "rank": 13,
+      "name": "ArbDoge AI",
+      "symbol": "AIDOGE",
+      "price_btc": 3.0330730628336282e-15,
+      "timestamp": "2025-04-16 19:14"
+    },
+    {
+      "rank": 14,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.7045603915108483e-05,
+      "timestamp": "2025-04-16 19:14"
+    },
+    {
+      "rank": 15,
+      "name": "PAX Gold",
+      "symbol": "PAXG",
+      "price_btc": 0.03997618862554199,
+      "timestamp": "2025-04-16 19:14"
+    }
   ]
 }
