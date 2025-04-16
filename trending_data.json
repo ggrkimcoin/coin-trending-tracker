@@ -9949,5 +9949,112 @@
       "price_btc": 0.0001462924514405962,
       "timestamp": "2025-04-16 21:18"
     }
+  ],
+  "2025-04-16 22:18": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 9.623930914426778e-07,
+      "timestamp": "2025-04-16 22:18"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.435579422893625e-11,
+      "timestamp": "2025-04-16 22:18"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 8.532982105212358e-06,
+      "timestamp": "2025-04-16 22:18"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1261500260413772e-05,
+      "timestamp": "2025-04-16 22:18"
+    },
+    {
+      "rank": 5,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.130266173328682e-06,
+      "timestamp": "2025-04-16 22:18"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001570144231355384,
+      "timestamp": "2025-04-16 22:18"
+    },
+    {
+      "rank": 7,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 1.7606867559659473e-06,
+      "timestamp": "2025-04-16 22:18"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-16 22:18"
+    },
+    {
+      "rank": 9,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.198431022084507e-05,
+      "timestamp": "2025-04-16 22:18"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.8035645791384e-06,
+      "timestamp": "2025-04-16 22:18"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4550745988976352e-05,
+      "timestamp": "2025-04-16 22:18"
+    },
+    {
+      "rank": 12,
+      "name": "ArbDoge AI",
+      "symbol": "AIDOGE",
+      "price_btc": 3.453262376865569e-15,
+      "timestamp": "2025-04-16 22:18"
+    },
+    {
+      "rank": 13,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.7632705426587796e-05,
+      "timestamp": "2025-04-16 22:18"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.490301287010834e-05,
+      "timestamp": "2025-04-16 22:18"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01881136002635242,
+      "timestamp": "2025-04-16 22:18"
+    }
   ]
 }
