@@ -9842,5 +9842,112 @@
       "price_btc": 8.581644021439818e-11,
       "timestamp": "2025-04-16 20:22"
     }
+  ],
+  "2025-04-16 21:18": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 9.643342019870506e-07,
+      "timestamp": "2025-04-16 21:18"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 8.591064993395683e-06,
+      "timestamp": "2025-04-16 21:18"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.431225656213533e-06,
+      "timestamp": "2025-04-16 21:18"
+    },
+    {
+      "rank": 4,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4478018113221858e-11,
+      "timestamp": "2025-04-16 21:18"
+    },
+    {
+      "rank": 5,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.737268731498296e-05,
+      "timestamp": "2025-04-16 21:18"
+    },
+    {
+      "rank": 6,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 1.9203834074234753e-06,
+      "timestamp": "2025-04-16 21:18"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015669009135172035,
+      "timestamp": "2025-04-16 21:18"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4554307052627413e-05,
+      "timestamp": "2025-04-16 21:18"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.105082994865814e-05,
+      "timestamp": "2025-04-16 21:18"
+    },
+    {
+      "rank": 10,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 3.3284077501180664e-06,
+      "timestamp": "2025-04-16 21:18"
+    },
+    {
+      "rank": 11,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 3.515801821663402e-06,
+      "timestamp": "2025-04-16 21:18"
+    },
+    {
+      "rank": 12,
+      "name": "ArbDoge AI",
+      "symbol": "AIDOGE",
+      "price_btc": 3.4784934566142275e-15,
+      "timestamp": "2025-04-16 21:18"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.534519669580437e-06,
+      "timestamp": "2025-04-16 21:18"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002717617008930274,
+      "timestamp": "2025-04-16 21:18"
+    },
+    {
+      "rank": 15,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001462924514405962,
+      "timestamp": "2025-04-16 21:18"
+    }
   ]
 }
