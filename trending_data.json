@@ -8130,5 +8130,112 @@
       "price_btc": 1.4562679864483283e-07,
       "timestamp": "2025-04-16 04:23"
     }
+  ],
+  "2025-04-16 05:19": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.432278830024539e-06,
+      "timestamp": "2025-04-16 05:19"
+    },
+    {
+      "rank": 2,
+      "name": "XYO Network",
+      "symbol": "XYO",
+      "price_btc": 1.1884023828626966e-07,
+      "timestamp": "2025-04-16 05:19"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.327734011319973e-06,
+      "timestamp": "2025-04-16 05:19"
+    },
+    {
+      "rank": 4,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 3.900334727198801e-06,
+      "timestamp": "2025-04-16 05:19"
+    },
+    {
+      "rank": 5,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4899558498056423e-05,
+      "timestamp": "2025-04-16 05:19"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015063559434939514,
+      "timestamp": "2025-04-16 05:19"
+    },
+    {
+      "rank": 7,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 5.741105170638625e-07,
+      "timestamp": "2025-04-16 05:19"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00017843995304959952,
+      "timestamp": "2025-04-16 05:19"
+    },
+    {
+      "rank": 9,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 3.1319129052302093e-06,
+      "timestamp": "2025-04-16 05:19"
+    },
+    {
+      "rank": 10,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.1041171009730519e-06,
+      "timestamp": "2025-04-16 05:19"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0277378529100237e-05,
+      "timestamp": "2025-04-16 05:19"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5103564972363492e-05,
+      "timestamp": "2025-04-16 05:19"
+    },
+    {
+      "rank": 13,
+      "name": "Immutable",
+      "symbol": "IMX",
+      "price_btc": 4.819059366943011e-06,
+      "timestamp": "2025-04-16 05:19"
+    },
+    {
+      "rank": 14,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 3.3570612686626776e-06,
+      "timestamp": "2025-04-16 05:19"
+    },
+    {
+      "rank": 15,
+      "name": "Sperax",
+      "symbol": "SPA",
+      "price_btc": 2.451184205852535e-07,
+      "timestamp": "2025-04-16 05:19"
+    }
   ]
 }
