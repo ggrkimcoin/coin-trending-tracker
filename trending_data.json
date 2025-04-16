@@ -8023,5 +8023,112 @@
       "price_btc": 2.222261395500541e-07,
       "timestamp": "2025-04-16 03:04"
     }
+  ],
+  "2025-04-16 04:23": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.135292979487848e-06,
+      "timestamp": "2025-04-16 04:23"
+    },
+    {
+      "rank": 2,
+      "name": "XYO Network",
+      "symbol": "XYO",
+      "price_btc": 1.1945105449310755e-07,
+      "timestamp": "2025-04-16 04:23"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 3.7517097834054137e-06,
+      "timestamp": "2025-04-16 04:23"
+    },
+    {
+      "rank": 4,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 3.2575921210706807e-06,
+      "timestamp": "2025-04-16 04:23"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018985282024527143,
+      "timestamp": "2025-04-16 04:23"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.398611798722279e-06,
+      "timestamp": "2025-04-16 04:23"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015089425478648146,
+      "timestamp": "2025-04-16 04:23"
+    },
+    {
+      "rank": 8,
+      "name": "ArbDoge AI",
+      "symbol": "AIDOGE",
+      "price_btc": 2.074008759870291e-15,
+      "timestamp": "2025-04-16 04:23"
+    },
+    {
+      "rank": 9,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 4.983755767300438e-06,
+      "timestamp": "2025-04-16 04:23"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0027915113882663245,
+      "timestamp": "2025-04-16 04:23"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0271146814573892e-05,
+      "timestamp": "2025-04-16 04:23"
+    },
+    {
+      "rank": 12,
+      "name": "Ronin",
+      "symbol": "RON",
+      "price_btc": 5.58587368552148e-06,
+      "timestamp": "2025-04-16 04:23"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0016188823948231163,
+      "timestamp": "2025-04-16 04:23"
+    },
+    {
+      "rank": 14,
+      "name": "Retard Finder Coin",
+      "symbol": "RFC",
+      "price_btc": 1.1317562301587382e-06,
+      "timestamp": "2025-04-16 04:23"
+    },
+    {
+      "rank": 15,
+      "name": "Fuel Network",
+      "symbol": "FUEL",
+      "price_btc": 1.4562679864483283e-07,
+      "timestamp": "2025-04-16 04:23"
+    }
   ]
 }
