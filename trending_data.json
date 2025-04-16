@@ -8344,5 +8344,112 @@
       "price_btc": 5.7419194632241454e-08,
       "timestamp": "2025-04-16 06:28"
     }
+  ],
+  "2025-04-16 07:19": [
+    {
+      "rank": 1,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 6.376476063525644e-06,
+      "timestamp": "2025-04-16 07:19"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 9.335569234827217e-06,
+      "timestamp": "2025-04-16 07:19"
+    },
+    {
+      "rank": 3,
+      "name": "XYO Network",
+      "symbol": "XYO",
+      "price_btc": 1.194759093087883e-07,
+      "timestamp": "2025-04-16 07:19"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.401652875045523e-06,
+      "timestamp": "2025-04-16 07:19"
+    },
+    {
+      "rank": 5,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 5.62920157866378e-07,
+      "timestamp": "2025-04-16 07:19"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0167892639730406e-05,
+      "timestamp": "2025-04-16 07:19"
+    },
+    {
+      "rank": 7,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.0593699131434156e-06,
+      "timestamp": "2025-04-16 07:19"
+    },
+    {
+      "rank": 8,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.026226595308463e-06,
+      "timestamp": "2025-04-16 07:19"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015065710853533457,
+      "timestamp": "2025-04-16 07:19"
+    },
+    {
+      "rank": 10,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.0729991403004322e-06,
+      "timestamp": "2025-04-16 07:19"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.487062796536739e-05,
+      "timestamp": "2025-04-16 07:19"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4734099320144232e-05,
+      "timestamp": "2025-04-16 07:19"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018841400006330805,
+      "timestamp": "2025-04-16 07:19"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5152534710077698e-05,
+      "timestamp": "2025-04-16 07:19"
+    },
+    {
+      "rank": 15,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.1686224665047503e-07,
+      "timestamp": "2025-04-16 07:19"
+    }
   ]
 }
