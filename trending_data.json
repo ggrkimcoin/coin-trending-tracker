@@ -11233,5 +11233,112 @@
       "price_btc": 0.006936590130155869,
       "timestamp": "2025-04-17 11:16"
     }
+  ],
+  "2025-04-17 12:39": [
+    {
+      "rank": 1,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.572336811881749e-06,
+      "timestamp": "2025-04-17 12:39"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4280161790683487e-11,
+      "timestamp": "2025-04-17 12:39"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 8.187081320962112e-06,
+      "timestamp": "2025-04-17 12:39"
+    },
+    {
+      "rank": 4,
+      "name": "deBridge",
+      "symbol": "DBR",
+      "price_btc": 1.9991370554754204e-07,
+      "timestamp": "2025-04-17 12:39"
+    },
+    {
+      "rank": 5,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.547738343032475e-06,
+      "timestamp": "2025-04-17 12:39"
+    },
+    {
+      "rank": 6,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 2.0010017659260657e-06,
+      "timestamp": "2025-04-17 12:39"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018859467500643323,
+      "timestamp": "2025-04-17 12:39"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015811435244956734,
+      "timestamp": "2025-04-17 12:39"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0571931213423352e-05,
+      "timestamp": "2025-04-17 12:39"
+    },
+    {
+      "rank": 10,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.4501282161005836e-05,
+      "timestamp": "2025-04-17 12:39"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4907467317233573e-05,
+      "timestamp": "2025-04-17 12:39"
+    },
+    {
+      "rank": 12,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.797984956729304e-06,
+      "timestamp": "2025-04-17 12:39"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019621016727442683,
+      "timestamp": "2025-04-17 12:39"
+    },
+    {
+      "rank": 14,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 4.938030442460866e-06,
+      "timestamp": "2025-04-17 12:39"
+    },
+    {
+      "rank": 15,
+      "name": "Alchemist AI",
+      "symbol": "ALCH",
+      "price_btc": 1.7605468306053498e-06,
+      "timestamp": "2025-04-17 12:39"
+    }
   ]
 }
