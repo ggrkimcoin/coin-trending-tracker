@@ -11019,5 +11019,112 @@
       "price_btc": 0.0027546007626801207,
       "timestamp": "2025-04-17 09:21"
     }
+  ],
+  "2025-04-17 10:21": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 9.135614270798956e-07,
+      "timestamp": "2025-04-17 10:21"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 8.063156057739257e-06,
+      "timestamp": "2025-04-17 10:21"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.65374882343093e-06,
+      "timestamp": "2025-04-17 10:21"
+    },
+    {
+      "rank": 4,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.741694118494477e-05,
+      "timestamp": "2025-04-17 10:21"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018882082818101747,
+      "timestamp": "2025-04-17 10:21"
+    },
+    {
+      "rank": 6,
+      "name": "deBridge",
+      "symbol": "DBR",
+      "price_btc": 2.0412292513168914e-07,
+      "timestamp": "2025-04-17 10:21"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0680975436637332e-05,
+      "timestamp": "2025-04-17 10:21"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015807029441259788,
+      "timestamp": "2025-04-17 10:21"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019535833225206424,
+      "timestamp": "2025-04-17 10:21"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4841081184357368e-05,
+      "timestamp": "2025-04-17 10:21"
+    },
+    {
+      "rank": 11,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 4.930812986188822e-06,
+      "timestamp": "2025-04-17 10:21"
+    },
+    {
+      "rank": 12,
+      "name": "Melania Meme",
+      "symbol": "MELANIA",
+      "price_btc": 4.846234943234437e-06,
+      "timestamp": "2025-04-17 10:21"
+    },
+    {
+      "rank": 13,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 9.67929743972207e-07,
+      "timestamp": "2025-04-17 10:21"
+    },
+    {
+      "rank": 14,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.40283774048708e-05,
+      "timestamp": "2025-04-17 10:21"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.92897254407312e-06,
+      "timestamp": "2025-04-17 10:21"
+    }
   ]
 }
