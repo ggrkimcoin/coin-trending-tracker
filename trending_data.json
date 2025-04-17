@@ -10484,5 +10484,112 @@
       "price_btc": 1.7887176020804584e-06,
       "timestamp": "2025-04-17 04:23"
     }
+  ],
+  "2025-04-17 05:19": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 8.313933302460917e-06,
+      "timestamp": "2025-04-17 05:19"
+    },
+    {
+      "rank": 2,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 9.628647706961144e-07,
+      "timestamp": "2025-04-17 05:19"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.965646558006418e-06,
+      "timestamp": "2025-04-17 05:19"
+    },
+    {
+      "rank": 4,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.6543470735457899e-06,
+      "timestamp": "2025-04-17 05:19"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0773349531418874e-05,
+      "timestamp": "2025-04-17 05:19"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.478763832676893e-05,
+      "timestamp": "2025-04-17 05:19"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.295377746391904e-06,
+      "timestamp": "2025-04-17 05:19"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001564078035029877,
+      "timestamp": "2025-04-17 05:19"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.480097254724034e-05,
+      "timestamp": "2025-04-17 05:19"
+    },
+    {
+      "rank": 10,
+      "name": "PAX Gold",
+      "symbol": "PAXG",
+      "price_btc": 0.03984316827518361,
+      "timestamp": "2025-04-17 05:19"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018920600752653307,
+      "timestamp": "2025-04-17 05:19"
+    },
+    {
+      "rank": 12,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 1.9857216877033646e-06,
+      "timestamp": "2025-04-17 05:19"
+    },
+    {
+      "rank": 13,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.3112295880280365e-06,
+      "timestamp": "2025-04-17 05:19"
+    },
+    {
+      "rank": 14,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.0124836003346467e-06,
+      "timestamp": "2025-04-17 05:19"
+    },
+    {
+      "rank": 15,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 2.7156090039268852e-05,
+      "timestamp": "2025-04-17 05:19"
+    }
   ]
 }
