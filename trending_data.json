@@ -11340,5 +11340,112 @@
       "price_btc": 1.7605468306053498e-06,
       "timestamp": "2025-04-17 12:39"
     }
+  ],
+  "2025-04-17 13:28": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 8.19743181366475e-06,
+      "timestamp": "2025-04-17 13:28"
+    },
+    {
+      "rank": 2,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.572555499432284e-06,
+      "timestamp": "2025-04-17 13:28"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4194625508554768e-11,
+      "timestamp": "2025-04-17 13:28"
+    },
+    {
+      "rank": 4,
+      "name": "deBridge",
+      "symbol": "DBR",
+      "price_btc": 1.9500165768121859e-07,
+      "timestamp": "2025-04-17 13:28"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002746207381832186,
+      "timestamp": "2025-04-17 13:28"
+    },
+    {
+      "rank": 6,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.6346500472597516e-06,
+      "timestamp": "2025-04-17 13:28"
+    },
+    {
+      "rank": 7,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 2.012074387543532e-06,
+      "timestamp": "2025-04-17 13:28"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015803645684435536,
+      "timestamp": "2025-04-17 13:28"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018888332608997256,
+      "timestamp": "2025-04-17 13:28"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0408405567942925e-05,
+      "timestamp": "2025-04-17 13:28"
+    },
+    {
+      "rank": 11,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.648630799067007e-05,
+      "timestamp": "2025-04-17 13:28"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.46006887280296e-05,
+      "timestamp": "2025-04-17 13:28"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.974731723883751e-06,
+      "timestamp": "2025-04-17 13:28"
+    },
+    {
+      "rank": 14,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 3.322166455711991e-06,
+      "timestamp": "2025-04-17 13:28"
+    },
+    {
+      "rank": 15,
+      "name": "PAX Gold",
+      "symbol": "PAXG",
+      "price_btc": 0.03955854218056481,
+      "timestamp": "2025-04-17 13:28"
+    }
   ]
 }
