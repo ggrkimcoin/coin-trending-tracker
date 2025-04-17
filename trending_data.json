@@ -11982,5 +11982,112 @@
       "price_btc": 2.4631956732756195e-05,
       "timestamp": "2025-04-17 18:27"
     }
+  ],
+  "2025-04-17 19:15": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.84666337540703e-06,
+      "timestamp": "2025-04-17 19:15"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4295162908032674e-11,
+      "timestamp": "2025-04-17 19:15"
+    },
+    {
+      "rank": 3,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.462356118790565e-06,
+      "timestamp": "2025-04-17 19:15"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0028878764951196572,
+      "timestamp": "2025-04-17 19:15"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015841227675189198,
+      "timestamp": "2025-04-17 19:15"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0443445862560722e-05,
+      "timestamp": "2025-04-17 19:15"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5218395343419817e-05,
+      "timestamp": "2025-04-17 19:15"
+    },
+    {
+      "rank": 8,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.895695122118522e-05,
+      "timestamp": "2025-04-17 19:15"
+    },
+    {
+      "rank": 9,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.6181911100795316e-06,
+      "timestamp": "2025-04-17 19:15"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-17 19:15"
+    },
+    {
+      "rank": 11,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.428427095698099e-05,
+      "timestamp": "2025-04-17 19:15"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018882878964382063,
+      "timestamp": "2025-04-17 19:15"
+    },
+    {
+      "rank": 13,
+      "name": "deBridge",
+      "symbol": "DBR",
+      "price_btc": 1.8627417523787866e-07,
+      "timestamp": "2025-04-17 19:15"
+    },
+    {
+      "rank": 14,
+      "name": "Euler",
+      "symbol": "EUL",
+      "price_btc": 8.084677975067018e-05,
+      "timestamp": "2025-04-17 19:15"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.622445722547607e-06,
+      "timestamp": "2025-04-17 19:15"
+    }
   ]
 }
