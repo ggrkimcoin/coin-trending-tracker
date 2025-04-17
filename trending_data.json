@@ -10377,5 +10377,112 @@
       "price_btc": 4.6185111823704025e-06,
       "timestamp": "2025-04-17 03:03"
     }
+  ],
+  "2025-04-17 04:23": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 9.697279907749154e-07,
+      "timestamp": "2025-04-17 04:23"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.984451179982962e-06,
+      "timestamp": "2025-04-17 04:23"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 8.242025914711002e-06,
+      "timestamp": "2025-04-17 04:23"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0447671860796261e-05,
+      "timestamp": "2025-04-17 04:23"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015483542085245655,
+      "timestamp": "2025-04-17 04:23"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.6929926561340586e-06,
+      "timestamp": "2025-04-17 04:23"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.287457273805307e-06,
+      "timestamp": "2025-04-17 04:23"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01886925825682879,
+      "timestamp": "2025-04-17 04:23"
+    },
+    {
+      "rank": 9,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.84765305696774e-06,
+      "timestamp": "2025-04-17 04:23"
+    },
+    {
+      "rank": 10,
+      "name": "ArbDoge AI",
+      "symbol": "AIDOGE",
+      "price_btc": 3.261184975853744e-15,
+      "timestamp": "2025-04-17 04:23"
+    },
+    {
+      "rank": 11,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.6030169925740277e-05,
+      "timestamp": "2025-04-17 04:23"
+    },
+    {
+      "rank": 12,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.9824836332300985e-05,
+      "timestamp": "2025-04-17 04:23"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.512668654438864e-06,
+      "timestamp": "2025-04-17 04:23"
+    },
+    {
+      "rank": 14,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 4.845048835286752e-06,
+      "timestamp": "2025-04-17 04:23"
+    },
+    {
+      "rank": 15,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 1.7887176020804584e-06,
+      "timestamp": "2025-04-17 04:23"
+    }
   ]
 }
