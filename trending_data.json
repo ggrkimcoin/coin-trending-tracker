@@ -11447,5 +11447,112 @@
       "price_btc": 0.03955854218056481,
       "timestamp": "2025-04-17 13:28"
     }
+  ],
+  "2025-04-17 14:18": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 8.146851805326023e-06,
+      "timestamp": "2025-04-17 14:18"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4153443970632234e-11,
+      "timestamp": "2025-04-17 14:18"
+    },
+    {
+      "rank": 3,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.659433599682918e-06,
+      "timestamp": "2025-04-17 14:18"
+    },
+    {
+      "rank": 4,
+      "name": "deBridge",
+      "symbol": "DBR",
+      "price_btc": 1.932697611214124e-07,
+      "timestamp": "2025-04-17 14:18"
+    },
+    {
+      "rank": 5,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.804261120521066e-06,
+      "timestamp": "2025-04-17 14:18"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0027756336756668857,
+      "timestamp": "2025-04-17 14:18"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015748020552612556,
+      "timestamp": "2025-04-17 14:18"
+    },
+    {
+      "rank": 8,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 1.9725077826911626e-06,
+      "timestamp": "2025-04-17 14:18"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0463735513710162e-05,
+      "timestamp": "2025-04-17 14:18"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.198670942238381e-06,
+      "timestamp": "2025-04-17 14:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.2395259459502817e-06,
+      "timestamp": "2025-04-17 14:18"
+    },
+    {
+      "rank": 12,
+      "name": "Story",
+      "symbol": "IP",
+      "price_btc": 4.646332681217873e-05,
+      "timestamp": "2025-04-17 14:18"
+    },
+    {
+      "rank": 13,
+      "name": "PAX Gold",
+      "symbol": "PAXG",
+      "price_btc": 0.039557193070233816,
+      "timestamp": "2025-04-17 14:18"
+    },
+    {
+      "rank": 14,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 2.7398165542247744e-05,
+      "timestamp": "2025-04-17 14:18"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4827050035357718e-05,
+      "timestamp": "2025-04-17 14:18"
+    }
   ]
 }
