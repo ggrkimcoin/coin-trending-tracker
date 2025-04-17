@@ -10270,5 +10270,112 @@
       "price_btc": 1.9024572562564144e-06,
       "timestamp": "2025-04-17 01:38"
     }
+  ],
+  "2025-04-17 03:03": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 9.664737273869902e-07,
+      "timestamp": "2025-04-17 03:03"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0360885712141795e-05,
+      "timestamp": "2025-04-17 03:03"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.867168207795071e-06,
+      "timestamp": "2025-04-17 03:03"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.2668961713185975e-06,
+      "timestamp": "2025-04-17 03:03"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 8.298818559283871e-06,
+      "timestamp": "2025-04-17 03:03"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015568108020007755,
+      "timestamp": "2025-04-17 03:03"
+    },
+    {
+      "rank": 7,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.6934459862337558e-06,
+      "timestamp": "2025-04-17 03:03"
+    },
+    {
+      "rank": 8,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 1.9530405139068268e-06,
+      "timestamp": "2025-04-17 03:03"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.791303997017883e-06,
+      "timestamp": "2025-04-17 03:03"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-17 03:03"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4425108479101665e-05,
+      "timestamp": "2025-04-17 03:03"
+    },
+    {
+      "rank": 12,
+      "name": "Maple",
+      "symbol": "MPL",
+      "price_btc": 0.00016837264484955455,
+      "timestamp": "2025-04-17 03:03"
+    },
+    {
+      "rank": 13,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 9.940181419011122e-07,
+      "timestamp": "2025-04-17 03:03"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018884274322885836,
+      "timestamp": "2025-04-17 03:03"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 4.6185111823704025e-06,
+      "timestamp": "2025-04-17 03:03"
+    }
   ]
 }
