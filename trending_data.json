@@ -12089,5 +12089,112 @@
       "price_btc": 5.622445722547607e-06,
       "timestamp": "2025-04-17 19:15"
     }
+  ],
+  "2025-04-17 20:21": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-17 20:21"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.757436857661459e-06,
+      "timestamp": "2025-04-17 20:21"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4058046120269701e-11,
+      "timestamp": "2025-04-17 20:21"
+    },
+    {
+      "rank": 4,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.507921472662443e-06,
+      "timestamp": "2025-04-17 20:21"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0028877524587054802,
+      "timestamp": "2025-04-17 20:21"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.000166116286192e-05,
+      "timestamp": "2025-04-17 20:21"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015725682892209127,
+      "timestamp": "2025-04-17 20:21"
+    },
+    {
+      "rank": 8,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.634730018946348e-06,
+      "timestamp": "2025-04-17 20:21"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4377799156085593e-05,
+      "timestamp": "2025-04-17 20:21"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5092919356853117e-05,
+      "timestamp": "2025-04-17 20:21"
+    },
+    {
+      "rank": 11,
+      "name": "Magic Eden",
+      "symbol": "ME",
+      "price_btc": 9.03360661456797e-06,
+      "timestamp": "2025-04-17 20:21"
+    },
+    {
+      "rank": 12,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 4.7611326402590894e-06,
+      "timestamp": "2025-04-17 20:21"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01864697064936707,
+      "timestamp": "2025-04-17 20:21"
+    },
+    {
+      "rank": 14,
+      "name": "deBridge",
+      "symbol": "DBR",
+      "price_btc": 1.8998499470328039e-07,
+      "timestamp": "2025-04-17 20:21"
+    },
+    {
+      "rank": 15,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.308494544220034e-06,
+      "timestamp": "2025-04-17 20:21"
+    }
   ]
 }
