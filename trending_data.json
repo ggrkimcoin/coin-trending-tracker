@@ -12303,5 +12303,112 @@
       "price_btc": 5.403436417269362e-06,
       "timestamp": "2025-04-17 21:18"
     }
+  ],
+  "2025-04-17 22:18": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-17 22:18"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4062828632547031e-11,
+      "timestamp": "2025-04-17 22:18"
+    },
+    {
+      "rank": 3,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.3564027790394595e-06,
+      "timestamp": "2025-04-17 22:18"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00294280370628544,
+      "timestamp": "2025-04-17 22:18"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0136631033150415e-05,
+      "timestamp": "2025-04-17 22:18"
+    },
+    {
+      "rank": 6,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.731817627365202e-06,
+      "timestamp": "2025-04-17 22:18"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001584082327231307,
+      "timestamp": "2025-04-17 22:18"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.280755362011712e-06,
+      "timestamp": "2025-04-17 22:18"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.512739455498056e-05,
+      "timestamp": "2025-04-17 22:18"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4422830073380834e-05,
+      "timestamp": "2025-04-17 22:18"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0001999055423543405,
+      "timestamp": "2025-04-17 22:18"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 8.819311698972474e-05,
+      "timestamp": "2025-04-17 22:18"
+    },
+    {
+      "rank": 13,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.581838253492997e-06,
+      "timestamp": "2025-04-17 22:18"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.3427474679695625e-05,
+      "timestamp": "2025-04-17 22:18"
+    },
+    {
+      "rank": 15,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.896900067223582e-05,
+      "timestamp": "2025-04-17 22:18"
+    }
   ]
 }
