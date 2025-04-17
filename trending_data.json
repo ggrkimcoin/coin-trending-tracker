@@ -10805,5 +10805,112 @@
       "price_btc": 0.0016392968423609457,
       "timestamp": "2025-04-17 07:20"
     }
+  ],
+  "2025-04-17 08:26": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 8.178788679176105e-06,
+      "timestamp": "2025-04-17 08:26"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.755199380559985e-06,
+      "timestamp": "2025-04-17 08:26"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0834520020230605e-05,
+      "timestamp": "2025-04-17 08:26"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.144077130599148e-06,
+      "timestamp": "2025-04-17 08:26"
+    },
+    {
+      "rank": 5,
+      "name": "deBridge",
+      "symbol": "DBR",
+      "price_btc": 2.0254438325377902e-07,
+      "timestamp": "2025-04-17 08:26"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4881636253392062e-05,
+      "timestamp": "2025-04-17 08:26"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01892026961831737,
+      "timestamp": "2025-04-17 08:26"
+    },
+    {
+      "rank": 8,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.7786855465253385e-05,
+      "timestamp": "2025-04-17 08:26"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015898996736669077,
+      "timestamp": "2025-04-17 08:26"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 6.45700066810051e-06,
+      "timestamp": "2025-04-17 08:26"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.6515065684534905e-06,
+      "timestamp": "2025-04-17 08:26"
+    },
+    {
+      "rank": 12,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 9.951148241626036e-07,
+      "timestamp": "2025-04-17 08:26"
+    },
+    {
+      "rank": 13,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.249802035874389e-05,
+      "timestamp": "2025-04-17 08:26"
+    },
+    {
+      "rank": 14,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.375011166255476e-06,
+      "timestamp": "2025-04-17 08:26"
+    },
+    {
+      "rank": 15,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 2.747795204923767e-05,
+      "timestamp": "2025-04-17 08:26"
+    }
   ]
 }
