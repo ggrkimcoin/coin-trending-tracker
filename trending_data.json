@@ -12196,5 +12196,112 @@
       "price_btc": 7.308494544220034e-06,
       "timestamp": "2025-04-17 20:21"
     }
+  ],
+  "2025-04-17 21:18": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.717946768169652e-06,
+      "timestamp": "2025-04-17 21:18"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002897587186650896,
+      "timestamp": "2025-04-17 21:18"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-17 21:18"
+    },
+    {
+      "rank": 4,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4119830092826821e-11,
+      "timestamp": "2025-04-17 21:18"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5090925779757022e-05,
+      "timestamp": "2025-04-17 21:18"
+    },
+    {
+      "rank": 6,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.418067210317812e-06,
+      "timestamp": "2025-04-17 21:18"
+    },
+    {
+      "rank": 7,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.611607245267589e-06,
+      "timestamp": "2025-04-17 21:18"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0146543158861884e-05,
+      "timestamp": "2025-04-17 21:18"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.180311284139707e-06,
+      "timestamp": "2025-04-17 21:18"
+    },
+    {
+      "rank": 10,
+      "name": "deBridge",
+      "symbol": "DBR",
+      "price_btc": 1.944675430205979e-07,
+      "timestamp": "2025-04-17 21:18"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001583454820215884,
+      "timestamp": "2025-04-17 21:18"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.345743575120798e-05,
+      "timestamp": "2025-04-17 21:18"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.788479178100177e-06,
+      "timestamp": "2025-04-17 21:18"
+    },
+    {
+      "rank": 14,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.9067395165723123e-05,
+      "timestamp": "2025-04-17 21:18"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 5.403436417269362e-06,
+      "timestamp": "2025-04-17 21:18"
+    }
   ]
 }
