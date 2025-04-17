@@ -10912,5 +10912,112 @@
       "price_btc": 2.747795204923767e-05,
       "timestamp": "2025-04-17 08:26"
     }
+  ],
+  "2025-04-17 09:21": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 8.079850518800487e-06,
+      "timestamp": "2025-04-17 09:21"
+    },
+    {
+      "rank": 2,
+      "name": "deBridge",
+      "symbol": "DBR",
+      "price_btc": 2.0231296544027288e-07,
+      "timestamp": "2025-04-17 09:21"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.5832047950580575e-06,
+      "timestamp": "2025-04-17 09:21"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018886597861763818,
+      "timestamp": "2025-04-17 09:21"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0759376303192733e-05,
+      "timestamp": "2025-04-17 09:21"
+    },
+    {
+      "rank": 6,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.7638573648591823e-05,
+      "timestamp": "2025-04-17 09:21"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.155187692964166e-06,
+      "timestamp": "2025-04-17 09:21"
+    },
+    {
+      "rank": 8,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.404172989661238e-05,
+      "timestamp": "2025-04-17 09:21"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015788711101323637,
+      "timestamp": "2025-04-17 09:21"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.906985176558508e-06,
+      "timestamp": "2025-04-17 09:21"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.244785211587692e-06,
+      "timestamp": "2025-04-17 09:21"
+    },
+    {
+      "rank": 12,
+      "name": "Layer3",
+      "symbol": "L3",
+      "price_btc": 7.603493827946816e-07,
+      "timestamp": "2025-04-17 09:21"
+    },
+    {
+      "rank": 13,
+      "name": "Bio Protocol",
+      "symbol": "BIO",
+      "price_btc": 6.878972479824342e-07,
+      "timestamp": "2025-04-17 09:21"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019349300199345427,
+      "timestamp": "2025-04-17 09:21"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0027546007626801207,
+      "timestamp": "2025-04-17 09:21"
+    }
   ]
 }
