@@ -10163,5 +10163,112 @@
       "price_btc": 0.00019140613129513576,
       "timestamp": "2025-04-16 23:18"
     }
+  ],
+  "2025-04-17 01:38": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 9.6288615827249e-07,
+      "timestamp": "2025-04-17 01:38"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.8960692384200445e-06,
+      "timestamp": "2025-04-17 01:38"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 8.316129537634779e-06,
+      "timestamp": "2025-04-17 01:38"
+    },
+    {
+      "rank": 4,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 2.28026663146932e-06,
+      "timestamp": "2025-04-17 01:38"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.247454500032217e-06,
+      "timestamp": "2025-04-17 01:38"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0653394693811125e-05,
+      "timestamp": "2025-04-17 01:38"
+    },
+    {
+      "rank": 7,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.7145784330567137e-05,
+      "timestamp": "2025-04-17 01:38"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015660980831944684,
+      "timestamp": "2025-04-17 01:38"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.468578849244092e-05,
+      "timestamp": "2025-04-17 01:38"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018828442739359446,
+      "timestamp": "2025-04-17 01:38"
+    },
+    {
+      "rank": 11,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 6.174566384305756e-05,
+      "timestamp": "2025-04-17 01:38"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-17 01:38"
+    },
+    {
+      "rank": 13,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.47045607286777e-05,
+      "timestamp": "2025-04-17 01:38"
+    },
+    {
+      "rank": 14,
+      "name": "B3 (Base)",
+      "symbol": "B3",
+      "price_btc": 3.754222787180349e-08,
+      "timestamp": "2025-04-17 01:38"
+    },
+    {
+      "rank": 15,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.9024572562564144e-06,
+      "timestamp": "2025-04-17 01:38"
+    }
   ]
 }
