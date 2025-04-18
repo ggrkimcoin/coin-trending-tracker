@@ -14122,5 +14122,112 @@
       "price_btc": 9.855583190160792e-06,
       "timestamp": "2025-04-18 16:24"
     }
+  ],
+  "2025-04-18 17:17": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.470092826675933e-11,
+      "timestamp": "2025-04-18 17:17"
+    },
+    {
+      "rank": 2,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 8.00209819220604e-06,
+      "timestamp": "2025-04-18 17:17"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 8.120463680878825e-06,
+      "timestamp": "2025-04-18 17:17"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003071281125606673,
+      "timestamp": "2025-04-18 17:17"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.986647931681474e-06,
+      "timestamp": "2025-04-18 17:17"
+    },
+    {
+      "rank": 6,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.9154048727647546e-05,
+      "timestamp": "2025-04-18 17:17"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015785173384610274,
+      "timestamp": "2025-04-18 17:17"
+    },
+    {
+      "rank": 8,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.111036569900378e-05,
+      "timestamp": "2025-04-18 17:17"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.343208179137217e-06,
+      "timestamp": "2025-04-18 17:17"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018790363553175433,
+      "timestamp": "2025-04-18 17:17"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4456577560122115e-05,
+      "timestamp": "2025-04-18 17:17"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019601511703540438,
+      "timestamp": "2025-04-18 17:17"
+    },
+    {
+      "rank": 13,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.166197068165049e-07,
+      "timestamp": "2025-04-18 17:17"
+    },
+    {
+      "rank": 14,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.877381296062006e-05,
+      "timestamp": "2025-04-18 17:17"
+    },
+    {
+      "rank": 15,
+      "name": "sUSD",
+      "symbol": "SUSD",
+      "price_btc": 9.858123635438838e-06,
+      "timestamp": "2025-04-18 17:17"
+    }
   ]
 }
