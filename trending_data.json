@@ -12624,5 +12624,112 @@
       "price_btc": 2.4246539638049715e-05,
       "timestamp": "2025-04-18 01:37"
     }
+  ],
+  "2025-04-18 03:00": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-18 03:00"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.495957756997763e-06,
+      "timestamp": "2025-04-18 03:00"
+    },
+    {
+      "rank": 3,
+      "name": "sUSD",
+      "symbol": "SUSD",
+      "price_btc": 8.116185019527527e-06,
+      "timestamp": "2025-04-18 03:00"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020293565945062186,
+      "timestamp": "2025-04-18 03:00"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.365093677721692e-06,
+      "timestamp": "2025-04-18 03:00"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030520770753845214,
+      "timestamp": "2025-04-18 03:00"
+    },
+    {
+      "rank": 7,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.841476490240143e-05,
+      "timestamp": "2025-04-18 03:00"
+    },
+    {
+      "rank": 8,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.8994534106073808e-06,
+      "timestamp": "2025-04-18 03:00"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015952634796444832,
+      "timestamp": "2025-04-18 03:00"
+    },
+    {
+      "rank": 10,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.080427718845872e-05,
+      "timestamp": "2025-04-18 03:00"
+    },
+    {
+      "rank": 11,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.414312750240474e-05,
+      "timestamp": "2025-04-18 03:00"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.50993338819319e-05,
+      "timestamp": "2025-04-18 03:00"
+    },
+    {
+      "rank": 13,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 8.93506335266115e-05,
+      "timestamp": "2025-04-18 03:00"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01867589529311356,
+      "timestamp": "2025-04-18 03:00"
+    },
+    {
+      "rank": 15,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.494433846420944e-06,
+      "timestamp": "2025-04-18 03:00"
+    }
   ]
 }
