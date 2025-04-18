@@ -13266,5 +13266,112 @@
       "price_btc": 4.47388990365127e-06,
       "timestamp": "2025-04-18 08:25"
     }
+  ],
+  "2025-04-18 09:20": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.562476120005176e-06,
+      "timestamp": "2025-04-18 09:20"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.963177557675889e-06,
+      "timestamp": "2025-04-18 09:20"
+    },
+    {
+      "rank": 3,
+      "name": "Memecoin",
+      "symbol": "MEME",
+      "price_btc": 2.4642955331967902e-08,
+      "timestamp": "2025-04-18 09:20"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030346358333494246,
+      "timestamp": "2025-04-18 09:20"
+    },
+    {
+      "rank": 5,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.163583598311576e-06,
+      "timestamp": "2025-04-18 09:20"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018751772603154086,
+      "timestamp": "2025-04-18 09:20"
+    },
+    {
+      "rank": 7,
+      "name": "sUSD",
+      "symbol": "SUSD",
+      "price_btc": 8.777596812780283e-06,
+      "timestamp": "2025-04-18 09:20"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020005601032642317,
+      "timestamp": "2025-04-18 09:20"
+    },
+    {
+      "rank": 9,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 8.952944320397796e-07,
+      "timestamp": "2025-04-18 09:20"
+    },
+    {
+      "rank": 10,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.8538589460314395e-05,
+      "timestamp": "2025-04-18 09:20"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015932028376953846,
+      "timestamp": "2025-04-18 09:20"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5102798249419484e-05,
+      "timestamp": "2025-04-18 09:20"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4527749081237114e-05,
+      "timestamp": "2025-04-18 09:20"
+    },
+    {
+      "rank": 14,
+      "name": "deBridge",
+      "symbol": "DBR",
+      "price_btc": 1.8402040961563488e-07,
+      "timestamp": "2025-04-18 09:20"
+    },
+    {
+      "rank": 15,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.712609351381921e-05,
+      "timestamp": "2025-04-18 09:20"
+    }
   ]
 }
