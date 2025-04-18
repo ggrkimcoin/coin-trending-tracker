@@ -13052,5 +13052,112 @@
       "price_btc": 4.094857339575064e-05,
       "timestamp": "2025-04-18 06:28"
     }
+  ],
+  "2025-04-18 07:19": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.433402251697371e-06,
+      "timestamp": "2025-04-18 07:19"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.938421954913843e-06,
+      "timestamp": "2025-04-18 07:19"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030225235084069112,
+      "timestamp": "2025-04-18 07:19"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015872168828368922,
+      "timestamp": "2025-04-18 07:19"
+    },
+    {
+      "rank": 5,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.187674622385631e-06,
+      "timestamp": "2025-04-18 07:19"
+    },
+    {
+      "rank": 6,
+      "name": "sUSD",
+      "symbol": "SUSD",
+      "price_btc": 8.5354574915467e-06,
+      "timestamp": "2025-04-18 07:19"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.171944175062045e-06,
+      "timestamp": "2025-04-18 07:19"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01866117081170078,
+      "timestamp": "2025-04-18 07:19"
+    },
+    {
+      "rank": 9,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 8.882560085110741e-05,
+      "timestamp": "2025-04-18 07:19"
+    },
+    {
+      "rank": 10,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.8381628111188967e-05,
+      "timestamp": "2025-04-18 07:19"
+    },
+    {
+      "rank": 11,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 4.5847586846971794e-06,
+      "timestamp": "2025-04-18 07:19"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 6.583870095722396e-06,
+      "timestamp": "2025-04-18 07:19"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4924224603862487e-05,
+      "timestamp": "2025-04-18 07:19"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020242345446548637,
+      "timestamp": "2025-04-18 07:19"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.0918040611955486e-05,
+      "timestamp": "2025-04-18 07:19"
+    }
   ]
 }
