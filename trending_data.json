@@ -12838,5 +12838,112 @@
       "price_btc": 2.4226563574052638e-05,
       "timestamp": "2025-04-18 04:23"
     }
+  ],
+  "2025-04-18 05:19": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.5854956205747985e-06,
+      "timestamp": "2025-04-18 05:19"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.984273128374849e-06,
+      "timestamp": "2025-04-18 05:19"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003043076139722619,
+      "timestamp": "2025-04-18 05:19"
+    },
+    {
+      "rank": 4,
+      "name": "sUSD",
+      "symbol": "SUSD",
+      "price_btc": 8.137483297721137e-06,
+      "timestamp": "2025-04-18 05:19"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.252381441653682e-06,
+      "timestamp": "2025-04-18 05:19"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4993149098072094e-05,
+      "timestamp": "2025-04-18 05:19"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.77954483603886e-06,
+      "timestamp": "2025-04-18 05:19"
+    },
+    {
+      "rank": 8,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 8.873374465118325e-05,
+      "timestamp": "2025-04-18 05:19"
+    },
+    {
+      "rank": 9,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 2.6517268249322668e-06,
+      "timestamp": "2025-04-18 05:19"
+    },
+    {
+      "rank": 10,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.269278126914916e-06,
+      "timestamp": "2025-04-18 05:19"
+    },
+    {
+      "rank": 11,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.147099613633445e-07,
+      "timestamp": "2025-04-18 05:19"
+    },
+    {
+      "rank": 12,
+      "name": "Stellar",
+      "symbol": "XLM",
+      "price_btc": 2.856138059408747e-06,
+      "timestamp": "2025-04-18 05:19"
+    },
+    {
+      "rank": 13,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 3.374983332983602e-06,
+      "timestamp": "2025-04-18 05:19"
+    },
+    {
+      "rank": 14,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 4.7291999397073854e-06,
+      "timestamp": "2025-04-18 05:19"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.436274121636311e-05,
+      "timestamp": "2025-04-18 05:19"
+    }
   ]
 }
