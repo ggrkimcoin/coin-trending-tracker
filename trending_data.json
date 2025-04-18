@@ -13480,5 +13480,112 @@
       "price_btc": 5.909117406489042e-08,
       "timestamp": "2025-04-18 10:22"
     }
+  ],
+  "2025-04-18 11:15": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.464245773765485e-11,
+      "timestamp": "2025-04-18 11:15"
+    },
+    {
+      "rank": 2,
+      "name": "Memecoin",
+      "symbol": "MEME",
+      "price_btc": 2.3139028621494727e-08,
+      "timestamp": "2025-04-18 11:15"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.554990284871462e-06,
+      "timestamp": "2025-04-18 11:15"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003051012953324355,
+      "timestamp": "2025-04-18 11:15"
+    },
+    {
+      "rank": 5,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.74141163908631e-06,
+      "timestamp": "2025-04-18 11:15"
+    },
+    {
+      "rank": 6,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.202045506631339e-06,
+      "timestamp": "2025-04-18 11:15"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018743779661281757,
+      "timestamp": "2025-04-18 11:15"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.900881416882531e-06,
+      "timestamp": "2025-04-18 11:15"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019823568506674276,
+      "timestamp": "2025-04-18 11:15"
+    },
+    {
+      "rank": 10,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.96644697590675e-05,
+      "timestamp": "2025-04-18 11:15"
+    },
+    {
+      "rank": 11,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0016384858757232121,
+      "timestamp": "2025-04-18 11:15"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.030365215164022e-05,
+      "timestamp": "2025-04-18 11:15"
+    },
+    {
+      "rank": 13,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 2.657545550687167e-06,
+      "timestamp": "2025-04-18 11:15"
+    },
+    {
+      "rank": 14,
+      "name": "Magic Eden",
+      "symbol": "ME",
+      "price_btc": 9.55973836271392e-06,
+      "timestamp": "2025-04-18 11:15"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.501244199630256e-05,
+      "timestamp": "2025-04-18 11:15"
+    }
   ]
 }
