@@ -13587,5 +13587,112 @@
       "price_btc": 2.501244199630256e-05,
       "timestamp": "2025-04-18 11:15"
     }
+  ],
+  "2025-04-18 12:37": [
+    {
+      "rank": 1,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.863768027440278e-06,
+      "timestamp": "2025-04-18 12:37"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4753336121458016e-11,
+      "timestamp": "2025-04-18 12:37"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.5239900369432095e-06,
+      "timestamp": "2025-04-18 12:37"
+    },
+    {
+      "rank": 4,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.201360247125733e-06,
+      "timestamp": "2025-04-18 12:37"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015856004679688448,
+      "timestamp": "2025-04-18 12:37"
+    },
+    {
+      "rank": 6,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.093305957876727e-05,
+      "timestamp": "2025-04-18 12:37"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0001963609934193485,
+      "timestamp": "2025-04-18 12:37"
+    },
+    {
+      "rank": 8,
+      "name": "CARV",
+      "symbol": "CARV",
+      "price_btc": 3.6798618239912803e-06,
+      "timestamp": "2025-04-18 12:37"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.984621405775754e-06,
+      "timestamp": "2025-04-18 12:37"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01879254539640142,
+      "timestamp": "2025-04-18 12:37"
+    },
+    {
+      "rank": 11,
+      "name": "sUSD",
+      "symbol": "SUSD",
+      "price_btc": 9.830298882203194e-06,
+      "timestamp": "2025-04-18 12:37"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.920383451961262e-05,
+      "timestamp": "2025-04-18 12:37"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.3753553759264816e-06,
+      "timestamp": "2025-04-18 12:37"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.456050749400808e-05,
+      "timestamp": "2025-04-18 12:37"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0031138108961356664,
+      "timestamp": "2025-04-18 12:37"
+    }
   ]
 }
