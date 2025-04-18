@@ -12517,5 +12517,112 @@
       "price_btc": 4.7438994784176165e-06,
       "timestamp": "2025-04-17 23:18"
     }
+  ],
+  "2025-04-18 01:37": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-18 01:37"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.66498978265973e-06,
+      "timestamp": "2025-04-18 01:37"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015886142717413598,
+      "timestamp": "2025-04-18 01:37"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020103483645685254,
+      "timestamp": "2025-04-18 01:37"
+    },
+    {
+      "rank": 5,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.8601458887115423e-05,
+      "timestamp": "2025-04-18 01:37"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002965652137051432,
+      "timestamp": "2025-04-18 01:37"
+    },
+    {
+      "rank": 7,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.645357266251108e-06,
+      "timestamp": "2025-04-18 01:37"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.435090801059612e-06,
+      "timestamp": "2025-04-18 01:37"
+    },
+    {
+      "rank": 9,
+      "name": "sUSD",
+      "symbol": "SUSD",
+      "price_btc": 8.006602740474867e-06,
+      "timestamp": "2025-04-18 01:37"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018672274177700336,
+      "timestamp": "2025-04-18 01:37"
+    },
+    {
+      "rank": 11,
+      "name": "ArbDoge AI",
+      "symbol": "AIDOGE",
+      "price_btc": 4.06156689474091e-15,
+      "timestamp": "2025-04-18 01:37"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.097507931920468e-05,
+      "timestamp": "2025-04-18 01:37"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.244501601237473e-06,
+      "timestamp": "2025-04-18 01:37"
+    },
+    {
+      "rank": 14,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.02472852075181e-07,
+      "timestamp": "2025-04-18 01:37"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4246539638049715e-05,
+      "timestamp": "2025-04-18 01:37"
+    }
   ]
 }
