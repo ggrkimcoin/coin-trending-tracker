@@ -13908,5 +13908,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-04-18 14:17"
     }
+  ],
+  "2025-04-18 15:19": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.398729827629606e-06,
+      "timestamp": "2025-04-18 15:19"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.490269698361642e-11,
+      "timestamp": "2025-04-18 15:19"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030950234199470105,
+      "timestamp": "2025-04-18 15:19"
+    },
+    {
+      "rank": 4,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.83376728686258e-05,
+      "timestamp": "2025-04-18 15:19"
+    },
+    {
+      "rank": 5,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 8.013530760669714e-06,
+      "timestamp": "2025-04-18 15:19"
+    },
+    {
+      "rank": 6,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.106768268224659e-05,
+      "timestamp": "2025-04-18 15:19"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.608098779319617e-06,
+      "timestamp": "2025-04-18 15:19"
+    },
+    {
+      "rank": 8,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.1545674796964545e-06,
+      "timestamp": "2025-04-18 15:19"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.499956494037719e-05,
+      "timestamp": "2025-04-18 15:19"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018761318496039552,
+      "timestamp": "2025-04-18 15:19"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.303620422535905e-06,
+      "timestamp": "2025-04-18 15:19"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015726254644499228,
+      "timestamp": "2025-04-18 15:19"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019662115886629448,
+      "timestamp": "2025-04-18 15:19"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 6.7208515686785504e-06,
+      "timestamp": "2025-04-18 15:19"
+    },
+    {
+      "rank": 15,
+      "name": "Memecoin",
+      "symbol": "MEME",
+      "price_btc": 2.150564304323964e-08,
+      "timestamp": "2025-04-18 15:19"
+    }
   ]
 }
