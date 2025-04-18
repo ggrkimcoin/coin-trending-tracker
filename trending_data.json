@@ -14336,5 +14336,112 @@
       "price_btc": 6.8165983449142704e-06,
       "timestamp": "2025-04-18 18:26"
     }
+  ],
+  "2025-04-18 19:15": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4651729581171617e-11,
+      "timestamp": "2025-04-18 19:15"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.763874340579374e-06,
+      "timestamp": "2025-04-18 19:15"
+    },
+    {
+      "rank": 3,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.877683733334183e-06,
+      "timestamp": "2025-04-18 19:15"
+    },
+    {
+      "rank": 4,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.919441167406495e-05,
+      "timestamp": "2025-04-18 19:15"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.083068801680334e-05,
+      "timestamp": "2025-04-18 19:15"
+    },
+    {
+      "rank": 6,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 3.9967767718437305e-06,
+      "timestamp": "2025-04-18 19:15"
+    },
+    {
+      "rank": 7,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.8638423879631774e-06,
+      "timestamp": "2025-04-18 19:15"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.092023226416572e-06,
+      "timestamp": "2025-04-18 19:15"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018837773488534815,
+      "timestamp": "2025-04-18 19:15"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015838884538001267,
+      "timestamp": "2025-04-18 19:15"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0031225436837816873,
+      "timestamp": "2025-04-18 19:15"
+    },
+    {
+      "rank": 12,
+      "name": "Lorenzo Protocol",
+      "symbol": "BANK",
+      "price_btc": 6.229901844042833e-07,
+      "timestamp": "2025-04-18 19:15"
+    },
+    {
+      "rank": 13,
+      "name": "Mina Protocol",
+      "symbol": "MINA",
+      "price_btc": 2.463714039375027e-06,
+      "timestamp": "2025-04-18 19:15"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020056824893215758,
+      "timestamp": "2025-04-18 19:15"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 6.780241674027159e-06,
+      "timestamp": "2025-04-18 19:15"
+    }
   ]
 }
