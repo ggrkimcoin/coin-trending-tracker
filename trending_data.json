@@ -14015,5 +14015,112 @@
       "price_btc": 2.150564304323964e-08,
       "timestamp": "2025-04-18 15:19"
     }
+  ],
+  "2025-04-18 16:24": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.5564940593874804e-06,
+      "timestamp": "2025-04-18 16:24"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015761383381375474,
+      "timestamp": "2025-04-18 16:24"
+    },
+    {
+      "rank": 3,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.8503662462712305e-05,
+      "timestamp": "2025-04-18 16:24"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.660283630309934e-06,
+      "timestamp": "2025-04-18 16:24"
+    },
+    {
+      "rank": 5,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.141275314840029e-06,
+      "timestamp": "2025-04-18 16:24"
+    },
+    {
+      "rank": 6,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.988024979364079e-06,
+      "timestamp": "2025-04-18 16:24"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003081864098364976,
+      "timestamp": "2025-04-18 16:24"
+    },
+    {
+      "rank": 8,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4603703227915402e-11,
+      "timestamp": "2025-04-18 16:24"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.776612782931129e-06,
+      "timestamp": "2025-04-18 16:24"
+    },
+    {
+      "rank": 10,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0016349971892567067,
+      "timestamp": "2025-04-18 16:24"
+    },
+    {
+      "rank": 11,
+      "name": "CARV",
+      "symbol": "CARV",
+      "price_btc": 3.7319860361573264e-06,
+      "timestamp": "2025-04-18 16:24"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019543747906195628,
+      "timestamp": "2025-04-18 16:24"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.516490276766197e-11,
+      "timestamp": "2025-04-18 16:24"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018767599913885394,
+      "timestamp": "2025-04-18 16:24"
+    },
+    {
+      "rank": 15,
+      "name": "sUSD",
+      "symbol": "SUSD",
+      "price_btc": 9.855583190160792e-06,
+      "timestamp": "2025-04-18 16:24"
+    }
   ]
 }
