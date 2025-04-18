@@ -14657,5 +14657,112 @@
       "price_btc": 2.5263413891206615e-05,
       "timestamp": "2025-04-18 21:18"
     }
+  ],
+  "2025-04-18 22:19": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.70166739926494e-06,
+      "timestamp": "2025-04-18 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0031971344014089568,
+      "timestamp": "2025-04-18 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.865970370592847e-06,
+      "timestamp": "2025-04-18 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01888331172653652,
+      "timestamp": "2025-04-18 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020199603603923095,
+      "timestamp": "2025-04-18 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.477753715441362e-11,
+      "timestamp": "2025-04-18 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-18 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015877752928340327,
+      "timestamp": "2025-04-18 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5288518080511128e-05,
+      "timestamp": "2025-04-18 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4572413736374318e-05,
+      "timestamp": "2025-04-18 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.141327694943261e-06,
+      "timestamp": "2025-04-18 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.850382461518922e-06,
+      "timestamp": "2025-04-18 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.8704063979870604e-05,
+      "timestamp": "2025-04-18 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "deBridge",
+      "symbol": "DBR",
+      "price_btc": 1.8801818913557324e-07,
+      "timestamp": "2025-04-18 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.861472078808115e-06,
+      "timestamp": "2025-04-18 22:19"
+    }
   ]
 }
