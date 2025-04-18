@@ -13159,5 +13159,112 @@
       "price_btc": 4.0918040611955486e-05,
       "timestamp": "2025-04-18 07:19"
     }
+  ],
+  "2025-04-18 08:25": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.517786722414914e-06,
+      "timestamp": "2025-04-18 08:25"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030566181611352584,
+      "timestamp": "2025-04-18 08:25"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.142181270528829e-06,
+      "timestamp": "2025-04-18 08:25"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.929838652080995e-06,
+      "timestamp": "2025-04-18 08:25"
+    },
+    {
+      "rank": 5,
+      "name": "sUSD",
+      "symbol": "SUSD",
+      "price_btc": 8.649204339741506e-06,
+      "timestamp": "2025-04-18 08:25"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5079244997621516e-05,
+      "timestamp": "2025-04-18 08:25"
+    },
+    {
+      "rank": 7,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 8.938059196384608e-05,
+      "timestamp": "2025-04-18 08:25"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.201420094751656e-06,
+      "timestamp": "2025-04-18 08:25"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0187129792129731,
+      "timestamp": "2025-04-18 08:25"
+    },
+    {
+      "rank": 10,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 9.069134697982408e-07,
+      "timestamp": "2025-04-18 08:25"
+    },
+    {
+      "rank": 11,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 2.9675615080686456e-06,
+      "timestamp": "2025-04-18 08:25"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.0559024809544714e-05,
+      "timestamp": "2025-04-18 08:25"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015943554836071873,
+      "timestamp": "2025-04-18 08:25"
+    },
+    {
+      "rank": 14,
+      "name": "Memecoin",
+      "symbol": "MEME",
+      "price_btc": 2.3557482486172634e-08,
+      "timestamp": "2025-04-18 08:25"
+    },
+    {
+      "rank": 15,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.47388990365127e-06,
+      "timestamp": "2025-04-18 08:25"
+    }
   ]
 }
