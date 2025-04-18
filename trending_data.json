@@ -13373,5 +13373,112 @@
       "price_btc": 3.712609351381921e-05,
       "timestamp": "2025-04-18 09:20"
     }
+  ],
+  "2025-04-18 10:22": [
+    {
+      "rank": 1,
+      "name": "Memecoin",
+      "symbol": "MEME",
+      "price_btc": 2.397969370469475e-08,
+      "timestamp": "2025-04-18 10:22"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.615402666950964e-06,
+      "timestamp": "2025-04-18 10:22"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.230788496360841e-06,
+      "timestamp": "2025-04-18 10:22"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.08363779900189e-06,
+      "timestamp": "2025-04-18 10:22"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030599976924495847,
+      "timestamp": "2025-04-18 10:22"
+    },
+    {
+      "rank": 6,
+      "name": "sUSD",
+      "symbol": "SUSD",
+      "price_btc": 8.863403939291642e-06,
+      "timestamp": "2025-04-18 10:22"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.510927326863416e-05,
+      "timestamp": "2025-04-18 10:22"
+    },
+    {
+      "rank": 8,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.202188335136088e-06,
+      "timestamp": "2025-04-18 10:22"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018793311134843636,
+      "timestamp": "2025-04-18 10:22"
+    },
+    {
+      "rank": 10,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.1036495597058744e-05,
+      "timestamp": "2025-04-18 10:22"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001592374401205957,
+      "timestamp": "2025-04-18 10:22"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 6.725407827059434e-06,
+      "timestamp": "2025-04-18 10:22"
+    },
+    {
+      "rank": 13,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.8640177275677038e-05,
+      "timestamp": "2025-04-18 10:22"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.583726880638737e-06,
+      "timestamp": "2025-04-18 10:22"
+    },
+    {
+      "rank": 15,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 5.909117406489042e-08,
+      "timestamp": "2025-04-18 10:22"
+    }
   ]
 }
