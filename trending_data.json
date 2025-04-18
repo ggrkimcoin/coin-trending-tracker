@@ -14229,5 +14229,112 @@
       "price_btc": 9.858123635438838e-06,
       "timestamp": "2025-04-18 17:17"
     }
+  ],
+  "2025-04-18 18:26": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.909980900029062e-06,
+      "timestamp": "2025-04-18 18:26"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.946162258310475e-06,
+      "timestamp": "2025-04-18 18:26"
+    },
+    {
+      "rank": 3,
+      "name": "Lorenzo Protocol",
+      "symbol": "BANK",
+      "price_btc": 5.751397919136969e-07,
+      "timestamp": "2025-04-18 18:26"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0031169795671267364,
+      "timestamp": "2025-04-18 18:26"
+    },
+    {
+      "rank": 5,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.932941529639092e-05,
+      "timestamp": "2025-04-18 18:26"
+    },
+    {
+      "rank": 6,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.1048152593739604e-06,
+      "timestamp": "2025-04-18 18:26"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-18 18:26"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018808255068592003,
+      "timestamp": "2025-04-18 18:26"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.514311694093288e-06,
+      "timestamp": "2025-04-18 18:26"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015822530289608932,
+      "timestamp": "2025-04-18 18:26"
+    },
+    {
+      "rank": 11,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.925873993284808e-06,
+      "timestamp": "2025-04-18 18:26"
+    },
+    {
+      "rank": 12,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.8798252599500213e-05,
+      "timestamp": "2025-04-18 18:26"
+    },
+    {
+      "rank": 13,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4675831511154507e-11,
+      "timestamp": "2025-04-18 18:26"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.056068481694758e-05,
+      "timestamp": "2025-04-18 18:26"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 6.8165983449142704e-06,
+      "timestamp": "2025-04-18 18:26"
+    }
   ]
 }
