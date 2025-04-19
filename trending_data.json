@@ -16690,5 +16690,112 @@
       "price_btc": 7.6203120858202085e-06,
       "timestamp": "2025-04-19 17:15"
     }
+  ],
+  "2025-04-19 18:24": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.162547638234058e-06,
+      "timestamp": "2025-04-19 18:24"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5609354785135168e-11,
+      "timestamp": "2025-04-19 18:24"
+    },
+    {
+      "rank": 3,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.90383588517175e-06,
+      "timestamp": "2025-04-19 18:24"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003258082327440648,
+      "timestamp": "2025-04-19 18:24"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.782537041396119e-05,
+      "timestamp": "2025-04-19 18:24"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.631867300780282e-06,
+      "timestamp": "2025-04-19 18:24"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.540443012785043e-05,
+      "timestamp": "2025-04-19 18:24"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016288470381479756,
+      "timestamp": "2025-04-19 18:24"
+    },
+    {
+      "rank": 9,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.493902888489322e-06,
+      "timestamp": "2025-04-19 18:24"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020741913869355572,
+      "timestamp": "2025-04-19 18:24"
+    },
+    {
+      "rank": 11,
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "price_btc": 1.960406873387093e-06,
+      "timestamp": "2025-04-19 18:24"
+    },
+    {
+      "rank": 12,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 1.648979013702072e-06,
+      "timestamp": "2025-04-19 18:24"
+    },
+    {
+      "rank": 13,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.9706187615583233e-05,
+      "timestamp": "2025-04-19 18:24"
+    },
+    {
+      "rank": 14,
+      "name": "Wayfinder",
+      "symbol": "PROMPT",
+      "price_btc": 2.6550632441276456e-06,
+      "timestamp": "2025-04-19 18:24"
+    },
+    {
+      "rank": 15,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 1.4468959134412597e-06,
+      "timestamp": "2025-04-19 18:24"
+    }
   ]
 }
