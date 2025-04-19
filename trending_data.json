@@ -16797,5 +16797,112 @@
       "price_btc": 1.4468959134412597e-06,
       "timestamp": "2025-04-19 18:24"
     }
+  ],
+  "2025-04-19 19:16": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.138376397712526e-06,
+      "timestamp": "2025-04-19 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5294112337901346e-11,
+      "timestamp": "2025-04-19 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.957411411017565e-06,
+      "timestamp": "2025-04-19 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003326599973488835,
+      "timestamp": "2025-04-19 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.838841033737953e-05,
+      "timestamp": "2025-04-19 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016261726405563711,
+      "timestamp": "2025-04-19 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.179525138066498e-06,
+      "timestamp": "2025-04-19 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020955958994042963,
+      "timestamp": "2025-04-19 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 6.6810539632185864e-06,
+      "timestamp": "2025-04-19 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.531158305566541e-05,
+      "timestamp": "2025-04-19 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.5993294293752705e-06,
+      "timestamp": "2025-04-19 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "price_btc": 1.9527441961453197e-06,
+      "timestamp": "2025-04-19 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018974921369940945,
+      "timestamp": "2025-04-19 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4526199025862385e-05,
+      "timestamp": "2025-04-19 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 1.6419229770596215e-06,
+      "timestamp": "2025-04-19 19:16"
+    }
   ]
 }
