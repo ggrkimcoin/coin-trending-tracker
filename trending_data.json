@@ -15406,5 +15406,112 @@
       "price_btc": 4.674014687355286e-06,
       "timestamp": "2025-04-19 05:18"
     }
+  ],
+  "2025-04-19 06:26": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.498493939408566e-06,
+      "timestamp": "2025-04-19 06:26"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003230230164889107,
+      "timestamp": "2025-04-19 06:26"
+    },
+    {
+      "rank": 3,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.596974286757896e-05,
+      "timestamp": "2025-04-19 06:26"
+    },
+    {
+      "rank": 4,
+      "name": "Lorenzo Protocol",
+      "symbol": "BANK",
+      "price_btc": 6.168379994776198e-07,
+      "timestamp": "2025-04-19 06:26"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.580084353049857e-06,
+      "timestamp": "2025-04-19 06:26"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018832789635980885,
+      "timestamp": "2025-04-19 06:26"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.208070822056997e-06,
+      "timestamp": "2025-04-19 06:26"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001626626060782659,
+      "timestamp": "2025-04-19 06:26"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-19 06:26"
+    },
+    {
+      "rank": 10,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.1723114641834385e-06,
+      "timestamp": "2025-04-19 06:26"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021156395646229818,
+      "timestamp": "2025-04-19 06:26"
+    },
+    {
+      "rank": 12,
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "price_btc": 5.6693526781863675e-05,
+      "timestamp": "2025-04-19 06:26"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.450193520003372e-05,
+      "timestamp": "2025-04-19 06:26"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.440738356261401e-06,
+      "timestamp": "2025-04-19 06:26"
+    },
+    {
+      "rank": 15,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 4.74452377131978e-06,
+      "timestamp": "2025-04-19 06:26"
+    }
   ]
 }
