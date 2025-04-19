@@ -15085,5 +15085,112 @@
       "price_btc": 0.00020188639305256554,
       "timestamp": "2025-04-19 02:56"
     }
+  ],
+  "2025-04-19 03:32": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.5405136363023086e-06,
+      "timestamp": "2025-04-19 03:32"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003228701011727045,
+      "timestamp": "2025-04-19 03:32"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.701060535667578e-06,
+      "timestamp": "2025-04-19 03:32"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001628153162182418,
+      "timestamp": "2025-04-19 03:32"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.425801991316067e-05,
+      "timestamp": "2025-04-19 03:32"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.302007822083842e-06,
+      "timestamp": "2025-04-19 03:32"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-19 03:32"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01881308448871029,
+      "timestamp": "2025-04-19 03:32"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.454086969659469e-05,
+      "timestamp": "2025-04-19 03:32"
+    },
+    {
+      "rank": 10,
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "price_btc": 1.9744225394223563e-06,
+      "timestamp": "2025-04-19 03:32"
+    },
+    {
+      "rank": 11,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.756278859195375e-05,
+      "timestamp": "2025-04-19 03:32"
+    },
+    {
+      "rank": 12,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.078991837753645e-06,
+      "timestamp": "2025-04-19 03:32"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020309120632134526,
+      "timestamp": "2025-04-19 03:32"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.916664547130503e-05,
+      "timestamp": "2025-04-19 03:32"
+    },
+    {
+      "rank": 15,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.228068801683385e-07,
+      "timestamp": "2025-04-19 03:32"
+    }
   ]
 }
