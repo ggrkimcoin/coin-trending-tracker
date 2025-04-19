@@ -16476,5 +16476,112 @@
       "price_btc": 5.970346262581638e-07,
       "timestamp": "2025-04-19 15:18"
     }
+  ],
+  "2025-04-19 16:23": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4927524517999634e-11,
+      "timestamp": "2025-04-19 16:23"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.13530086109112e-06,
+      "timestamp": "2025-04-19 16:23"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.079274048261578e-06,
+      "timestamp": "2025-04-19 16:23"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021165585663634836,
+      "timestamp": "2025-04-19 16:23"
+    },
+    {
+      "rank": 5,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.836130728112005e-06,
+      "timestamp": "2025-04-19 16:23"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0032217858533405788,
+      "timestamp": "2025-04-19 16:23"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016278370572858896,
+      "timestamp": "2025-04-19 16:23"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.592616723228471e-06,
+      "timestamp": "2025-04-19 16:23"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01887169023094753,
+      "timestamp": "2025-04-19 16:23"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5150587348987522e-05,
+      "timestamp": "2025-04-19 16:23"
+    },
+    {
+      "rank": 11,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.570380137725588e-06,
+      "timestamp": "2025-04-19 16:23"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.742370673466327e-05,
+      "timestamp": "2025-04-19 16:23"
+    },
+    {
+      "rank": 13,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 4.9542808903126814e-06,
+      "timestamp": "2025-04-19 16:23"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-19 16:23"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.938583215215471e-06,
+      "timestamp": "2025-04-19 16:23"
+    }
   ]
 }
