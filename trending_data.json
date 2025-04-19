@@ -15727,5 +15727,112 @@
       "price_btc": 5.070026763681882e-06,
       "timestamp": "2025-04-19 08:22"
     }
+  ],
+  "2025-04-19 09:18": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.458087586868227e-06,
+      "timestamp": "2025-04-19 09:18"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0033322277548976714,
+      "timestamp": "2025-04-19 09:18"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021199233987044013,
+      "timestamp": "2025-04-19 09:18"
+    },
+    {
+      "rank": 4,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.894699378700818e-05,
+      "timestamp": "2025-04-19 09:18"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016299477793090766,
+      "timestamp": "2025-04-19 09:18"
+    },
+    {
+      "rank": 6,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.541118021594098e-06,
+      "timestamp": "2025-04-19 09:18"
+    },
+    {
+      "rank": 7,
+      "name": "sUSD",
+      "symbol": "SUSD",
+      "price_btc": 9.716836651257387e-06,
+      "timestamp": "2025-04-19 09:18"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.583430447181319e-06,
+      "timestamp": "2025-04-19 09:18"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.141140624910685e-06,
+      "timestamp": "2025-04-19 09:18"
+    },
+    {
+      "rank": 10,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.968072883928982e-05,
+      "timestamp": "2025-04-19 09:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.915135974730898e-06,
+      "timestamp": "2025-04-19 09:18"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.517551528428577e-05,
+      "timestamp": "2025-04-19 09:18"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.446390015808086e-05,
+      "timestamp": "2025-04-19 09:18"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 6.786890673289526e-06,
+      "timestamp": "2025-04-19 09:18"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.56150666218385e-11,
+      "timestamp": "2025-04-19 09:18"
+    }
   ]
 }
