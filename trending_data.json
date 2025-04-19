@@ -16262,5 +16262,112 @@
       "price_btc": 2.167747315451414e-07,
       "timestamp": "2025-04-19 13:24"
     }
+  ],
+  "2025-04-19 14:16": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4699443534161387e-11,
+      "timestamp": "2025-04-19 14:16"
+    },
+    {
+      "rank": 2,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.734298740609101e-06,
+      "timestamp": "2025-04-19 14:16"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.2267905687000444e-06,
+      "timestamp": "2025-04-19 14:16"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016314896127179062,
+      "timestamp": "2025-04-19 14:16"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5151399836355482e-05,
+      "timestamp": "2025-04-19 14:16"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.105804459547149e-06,
+      "timestamp": "2025-04-19 14:16"
+    },
+    {
+      "rank": 7,
+      "name": "sUSD",
+      "symbol": "SUSD",
+      "price_btc": 9.662800788629819e-06,
+      "timestamp": "2025-04-19 14:16"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003234140713942833,
+      "timestamp": "2025-04-19 14:16"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021240720443250645,
+      "timestamp": "2025-04-19 14:16"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.588944352257465e-06,
+      "timestamp": "2025-04-19 14:16"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.808004106030832e-05,
+      "timestamp": "2025-04-19 14:16"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0187690117614551,
+      "timestamp": "2025-04-19 14:16"
+    },
+    {
+      "rank": 13,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.338744115015108e-06,
+      "timestamp": "2025-04-19 14:16"
+    },
+    {
+      "rank": 14,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.59441293790036e-05,
+      "timestamp": "2025-04-19 14:16"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4422278328352845e-05,
+      "timestamp": "2025-04-19 14:16"
+    }
   ]
 }
