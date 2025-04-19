@@ -15834,5 +15834,112 @@
       "price_btc": 8.56150666218385e-11,
       "timestamp": "2025-04-19 09:18"
     }
+  ],
+  "2025-04-19 10:19": [
+    {
+      "rank": 1,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0032951779603234655,
+      "timestamp": "2025-04-19 10:19"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.08225331330048e-06,
+      "timestamp": "2025-04-19 10:19"
+    },
+    {
+      "rank": 3,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00010042145379154703,
+      "timestamp": "2025-04-19 10:19"
+    },
+    {
+      "rank": 4,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.241121733256699e-06,
+      "timestamp": "2025-04-19 10:19"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002128664640146878,
+      "timestamp": "2025-04-19 10:19"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016345472913156048,
+      "timestamp": "2025-04-19 10:19"
+    },
+    {
+      "rank": 7,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.355437079022693e-06,
+      "timestamp": "2025-04-19 10:19"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.556969842310365e-06,
+      "timestamp": "2025-04-19 10:19"
+    },
+    {
+      "rank": 9,
+      "name": "sUSD",
+      "symbol": "SUSD",
+      "price_btc": 9.718950160408387e-06,
+      "timestamp": "2025-04-19 10:19"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5081935083779782e-05,
+      "timestamp": "2025-04-19 10:19"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.476395008531015e-06,
+      "timestamp": "2025-04-19 10:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018738918936095913,
+      "timestamp": "2025-04-19 10:19"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.87457272542778e-06,
+      "timestamp": "2025-04-19 10:19"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.9680302961244396e-05,
+      "timestamp": "2025-04-19 10:19"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4486717490168087e-05,
+      "timestamp": "2025-04-19 10:19"
+    }
   ]
 }
