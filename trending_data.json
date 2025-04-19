@@ -17118,5 +17118,112 @@
       "price_btc": 9.775957957452181e-05,
       "timestamp": "2025-04-19 21:17"
     }
+  ],
+  "2025-04-19 22:17": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5316459518576493e-11,
+      "timestamp": "2025-04-19 22:17"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.109369855883532e-06,
+      "timestamp": "2025-04-19 22:17"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.858866594366333e-06,
+      "timestamp": "2025-04-19 22:17"
+    },
+    {
+      "rank": 4,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.89569497783383e-06,
+      "timestamp": "2025-04-19 22:17"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0033836624100785826,
+      "timestamp": "2025-04-19 22:17"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016289605105360321,
+      "timestamp": "2025-04-19 22:17"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01898727612560449,
+      "timestamp": "2025-04-19 22:17"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.866921847022871e-11,
+      "timestamp": "2025-04-19 22:17"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021063951782243487,
+      "timestamp": "2025-04-19 22:17"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.269212607289749e-06,
+      "timestamp": "2025-04-19 22:17"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5391293764914183e-05,
+      "timestamp": "2025-04-19 22:17"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.448982580412982e-05,
+      "timestamp": "2025-04-19 22:17"
+    },
+    {
+      "rank": 13,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.919327887820779e-05,
+      "timestamp": "2025-04-19 22:17"
+    },
+    {
+      "rank": 14,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 1.4483639562592686e-06,
+      "timestamp": "2025-04-19 22:17"
+    },
+    {
+      "rank": 15,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 1.213732488776382e-08,
+      "timestamp": "2025-04-19 22:17"
+    }
   ]
 }
