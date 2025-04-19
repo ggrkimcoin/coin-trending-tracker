@@ -17011,5 +17011,112 @@
       "price_btc": 0.00015205806909149926,
       "timestamp": "2025-04-19 20:19"
     }
+  ],
+  "2025-04-19 21:17": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5106630357901968e-11,
+      "timestamp": "2025-04-19 21:17"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.156548119206162e-06,
+      "timestamp": "2025-04-19 21:17"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.632129986110971e-06,
+      "timestamp": "2025-04-19 21:17"
+    },
+    {
+      "rank": 4,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.937022021388572e-06,
+      "timestamp": "2025-04-19 21:17"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018954315673316572,
+      "timestamp": "2025-04-19 21:17"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0033425373543240935,
+      "timestamp": "2025-04-19 21:17"
+    },
+    {
+      "rank": 7,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.582403753661362e-06,
+      "timestamp": "2025-04-19 21:17"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5357402731233373e-05,
+      "timestamp": "2025-04-19 21:17"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002113403889336298,
+      "timestamp": "2025-04-19 21:17"
+    },
+    {
+      "rank": 10,
+      "name": "Helium",
+      "symbol": "HNT",
+      "price_btc": 4.02722008120689e-05,
+      "timestamp": "2025-04-19 21:17"
+    },
+    {
+      "rank": 11,
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "price_btc": 2.2461961642319674e-06,
+      "timestamp": "2025-04-19 21:17"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.562141267430873e-06,
+      "timestamp": "2025-04-19 21:17"
+    },
+    {
+      "rank": 13,
+      "name": "Cosmos Hub",
+      "symbol": "ATOM",
+      "price_btc": 4.937844588233206e-05,
+      "timestamp": "2025-04-19 21:17"
+    },
+    {
+      "rank": 14,
+      "name": "Eigenlayer",
+      "symbol": "EIGEN",
+      "price_btc": 9.887269039652409e-06,
+      "timestamp": "2025-04-19 21:17"
+    },
+    {
+      "rank": 15,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.775957957452181e-05,
+      "timestamp": "2025-04-19 21:17"
+    }
   ]
 }
