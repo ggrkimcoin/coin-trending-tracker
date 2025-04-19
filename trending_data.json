@@ -15513,5 +15513,112 @@
       "price_btc": 4.74452377131978e-06,
       "timestamp": "2025-04-19 06:26"
     }
+  ],
+  "2025-04-19 07:16": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.486394962279699e-06,
+      "timestamp": "2025-04-19 07:16"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.551758341825869e-06,
+      "timestamp": "2025-04-19 07:16"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003238937086991678,
+      "timestamp": "2025-04-19 07:16"
+    },
+    {
+      "rank": 4,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.658030876823736e-05,
+      "timestamp": "2025-04-19 07:16"
+    },
+    {
+      "rank": 5,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.96570627578122e-05,
+      "timestamp": "2025-04-19 07:16"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 6.733354580975926e-06,
+      "timestamp": "2025-04-19 07:16"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021054737926132908,
+      "timestamp": "2025-04-19 07:16"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.916328186985235e-06,
+      "timestamp": "2025-04-19 07:16"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018801637898461513,
+      "timestamp": "2025-04-19 07:16"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016275946971167348,
+      "timestamp": "2025-04-19 07:16"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-19 07:16"
+    },
+    {
+      "rank": 12,
+      "name": "Aergo",
+      "symbol": "AERGO",
+      "price_btc": 3.30557742266179e-06,
+      "timestamp": "2025-04-19 07:16"
+    },
+    {
+      "rank": 13,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 1.4701958673536181e-06,
+      "timestamp": "2025-04-19 07:16"
+    },
+    {
+      "rank": 14,
+      "name": "Kadena",
+      "symbol": "KDA",
+      "price_btc": 5.207770903349715e-06,
+      "timestamp": "2025-04-19 07:16"
+    },
+    {
+      "rank": 15,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.321054254861814e-06,
+      "timestamp": "2025-04-19 07:16"
+    }
   ]
 }
