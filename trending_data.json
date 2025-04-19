@@ -14871,5 +14871,112 @@
       "price_btc": 3.345051605790313e-06,
       "timestamp": "2025-04-18 23:18"
     }
+  ],
+  "2025-04-19 01:27": [
+    {
+      "rank": 1,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0032357153004507594,
+      "timestamp": "2025-04-19 01:27"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.537525853422229e-06,
+      "timestamp": "2025-04-19 01:27"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019967219063759522,
+      "timestamp": "2025-04-19 01:27"
+    },
+    {
+      "rank": 4,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.20393932520413e-05,
+      "timestamp": "2025-04-19 01:27"
+    },
+    {
+      "rank": 5,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.877113904648265e-05,
+      "timestamp": "2025-04-19 01:27"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.915567288873054e-06,
+      "timestamp": "2025-04-19 01:27"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015889784094638615,
+      "timestamp": "2025-04-19 01:27"
+    },
+    {
+      "rank": 8,
+      "name": "Memecoin",
+      "symbol": "MEME",
+      "price_btc": 2.695353786199534e-08,
+      "timestamp": "2025-04-19 01:27"
+    },
+    {
+      "rank": 9,
+      "name": "WAX",
+      "symbol": "WAXP",
+      "price_btc": 3.439307027909806e-07,
+      "timestamp": "2025-04-19 01:27"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01878679059925491,
+      "timestamp": "2025-04-19 01:27"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.675617787925572e-06,
+      "timestamp": "2025-04-19 01:27"
+    },
+    {
+      "rank": 12,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.063125871260929e-06,
+      "timestamp": "2025-04-19 01:27"
+    },
+    {
+      "rank": 13,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 1.5421338391324944e-06,
+      "timestamp": "2025-04-19 01:27"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.864137198770454e-06,
+      "timestamp": "2025-04-19 01:27"
+    },
+    {
+      "rank": 15,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.2143489473624994e-07,
+      "timestamp": "2025-04-19 01:27"
+    }
   ]
 }
