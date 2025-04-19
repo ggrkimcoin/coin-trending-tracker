@@ -15620,5 +15620,112 @@
       "price_btc": 4.321054254861814e-06,
       "timestamp": "2025-04-19 07:16"
     }
+  ],
+  "2025-04-19 08:22": [
+    {
+      "rank": 1,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.774786479110571e-05,
+      "timestamp": "2025-04-19 08:22"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.505323273413965e-06,
+      "timestamp": "2025-04-19 08:22"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0032845473065336067,
+      "timestamp": "2025-04-19 08:22"
+    },
+    {
+      "rank": 4,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.02137473786608e-05,
+      "timestamp": "2025-04-19 08:22"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.583928445766639e-06,
+      "timestamp": "2025-04-19 08:22"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021317609472802328,
+      "timestamp": "2025-04-19 08:22"
+    },
+    {
+      "rank": 7,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.386204176050357e-06,
+      "timestamp": "2025-04-19 08:22"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016289317645174807,
+      "timestamp": "2025-04-19 08:22"
+    },
+    {
+      "rank": 9,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 4.545594523774416e-06,
+      "timestamp": "2025-04-19 08:22"
+    },
+    {
+      "rank": 10,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.3325935239460845e-06,
+      "timestamp": "2025-04-19 08:22"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.110449971154373e-06,
+      "timestamp": "2025-04-19 08:22"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018796123419218776,
+      "timestamp": "2025-04-19 08:22"
+    },
+    {
+      "rank": 13,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.516582850436722e-06,
+      "timestamp": "2025-04-19 08:22"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.471086012686494e-06,
+      "timestamp": "2025-04-19 08:22"
+    },
+    {
+      "rank": 15,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.070026763681882e-06,
+      "timestamp": "2025-04-19 08:22"
+    }
   ]
 }
