@@ -15192,5 +15192,112 @@
       "price_btc": 2.228068801683385e-07,
       "timestamp": "2025-04-19 03:32"
     }
+  ],
+  "2025-04-19 04:22": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.539662318177312e-06,
+      "timestamp": "2025-04-19 04:22"
+    },
+    {
+      "rank": 2,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.958039202022843e-05,
+      "timestamp": "2025-04-19 04:22"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0032204009938700414,
+      "timestamp": "2025-04-19 04:22"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-19 04:22"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.707207852231402e-06,
+      "timestamp": "2025-04-19 04:22"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016341227458143608,
+      "timestamp": "2025-04-19 04:22"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01881504439674163,
+      "timestamp": "2025-04-19 04:22"
+    },
+    {
+      "rank": 8,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.9342497554368546e-05,
+      "timestamp": "2025-04-19 04:22"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.370425724057998e-06,
+      "timestamp": "2025-04-19 04:22"
+    },
+    {
+      "rank": 10,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.068487348053011e-06,
+      "timestamp": "2025-04-19 04:22"
+    },
+    {
+      "rank": 11,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.2263996301328856e-07,
+      "timestamp": "2025-04-19 04:22"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.952402445885076e-06,
+      "timestamp": "2025-04-19 04:22"
+    },
+    {
+      "rank": 13,
+      "name": "Ronin",
+      "symbol": "RON",
+      "price_btc": 5.840964922882136e-06,
+      "timestamp": "2025-04-19 04:22"
+    },
+    {
+      "rank": 14,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 5.253587210303255e-06,
+      "timestamp": "2025-04-19 04:22"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4544293103852235e-05,
+      "timestamp": "2025-04-19 04:22"
+    }
   ]
 }
