@@ -16583,5 +16583,112 @@
       "price_btc": 9.938583215215471e-06,
       "timestamp": "2025-04-19 16:23"
     }
+  ],
+  "2025-04-19 17:15": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4968400946025818e-11,
+      "timestamp": "2025-04-19 17:15"
+    },
+    {
+      "rank": 2,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.890280178383699e-06,
+      "timestamp": "2025-04-19 17:15"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.201031382741953e-06,
+      "timestamp": "2025-04-19 17:15"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0032403624593777642,
+      "timestamp": "2025-04-19 17:15"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021001798038097584,
+      "timestamp": "2025-04-19 17:15"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.50770975347595e-05,
+      "timestamp": "2025-04-19 17:15"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016262741902556166,
+      "timestamp": "2025-04-19 17:15"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.440204496131889e-05,
+      "timestamp": "2025-04-19 17:15"
+    },
+    {
+      "rank": 9,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.726310648668668e-05,
+      "timestamp": "2025-04-19 17:15"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-19 17:15"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.078450585048973e-06,
+      "timestamp": "2025-04-19 17:15"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.927129082838399e-05,
+      "timestamp": "2025-04-19 17:15"
+    },
+    {
+      "rank": 13,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.5435909472545468e-05,
+      "timestamp": "2025-04-19 17:15"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01887384185965619,
+      "timestamp": "2025-04-19 17:15"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.6203120858202085e-06,
+      "timestamp": "2025-04-19 17:15"
+    }
   ]
 }
