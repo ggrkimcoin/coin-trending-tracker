@@ -14978,5 +14978,112 @@
       "price_btc": 2.2143489473624994e-07,
       "timestamp": "2025-04-19 01:27"
     }
+  ],
+  "2025-04-19 02:56": [
+    {
+      "rank": 1,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016207999508515204,
+      "timestamp": "2025-04-19 02:56"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0032167194310390454,
+      "timestamp": "2025-04-19 02:56"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.523056027572879e-06,
+      "timestamp": "2025-04-19 02:56"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.203629259759191e-06,
+      "timestamp": "2025-04-19 02:56"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.298569584120848e-05,
+      "timestamp": "2025-04-19 02:56"
+    },
+    {
+      "rank": 6,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.883661737252806e-05,
+      "timestamp": "2025-04-19 02:56"
+    },
+    {
+      "rank": 7,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.879461910641551e-05,
+      "timestamp": "2025-04-19 02:56"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.659441432080985e-06,
+      "timestamp": "2025-04-19 02:56"
+    },
+    {
+      "rank": 9,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.5941397935613316e-05,
+      "timestamp": "2025-04-19 02:56"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018806970148085335,
+      "timestamp": "2025-04-19 02:56"
+    },
+    {
+      "rank": 11,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.744661988856339e-05,
+      "timestamp": "2025-04-19 02:56"
+    },
+    {
+      "rank": 12,
+      "name": "Story",
+      "symbol": "IP",
+      "price_btc": 4.51871281056277e-05,
+      "timestamp": "2025-04-19 02:56"
+    },
+    {
+      "rank": 13,
+      "name": "Helium",
+      "symbol": "HNT",
+      "price_btc": 4.1547007956646735e-05,
+      "timestamp": "2025-04-19 02:56"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.64217063068021e-11,
+      "timestamp": "2025-04-19 02:56"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020188639305256554,
+      "timestamp": "2025-04-19 02:56"
+    }
   ]
 }
