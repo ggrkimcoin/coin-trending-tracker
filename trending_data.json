@@ -17332,5 +17332,112 @@
       "price_btc": 9.538066211661136e-06,
       "timestamp": "2025-04-19 23:19"
     }
+  ],
+  "2025-04-20 01:44": [
+    {
+      "rank": 1,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.762373736831196e-06,
+      "timestamp": "2025-04-20 01:44"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.095472809980248e-06,
+      "timestamp": "2025-04-20 01:44"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0102606621198414e-05,
+      "timestamp": "2025-04-20 01:44"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.624920735159565e-06,
+      "timestamp": "2025-04-20 01:44"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00010036025093498668,
+      "timestamp": "2025-04-20 01:44"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0034710035321030767,
+      "timestamp": "2025-04-20 01:44"
+    },
+    {
+      "rank": 7,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 8.60399244209464e-07,
+      "timestamp": "2025-04-20 01:44"
+    },
+    {
+      "rank": 8,
+      "name": "Nillion",
+      "symbol": "NIL",
+      "price_btc": 4.414627883968778e-06,
+      "timestamp": "2025-04-20 01:44"
+    },
+    {
+      "rank": 9,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 4.980751901478316e-05,
+      "timestamp": "2025-04-20 01:44"
+    },
+    {
+      "rank": 10,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.1729364675934098e-07,
+      "timestamp": "2025-04-20 01:44"
+    },
+    {
+      "rank": 11,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.0431444739077045e-06,
+      "timestamp": "2025-04-20 01:44"
+    },
+    {
+      "rank": 12,
+      "name": "Optimism",
+      "symbol": "OP",
+      "price_btc": 8.259590671476625e-06,
+      "timestamp": "2025-04-20 01:44"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016546574599375136,
+      "timestamp": "2025-04-20 01:44"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.810474726463915e-11,
+      "timestamp": "2025-04-20 01:44"
+    },
+    {
+      "rank": 15,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.650169022989476e-06,
+      "timestamp": "2025-04-20 01:44"
+    }
   ]
 }
