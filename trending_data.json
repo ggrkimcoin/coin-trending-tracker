@@ -18723,5 +18723,112 @@
       "price_btc": 3.9319340923743786e-05,
       "timestamp": "2025-04-20 14:17"
     }
+  ],
+  "2025-04-20 15:18": [
+    {
+      "rank": 1,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.78286379793066e-06,
+      "timestamp": "2025-04-20 15:18"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.53358052003971e-11,
+      "timestamp": "2025-04-20 15:18"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035946341434262767,
+      "timestamp": "2025-04-20 15:18"
+    },
+    {
+      "rank": 4,
+      "name": "AUKI",
+      "symbol": "AUKI",
+      "price_btc": 2.638502035542155e-07,
+      "timestamp": "2025-04-20 15:18"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.8288444205097406e-06,
+      "timestamp": "2025-04-20 15:18"
+    },
+    {
+      "rank": 6,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.610698261179694e-06,
+      "timestamp": "2025-04-20 15:18"
+    },
+    {
+      "rank": 7,
+      "name": "Voxies",
+      "symbol": "VOXEL",
+      "price_btc": 1.1047413981143594e-06,
+      "timestamp": "2025-04-20 15:18"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.716566814586742e-06,
+      "timestamp": "2025-04-20 15:18"
+    },
+    {
+      "rank": 9,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 2.0812444752565254e-06,
+      "timestamp": "2025-04-20 15:18"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01868988992922316,
+      "timestamp": "2025-04-20 15:18"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.612108581223982e-05,
+      "timestamp": "2025-04-20 15:18"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.924262127864917e-05,
+      "timestamp": "2025-04-20 15:18"
+    },
+    {
+      "rank": 13,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 7.318289668533486e-06,
+      "timestamp": "2025-04-20 15:18"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016250422276811764,
+      "timestamp": "2025-04-20 15:18"
+    },
+    {
+      "rank": 15,
+      "name": "Xai",
+      "symbol": "XAI",
+      "price_btc": 5.802627997565333e-07,
+      "timestamp": "2025-04-20 15:18"
+    }
   ]
 }
