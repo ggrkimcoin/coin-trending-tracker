@@ -19472,5 +19472,112 @@
       "price_btc": 6.21666156203308e-05,
       "timestamp": "2025-04-20 21:17"
     }
+  ],
+  "2025-04-20 22:18": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5636236577696644e-11,
+      "timestamp": "2025-04-20 22:18"
+    },
+    {
+      "rank": 2,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.404211806368465e-06,
+      "timestamp": "2025-04-20 22:18"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037829772553783633,
+      "timestamp": "2025-04-20 22:18"
+    },
+    {
+      "rank": 4,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.48934449841157e-06,
+      "timestamp": "2025-04-20 22:18"
+    },
+    {
+      "rank": 5,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.789174107080049e-06,
+      "timestamp": "2025-04-20 22:18"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016160913514325847,
+      "timestamp": "2025-04-20 22:18"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020671330655863107,
+      "timestamp": "2025-04-20 22:18"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-20 22:18"
+    },
+    {
+      "rank": 9,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 4.587320919094231e-07,
+      "timestamp": "2025-04-20 22:18"
+    },
+    {
+      "rank": 10,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 5.124621990506157e-05,
+      "timestamp": "2025-04-20 22:18"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0033660015745588e-05,
+      "timestamp": "2025-04-20 22:18"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.9473548803321845e-05,
+      "timestamp": "2025-04-20 22:18"
+    },
+    {
+      "rank": 13,
+      "name": "AUKI",
+      "symbol": "AUKI",
+      "price_btc": 3.206727230374185e-07,
+      "timestamp": "2025-04-20 22:18"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4468206705540146e-05,
+      "timestamp": "2025-04-20 22:18"
+    },
+    {
+      "rank": 15,
+      "name": "Convex Finance",
+      "symbol": "CVX",
+      "price_btc": 2.818136709528839e-05,
+      "timestamp": "2025-04-20 22:18"
+    }
   ]
 }
