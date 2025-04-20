@@ -18081,5 +18081,112 @@
       "price_btc": 1.9055054913044056e-06,
       "timestamp": "2025-04-20 08:22"
     }
+  ],
+  "2025-04-20 09:18": [
+    {
+      "rank": 1,
+      "name": "Voxies",
+      "symbol": "VOXEL",
+      "price_btc": 1.549307834716426e-06,
+      "timestamp": "2025-04-20 09:18"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.986162752739613e-06,
+      "timestamp": "2025-04-20 09:18"
+    },
+    {
+      "rank": 3,
+      "name": "NKN",
+      "symbol": "NKN",
+      "price_btc": 5.209187175803355e-07,
+      "timestamp": "2025-04-20 09:18"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036086981625909763,
+      "timestamp": "2025-04-20 09:18"
+    },
+    {
+      "rank": 5,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.760028162974096e-06,
+      "timestamp": "2025-04-20 09:18"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016443029928892956,
+      "timestamp": "2025-04-20 09:18"
+    },
+    {
+      "rank": 7,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.7197884531975e-05,
+      "timestamp": "2025-04-20 09:18"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.945090626672674e-06,
+      "timestamp": "2025-04-20 09:18"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.4148866159057274e-06,
+      "timestamp": "2025-04-20 09:18"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018800219769323636,
+      "timestamp": "2025-04-20 09:18"
+    },
+    {
+      "rank": 11,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 6.837205434572531e-06,
+      "timestamp": "2025-04-20 09:18"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021026922348872434,
+      "timestamp": "2025-04-20 09:18"
+    },
+    {
+      "rank": 13,
+      "name": "Origin Token",
+      "symbol": "OGN",
+      "price_btc": 8.390187368596296e-07,
+      "timestamp": "2025-04-20 09:18"
+    },
+    {
+      "rank": 14,
+      "name": "Ronin",
+      "symbol": "RON",
+      "price_btc": 5.857304715553e-06,
+      "timestamp": "2025-04-20 09:18"
+    },
+    {
+      "rank": 15,
+      "name": "Pixels",
+      "symbol": "PIXEL",
+      "price_btc": 3.6908363688674257e-07,
+      "timestamp": "2025-04-20 09:18"
+    }
   ]
 }
