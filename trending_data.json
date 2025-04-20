@@ -18188,5 +18188,112 @@
       "price_btc": 3.6908363688674257e-07,
       "timestamp": "2025-04-20 09:18"
     }
+  ],
+  "2025-04-20 10:19": [
+    {
+      "rank": 1,
+      "name": "Voxies",
+      "symbol": "VOXEL",
+      "price_btc": 1.33733663854466e-06,
+      "timestamp": "2025-04-20 10:19"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.706155449327505e-06,
+      "timestamp": "2025-04-20 10:19"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003640249248125333,
+      "timestamp": "2025-04-20 10:19"
+    },
+    {
+      "rank": 4,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.987673577712678e-06,
+      "timestamp": "2025-04-20 10:19"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.661123227402529e-05,
+      "timestamp": "2025-04-20 10:19"
+    },
+    {
+      "rank": 6,
+      "name": "NKN",
+      "symbol": "NKN",
+      "price_btc": 4.975009128815695e-07,
+      "timestamp": "2025-04-20 10:19"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.81867581514319e-06,
+      "timestamp": "2025-04-20 10:19"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.484785923621584e-06,
+      "timestamp": "2025-04-20 10:19"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018836631031902848,
+      "timestamp": "2025-04-20 10:19"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016476609633256324,
+      "timestamp": "2025-04-20 10:19"
+    },
+    {
+      "rank": 11,
+      "name": "Broccoli",
+      "symbol": "BROCCOLI",
+      "price_btc": 1.0942832252205929e-06,
+      "timestamp": "2025-04-20 10:19"
+    },
+    {
+      "rank": 12,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 2.9381715789844e-05,
+      "timestamp": "2025-04-20 10:19"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021142363473412886,
+      "timestamp": "2025-04-20 10:19"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5101859485131272e-05,
+      "timestamp": "2025-04-20 10:19"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.729699859853199e-11,
+      "timestamp": "2025-04-20 10:19"
+    }
   ]
 }
