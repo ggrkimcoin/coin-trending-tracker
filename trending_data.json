@@ -17974,5 +17974,112 @@
       "price_btc": 0.018903092268849966,
       "timestamp": "2025-04-20 07:18"
     }
+  ],
+  "2025-04-20 08:22": [
+    {
+      "rank": 1,
+      "name": "Voxies",
+      "symbol": "VOXEL",
+      "price_btc": 1.5170763481139164e-06,
+      "timestamp": "2025-04-20 08:22"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.769375581843506e-06,
+      "timestamp": "2025-04-20 08:22"
+    },
+    {
+      "rank": 3,
+      "name": "NKN",
+      "symbol": "NKN",
+      "price_btc": 4.866835561962587e-07,
+      "timestamp": "2025-04-20 08:22"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036237573821238833,
+      "timestamp": "2025-04-20 08:22"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.1140668291228385e-06,
+      "timestamp": "2025-04-20 08:22"
+    },
+    {
+      "rank": 6,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.68632993470154e-05,
+      "timestamp": "2025-04-20 08:22"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001644733432599012,
+      "timestamp": "2025-04-20 08:22"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.4592502646255456e-06,
+      "timestamp": "2025-04-20 08:22"
+    },
+    {
+      "rank": 9,
+      "name": "Broccoli",
+      "symbol": "BROCCOLI",
+      "price_btc": 9.72424044429659e-07,
+      "timestamp": "2025-04-20 08:22"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-20 08:22"
+    },
+    {
+      "rank": 11,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 5.0620366817181285e-05,
+      "timestamp": "2025-04-20 08:22"
+    },
+    {
+      "rank": 12,
+      "name": "ConstitutionDAO",
+      "symbol": "PEOPLE",
+      "price_btc": 1.544909118593675e-07,
+      "timestamp": "2025-04-20 08:22"
+    },
+    {
+      "rank": 13,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.0456567244356723e-05,
+      "timestamp": "2025-04-20 08:22"
+    },
+    {
+      "rank": 14,
+      "name": "Stellar",
+      "symbol": "XLM",
+      "price_btc": 2.887451911882193e-06,
+      "timestamp": "2025-04-20 08:22"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.9055054913044056e-06,
+      "timestamp": "2025-04-20 08:22"
+    }
   ]
 }
