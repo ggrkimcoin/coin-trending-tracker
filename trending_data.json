@@ -19365,5 +19365,112 @@
       "price_btc": 7.138238681601291e-06,
       "timestamp": "2025-04-20 20:20"
     }
+  ],
+  "2025-04-20 21:17": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.49907450029556e-06,
+      "timestamp": "2025-04-20 21:17"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.745769478342398e-06,
+      "timestamp": "2025-04-20 21:17"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016109564976648871,
+      "timestamp": "2025-04-20 21:17"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037675771335851775,
+      "timestamp": "2025-04-20 21:17"
+    },
+    {
+      "rank": 5,
+      "name": "AUKI",
+      "symbol": "AUKI",
+      "price_btc": 3.2215684939938194e-07,
+      "timestamp": "2025-04-20 21:17"
+    },
+    {
+      "rank": 6,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.56629911891611e-11,
+      "timestamp": "2025-04-20 21:17"
+    },
+    {
+      "rank": 7,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.9634144962656896e-05,
+      "timestamp": "2025-04-20 21:17"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.863224132030823e-06,
+      "timestamp": "2025-04-20 21:17"
+    },
+    {
+      "rank": 9,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.444112571013766e-06,
+      "timestamp": "2025-04-20 21:17"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.445759133469458e-05,
+      "timestamp": "2025-04-20 21:17"
+    },
+    {
+      "rank": 11,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.0756793349276437e-07,
+      "timestamp": "2025-04-20 21:17"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.948769883024689e-06,
+      "timestamp": "2025-04-20 21:17"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4847423260183498e-05,
+      "timestamp": "2025-04-20 21:17"
+    },
+    {
+      "rank": 14,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 5.064096749364822e-06,
+      "timestamp": "2025-04-20 21:17"
+    },
+    {
+      "rank": 15,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 6.21666156203308e-05,
+      "timestamp": "2025-04-20 21:17"
+    }
   ]
 }
