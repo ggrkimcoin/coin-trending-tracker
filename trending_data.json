@@ -17439,5 +17439,112 @@
       "price_btc": 4.650169022989476e-06,
       "timestamp": "2025-04-20 01:44"
     }
+  ],
+  "2025-04-20 03:08": [
+    {
+      "rank": 1,
+      "name": "Voxies",
+      "symbol": "VOXEL",
+      "price_btc": 1.7753592682983286e-06,
+      "timestamp": "2025-04-20 03:08"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 6.03977330089349e-06,
+      "timestamp": "2025-04-20 03:08"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0034619988557714563,
+      "timestamp": "2025-04-20 03:08"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.984338500163361e-06,
+      "timestamp": "2025-04-20 03:08"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.040736480100382e-06,
+      "timestamp": "2025-04-20 03:08"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021595827819281572,
+      "timestamp": "2025-04-20 03:08"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016602817329550404,
+      "timestamp": "2025-04-20 03:08"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4464638126574725e-05,
+      "timestamp": "2025-04-20 03:08"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0189717688724859,
+      "timestamp": "2025-04-20 03:08"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-20 03:08"
+    },
+    {
+      "rank": 11,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.712098250767678e-06,
+      "timestamp": "2025-04-20 03:08"
+    },
+    {
+      "rank": 12,
+      "name": "Optimism",
+      "symbol": "OP",
+      "price_btc": 8.266482335965075e-06,
+      "timestamp": "2025-04-20 03:08"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 6.809096775275354e-06,
+      "timestamp": "2025-04-20 03:08"
+    },
+    {
+      "rank": 14,
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "price_btc": 1.9602174668796724e-06,
+      "timestamp": "2025-04-20 03:08"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.641650160860445e-06,
+      "timestamp": "2025-04-20 03:08"
+    }
   ]
 }
