@@ -18830,5 +18830,112 @@
       "price_btc": 5.802627997565333e-07,
       "timestamp": "2025-04-20 15:18"
     }
+  ],
+  "2025-04-20 16:21": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5373033338347044e-11,
+      "timestamp": "2025-04-20 16:21"
+    },
+    {
+      "rank": 2,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.23107845003514e-06,
+      "timestamp": "2025-04-20 16:21"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.580255470592557e-06,
+      "timestamp": "2025-04-20 16:21"
+    },
+    {
+      "rank": 4,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 2.3528419930038056e-06,
+      "timestamp": "2025-04-20 16:21"
+    },
+    {
+      "rank": 5,
+      "name": "AUKI",
+      "symbol": "AUKI",
+      "price_btc": 2.710653217477189e-07,
+      "timestamp": "2025-04-20 16:21"
+    },
+    {
+      "rank": 6,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.836662155781431e-06,
+      "timestamp": "2025-04-20 16:21"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003587913638724277,
+      "timestamp": "2025-04-20 16:21"
+    },
+    {
+      "rank": 8,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.562307063221357e-05,
+      "timestamp": "2025-04-20 16:21"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.437198854287346e-06,
+      "timestamp": "2025-04-20 16:21"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016137330052547888,
+      "timestamp": "2025-04-20 16:21"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002058744917740062,
+      "timestamp": "2025-04-20 16:21"
+    },
+    {
+      "rank": 12,
+      "name": "NKN",
+      "symbol": "NKN",
+      "price_btc": 5.449657669797818e-07,
+      "timestamp": "2025-04-20 16:21"
+    },
+    {
+      "rank": 13,
+      "name": "Optimism",
+      "symbol": "OP",
+      "price_btc": 8.394264534284646e-06,
+      "timestamp": "2025-04-20 16:21"
+    },
+    {
+      "rank": 14,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.8137222273936333e-06,
+      "timestamp": "2025-04-20 16:21"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018665599195571876,
+      "timestamp": "2025-04-20 16:21"
+    }
   ]
 }
