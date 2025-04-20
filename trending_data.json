@@ -18616,5 +18616,112 @@
       "price_btc": 9.642061729715556e-05,
       "timestamp": "2025-04-20 13:25"
     }
+  ],
+  "2025-04-20 14:17": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5271072865356385e-11,
+      "timestamp": "2025-04-20 14:17"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.737271679586397e-06,
+      "timestamp": "2025-04-20 14:17"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.887777204334662e-06,
+      "timestamp": "2025-04-20 14:17"
+    },
+    {
+      "rank": 4,
+      "name": "Voxies",
+      "symbol": "VOXEL",
+      "price_btc": 1.220270708263687e-06,
+      "timestamp": "2025-04-20 14:17"
+    },
+    {
+      "rank": 5,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.83955446723301e-06,
+      "timestamp": "2025-04-20 14:17"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.773313128408218e-06,
+      "timestamp": "2025-04-20 14:17"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003539605357883797,
+      "timestamp": "2025-04-20 14:17"
+    },
+    {
+      "rank": 8,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.4537973166079005e-06,
+      "timestamp": "2025-04-20 14:17"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016270264875536376,
+      "timestamp": "2025-04-20 14:17"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018706702212403663,
+      "timestamp": "2025-04-20 14:17"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.673787734300779e-05,
+      "timestamp": "2025-04-20 14:17"
+    },
+    {
+      "rank": 12,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.583149776055718e-06,
+      "timestamp": "2025-04-20 14:17"
+    },
+    {
+      "rank": 13,
+      "name": "Broccoli",
+      "symbol": "BROCCOLI",
+      "price_btc": 9.332248645113267e-07,
+      "timestamp": "2025-04-20 14:17"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-20 14:17"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.9319340923743786e-05,
+      "timestamp": "2025-04-20 14:17"
+    }
   ]
 }
