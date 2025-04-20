@@ -17653,5 +17653,112 @@
       "price_btc": 4.5885019533172516e-05,
       "timestamp": "2025-04-20 04:21"
     }
+  ],
+  "2025-04-20 05:19": [
+    {
+      "rank": 1,
+      "name": "Voxies",
+      "symbol": "VOXEL",
+      "price_btc": 1.4559464286787298e-06,
+      "timestamp": "2025-04-20 05:19"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 6.3611964363761796e-06,
+      "timestamp": "2025-04-20 05:19"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002158649465870019,
+      "timestamp": "2025-04-20 05:19"
+    },
+    {
+      "rank": 4,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.112777953349233e-06,
+      "timestamp": "2025-04-20 05:19"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016545074462891612,
+      "timestamp": "2025-04-20 05:19"
+    },
+    {
+      "rank": 6,
+      "name": "NKN",
+      "symbol": "NKN",
+      "price_btc": 6.567462422462526e-07,
+      "timestamp": "2025-04-20 05:19"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0034927766680203647,
+      "timestamp": "2025-04-20 05:19"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.637363279167097e-06,
+      "timestamp": "2025-04-20 05:19"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0060131690149268e-05,
+      "timestamp": "2025-04-20 05:19"
+    },
+    {
+      "rank": 10,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.045587788527228e-05,
+      "timestamp": "2025-04-20 05:19"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.816163707462417e-11,
+      "timestamp": "2025-04-20 05:19"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5370530693904734e-05,
+      "timestamp": "2025-04-20 05:19"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0031458104727666e-05,
+      "timestamp": "2025-04-20 05:19"
+    },
+    {
+      "rank": 14,
+      "name": "Ronin",
+      "symbol": "RON",
+      "price_btc": 5.951835314439448e-06,
+      "timestamp": "2025-04-20 05:19"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-20 05:19"
+    }
   ]
 }
