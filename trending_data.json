@@ -17867,5 +17867,112 @@
       "price_btc": 2.5102601547403545e-05,
       "timestamp": "2025-04-20 06:26"
     }
+  ],
+  "2025-04-20 07:18": [
+    {
+      "rank": 1,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.785294959113883e-06,
+      "timestamp": "2025-04-20 07:18"
+    },
+    {
+      "rank": 2,
+      "name": "Voxies",
+      "symbol": "VOXEL",
+      "price_btc": 1.5182065884724967e-06,
+      "timestamp": "2025-04-20 07:18"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.1493172630342235e-06,
+      "timestamp": "2025-04-20 07:18"
+    },
+    {
+      "rank": 4,
+      "name": "NKN",
+      "symbol": "NKN",
+      "price_btc": 5.114123163761792e-07,
+      "timestamp": "2025-04-20 07:18"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035957288737462154,
+      "timestamp": "2025-04-20 07:18"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000212530751929583,
+      "timestamp": "2025-04-20 07:18"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016461264149982917,
+      "timestamp": "2025-04-20 07:18"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4393363579469972e-05,
+      "timestamp": "2025-04-20 07:18"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.564283490475451e-06,
+      "timestamp": "2025-04-20 07:18"
+    },
+    {
+      "rank": 10,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.740746329901796e-06,
+      "timestamp": "2025-04-20 07:18"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-20 07:18"
+    },
+    {
+      "rank": 12,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00023223345157912474,
+      "timestamp": "2025-04-20 07:18"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.898535468676319e-06,
+      "timestamp": "2025-04-20 07:18"
+    },
+    {
+      "rank": 14,
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "price_btc": 5.772724944934177e-05,
+      "timestamp": "2025-04-20 07:18"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018903092268849966,
+      "timestamp": "2025-04-20 07:18"
+    }
   ]
 }
