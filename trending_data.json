@@ -18509,5 +18509,112 @@
       "price_btc": 0.01869186824320144,
       "timestamp": "2025-04-20 12:35"
     }
+  ],
+  "2025-04-20 13:25": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.521069216777613e-11,
+      "timestamp": "2025-04-20 13:25"
+    },
+    {
+      "rank": 2,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.805294078093573e-06,
+      "timestamp": "2025-04-20 13:25"
+    },
+    {
+      "rank": 3,
+      "name": "Voxies",
+      "symbol": "VOXEL",
+      "price_btc": 1.4280013935962887e-06,
+      "timestamp": "2025-04-20 13:25"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016231306169924489,
+      "timestamp": "2025-04-20 13:25"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.900873008761477e-06,
+      "timestamp": "2025-04-20 13:25"
+    },
+    {
+      "rank": 6,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.711465286725964e-06,
+      "timestamp": "2025-04-20 13:25"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4885734183865856e-05,
+      "timestamp": "2025-04-20 13:25"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.783075734098884e-06,
+      "timestamp": "2025-04-20 13:25"
+    },
+    {
+      "rank": 9,
+      "name": "GALA",
+      "symbol": "GALA",
+      "price_btc": 1.7940256358117912e-07,
+      "timestamp": "2025-04-20 13:25"
+    },
+    {
+      "rank": 10,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.608436673436149e-06,
+      "timestamp": "2025-04-20 13:25"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.4356381577260434e-06,
+      "timestamp": "2025-04-20 13:25"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035303828660001647,
+      "timestamp": "2025-04-20 13:25"
+    },
+    {
+      "rank": 13,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 4.947521356741727e-06,
+      "timestamp": "2025-04-20 13:25"
+    },
+    {
+      "rank": 14,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.6197778329345864e-06,
+      "timestamp": "2025-04-20 13:25"
+    },
+    {
+      "rank": 15,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.642061729715556e-05,
+      "timestamp": "2025-04-20 13:25"
+    }
   ]
 }
