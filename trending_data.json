@@ -19579,5 +19579,112 @@
       "price_btc": 2.818136709528839e-05,
       "timestamp": "2025-04-20 22:18"
     }
+  ],
+  "2025-04-20 23:17": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5709965080869683e-11,
+      "timestamp": "2025-04-20 23:17"
+    },
+    {
+      "rank": 2,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 7.352715716519211e-06,
+      "timestamp": "2025-04-20 23:17"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.4038365876188925e-06,
+      "timestamp": "2025-04-20 23:17"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020485954476427934,
+      "timestamp": "2025-04-20 23:17"
+    },
+    {
+      "rank": 5,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.696050141351405e-06,
+      "timestamp": "2025-04-20 23:17"
+    },
+    {
+      "rank": 6,
+      "name": "AUKI",
+      "symbol": "AUKI",
+      "price_btc": 2.9318907765767675e-07,
+      "timestamp": "2025-04-20 23:17"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037389104553674675,
+      "timestamp": "2025-04-20 23:17"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018634977900599748,
+      "timestamp": "2025-04-20 23:17"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016132203553118215,
+      "timestamp": "2025-04-20 23:17"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.538486003509995e-06,
+      "timestamp": "2025-04-20 23:17"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.793309626153619e-06,
+      "timestamp": "2025-04-20 23:17"
+    },
+    {
+      "rank": 12,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.14335077978993e-07,
+      "timestamp": "2025-04-20 23:17"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0232513668703673e-05,
+      "timestamp": "2025-04-20 23:17"
+    },
+    {
+      "rank": 14,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.0566120392347756e-07,
+      "timestamp": "2025-04-20 23:17"
+    },
+    {
+      "rank": 15,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.574682161209123e-05,
+      "timestamp": "2025-04-20 23:17"
+    }
   ]
 }
