@@ -17546,5 +17546,112 @@
       "price_btc": 7.641650160860445e-06,
       "timestamp": "2025-04-20 03:08"
     }
+  ],
+  "2025-04-20 04:21": [
+    {
+      "rank": 1,
+      "name": "Voxies",
+      "symbol": "VOXEL",
+      "price_btc": 1.582564357668377e-06,
+      "timestamp": "2025-04-20 04:21"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.977303940881193e-06,
+      "timestamp": "2025-04-20 04:21"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.634151831689082e-06,
+      "timestamp": "2025-04-20 04:21"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002170118782685172,
+      "timestamp": "2025-04-20 04:21"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.055750178156049e-06,
+      "timestamp": "2025-04-20 04:21"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003502173214973422,
+      "timestamp": "2025-04-20 04:21"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016549629582052559,
+      "timestamp": "2025-04-20 04:21"
+    },
+    {
+      "rank": 8,
+      "name": "NKN",
+      "symbol": "NKN",
+      "price_btc": 3.910242401707799e-07,
+      "timestamp": "2025-04-20 04:21"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.961761308367891e-06,
+      "timestamp": "2025-04-20 04:21"
+    },
+    {
+      "rank": 10,
+      "name": "Brett",
+      "symbol": "BRETT",
+      "price_btc": 4.3770599909735824e-07,
+      "timestamp": "2025-04-20 04:21"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 1.1780544185829182e-08,
+      "timestamp": "2025-04-20 04:21"
+    },
+    {
+      "rank": 12,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.943053619937322e-06,
+      "timestamp": "2025-04-20 04:21"
+    },
+    {
+      "rank": 13,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.008151599666355e-05,
+      "timestamp": "2025-04-20 04:21"
+    },
+    {
+      "rank": 14,
+      "name": "ALEO",
+      "symbol": "ALEO",
+      "price_btc": 3.7535895833115992e-06,
+      "timestamp": "2025-04-20 04:21"
+    },
+    {
+      "rank": 15,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 4.5885019533172516e-05,
+      "timestamp": "2025-04-20 04:21"
+    }
   ]
 }
