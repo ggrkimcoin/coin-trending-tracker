@@ -17760,5 +17760,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-04-20 05:19"
     }
+  ],
+  "2025-04-20 06:26": [
+    {
+      "rank": 1,
+      "name": "Voxies",
+      "symbol": "VOXEL",
+      "price_btc": 1.3822129216762917e-06,
+      "timestamp": "2025-04-20 06:26"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.525984735416833e-06,
+      "timestamp": "2025-04-20 06:26"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 7.146764787964097e-06,
+      "timestamp": "2025-04-20 06:26"
+    },
+    {
+      "rank": 4,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.796989227139244e-06,
+      "timestamp": "2025-04-20 06:26"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016553469476413537,
+      "timestamp": "2025-04-20 06:26"
+    },
+    {
+      "rank": 6,
+      "name": "NKN",
+      "symbol": "NKN",
+      "price_btc": 5.412966121657717e-07,
+      "timestamp": "2025-04-20 06:26"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036031701069081917,
+      "timestamp": "2025-04-20 06:26"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01892752334187999,
+      "timestamp": "2025-04-20 06:26"
+    },
+    {
+      "rank": 9,
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "price_btc": 5.50999384072665e-06,
+      "timestamp": "2025-04-20 06:26"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.445259887990919e-05,
+      "timestamp": "2025-04-20 06:26"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.529815831429275e-05,
+      "timestamp": "2025-04-20 06:26"
+    },
+    {
+      "rank": 12,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.409520906080914e-06,
+      "timestamp": "2025-04-20 06:26"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.55331107898254e-06,
+      "timestamp": "2025-04-20 06:26"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.972064090211047e-06,
+      "timestamp": "2025-04-20 06:26"
+    },
+    {
+      "rank": 15,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.5102601547403545e-05,
+      "timestamp": "2025-04-20 06:26"
+    }
   ]
 }
