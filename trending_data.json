@@ -20435,5 +20435,112 @@
       "price_btc": 5.659276669300496e-06,
       "timestamp": "2025-04-21 08:27"
     }
+  ],
+  "2025-04-21 09:21": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.990312687365491e-06,
+      "timestamp": "2025-04-21 09:21"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-21 09:21"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036533069245550756,
+      "timestamp": "2025-04-21 09:21"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0334380381927292e-05,
+      "timestamp": "2025-04-21 09:21"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00160532724874577,
+      "timestamp": "2025-04-21 09:21"
+    },
+    {
+      "rank": 6,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.410305421429977e-06,
+      "timestamp": "2025-04-21 09:21"
+    },
+    {
+      "rank": 7,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 2.1969779998520874e-06,
+      "timestamp": "2025-04-21 09:21"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.293275083765041e-06,
+      "timestamp": "2025-04-21 09:21"
+    },
+    {
+      "rank": 9,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6125482968867106e-11,
+      "timestamp": "2025-04-21 09:21"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5947291588597618e-05,
+      "timestamp": "2025-04-21 09:21"
+    },
+    {
+      "rank": 11,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 6.889599144091442e-06,
+      "timestamp": "2025-04-21 09:21"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01880999067517636,
+      "timestamp": "2025-04-21 09:21"
+    },
+    {
+      "rank": 13,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.0579913953494945e-06,
+      "timestamp": "2025-04-21 09:21"
+    },
+    {
+      "rank": 14,
+      "name": "Enjin Coin",
+      "symbol": "ENJ",
+      "price_btc": 1.224778585327091e-06,
+      "timestamp": "2025-04-21 09:21"
+    },
+    {
+      "rank": 15,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 5.093369249115391e-05,
+      "timestamp": "2025-04-21 09:21"
+    }
   ]
 }
