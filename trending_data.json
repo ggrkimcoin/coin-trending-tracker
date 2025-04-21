@@ -19686,5 +19686,112 @@
       "price_btc": 9.574682161209123e-05,
       "timestamp": "2025-04-20 23:17"
     }
+  ],
+  "2025-04-21 01:43": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.25985998551016e-06,
+      "timestamp": "2025-04-21 01:43"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0473426822638922e-05,
+      "timestamp": "2025-04-21 01:43"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-21 01:43"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003861384392512062,
+      "timestamp": "2025-04-21 01:43"
+    },
+    {
+      "rank": 5,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 2.1606652795467664e-06,
+      "timestamp": "2025-04-21 01:43"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.365407414689213e-06,
+      "timestamp": "2025-04-21 01:43"
+    },
+    {
+      "rank": 7,
+      "name": "Alchemy Pay",
+      "symbol": "ACH",
+      "price_btc": 3.2217574650054445e-07,
+      "timestamp": "2025-04-21 01:43"
+    },
+    {
+      "rank": 8,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 2.929696685784664e-05,
+      "timestamp": "2025-04-21 01:43"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002098281058539194,
+      "timestamp": "2025-04-21 01:43"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018494466848114555,
+      "timestamp": "2025-04-21 01:43"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.502828850563921e-05,
+      "timestamp": "2025-04-21 01:43"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.906552165101606e-05,
+      "timestamp": "2025-04-21 01:43"
+    },
+    {
+      "rank": 13,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.839866560585279e-06,
+      "timestamp": "2025-04-21 01:43"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.503396163636909e-06,
+      "timestamp": "2025-04-21 01:43"
+    },
+    {
+      "rank": 15,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.618744898291063e-06,
+      "timestamp": "2025-04-21 01:43"
+    }
   ]
 }
