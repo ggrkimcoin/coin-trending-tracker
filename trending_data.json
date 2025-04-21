@@ -20756,5 +20756,112 @@
       "price_btc": 9.023445311774762e-11,
       "timestamp": "2025-04-21 11:16"
     }
+  ],
+  "2025-04-21 12:38": [
+    {
+      "rank": 1,
+      "name": "Pangolin",
+      "symbol": "PNG",
+      "price_btc": 1.6149768150005422e-06,
+      "timestamp": "2025-04-21 12:38"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.138900295414096e-06,
+      "timestamp": "2025-04-21 12:38"
+    },
+    {
+      "rank": 3,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.8791202887496934e-06,
+      "timestamp": "2025-04-21 12:38"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5896070678793016e-05,
+      "timestamp": "2025-04-21 12:38"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035711725862308014,
+      "timestamp": "2025-04-21 12:38"
+    },
+    {
+      "rank": 6,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 3.1265682555779814e-06,
+      "timestamp": "2025-04-21 12:38"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018658381025715515,
+      "timestamp": "2025-04-21 12:38"
+    },
+    {
+      "rank": 8,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.0293484283300346e-05,
+      "timestamp": "2025-04-21 12:38"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020518253209255344,
+      "timestamp": "2025-04-21 12:38"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.252923652519736e-06,
+      "timestamp": "2025-04-21 12:38"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0363242547144494e-05,
+      "timestamp": "2025-04-21 12:38"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015950854435529307,
+      "timestamp": "2025-04-21 12:38"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-21 12:38"
+    },
+    {
+      "rank": 14,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.58292937020113e-06,
+      "timestamp": "2025-04-21 12:38"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.07012467858513e-11,
+      "timestamp": "2025-04-21 12:38"
+    }
   ]
 }
