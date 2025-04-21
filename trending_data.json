@@ -20328,5 +20328,112 @@
       "price_btc": 4.2642890608253403e-07,
       "timestamp": "2025-04-21 07:19"
     }
+  ],
+  "2025-04-21 08:27": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.032303412587505e-06,
+      "timestamp": "2025-04-21 08:27"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0127103284092557e-05,
+      "timestamp": "2025-04-21 08:27"
+    },
+    {
+      "rank": 3,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 2.1931245585934903e-06,
+      "timestamp": "2025-04-21 08:27"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036986695626399723,
+      "timestamp": "2025-04-21 08:27"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.283353789402046e-06,
+      "timestamp": "2025-04-21 08:27"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5666371802321144e-05,
+      "timestamp": "2025-04-21 08:27"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00160307659053074,
+      "timestamp": "2025-04-21 08:27"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01881963091678763,
+      "timestamp": "2025-04-21 08:27"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-21 08:27"
+    },
+    {
+      "rank": 10,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.963577330273543e-05,
+      "timestamp": "2025-04-21 08:27"
+    },
+    {
+      "rank": 11,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.9403124281721664e-05,
+      "timestamp": "2025-04-21 08:27"
+    },
+    {
+      "rank": 12,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.503911160766497e-06,
+      "timestamp": "2025-04-21 08:27"
+    },
+    {
+      "rank": 13,
+      "name": "Enjin Coin",
+      "symbol": "ENJ",
+      "price_btc": 1.193548431438182e-06,
+      "timestamp": "2025-04-21 08:27"
+    },
+    {
+      "rank": 14,
+      "name": "Supra",
+      "symbol": "SUPRA",
+      "price_btc": 5.2782070454426617e-08,
+      "timestamp": "2025-04-21 08:27"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.659276669300496e-06,
+      "timestamp": "2025-04-21 08:27"
+    }
   ]
 }
