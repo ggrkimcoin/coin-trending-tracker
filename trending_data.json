@@ -20114,5 +20114,112 @@
       "price_btc": 5.020975281760138e-06,
       "timestamp": "2025-04-21 05:20"
     }
+  ],
+  "2025-04-21 06:29": [
+    {
+      "rank": 1,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 2.1633606285783615e-06,
+      "timestamp": "2025-04-21 06:29"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.0195419480190005e-06,
+      "timestamp": "2025-04-21 06:29"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5658653797305866e-05,
+      "timestamp": "2025-04-21 06:29"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037577355096494874,
+      "timestamp": "2025-04-21 06:29"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00161340166484235,
+      "timestamp": "2025-04-21 06:29"
+    },
+    {
+      "rank": 6,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.52954417573315e-06,
+      "timestamp": "2025-04-21 06:29"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018882390492948445,
+      "timestamp": "2025-04-21 06:29"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.260098690199627e-06,
+      "timestamp": "2025-04-21 06:29"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0415847729321503e-05,
+      "timestamp": "2025-04-21 06:29"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-21 06:29"
+    },
+    {
+      "rank": 11,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 8.448055757122242e-07,
+      "timestamp": "2025-04-21 06:29"
+    },
+    {
+      "rank": 12,
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "price_btc": 1.4601490878943381e-10,
+      "timestamp": "2025-04-21 06:29"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 6.800030909840763e-06,
+      "timestamp": "2025-04-21 06:29"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4427877345623626e-05,
+      "timestamp": "2025-04-21 06:29"
+    },
+    {
+      "rank": 15,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00015534521263305874,
+      "timestamp": "2025-04-21 06:29"
+    }
   ]
 }
