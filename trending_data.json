@@ -21826,5 +21826,112 @@
       "price_btc": 5.057718337938995e-06,
       "timestamp": "2025-04-21 21:18"
     }
+  ],
+  "2025-04-21 22:19": [
+    {
+      "rank": 1,
+      "name": "Pangolin",
+      "symbol": "PNG",
+      "price_btc": 1.530129722248555e-06,
+      "timestamp": "2025-04-21 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.948463892689074e-06,
+      "timestamp": "2025-04-21 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.741543305572913e-06,
+      "timestamp": "2025-04-21 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035794548148458797,
+      "timestamp": "2025-04-21 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "GALA",
+      "symbol": "GALA",
+      "price_btc": 1.7758189260612342e-07,
+      "timestamp": "2025-04-21 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Pixels",
+      "symbol": "PIXEL",
+      "price_btc": 5.081425135311359e-07,
+      "timestamp": "2025-04-21 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0665453218436063e-05,
+      "timestamp": "2025-04-21 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001569064473122124,
+      "timestamp": "2025-04-21 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3863653724566526e-05,
+      "timestamp": "2025-04-21 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.603725841342842e-07,
+      "timestamp": "2025-04-21 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 2.8577707218001856e-06,
+      "timestamp": "2025-04-21 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-21 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.229341932280936e-06,
+      "timestamp": "2025-04-21 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "PAX Gold",
+      "symbol": "PAXG",
+      "price_btc": 0.03963350479053656,
+      "timestamp": "2025-04-21 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 5.069946867133593e-06,
+      "timestamp": "2025-04-21 22:19"
+    }
   ]
 }
