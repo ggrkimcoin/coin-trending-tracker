@@ -21077,5 +21077,112 @@
       "price_btc": 4.630547632873692e-07,
       "timestamp": "2025-04-21 14:18"
     }
+  ],
+  "2025-04-21 15:20": [
+    {
+      "rank": 1,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.783271655863433e-06,
+      "timestamp": "2025-04-21 15:20"
+    },
+    {
+      "rank": 2,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 3.0394683202875043e-06,
+      "timestamp": "2025-04-21 15:20"
+    },
+    {
+      "rank": 3,
+      "name": "Xai",
+      "symbol": "XAI",
+      "price_btc": 7.202409108426996e-07,
+      "timestamp": "2025-04-21 15:20"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-21 15:20"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5536194268313202e-05,
+      "timestamp": "2025-04-21 15:20"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003563330867994867,
+      "timestamp": "2025-04-21 15:20"
+    },
+    {
+      "rank": 7,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.322400238329082e-06,
+      "timestamp": "2025-04-21 15:20"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0094262251657207e-05,
+      "timestamp": "2025-04-21 15:20"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001581877001943244,
+      "timestamp": "2025-04-21 15:20"
+    },
+    {
+      "rank": 10,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 8.610522863176308e-07,
+      "timestamp": "2025-04-21 15:20"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020673032644703975,
+      "timestamp": "2025-04-21 15:20"
+    },
+    {
+      "rank": 12,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.582117122914576e-06,
+      "timestamp": "2025-04-21 15:20"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018480949415750618,
+      "timestamp": "2025-04-21 15:20"
+    },
+    {
+      "rank": 14,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.346425325857366e-06,
+      "timestamp": "2025-04-21 15:20"
+    },
+    {
+      "rank": 15,
+      "name": "Pixels",
+      "symbol": "PIXEL",
+      "price_btc": 4.817953034903611e-07,
+      "timestamp": "2025-04-21 15:20"
+    }
   ]
 }
