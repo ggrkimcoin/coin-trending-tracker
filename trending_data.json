@@ -20863,5 +20863,112 @@
       "price_btc": 9.07012467858513e-11,
       "timestamp": "2025-04-21 12:38"
     }
+  ],
+  "2025-04-21 13:28": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.779349400902591e-06,
+      "timestamp": "2025-04-21 13:28"
+    },
+    {
+      "rank": 2,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.796582993464766e-06,
+      "timestamp": "2025-04-21 13:28"
+    },
+    {
+      "rank": 3,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 3.1707330405625455e-06,
+      "timestamp": "2025-04-21 13:28"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003565024190104417,
+      "timestamp": "2025-04-21 13:28"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5709070683075963e-05,
+      "timestamp": "2025-04-21 13:28"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015855269664063257,
+      "timestamp": "2025-04-21 13:28"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018651059968960607,
+      "timestamp": "2025-04-21 13:28"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0093988689320136e-05,
+      "timestamp": "2025-04-21 13:28"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.546781796058627e-06,
+      "timestamp": "2025-04-21 13:28"
+    },
+    {
+      "rank": 10,
+      "name": "Xai",
+      "symbol": "XAI",
+      "price_btc": 7.498733890488922e-07,
+      "timestamp": "2025-04-21 13:28"
+    },
+    {
+      "rank": 11,
+      "name": "Pangolin",
+      "symbol": "PNG",
+      "price_btc": 1.5825745900739939e-06,
+      "timestamp": "2025-04-21 13:28"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0121813927517839e-05,
+      "timestamp": "2025-04-21 13:28"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-21 13:28"
+    },
+    {
+      "rank": 14,
+      "name": "PAX Gold",
+      "symbol": "PAXG",
+      "price_btc": 0.03960228407004019,
+      "timestamp": "2025-04-21 13:28"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4247438124487123e-05,
+      "timestamp": "2025-04-21 13:28"
+    }
   ]
 }
