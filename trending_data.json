@@ -20649,5 +20649,112 @@
       "price_btc": 4.001944884980461e-05,
       "timestamp": "2025-04-21 10:21"
     }
+  ],
+  "2025-04-21 11:16": [
+    {
+      "rank": 1,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.977541605531542e-06,
+      "timestamp": "2025-04-21 11:16"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.374715090929222e-06,
+      "timestamp": "2025-04-21 11:16"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018726801513778174,
+      "timestamp": "2025-04-21 11:16"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-21 11:16"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016030558499015824,
+      "timestamp": "2025-04-21 11:16"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003618083955908675,
+      "timestamp": "2025-04-21 11:16"
+    },
+    {
+      "rank": 7,
+      "name": "Pangolin",
+      "symbol": "PNG",
+      "price_btc": 1.6399736264040233e-06,
+      "timestamp": "2025-04-21 11:16"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5990562277695385e-05,
+      "timestamp": "2025-04-21 11:16"
+    },
+    {
+      "rank": 9,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.0633397558237906e-05,
+      "timestamp": "2025-04-21 11:16"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.2704381075744875e-06,
+      "timestamp": "2025-04-21 11:16"
+    },
+    {
+      "rank": 11,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 5.1248338180599655e-05,
+      "timestamp": "2025-04-21 11:16"
+    },
+    {
+      "rank": 12,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 2.6478951850947443e-06,
+      "timestamp": "2025-04-21 11:16"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0422390529744585e-05,
+      "timestamp": "2025-04-21 11:16"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0085560466960825e-05,
+      "timestamp": "2025-04-21 11:16"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.023445311774762e-11,
+      "timestamp": "2025-04-21 11:16"
+    }
   ]
 }
