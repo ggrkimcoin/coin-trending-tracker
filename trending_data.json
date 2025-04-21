@@ -20970,5 +20970,112 @@
       "price_btc": 2.4247438124487123e-05,
       "timestamp": "2025-04-21 13:28"
     }
+  ],
+  "2025-04-21 14:18": [
+    {
+      "rank": 1,
+      "name": "Pangolin",
+      "symbol": "PNG",
+      "price_btc": 1.542456701665972e-06,
+      "timestamp": "2025-04-21 14:18"
+    },
+    {
+      "rank": 2,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 3.1461026429201026e-06,
+      "timestamp": "2025-04-21 14:18"
+    },
+    {
+      "rank": 3,
+      "name": "Xai",
+      "symbol": "XAI",
+      "price_btc": 7.455371865600491e-07,
+      "timestamp": "2025-04-21 14:18"
+    },
+    {
+      "rank": 4,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.512738191633938e-06,
+      "timestamp": "2025-04-21 14:18"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003572834020157341,
+      "timestamp": "2025-04-21 14:18"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.554704945182709e-05,
+      "timestamp": "2025-04-21 14:18"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015746491963242251,
+      "timestamp": "2025-04-21 14:18"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.990627692673992e-06,
+      "timestamp": "2025-04-21 14:18"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018504196172917903,
+      "timestamp": "2025-04-21 14:18"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-21 14:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0011408299222245e-05,
+      "timestamp": "2025-04-21 14:18"
+    },
+    {
+      "rank": 12,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.887475654246631e-06,
+      "timestamp": "2025-04-21 14:18"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020624774717595127,
+      "timestamp": "2025-04-21 14:18"
+    },
+    {
+      "rank": 14,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 8.657062512484745e-07,
+      "timestamp": "2025-04-21 14:18"
+    },
+    {
+      "rank": 15,
+      "name": "LOFI",
+      "symbol": "LOFI",
+      "price_btc": 4.630547632873692e-07,
+      "timestamp": "2025-04-21 14:18"
+    }
   ]
 }
