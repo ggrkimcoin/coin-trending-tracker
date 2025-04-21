@@ -19900,5 +19900,112 @@
       "price_btc": 2.476384472012667e-05,
       "timestamp": "2025-04-21 03:10"
     }
+  ],
+  "2025-04-21 04:24": [
+    {
+      "rank": 1,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036696431337402747,
+      "timestamp": "2025-04-21 04:24"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.080208680094784e-06,
+      "timestamp": "2025-04-21 04:24"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.562477069205618e-06,
+      "timestamp": "2025-04-21 04:24"
+    },
+    {
+      "rank": 4,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 2.0945286504607266e-06,
+      "timestamp": "2025-04-21 04:24"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0322166589540879e-05,
+      "timestamp": "2025-04-21 04:24"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5311937639505408e-05,
+      "timestamp": "2025-04-21 04:24"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016005386126072877,
+      "timestamp": "2025-04-21 04:24"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-21 04:24"
+    },
+    {
+      "rank": 9,
+      "name": "Supra",
+      "symbol": "SUPRA",
+      "price_btc": 5.288733510974185e-08,
+      "timestamp": "2025-04-21 04:24"
+    },
+    {
+      "rank": 10,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.9353612522229935e-06,
+      "timestamp": "2025-04-21 04:24"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018769677413028117,
+      "timestamp": "2025-04-21 04:24"
+    },
+    {
+      "rank": 12,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 2.3528797150840856e-06,
+      "timestamp": "2025-04-21 04:24"
+    },
+    {
+      "rank": 13,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.461757164469408e-05,
+      "timestamp": "2025-04-21 04:24"
+    },
+    {
+      "rank": 14,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 6.929488508315245e-06,
+      "timestamp": "2025-04-21 04:24"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.422713501094485e-05,
+      "timestamp": "2025-04-21 04:24"
+    }
   ]
 }
