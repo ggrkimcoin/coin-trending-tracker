@@ -21291,5 +21291,112 @@
       "price_btc": 0.03910084692610604,
       "timestamp": "2025-04-21 16:24"
     }
+  ],
+  "2025-04-21 17:18": [
+    {
+      "rank": 1,
+      "name": "Pangolin",
+      "symbol": "PNG",
+      "price_btc": 1.562310232160856e-06,
+      "timestamp": "2025-04-21 17:18"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.272224742629764e-06,
+      "timestamp": "2025-04-21 17:18"
+    },
+    {
+      "rank": 3,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.777630886883688e-06,
+      "timestamp": "2025-04-21 17:18"
+    },
+    {
+      "rank": 4,
+      "name": "Pixels",
+      "symbol": "PIXEL",
+      "price_btc": 5.596083981874489e-07,
+      "timestamp": "2025-04-21 17:18"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003549536384077033,
+      "timestamp": "2025-04-21 17:18"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020249962044739954,
+      "timestamp": "2025-04-21 17:18"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.501126126538599e-05,
+      "timestamp": "2025-04-21 17:18"
+    },
+    {
+      "rank": 8,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 2.766243074108784e-06,
+      "timestamp": "2025-04-21 17:18"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00155835703569762,
+      "timestamp": "2025-04-21 17:18"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.222174836196674e-06,
+      "timestamp": "2025-04-21 17:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018303853132477305,
+      "timestamp": "2025-04-21 17:18"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.723561260123108e-06,
+      "timestamp": "2025-04-21 17:18"
+    },
+    {
+      "rank": 13,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 4.892174384285282e-05,
+      "timestamp": "2025-04-21 17:18"
+    },
+    {
+      "rank": 14,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.552173669642873e-06,
+      "timestamp": "2025-04-21 17:18"
+    },
+    {
+      "rank": 15,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 7.165930188437916e-06,
+      "timestamp": "2025-04-21 17:18"
+    }
   ]
 }
