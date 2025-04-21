@@ -20221,5 +20221,112 @@
       "price_btc": 0.00015534521263305874,
       "timestamp": "2025-04-21 06:29"
     }
+  ],
+  "2025-04-21 07:19": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5818417387777883e-05,
+      "timestamp": "2025-04-21 07:19"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.98883171709843e-06,
+      "timestamp": "2025-04-21 07:19"
+    },
+    {
+      "rank": 3,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 2.1983142053544727e-06,
+      "timestamp": "2025-04-21 07:19"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037332928667095124,
+      "timestamp": "2025-04-21 07:19"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.28447975523764e-06,
+      "timestamp": "2025-04-21 07:19"
+    },
+    {
+      "rank": 6,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.495762847854182e-06,
+      "timestamp": "2025-04-21 07:19"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016093072942219584,
+      "timestamp": "2025-04-21 07:19"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.432689545994042e-05,
+      "timestamp": "2025-04-21 07:19"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0188270131718959,
+      "timestamp": "2025-04-21 07:19"
+    },
+    {
+      "rank": 10,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.314071690951027e-07,
+      "timestamp": "2025-04-21 07:19"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-21 07:19"
+    },
+    {
+      "rank": 12,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001551371296040465,
+      "timestamp": "2025-04-21 07:19"
+    },
+    {
+      "rank": 13,
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "price_btc": 1.4485074888123693e-10,
+      "timestamp": "2025-04-21 07:19"
+    },
+    {
+      "rank": 14,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.6060884967673967e-06,
+      "timestamp": "2025-04-21 07:19"
+    },
+    {
+      "rank": 15,
+      "name": "LOFI",
+      "symbol": "LOFI",
+      "price_btc": 4.2642890608253403e-07,
+      "timestamp": "2025-04-21 07:19"
+    }
   ]
 }
