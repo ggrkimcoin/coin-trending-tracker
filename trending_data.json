@@ -21398,5 +21398,112 @@
       "price_btc": 7.165930188437916e-06,
       "timestamp": "2025-04-21 17:18"
     }
+  ],
+  "2025-04-21 18:27": [
+    {
+      "rank": 1,
+      "name": "Pangolin",
+      "symbol": "PNG",
+      "price_btc": 1.530693490440214e-06,
+      "timestamp": "2025-04-21 18:27"
+    },
+    {
+      "rank": 2,
+      "name": "Pixels",
+      "symbol": "PIXEL",
+      "price_btc": 5.530425466140389e-07,
+      "timestamp": "2025-04-21 18:27"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.060743450605939e-06,
+      "timestamp": "2025-04-21 18:27"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003490067543292771,
+      "timestamp": "2025-04-21 18:27"
+    },
+    {
+      "rank": 5,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.8108351296941926e-06,
+      "timestamp": "2025-04-21 18:27"
+    },
+    {
+      "rank": 6,
+      "name": "Reserve Rights",
+      "symbol": "RSR",
+      "price_btc": 9.01475422960481e-08,
+      "timestamp": "2025-04-21 18:27"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4985031104357658e-05,
+      "timestamp": "2025-04-21 18:27"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020219035008285316,
+      "timestamp": "2025-04-21 18:27"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3852338033779006e-05,
+      "timestamp": "2025-04-21 18:27"
+    },
+    {
+      "rank": 10,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.597898891724275e-06,
+      "timestamp": "2025-04-21 18:27"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.919286028534578e-06,
+      "timestamp": "2025-04-21 18:27"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-21 18:27"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.777282460928419e-06,
+      "timestamp": "2025-04-21 18:27"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015521322539258598,
+      "timestamp": "2025-04-21 18:27"
+    },
+    {
+      "rank": 15,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 9.242453109484483e-07,
+      "timestamp": "2025-04-21 18:27"
+    }
   ]
 }
