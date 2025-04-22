@@ -22789,5 +22789,112 @@
       "price_btc": 0.018369356198552643,
       "timestamp": "2025-04-22 08:26"
     }
+  ],
+  "2025-04-22 09:21": [
+    {
+      "rank": 1,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.4306690846140548e-06,
+      "timestamp": "2025-04-22 09:21"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2025086690258014e-05,
+      "timestamp": "2025-04-22 09:21"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036760838562880267,
+      "timestamp": "2025-04-22 09:21"
+    },
+    {
+      "rank": 4,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.752510312096689e-06,
+      "timestamp": "2025-04-22 09:21"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002062299660122023,
+      "timestamp": "2025-04-22 09:21"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-22 09:21"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018402041492963508,
+      "timestamp": "2025-04-22 09:21"
+    },
+    {
+      "rank": 8,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.971773959523227e-06,
+      "timestamp": "2025-04-22 09:21"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.613263300734392e-05,
+      "timestamp": "2025-04-22 09:21"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015781298789153673,
+      "timestamp": "2025-04-22 09:21"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.1430326520110855e-06,
+      "timestamp": "2025-04-22 09:21"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.867676717728093e-05,
+      "timestamp": "2025-04-22 09:21"
+    },
+    {
+      "rank": 13,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 6.694218146420513e-06,
+      "timestamp": "2025-04-22 09:21"
+    },
+    {
+      "rank": 14,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 3.2480374370476187e-06,
+      "timestamp": "2025-04-22 09:21"
+    },
+    {
+      "rank": 15,
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "price_btc": 2.491201256443995e-06,
+      "timestamp": "2025-04-22 09:21"
+    }
   ]
 }
