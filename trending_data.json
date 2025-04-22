@@ -22147,5 +22147,112 @@
       "price_btc": 8.94576088347619e-11,
       "timestamp": "2025-04-22 01:39"
     }
+  ],
+  "2025-04-22 03:03": [
+    {
+      "rank": 1,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1543429030061934e-05,
+      "timestamp": "2025-04-22 03:03"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.918813773874052e-06,
+      "timestamp": "2025-04-22 03:03"
+    },
+    {
+      "rank": 3,
+      "name": "Pixels",
+      "symbol": "PIXEL",
+      "price_btc": 5.287043250002601e-07,
+      "timestamp": "2025-04-22 03:03"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003606872114000255,
+      "timestamp": "2025-04-22 03:03"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.017882995914159806,
+      "timestamp": "2025-04-22 03:03"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015763732827099434,
+      "timestamp": "2025-04-22 03:03"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-22 03:03"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.183973973476182e-06,
+      "timestamp": "2025-04-22 03:03"
+    },
+    {
+      "rank": 9,
+      "name": "Stacks",
+      "symbol": "STX",
+      "price_btc": 8.73508003882231e-06,
+      "timestamp": "2025-04-22 03:03"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.363650798864587e-05,
+      "timestamp": "2025-04-22 03:03"
+    },
+    {
+      "rank": 11,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 2.698258218267415e-06,
+      "timestamp": "2025-04-22 03:03"
+    },
+    {
+      "rank": 12,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006801816870144103,
+      "timestamp": "2025-04-22 03:03"
+    },
+    {
+      "rank": 13,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 5.0056225085584865e-05,
+      "timestamp": "2025-04-22 03:03"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5390980193024287e-05,
+      "timestamp": "2025-04-22 03:03"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.991497198750839e-11,
+      "timestamp": "2025-04-22 03:03"
+    }
   ]
 }
