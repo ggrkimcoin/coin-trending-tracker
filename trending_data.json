@@ -23966,5 +23966,112 @@
       "price_btc": 9.193423700814487e-11,
       "timestamp": "2025-04-22 19:16"
     }
+  ],
+  "2025-04-22 20:22": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.8353903641175036e-11,
+      "timestamp": "2025-04-22 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 1.0489550065944278e-05,
+      "timestamp": "2025-04-22 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.240375130455772e-06,
+      "timestamp": "2025-04-22 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.691010734625433e-05,
+      "timestamp": "2025-04-22 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.172237406658605e-05,
+      "timestamp": "2025-04-22 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002058890797745138,
+      "timestamp": "2025-04-22 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003692969902771168,
+      "timestamp": "2025-04-22 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015781531720480617,
+      "timestamp": "2025-04-22 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018543194973154774,
+      "timestamp": "2025-04-22 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.846569034707923e-06,
+      "timestamp": "2025-04-22 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 5.329532887891846e-06,
+      "timestamp": "2025-04-22 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 6.60444638841623e-08,
+      "timestamp": "2025-04-22 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.356434309592091e-05,
+      "timestamp": "2025-04-22 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "Gunz",
+      "symbol": "GUN",
+      "price_btc": 6.439956653676184e-07,
+      "timestamp": "2025-04-22 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 3.4733120060797867e-06,
+      "timestamp": "2025-04-22 20:22"
+    }
   ]
 }
