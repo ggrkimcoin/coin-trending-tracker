@@ -23645,5 +23645,112 @@
       "price_btc": 4.699009633881401e-06,
       "timestamp": "2025-04-22 16:25"
     }
+  ],
+  "2025-04-22 17:17": [
+    {
+      "rank": 1,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.358901823036376e-06,
+      "timestamp": "2025-04-22 17:17"
+    },
+    {
+      "rank": 2,
+      "name": "tokenbot",
+      "symbol": "CLANKER",
+      "price_btc": 0.0005808045581222469,
+      "timestamp": "2025-04-22 17:17"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.029876852472833e-06,
+      "timestamp": "2025-04-22 17:17"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037640524612381904,
+      "timestamp": "2025-04-22 17:17"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6446769809916493e-05,
+      "timestamp": "2025-04-22 17:17"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1663952326618465e-05,
+      "timestamp": "2025-04-22 17:17"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-22 17:17"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020452064846169707,
+      "timestamp": "2025-04-22 17:17"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01864778338963735,
+      "timestamp": "2025-04-22 17:17"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015927853806808774,
+      "timestamp": "2025-04-22 17:17"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0122800226116668e-06,
+      "timestamp": "2025-04-22 17:17"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.9309077719189116e-05,
+      "timestamp": "2025-04-22 17:17"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.798202835236044e-06,
+      "timestamp": "2025-04-22 17:17"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.025754566071881e-06,
+      "timestamp": "2025-04-22 17:17"
+    },
+    {
+      "rank": 15,
+      "name": "Reserve Rights",
+      "symbol": "RSR",
+      "price_btc": 9.318883568303655e-08,
+      "timestamp": "2025-04-22 17:17"
+    }
   ]
 }
