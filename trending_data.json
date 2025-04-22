@@ -23752,5 +23752,112 @@
       "price_btc": 9.318883568303655e-08,
       "timestamp": "2025-04-22 17:17"
     }
+  ],
+  "2025-04-22 18:27": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.894096685703004e-11,
+      "timestamp": "2025-04-22 18:27"
+    },
+    {
+      "rank": 2,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.357680652586254e-06,
+      "timestamp": "2025-04-22 18:27"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037881010257646303,
+      "timestamp": "2025-04-22 18:27"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.652961667176333e-05,
+      "timestamp": "2025-04-22 18:27"
+    },
+    {
+      "rank": 5,
+      "name": "tokenbot",
+      "symbol": "CLANKER",
+      "price_btc": 0.000582946707555699,
+      "timestamp": "2025-04-22 18:27"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1725870421244762e-05,
+      "timestamp": "2025-04-22 18:27"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-22 18:27"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002049513122872277,
+      "timestamp": "2025-04-22 18:27"
+    },
+    {
+      "rank": 9,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.846693856754506e-06,
+      "timestamp": "2025-04-22 18:27"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015865791232094648,
+      "timestamp": "2025-04-22 18:27"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0146768044699827e-06,
+      "timestamp": "2025-04-22 18:27"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.774730220062972e-06,
+      "timestamp": "2025-04-22 18:27"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.003991534955755e-06,
+      "timestamp": "2025-04-22 18:27"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.305272086919408e-06,
+      "timestamp": "2025-04-22 18:27"
+    },
+    {
+      "rank": 15,
+      "name": "Turbo",
+      "symbol": "TURBO",
+      "price_btc": 3.521077165778127e-08,
+      "timestamp": "2025-04-22 18:27"
+    }
   ]
 }
