@@ -23003,5 +23003,112 @@
       "price_btc": 9.625276239936585e-05,
       "timestamp": "2025-04-22 10:21"
     }
+  ],
+  "2025-04-22 11:17": [
+    {
+      "rank": 1,
+      "name": "Pangolin",
+      "symbol": "PNG",
+      "price_btc": 1.5763153414511972e-06,
+      "timestamp": "2025-04-22 11:17"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2071212852300239e-05,
+      "timestamp": "2025-04-22 11:17"
+    },
+    {
+      "rank": 3,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.3281757170490468e-06,
+      "timestamp": "2025-04-22 11:17"
+    },
+    {
+      "rank": 4,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.945756468610253e-06,
+      "timestamp": "2025-04-22 11:17"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036910554446746785,
+      "timestamp": "2025-04-22 11:17"
+    },
+    {
+      "rank": 6,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.766070602827385e-06,
+      "timestamp": "2025-04-22 11:17"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-22 11:17"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018372568073905308,
+      "timestamp": "2025-04-22 11:17"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020613968472844616,
+      "timestamp": "2025-04-22 11:17"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.164156397165966e-06,
+      "timestamp": "2025-04-22 11:17"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6087414470689892e-05,
+      "timestamp": "2025-04-22 11:17"
+    },
+    {
+      "rank": 12,
+      "name": "Tether Gold",
+      "symbol": "XAUT",
+      "price_btc": 0.03924835384048968,
+      "timestamp": "2025-04-22 11:17"
+    },
+    {
+      "rank": 13,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 9.631791332225227e-07,
+      "timestamp": "2025-04-22 11:17"
+    },
+    {
+      "rank": 14,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.717015397085742e-06,
+      "timestamp": "2025-04-22 11:17"
+    },
+    {
+      "rank": 15,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 4.901956008920992e-06,
+      "timestamp": "2025-04-22 11:17"
+    }
   ]
 }
