@@ -22040,5 +22040,112 @@
       "price_btc": 0.00022694161975738103,
       "timestamp": "2025-04-21 23:18"
     }
+  ],
+  "2025-04-22 01:39": [
+    {
+      "rank": 1,
+      "name": "Pixels",
+      "symbol": "PIXEL",
+      "price_btc": 5.210997131141232e-07,
+      "timestamp": "2025-04-22 01:39"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020448028260438948,
+      "timestamp": "2025-04-22 01:39"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.886692250914958e-06,
+      "timestamp": "2025-04-22 01:39"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035419782824656146,
+      "timestamp": "2025-04-22 01:39"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.1261912895422685e-06,
+      "timestamp": "2025-04-22 01:39"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-22 01:39"
+    },
+    {
+      "rank": 7,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 9.462951597881523e-07,
+      "timestamp": "2025-04-22 01:39"
+    },
+    {
+      "rank": 8,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.5722817135326003e-06,
+      "timestamp": "2025-04-22 01:39"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01784185725863784,
+      "timestamp": "2025-04-22 01:39"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3637786903486607e-05,
+      "timestamp": "2025-04-22 01:39"
+    },
+    {
+      "rank": 11,
+      "name": "Reserve Rights",
+      "symbol": "RSR",
+      "price_btc": 9.389904972404214e-08,
+      "timestamp": "2025-04-22 01:39"
+    },
+    {
+      "rank": 12,
+      "name": "Supra",
+      "symbol": "SUPRA",
+      "price_btc": 5.2164919588424426e-08,
+      "timestamp": "2025-04-22 01:39"
+    },
+    {
+      "rank": 13,
+      "name": "Immutable",
+      "symbol": "IMX",
+      "price_btc": 5.324932464067537e-06,
+      "timestamp": "2025-04-22 01:39"
+    },
+    {
+      "rank": 14,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.838282165569776e-07,
+      "timestamp": "2025-04-22 01:39"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.94576088347619e-11,
+      "timestamp": "2025-04-22 01:39"
+    }
   ]
 }
