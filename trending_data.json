@@ -23431,5 +23431,112 @@
       "price_btc": 3.713218929856327e-05,
       "timestamp": "2025-04-22 14:19"
     }
+  ],
+  "2025-04-22 15:21": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020719035636869993,
+      "timestamp": "2025-04-22 15:21"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2034614777151404e-05,
+      "timestamp": "2025-04-22 15:21"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-22 15:21"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037991584018062107,
+      "timestamp": "2025-04-22 15:21"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.871031354792563e-06,
+      "timestamp": "2025-04-22 15:21"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001588498612935399,
+      "timestamp": "2025-04-22 15:21"
+    },
+    {
+      "rank": 7,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.373931098179746e-06,
+      "timestamp": "2025-04-22 15:21"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6589575245114532e-05,
+      "timestamp": "2025-04-22 15:21"
+    },
+    {
+      "rank": 9,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.6860754966037115e-05,
+      "timestamp": "2025-04-22 15:21"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018334272427186802,
+      "timestamp": "2025-04-22 15:21"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.28537580844964e-11,
+      "timestamp": "2025-04-22 15:21"
+    },
+    {
+      "rank": 12,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.662212566108905e-06,
+      "timestamp": "2025-04-22 15:21"
+    },
+    {
+      "rank": 13,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.2704049070642973e-06,
+      "timestamp": "2025-04-22 15:21"
+    },
+    {
+      "rank": 14,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 6.534712535584423e-08,
+      "timestamp": "2025-04-22 15:21"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.315832012731406e-06,
+      "timestamp": "2025-04-22 15:21"
+    }
   ]
 }
