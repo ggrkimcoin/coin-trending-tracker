@@ -22896,5 +22896,112 @@
       "price_btc": 2.491201256443995e-06,
       "timestamp": "2025-04-22 09:21"
     }
+  ],
+  "2025-04-22 10:21": [
+    {
+      "rank": 1,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.390777091978453e-06,
+      "timestamp": "2025-04-22 10:21"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.083387474863058e-06,
+      "timestamp": "2025-04-22 10:21"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036790068502772118,
+      "timestamp": "2025-04-22 10:21"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2052746082795436e-05,
+      "timestamp": "2025-04-22 10:21"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6115450471908585e-05,
+      "timestamp": "2025-04-22 10:21"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-22 10:21"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015802785604115824,
+      "timestamp": "2025-04-22 10:21"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018347103065224125,
+      "timestamp": "2025-04-22 10:21"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002058728886816342,
+      "timestamp": "2025-04-22 10:21"
+    },
+    {
+      "rank": 10,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.670573208955408e-06,
+      "timestamp": "2025-04-22 10:21"
+    },
+    {
+      "rank": 11,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 9.107079297454984e-07,
+      "timestamp": "2025-04-22 10:21"
+    },
+    {
+      "rank": 12,
+      "name": "Pixels",
+      "symbol": "PIXEL",
+      "price_btc": 4.917550858710419e-07,
+      "timestamp": "2025-04-22 10:21"
+    },
+    {
+      "rank": 13,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.863984287999702e-05,
+      "timestamp": "2025-04-22 10:21"
+    },
+    {
+      "rank": 14,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 2.852881225901265e-06,
+      "timestamp": "2025-04-22 10:21"
+    },
+    {
+      "rank": 15,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.625276239936585e-05,
+      "timestamp": "2025-04-22 10:21"
+    }
   ]
 }
