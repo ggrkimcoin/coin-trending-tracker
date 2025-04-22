@@ -24180,5 +24180,112 @@
       "price_btc": 1.3313543905361587e-06,
       "timestamp": "2025-04-22 21:18"
     }
+  ],
+  "2025-04-22 22:18": [
+    {
+      "rank": 1,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 9.747157465989507e-06,
+      "timestamp": "2025-04-22 22:18"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.8421194742368515e-11,
+      "timestamp": "2025-04-22 22:18"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036356263772265754,
+      "timestamp": "2025-04-22 22:18"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2548398933294513e-05,
+      "timestamp": "2025-04-22 22:18"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.803371174991822e-05,
+      "timestamp": "2025-04-22 22:18"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020332725670878102,
+      "timestamp": "2025-04-22 22:18"
+    },
+    {
+      "rank": 7,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.897317815048769e-06,
+      "timestamp": "2025-04-22 22:18"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015863494868105876,
+      "timestamp": "2025-04-22 22:18"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3979201602987517e-05,
+      "timestamp": "2025-04-22 22:18"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-22 22:18"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.4576103209514e-11,
+      "timestamp": "2025-04-22 22:18"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.785938440410376e-05,
+      "timestamp": "2025-04-22 22:18"
+    },
+    {
+      "rank": 13,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.3967200802582084e-06,
+      "timestamp": "2025-04-22 22:18"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.9530597489094424e-05,
+      "timestamp": "2025-04-22 22:18"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018841315340780658,
+      "timestamp": "2025-04-22 22:18"
+    }
   ]
 }
