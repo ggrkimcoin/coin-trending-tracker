@@ -23859,5 +23859,112 @@
       "price_btc": 3.521077165778127e-08,
       "timestamp": "2025-04-22 18:27"
     }
+  ],
+  "2025-04-22 19:16": [
+    {
+      "rank": 1,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 9.007445094653822e-06,
+      "timestamp": "2025-04-22 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.9178784517971554e-11,
+      "timestamp": "2025-04-22 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00378002649213355,
+      "timestamp": "2025-04-22 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6700846969866192e-05,
+      "timestamp": "2025-04-22 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.321410409034118e-06,
+      "timestamp": "2025-04-22 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1781090170339771e-05,
+      "timestamp": "2025-04-22 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020474101334761464,
+      "timestamp": "2025-04-22 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.8328351129560645e-06,
+      "timestamp": "2025-04-22 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018603070912556707,
+      "timestamp": "2025-04-22 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "tokenbot",
+      "symbol": "CLANKER",
+      "price_btc": 0.0005904683978628739,
+      "timestamp": "2025-04-22 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.776846127326869e-06,
+      "timestamp": "2025-04-22 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.0105681680863957e-06,
+      "timestamp": "2025-04-22 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 3.505677986394218e-06,
+      "timestamp": "2025-04-22 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015826038929756519,
+      "timestamp": "2025-04-22 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.193423700814487e-11,
+      "timestamp": "2025-04-22 19:16"
+    }
   ]
 }
