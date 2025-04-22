@@ -22468,5 +22468,112 @@
       "price_btc": 9.335981551793481e-08,
       "timestamp": "2025-04-22 05:19"
     }
+  ],
+  "2025-04-22 06:28": [
+    {
+      "rank": 1,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.4866821706776691e-06,
+      "timestamp": "2025-04-22 06:28"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1483201510037472e-05,
+      "timestamp": "2025-04-22 06:28"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.781032934779683e-06,
+      "timestamp": "2025-04-22 06:28"
+    },
+    {
+      "rank": 4,
+      "name": "PumpBTC",
+      "symbol": "PUMP",
+      "price_btc": 1.782175558580696e-06,
+      "timestamp": "2025-04-22 06:28"
+    },
+    {
+      "rank": 5,
+      "name": "Pixels",
+      "symbol": "PIXEL",
+      "price_btc": 5.297448776207446e-07,
+      "timestamp": "2025-04-22 06:28"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-22 06:28"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.545069549501744e-05,
+      "timestamp": "2025-04-22 06:28"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015803160378395247,
+      "timestamp": "2025-04-22 06:28"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.017937983775158532,
+      "timestamp": "2025-04-22 06:28"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.165170866310787e-06,
+      "timestamp": "2025-04-22 06:28"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.004658121106775e-11,
+      "timestamp": "2025-04-22 06:28"
+    },
+    {
+      "rank": 12,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.53759513434289e-06,
+      "timestamp": "2025-04-22 06:28"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.221491852707197e-06,
+      "timestamp": "2025-04-22 06:28"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.917680872880944e-05,
+      "timestamp": "2025-04-22 06:28"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00360580295187439,
+      "timestamp": "2025-04-22 06:28"
+    }
   ]
 }
