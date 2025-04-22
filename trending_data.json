@@ -23324,5 +23324,112 @@
       "price_btc": 9.172498186416297e-07,
       "timestamp": "2025-04-22 13:29"
     }
+  ],
+  "2025-04-22 14:19": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020781841543950007,
+      "timestamp": "2025-04-22 14:19"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003738059847857188,
+      "timestamp": "2025-04-22 14:19"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1997298792621713e-05,
+      "timestamp": "2025-04-22 14:19"
+    },
+    {
+      "rank": 4,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.404317948584289e-06,
+      "timestamp": "2025-04-22 14:19"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015893018569730192,
+      "timestamp": "2025-04-22 14:19"
+    },
+    {
+      "rank": 6,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.864481325210254e-06,
+      "timestamp": "2025-04-22 14:19"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-22 14:19"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01822200489900106,
+      "timestamp": "2025-04-22 14:19"
+    },
+    {
+      "rank": 9,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.2712141330942825e-06,
+      "timestamp": "2025-04-22 14:19"
+    },
+    {
+      "rank": 10,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.292107139757351e-06,
+      "timestamp": "2025-04-22 14:19"
+    },
+    {
+      "rank": 11,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.558096913533578e-06,
+      "timestamp": "2025-04-22 14:19"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.624472383457844e-05,
+      "timestamp": "2025-04-22 14:19"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.0931617936877026e-06,
+      "timestamp": "2025-04-22 14:19"
+    },
+    {
+      "rank": 14,
+      "name": "Cronos",
+      "symbol": "CRO",
+      "price_btc": 9.991604204670778e-07,
+      "timestamp": "2025-04-22 14:19"
+    },
+    {
+      "rank": 15,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.713218929856327e-05,
+      "timestamp": "2025-04-22 14:19"
+    }
   ]
 }
