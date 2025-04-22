@@ -23217,5 +23217,112 @@
       "price_btc": 4.634627058194702e-06,
       "timestamp": "2025-04-22 12:39"
     }
+  ],
+  "2025-04-22 13:29": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020775093112386134,
+      "timestamp": "2025-04-22 13:29"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2109827180237916e-05,
+      "timestamp": "2025-04-22 13:29"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.8859988113480375e-06,
+      "timestamp": "2025-04-22 13:29"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003804873597080526,
+      "timestamp": "2025-04-22 13:29"
+    },
+    {
+      "rank": 5,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.665042725450503e-06,
+      "timestamp": "2025-04-22 13:29"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001586231676257013,
+      "timestamp": "2025-04-22 13:29"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01831709463574305,
+      "timestamp": "2025-04-22 13:29"
+    },
+    {
+      "rank": 8,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.2469583794834502e-06,
+      "timestamp": "2025-04-22 13:29"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.141189167143992e-06,
+      "timestamp": "2025-04-22 13:29"
+    },
+    {
+      "rank": 10,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.584674591789895e-06,
+      "timestamp": "2025-04-22 13:29"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-22 13:29"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6568240223673124e-05,
+      "timestamp": "2025-04-22 13:29"
+    },
+    {
+      "rank": 13,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0394315922091074e-06,
+      "timestamp": "2025-04-22 13:29"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.776779759156217e-06,
+      "timestamp": "2025-04-22 13:29"
+    },
+    {
+      "rank": 15,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 9.172498186416297e-07,
+      "timestamp": "2025-04-22 13:29"
+    }
   ]
 }
