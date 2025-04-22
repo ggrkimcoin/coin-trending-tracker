@@ -22361,5 +22361,112 @@
       "price_btc": 3.986952496457855e-05,
       "timestamp": "2025-04-22 04:23"
     }
+  ],
+  "2025-04-22 05:19": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.906392718332539e-06,
+      "timestamp": "2025-04-22 05:19"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1286075245335206e-05,
+      "timestamp": "2025-04-22 05:19"
+    },
+    {
+      "rank": 3,
+      "name": "Pixels",
+      "symbol": "PIXEL",
+      "price_btc": 5.394607524701682e-07,
+      "timestamp": "2025-04-22 05:19"
+    },
+    {
+      "rank": 4,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.9197354845748563e-06,
+      "timestamp": "2025-04-22 05:19"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-22 05:19"
+    },
+    {
+      "rank": 6,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 3.048561193275046e-06,
+      "timestamp": "2025-04-22 05:19"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003554966571367381,
+      "timestamp": "2025-04-22 05:19"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.1717433127585424e-06,
+      "timestamp": "2025-04-22 05:19"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.017907109059294993,
+      "timestamp": "2025-04-22 05:19"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020953765681830643,
+      "timestamp": "2025-04-22 05:19"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0160429675889988e-06,
+      "timestamp": "2025-04-22 05:19"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.360547376374397e-05,
+      "timestamp": "2025-04-22 05:19"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5442964606665327e-05,
+      "timestamp": "2025-04-22 05:19"
+    },
+    {
+      "rank": 14,
+      "name": "PAX Gold",
+      "symbol": "PAXG",
+      "price_btc": 0.039828262560730354,
+      "timestamp": "2025-04-22 05:19"
+    },
+    {
+      "rank": 15,
+      "name": "Reserve Rights",
+      "symbol": "RSR",
+      "price_btc": 9.335981551793481e-08,
+      "timestamp": "2025-04-22 05:19"
+    }
   ]
 }
