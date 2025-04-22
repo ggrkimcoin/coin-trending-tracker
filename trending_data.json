@@ -23110,5 +23110,112 @@
       "price_btc": 4.901956008920992e-06,
       "timestamp": "2025-04-22 11:17"
     }
+  ],
+  "2025-04-22 12:39": [
+    {
+      "rank": 1,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.746763958976102e-06,
+      "timestamp": "2025-04-22 12:39"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2273298755739109e-05,
+      "timestamp": "2025-04-22 12:39"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.018290627582748e-06,
+      "timestamp": "2025-04-22 12:39"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020853171163292633,
+      "timestamp": "2025-04-22 12:39"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001583052655984269,
+      "timestamp": "2025-04-22 12:39"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003754419410163991,
+      "timestamp": "2025-04-22 12:39"
+    },
+    {
+      "rank": 7,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0429508597080858e-06,
+      "timestamp": "2025-04-22 12:39"
+    },
+    {
+      "rank": 8,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.2450639423227774e-06,
+      "timestamp": "2025-04-22 12:39"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.656749607170737e-05,
+      "timestamp": "2025-04-22 12:39"
+    },
+    {
+      "rank": 10,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.589937126170265e-06,
+      "timestamp": "2025-04-22 12:39"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01839708941122408,
+      "timestamp": "2025-04-22 12:39"
+    },
+    {
+      "rank": 12,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.0068257798559778655,
+      "timestamp": "2025-04-22 12:39"
+    },
+    {
+      "rank": 13,
+      "name": "Eigenlayer",
+      "symbol": "EIGEN",
+      "price_btc": 9.68694538306787e-06,
+      "timestamp": "2025-04-22 12:39"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-22 12:39"
+    },
+    {
+      "rank": 15,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.634627058194702e-06,
+      "timestamp": "2025-04-22 12:39"
+    }
   ]
 }
