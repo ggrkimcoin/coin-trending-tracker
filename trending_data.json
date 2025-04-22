@@ -22575,5 +22575,112 @@
       "price_btc": 0.00360580295187439,
       "timestamp": "2025-04-22 06:28"
     }
+  ],
+  "2025-04-22 07:19": [
+    {
+      "rank": 1,
+      "name": "Pangolin",
+      "symbol": "PNG",
+      "price_btc": 1.5239616190675902e-06,
+      "timestamp": "2025-04-22 07:19"
+    },
+    {
+      "rank": 2,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.4685343820241957e-06,
+      "timestamp": "2025-04-22 07:19"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1547227217320854e-05,
+      "timestamp": "2025-04-22 07:19"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-22 07:19"
+    },
+    {
+      "rank": 5,
+      "name": "PumpBTC",
+      "symbol": "PUMP",
+      "price_btc": 1.6434372585356004e-06,
+      "timestamp": "2025-04-22 07:19"
+    },
+    {
+      "rank": 6,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.797962311879277e-06,
+      "timestamp": "2025-04-22 07:19"
+    },
+    {
+      "rank": 7,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3530076440885956e-05,
+      "timestamp": "2025-04-22 07:19"
+    },
+    {
+      "rank": 8,
+      "name": "PAX Gold",
+      "symbol": "PAXG",
+      "price_btc": 0.0397355677744219,
+      "timestamp": "2025-04-22 07:19"
+    },
+    {
+      "rank": 9,
+      "name": "Pixels",
+      "symbol": "PIXEL",
+      "price_btc": 5.34920992314788e-07,
+      "timestamp": "2025-04-22 07:19"
+    },
+    {
+      "rank": 10,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 4.754905473619399e-06,
+      "timestamp": "2025-04-22 07:19"
+    },
+    {
+      "rank": 11,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 5.607449599751109e-08,
+      "timestamp": "2025-04-22 07:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01793846344772217,
+      "timestamp": "2025-04-22 07:19"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020640328663802448,
+      "timestamp": "2025-04-22 07:19"
+    },
+    {
+      "rank": 14,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 8.742187104727937e-07,
+      "timestamp": "2025-04-22 07:19"
+    },
+    {
+      "rank": 15,
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price_btc": 2.3931872041026066e-06,
+      "timestamp": "2025-04-22 07:19"
+    }
   ]
 }
