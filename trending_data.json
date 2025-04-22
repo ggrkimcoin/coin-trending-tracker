@@ -24287,5 +24287,112 @@
       "price_btc": 0.018841315340780658,
       "timestamp": "2025-04-22 22:18"
     }
+  ],
+  "2025-04-22 23:18": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.8656659597147627e-11,
+      "timestamp": "2025-04-22 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2198334358848477e-05,
+      "timestamp": "2025-04-22 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.890234285678795e-05,
+      "timestamp": "2025-04-22 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 9.430662207775517e-06,
+      "timestamp": "2025-04-22 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.868416765970519e-06,
+      "timestamp": "2025-04-22 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002033496288704214,
+      "timestamp": "2025-04-22 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-22 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003610978140030272,
+      "timestamp": "2025-04-22 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.8087770336030218e-06,
+      "timestamp": "2025-04-22 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "price_btc": 1.9460601708491057e-06,
+      "timestamp": "2025-04-22 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018795656510431663,
+      "timestamp": "2025-04-22 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016032673553929041,
+      "timestamp": "2025-04-22 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "Brett",
+      "symbol": "BRETT",
+      "price_btc": 4.73600825167212e-07,
+      "timestamp": "2025-04-22 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3823244646743655e-05,
+      "timestamp": "2025-04-22 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.717989734272143e-05,
+      "timestamp": "2025-04-22 23:18"
+    }
   ]
 }
