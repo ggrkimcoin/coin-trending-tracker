@@ -22254,5 +22254,112 @@
       "price_btc": 8.991497198750839e-11,
       "timestamp": "2025-04-22 03:03"
     }
+  ],
+  "2025-04-22 04:23": [
+    {
+      "rank": 1,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1378161971626856e-05,
+      "timestamp": "2025-04-22 04:23"
+    },
+    {
+      "rank": 2,
+      "name": "Pixels",
+      "symbol": "PIXEL",
+      "price_btc": 5.530703347237682e-07,
+      "timestamp": "2025-04-22 04:23"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.905185072932353e-06,
+      "timestamp": "2025-04-22 04:23"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.178377911660365e-06,
+      "timestamp": "2025-04-22 04:23"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-22 04:23"
+    },
+    {
+      "rank": 6,
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "price_btc": 3.0600901922020264e-06,
+      "timestamp": "2025-04-22 04:23"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035930204159041364,
+      "timestamp": "2025-04-22 04:23"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0179518142562392,
+      "timestamp": "2025-04-22 04:23"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021078931538540534,
+      "timestamp": "2025-04-22 04:23"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001577189785448212,
+      "timestamp": "2025-04-22 04:23"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0116745782053238e-06,
+      "timestamp": "2025-04-22 04:23"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.53173695320911e-05,
+      "timestamp": "2025-04-22 04:23"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.365402344897688e-05,
+      "timestamp": "2025-04-22 04:23"
+    },
+    {
+      "rank": 14,
+      "name": "Reserve Rights",
+      "symbol": "RSR",
+      "price_btc": 9.587216308158612e-08,
+      "timestamp": "2025-04-22 04:23"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.986952496457855e-05,
+      "timestamp": "2025-04-22 04:23"
+    }
   ]
 }
