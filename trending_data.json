@@ -25357,5 +25357,112 @@
       "price_btc": 0.00020243829765097376,
       "timestamp": "2025-04-23 10:23"
     }
+  ],
+  "2025-04-23 11:17": [
+    {
+      "rank": 1,
+      "name": "Stafi",
+      "symbol": "FIS",
+      "price_btc": 1.8989329480342646e-06,
+      "timestamp": "2025-04-23 11:17"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.078182707956094e-05,
+      "timestamp": "2025-04-23 11:17"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.9470170961876535e-06,
+      "timestamp": "2025-04-23 11:17"
+    },
+    {
+      "rank": 4,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 2.168860575423796e-06,
+      "timestamp": "2025-04-23 11:17"
+    },
+    {
+      "rank": 5,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 7.712746090884317e-07,
+      "timestamp": "2025-04-23 11:17"
+    },
+    {
+      "rank": 6,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.779544479365204e-11,
+      "timestamp": "2025-04-23 11:17"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.243215321794578e-05,
+      "timestamp": "2025-04-23 11:17"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-23 11:17"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019187850601764974,
+      "timestamp": "2025-04-23 11:17"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016253560975909766,
+      "timestamp": "2025-04-23 11:17"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 8.317847777143283e-06,
+      "timestamp": "2025-04-23 11:17"
+    },
+    {
+      "rank": 12,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 8.902364282024913e-06,
+      "timestamp": "2025-04-23 11:17"
+    },
+    {
+      "rank": 13,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00015923075193342913,
+      "timestamp": "2025-04-23 11:17"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035738520967007713,
+      "timestamp": "2025-04-23 11:17"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.424196163635581e-05,
+      "timestamp": "2025-04-23 11:17"
+    }
   ]
 }
