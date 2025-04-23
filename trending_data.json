@@ -24501,5 +24501,112 @@
       "price_btc": 2.374968992599395e-05,
       "timestamp": "2025-04-23 01:39"
     }
+  ],
+  "2025-04-23 03:04": [
+    {
+      "rank": 1,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 2.279916345551258e-06,
+      "timestamp": "2025-04-23 03:04"
+    },
+    {
+      "rank": 2,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 8.932966373749305e-06,
+      "timestamp": "2025-04-23 03:04"
+    },
+    {
+      "rank": 3,
+      "name": "Immutable",
+      "symbol": "IMX",
+      "price_btc": 6.69924983085586e-06,
+      "timestamp": "2025-04-23 03:04"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.97743593833558e-05,
+      "timestamp": "2025-04-23 03:04"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.339132303280058e-08,
+      "timestamp": "2025-04-23 03:04"
+    },
+    {
+      "rank": 6,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 6.834736803179381e-07,
+      "timestamp": "2025-04-23 03:04"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2592417943204492e-05,
+      "timestamp": "2025-04-23 03:04"
+    },
+    {
+      "rank": 8,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.882107375735972e-06,
+      "timestamp": "2025-04-23 03:04"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019295872586982198,
+      "timestamp": "2025-04-23 03:04"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-23 03:04"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020328801800486969,
+      "timestamp": "2025-04-23 03:04"
+    },
+    {
+      "rank": 12,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.479245723903772e-06,
+      "timestamp": "2025-04-23 03:04"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.960432494198902e-06,
+      "timestamp": "2025-04-23 03:04"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.825868296339483e-11,
+      "timestamp": "2025-04-23 03:04"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3841339660450432e-05,
+      "timestamp": "2025-04-23 03:04"
+    }
   ]
 }
