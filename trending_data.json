@@ -25892,5 +25892,112 @@
       "price_btc": 2.042881124297932e-06,
       "timestamp": "2025-04-23 15:22"
     }
+  ],
+  "2025-04-23 16:26": [
+    {
+      "rank": 1,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.4361498746212475e-07,
+      "timestamp": "2025-04-23 16:26"
+    },
+    {
+      "rank": 2,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 8.80893088924378e-06,
+      "timestamp": "2025-04-23 16:26"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6630047920445058e-11,
+      "timestamp": "2025-04-23 16:26"
+    },
+    {
+      "rank": 4,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012229980852887168,
+      "timestamp": "2025-04-23 16:26"
+    },
+    {
+      "rank": 5,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 8.1616230957727e-07,
+      "timestamp": "2025-04-23 16:26"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.169907222568315e-05,
+      "timestamp": "2025-04-23 16:26"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019240680411662325,
+      "timestamp": "2025-04-23 16:26"
+    },
+    {
+      "rank": 8,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.626847151499584e-06,
+      "timestamp": "2025-04-23 16:26"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016203742332666624,
+      "timestamp": "2025-04-23 16:26"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2056781064267955e-05,
+      "timestamp": "2025-04-23 16:26"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-23 16:26"
+    },
+    {
+      "rank": 12,
+      "name": "Turbo",
+      "symbol": "TURBO",
+      "price_btc": 4.9010413710578794e-08,
+      "timestamp": "2025-04-23 16:26"
+    },
+    {
+      "rank": 13,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.778385189328673e-06,
+      "timestamp": "2025-04-23 16:26"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.557735818278135e-06,
+      "timestamp": "2025-04-23 16:26"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 5.34114953901481e-06,
+      "timestamp": "2025-04-23 16:26"
+    }
   ]
 }
