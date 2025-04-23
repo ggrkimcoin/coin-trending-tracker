@@ -26106,5 +26106,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-04-23 17:17"
     }
+  ],
+  "2025-04-23 18:29": [
+    {
+      "rank": 1,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.4085651009586475e-07,
+      "timestamp": "2025-04-23 18:29"
+    },
+    {
+      "rank": 2,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013565488577013318,
+      "timestamp": "2025-04-23 18:29"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6553773337516222e-11,
+      "timestamp": "2025-04-23 18:29"
+    },
+    {
+      "rank": 4,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.528077087014377e-06,
+      "timestamp": "2025-04-23 18:29"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.169582119561724e-05,
+      "timestamp": "2025-04-23 18:29"
+    },
+    {
+      "rank": 6,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 9.068201481157033e-07,
+      "timestamp": "2025-04-23 18:29"
+    },
+    {
+      "rank": 7,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 8.887651469331522e-06,
+      "timestamp": "2025-04-23 18:29"
+    },
+    {
+      "rank": 8,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.828473059547099e-06,
+      "timestamp": "2025-04-23 18:29"
+    },
+    {
+      "rank": 9,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.57876492390325e-06,
+      "timestamp": "2025-04-23 18:29"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.72782314506515e-06,
+      "timestamp": "2025-04-23 18:29"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019777164596543662,
+      "timestamp": "2025-04-23 18:29"
+    },
+    {
+      "rank": 12,
+      "name": "Melania Meme",
+      "symbol": "MELANIA",
+      "price_btc": 5.070250378602264e-06,
+      "timestamp": "2025-04-23 18:29"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.942188427507037e-06,
+      "timestamp": "2025-04-23 18:29"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019153651271053597,
+      "timestamp": "2025-04-23 18:29"
+    },
+    {
+      "rank": 15,
+      "name": "Turbo",
+      "symbol": "TURBO",
+      "price_btc": 4.901934090595248e-08,
+      "timestamp": "2025-04-23 18:29"
+    }
   ]
 }
