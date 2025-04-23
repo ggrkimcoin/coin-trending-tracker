@@ -25678,5 +25678,112 @@
       "price_btc": 0.00020254142117578672,
       "timestamp": "2025-04-23 13:29"
     }
+  ],
+  "2025-04-23 14:20": [
+    {
+      "rank": 1,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.52687115027501e-07,
+      "timestamp": "2025-04-23 14:20"
+    },
+    {
+      "rank": 2,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 8.740797313277334e-06,
+      "timestamp": "2025-04-23 14:20"
+    },
+    {
+      "rank": 3,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.562961811687348e-06,
+      "timestamp": "2025-04-23 14:20"
+    },
+    {
+      "rank": 4,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.706670203365559e-11,
+      "timestamp": "2025-04-23 14:20"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1977559564461595e-05,
+      "timestamp": "2025-04-23 14:20"
+    },
+    {
+      "rank": 6,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 8.35593599009024e-07,
+      "timestamp": "2025-04-23 14:20"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2208307750864444e-05,
+      "timestamp": "2025-04-23 14:20"
+    },
+    {
+      "rank": 8,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 6.037978356925408e-06,
+      "timestamp": "2025-04-23 14:20"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016160966070066472,
+      "timestamp": "2025-04-23 14:20"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01925385576648091,
+      "timestamp": "2025-04-23 14:20"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003549691492278578,
+      "timestamp": "2025-04-23 14:20"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020011186236041617,
+      "timestamp": "2025-04-23 14:20"
+    },
+    {
+      "rank": 13,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 2.0834790873602216e-06,
+      "timestamp": "2025-04-23 14:20"
+    },
+    {
+      "rank": 14,
+      "name": "Turbo",
+      "symbol": "TURBO",
+      "price_btc": 5.6216627852198905e-08,
+      "timestamp": "2025-04-23 14:20"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 8.685468174780242e-06,
+      "timestamp": "2025-04-23 14:20"
+    }
   ]
 }
