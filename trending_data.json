@@ -26427,5 +26427,112 @@
       "price_btc": 1.7840710940321895e-06,
       "timestamp": "2025-04-23 20:22"
     }
+  ],
+  "2025-04-23 21:19": [
+    {
+      "rank": 1,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.440418682869742e-07,
+      "timestamp": "2025-04-23 21:19"
+    },
+    {
+      "rank": 2,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 9.179236014283705e-06,
+      "timestamp": "2025-04-23 21:19"
+    },
+    {
+      "rank": 3,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00014621516863083984,
+      "timestamp": "2025-04-23 21:19"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.199096383563077e-05,
+      "timestamp": "2025-04-23 21:19"
+    },
+    {
+      "rank": 5,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6870115636124946e-11,
+      "timestamp": "2025-04-23 21:19"
+    },
+    {
+      "rank": 6,
+      "name": "SwissCheese",
+      "symbol": "SWCH",
+      "price_btc": 6.4162319717252945e-06,
+      "timestamp": "2025-04-23 21:19"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036786155521810458,
+      "timestamp": "2025-04-23 21:19"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019734352781048013,
+      "timestamp": "2025-04-23 21:19"
+    },
+    {
+      "rank": 9,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 8.512356113900033e-07,
+      "timestamp": "2025-04-23 21:19"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016114617810764357,
+      "timestamp": "2025-04-23 21:19"
+    },
+    {
+      "rank": 11,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.8793105317766093e-06,
+      "timestamp": "2025-04-23 21:19"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.158851896070442e-05,
+      "timestamp": "2025-04-23 21:19"
+    },
+    {
+      "rank": 13,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.7553251279078075e-06,
+      "timestamp": "2025-04-23 21:19"
+    },
+    {
+      "rank": 14,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.506938420894801e-06,
+      "timestamp": "2025-04-23 21:19"
+    },
+    {
+      "rank": 15,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 4.89879720262797e-05,
+      "timestamp": "2025-04-23 21:19"
+    }
   ]
 }
