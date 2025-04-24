@@ -28567,5 +28567,112 @@
       "price_btc": 7.386144053505266e-06,
       "timestamp": "2025-04-24 18:27"
     }
+  ],
+  "2025-04-24 19:17": [
+    {
+      "rank": 1,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.126901535997878e-06,
+      "timestamp": "2025-04-24 19:17"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.535695760631391e-05,
+      "timestamp": "2025-04-24 19:17"
+    },
+    {
+      "rank": 3,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.447613139751322e-07,
+      "timestamp": "2025-04-24 19:17"
+    },
+    {
+      "rank": 4,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012751661405227205,
+      "timestamp": "2025-04-24 19:17"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038275823065285278,
+      "timestamp": "2025-04-24 19:17"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.050920775600145e-05,
+      "timestamp": "2025-04-24 19:17"
+    },
+    {
+      "rank": 7,
+      "name": "Helium",
+      "symbol": "HNT",
+      "price_btc": 4.056356611577408e-05,
+      "timestamp": "2025-04-24 19:17"
+    },
+    {
+      "rank": 8,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.8106298867362455e-05,
+      "timestamp": "2025-04-24 19:17"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3583582757822844e-05,
+      "timestamp": "2025-04-24 19:17"
+    },
+    {
+      "rank": 10,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.8385021589893394e-06,
+      "timestamp": "2025-04-24 19:17"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016239686229271835,
+      "timestamp": "2025-04-24 19:17"
+    },
+    {
+      "rank": 12,
+      "name": "Cosmos Hub",
+      "symbol": "ATOM",
+      "price_btc": 4.874043659579105e-05,
+      "timestamp": "2025-04-24 19:17"
+    },
+    {
+      "rank": 13,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.53007674173113e-06,
+      "timestamp": "2025-04-24 19:17"
+    },
+    {
+      "rank": 14,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 1.9629464226743877e-06,
+      "timestamp": "2025-04-24 19:17"
+    },
+    {
+      "rank": 15,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 8.009013105176948e-07,
+      "timestamp": "2025-04-24 19:17"
+    }
   ]
 }
