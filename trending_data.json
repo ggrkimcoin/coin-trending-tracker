@@ -27069,5 +27069,112 @@
       "price_btc": 5.596170210190151e-06,
       "timestamp": "2025-04-24 04:23"
     }
+  ],
+  "2025-04-24 05:19": [
+    {
+      "rank": 1,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.7178950231853475e-07,
+      "timestamp": "2025-04-24 05:19"
+    },
+    {
+      "rank": 2,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001303214171975089,
+      "timestamp": "2025-04-24 05:19"
+    },
+    {
+      "rank": 3,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.7385402137389452e-06,
+      "timestamp": "2025-04-24 05:19"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.220164587223634e-05,
+      "timestamp": "2025-04-24 05:19"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.030514105889672e-06,
+      "timestamp": "2025-04-24 05:19"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1256536059887775e-05,
+      "timestamp": "2025-04-24 05:19"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019065265082040712,
+      "timestamp": "2025-04-24 05:19"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-24 05:19"
+    },
+    {
+      "rank": 9,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.6705432068829255e-06,
+      "timestamp": "2025-04-24 05:19"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015967030278060952,
+      "timestamp": "2025-04-24 05:19"
+    },
+    {
+      "rank": 11,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 7.702201923011817e-07,
+      "timestamp": "2025-04-24 05:19"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 7.345707978497936e-06,
+      "timestamp": "2025-04-24 05:19"
+    },
+    {
+      "rank": 13,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.7836551041967695e-05,
+      "timestamp": "2025-04-24 05:19"
+    },
+    {
+      "rank": 14,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 1.5232003158891103e-10,
+      "timestamp": "2025-04-24 05:19"
+    },
+    {
+      "rank": 15,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.582776590042736e-06,
+      "timestamp": "2025-04-24 05:19"
+    }
   ]
 }
