@@ -28781,5 +28781,112 @@
       "price_btc": 4.000494198305738e-06,
       "timestamp": "2025-04-24 20:22"
     }
+  ],
+  "2025-04-24 21:19": [
+    {
+      "rank": 1,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.345225906359538e-06,
+      "timestamp": "2025-04-24 21:19"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.503652395763922e-05,
+      "timestamp": "2025-04-24 21:19"
+    },
+    {
+      "rank": 3,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.4138750075025176e-07,
+      "timestamp": "2025-04-24 21:19"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038185786593100232,
+      "timestamp": "2025-04-24 21:19"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.048376573881171e-05,
+      "timestamp": "2025-04-24 21:19"
+    },
+    {
+      "rank": 6,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012814289733299475,
+      "timestamp": "2025-04-24 21:19"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2027668647743226e-05,
+      "timestamp": "2025-04-24 21:19"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001619630105250044,
+      "timestamp": "2025-04-24 21:19"
+    },
+    {
+      "rank": 9,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 5.363746820254789e-06,
+      "timestamp": "2025-04-24 21:19"
+    },
+    {
+      "rank": 10,
+      "name": "Mantle",
+      "symbol": "MNT",
+      "price_btc": 7.787582890749413e-06,
+      "timestamp": "2025-04-24 21:19"
+    },
+    {
+      "rank": 11,
+      "name": "Helium",
+      "symbol": "HNT",
+      "price_btc": 4.0780583181586504e-05,
+      "timestamp": "2025-04-24 21:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018857424994422355,
+      "timestamp": "2025-04-24 21:19"
+    },
+    {
+      "rank": 13,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.595505208906386e-06,
+      "timestamp": "2025-04-24 21:19"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 7.889618485080116e-06,
+      "timestamp": "2025-04-24 21:19"
+    },
+    {
+      "rank": 15,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 7.464423912151334e-06,
+      "timestamp": "2025-04-24 21:19"
+    }
   ]
 }
