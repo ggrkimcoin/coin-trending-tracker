@@ -28995,5 +28995,112 @@
       "price_btc": 2.0364136439835676e-06,
       "timestamp": "2025-04-24 22:19"
     }
+  ],
+  "2025-04-24 23:18": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5408297504669484e-05,
+      "timestamp": "2025-04-24 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.483205205453529e-07,
+      "timestamp": "2025-04-24 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.85855352462632e-06,
+      "timestamp": "2025-04-24 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.59360323873119e-08,
+      "timestamp": "2025-04-24 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012928079172351857,
+      "timestamp": "2025-04-24 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.03661448210855e-05,
+      "timestamp": "2025-04-24 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016133205749711667,
+      "timestamp": "2025-04-24 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037934126526011683,
+      "timestamp": "2025-04-24 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 7.870290407402005e-06,
+      "timestamp": "2025-04-24 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019882195235310603,
+      "timestamp": "2025-04-24 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.601572509136498e-06,
+      "timestamp": "2025-04-24 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.551050187356799e-06,
+      "timestamp": "2025-04-24 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.9729420418087747e-06,
+      "timestamp": "2025-04-24 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.7895160290114648e-06,
+      "timestamp": "2025-04-24 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 1.6337768249441234e-10,
+      "timestamp": "2025-04-24 23:18"
+    }
   ]
 }
