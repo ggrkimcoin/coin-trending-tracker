@@ -28460,5 +28460,112 @@
       "price_btc": 5.794909967029851e-06,
       "timestamp": "2025-04-24 17:17"
     }
+  ],
+  "2025-04-24 18:27": [
+    {
+      "rank": 1,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.432670976216197e-06,
+      "timestamp": "2025-04-24 18:27"
+    },
+    {
+      "rank": 2,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.2617905680476915e-07,
+      "timestamp": "2025-04-24 18:27"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5841074710420784e-05,
+      "timestamp": "2025-04-24 18:27"
+    },
+    {
+      "rank": 4,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0543005913533683e-05,
+      "timestamp": "2025-04-24 18:27"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.000128481173220239,
+      "timestamp": "2025-04-24 18:27"
+    },
+    {
+      "rank": 6,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.560533545529231e-06,
+      "timestamp": "2025-04-24 18:27"
+    },
+    {
+      "rank": 7,
+      "name": "Helium",
+      "symbol": "HNT",
+      "price_btc": 4.0709389594748036e-05,
+      "timestamp": "2025-04-24 18:27"
+    },
+    {
+      "rank": 8,
+      "name": "Cosmos Hub",
+      "symbol": "ATOM",
+      "price_btc": 4.884627829216467e-05,
+      "timestamp": "2025-04-24 18:27"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003789450571373075,
+      "timestamp": "2025-04-24 18:27"
+    },
+    {
+      "rank": 10,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 8.04396238284329e-07,
+      "timestamp": "2025-04-24 18:27"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1751632001175714e-05,
+      "timestamp": "2025-04-24 18:27"
+    },
+    {
+      "rank": 12,
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "price_btc": 7.364280453204668e-06,
+      "timestamp": "2025-04-24 18:27"
+    },
+    {
+      "rank": 13,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.167748551780417e-06,
+      "timestamp": "2025-04-24 18:27"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001618691928397929,
+      "timestamp": "2025-04-24 18:27"
+    },
+    {
+      "rank": 15,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 7.386144053505266e-06,
+      "timestamp": "2025-04-24 18:27"
+    }
   ]
 }
