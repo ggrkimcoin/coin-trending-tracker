@@ -28032,5 +28032,112 @@
       "price_btc": 2.0808392940647697e-06,
       "timestamp": "2025-04-24 13:30"
     }
+  ],
+  "2025-04-24 14:19": [
+    {
+      "rank": 1,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.389198632367855e-07,
+      "timestamp": "2025-04-24 14:19"
+    },
+    {
+      "rank": 2,
+      "name": "Dolomite",
+      "symbol": "DOLO",
+      "price_btc": 6.762678195647298e-07,
+      "timestamp": "2025-04-24 14:19"
+    },
+    {
+      "rank": 3,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013221529482193177,
+      "timestamp": "2025-04-24 14:19"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.293062196219246e-05,
+      "timestamp": "2025-04-24 14:19"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.577666306482375e-06,
+      "timestamp": "2025-04-24 14:19"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016021444335145717,
+      "timestamp": "2025-04-24 14:19"
+    },
+    {
+      "rank": 7,
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price_btc": 2.8144442812749385e-06,
+      "timestamp": "2025-04-24 14:19"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-24 14:19"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.001417356607258e-06,
+      "timestamp": "2025-04-24 14:19"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1632788748253161e-05,
+      "timestamp": "2025-04-24 14:19"
+    },
+    {
+      "rank": 11,
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "price_btc": 2.8098799395241975e-06,
+      "timestamp": "2025-04-24 14:19"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036243550432834733,
+      "timestamp": "2025-04-24 14:19"
+    },
+    {
+      "rank": 13,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.750625108473406e-05,
+      "timestamp": "2025-04-24 14:19"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 7.606712265799701e-06,
+      "timestamp": "2025-04-24 14:19"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.230845965083223e-11,
+      "timestamp": "2025-04-24 14:19"
+    }
   ]
 }
