@@ -28353,5 +28353,112 @@
       "price_btc": 1.8214193294459274e-06,
       "timestamp": "2025-04-24 16:25"
     }
+  ],
+  "2025-04-24 17:17": [
+    {
+      "rank": 1,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.187906728218842e-06,
+      "timestamp": "2025-04-24 17:17"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.575749125439971e-05,
+      "timestamp": "2025-04-24 17:17"
+    },
+    {
+      "rank": 3,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.52858841688932e-07,
+      "timestamp": "2025-04-24 17:17"
+    },
+    {
+      "rank": 4,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.070033854632963e-05,
+      "timestamp": "2025-04-24 17:17"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013147685831871946,
+      "timestamp": "2025-04-24 17:17"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1969346570163588e-05,
+      "timestamp": "2025-04-24 17:17"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016199723734868145,
+      "timestamp": "2025-04-24 17:17"
+    },
+    {
+      "rank": 8,
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price_btc": 2.6994376571459993e-06,
+      "timestamp": "2025-04-24 17:17"
+    },
+    {
+      "rank": 9,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 3.9645314545180935e-06,
+      "timestamp": "2025-04-24 17:17"
+    },
+    {
+      "rank": 10,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.8974862368766586e-06,
+      "timestamp": "2025-04-24 17:17"
+    },
+    {
+      "rank": 11,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.627827686502168e-06,
+      "timestamp": "2025-04-24 17:17"
+    },
+    {
+      "rank": 12,
+      "name": "Turbo",
+      "symbol": "TURBO",
+      "price_btc": 5.283452493787793e-08,
+      "timestamp": "2025-04-24 17:17"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038471071104637876,
+      "timestamp": "2025-04-24 17:17"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.00893181716579e-06,
+      "timestamp": "2025-04-24 17:17"
+    },
+    {
+      "rank": 15,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.794909967029851e-06,
+      "timestamp": "2025-04-24 17:17"
+    }
   ]
 }
