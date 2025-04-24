@@ -28246,5 +28246,112 @@
       "price_btc": 2.1460547400244808e-06,
       "timestamp": "2025-04-24 15:22"
     }
+  ],
+  "2025-04-24 16:25": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.495501786282926e-05,
+      "timestamp": "2025-04-24 16:25"
+    },
+    {
+      "rank": 2,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.439870890187682e-07,
+      "timestamp": "2025-04-24 16:25"
+    },
+    {
+      "rank": 3,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0845551296951736e-05,
+      "timestamp": "2025-04-24 16:25"
+    },
+    {
+      "rank": 4,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013120507130687172,
+      "timestamp": "2025-04-24 16:25"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016025590961643071,
+      "timestamp": "2025-04-24 16:25"
+    },
+    {
+      "rank": 6,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.615337619050906e-06,
+      "timestamp": "2025-04-24 16:25"
+    },
+    {
+      "rank": 7,
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price_btc": 2.6981154431435427e-06,
+      "timestamp": "2025-04-24 16:25"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1819733390186716e-05,
+      "timestamp": "2025-04-24 16:25"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003823856936666065,
+      "timestamp": "2025-04-24 16:25"
+    },
+    {
+      "rank": 10,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.1507975291253398e-06,
+      "timestamp": "2025-04-24 16:25"
+    },
+    {
+      "rank": 11,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 7.5621434583952254e-06,
+      "timestamp": "2025-04-24 16:25"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-24 16:25"
+    },
+    {
+      "rank": 13,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 8.075190637795172e-07,
+      "timestamp": "2025-04-24 16:25"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3723248664287837e-05,
+      "timestamp": "2025-04-24 16:25"
+    },
+    {
+      "rank": 15,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.8214193294459274e-06,
+      "timestamp": "2025-04-24 16:25"
+    }
   ]
 }
