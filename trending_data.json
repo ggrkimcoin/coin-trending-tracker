@@ -28674,5 +28674,112 @@
       "price_btc": 8.009013105176948e-07,
       "timestamp": "2025-04-24 19:17"
     }
+  ],
+  "2025-04-24 20:22": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5047701420058413e-05,
+      "timestamp": "2025-04-24 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.346031063191568e-06,
+      "timestamp": "2025-04-24 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0545706501988075e-05,
+      "timestamp": "2025-04-24 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.463904345062823e-07,
+      "timestamp": "2025-04-24 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "Dolomite",
+      "symbol": "DOLO",
+      "price_btc": 7.313048647505455e-07,
+      "timestamp": "2025-04-24 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012784247809422307,
+      "timestamp": "2025-04-24 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038277241828994224,
+      "timestamp": "2025-04-24 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.792562166272862e-06,
+      "timestamp": "2025-04-24 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3633247152193834e-05,
+      "timestamp": "2025-04-24 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016243225794903813,
+      "timestamp": "2025-04-24 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price_btc": 2.6847064769465577e-06,
+      "timestamp": "2025-04-24 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2093066528226629e-05,
+      "timestamp": "2025-04-24 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.596442873704427e-06,
+      "timestamp": "2025-04-24 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020211174826449777,
+      "timestamp": "2025-04-24 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 4.000494198305738e-06,
+      "timestamp": "2025-04-24 20:22"
+    }
   ]
 }
