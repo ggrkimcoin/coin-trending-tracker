@@ -27711,5 +27711,112 @@
       "price_btc": 5.492775269745865e-07,
       "timestamp": "2025-04-24 10:21"
     }
+  ],
+  "2025-04-24 11:17": [
+    {
+      "rank": 1,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.8237719269036356e-07,
+      "timestamp": "2025-04-24 11:17"
+    },
+    {
+      "rank": 2,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013300958062439677,
+      "timestamp": "2025-04-24 11:17"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018916262884248834,
+      "timestamp": "2025-04-24 11:17"
+    },
+    {
+      "rank": 4,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.6223502655424145e-06,
+      "timestamp": "2025-04-24 11:17"
+    },
+    {
+      "rank": 5,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.7662822189496783e-06,
+      "timestamp": "2025-04-24 11:17"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.223530280298444e-05,
+      "timestamp": "2025-04-24 11:17"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001589352232334424,
+      "timestamp": "2025-04-24 11:17"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-24 11:17"
+    },
+    {
+      "rank": 9,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 3.626932868430602e-06,
+      "timestamp": "2025-04-24 11:17"
+    },
+    {
+      "rank": 10,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.800914998419931e-05,
+      "timestamp": "2025-04-24 11:17"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003564782026112757,
+      "timestamp": "2025-04-24 11:17"
+    },
+    {
+      "rank": 12,
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "price_btc": 2.5642656168964467e-06,
+      "timestamp": "2025-04-24 11:17"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.172522838689279e-05,
+      "timestamp": "2025-04-24 11:17"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.200238965639573e-11,
+      "timestamp": "2025-04-24 11:17"
+    },
+    {
+      "rank": 15,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.6150716216620918e-05,
+      "timestamp": "2025-04-24 11:17"
+    }
   ]
 }
