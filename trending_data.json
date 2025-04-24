@@ -27283,5 +27283,112 @@
       "price_btc": 0.01914293343102547,
       "timestamp": "2025-04-24 06:29"
     }
+  ],
+  "2025-04-24 07:19": [
+    {
+      "rank": 1,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.5337869834448015e-07,
+      "timestamp": "2025-04-24 07:19"
+    },
+    {
+      "rank": 2,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013408834650976205,
+      "timestamp": "2025-04-24 07:19"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.723804538449259e-06,
+      "timestamp": "2025-04-24 07:19"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.319139931812826e-05,
+      "timestamp": "2025-04-24 07:19"
+    },
+    {
+      "rank": 5,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 7.971512441589497e-07,
+      "timestamp": "2025-04-24 07:19"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001603723296320743,
+      "timestamp": "2025-04-24 07:19"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1457422701575096e-05,
+      "timestamp": "2025-04-24 07:19"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-24 07:19"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.047261046422972e-06,
+      "timestamp": "2025-04-24 07:19"
+    },
+    {
+      "rank": 10,
+      "name": "Synthetix Network",
+      "symbol": "SNX",
+      "price_btc": 7.574802813529245e-06,
+      "timestamp": "2025-04-24 07:19"
+    },
+    {
+      "rank": 11,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.714685291875255e-05,
+      "timestamp": "2025-04-24 07:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019138594833712233,
+      "timestamp": "2025-04-24 07:19"
+    },
+    {
+      "rank": 13,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.8075183050135939e-06,
+      "timestamp": "2025-04-24 07:19"
+    },
+    {
+      "rank": 14,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.801067384711843e-05,
+      "timestamp": "2025-04-24 07:19"
+    },
+    {
+      "rank": 15,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.194780845629426e-06,
+      "timestamp": "2025-04-24 07:19"
+    }
   ]
 }
