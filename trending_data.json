@@ -26748,5 +26748,112 @@
       "price_btc": 0.001784044695278826,
       "timestamp": "2025-04-23 23:18"
     }
+  ],
+  "2025-04-24 01:40": [
+    {
+      "rank": 1,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.470357045962154e-07,
+      "timestamp": "2025-04-24 01:40"
+    },
+    {
+      "rank": 2,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 9.103562561371919e-06,
+      "timestamp": "2025-04-24 01:40"
+    },
+    {
+      "rank": 3,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001376707425252727,
+      "timestamp": "2025-04-24 01:40"
+    },
+    {
+      "rank": 4,
+      "name": "Synapse",
+      "symbol": "SYN",
+      "price_btc": 3.1154816926773474e-06,
+      "timestamp": "2025-04-24 01:40"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.15952512140762e-05,
+      "timestamp": "2025-04-24 01:40"
+    },
+    {
+      "rank": 6,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.2283300301997783e-07,
+      "timestamp": "2025-04-24 01:40"
+    },
+    {
+      "rank": 7,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.648968904393145e-06,
+      "timestamp": "2025-04-24 01:40"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.078394583424386e-06,
+      "timestamp": "2025-04-24 01:40"
+    },
+    {
+      "rank": 9,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 6.386795605883215e-05,
+      "timestamp": "2025-04-24 01:40"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0001948730463818569,
+      "timestamp": "2025-04-24 01:40"
+    },
+    {
+      "rank": 11,
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "price_btc": 1.9127516730188173e-06,
+      "timestamp": "2025-04-24 01:40"
+    },
+    {
+      "rank": 12,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001596226845286743,
+      "timestamp": "2025-04-24 01:40"
+    },
+    {
+      "rank": 13,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.8807650453200844e-06,
+      "timestamp": "2025-04-24 01:40"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016042432560673967,
+      "timestamp": "2025-04-24 01:40"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1526187960874517e-05,
+      "timestamp": "2025-04-24 01:40"
+    }
   ]
 }
