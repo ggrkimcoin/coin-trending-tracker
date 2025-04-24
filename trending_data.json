@@ -28139,5 +28139,112 @@
       "price_btc": 9.230845965083223e-11,
       "timestamp": "2025-04-24 14:19"
     }
+  ],
+  "2025-04-24 15:22": [
+    {
+      "rank": 1,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.5412486752406545e-07,
+      "timestamp": "2025-04-24 15:22"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.495324741226724e-05,
+      "timestamp": "2025-04-24 15:22"
+    },
+    {
+      "rank": 3,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013074587954722082,
+      "timestamp": "2025-04-24 15:22"
+    },
+    {
+      "rank": 4,
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price_btc": 2.7430957214903674e-06,
+      "timestamp": "2025-04-24 15:22"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0706345128173069e-05,
+      "timestamp": "2025-04-24 15:22"
+    },
+    {
+      "rank": 6,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.624485735550953e-06,
+      "timestamp": "2025-04-24 15:22"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016165873855293225,
+      "timestamp": "2025-04-24 15:22"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01898017037310486,
+      "timestamp": "2025-04-24 15:22"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037118880150298207,
+      "timestamp": "2025-04-24 15:22"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-24 15:22"
+    },
+    {
+      "rank": 11,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.8382940710192766e-06,
+      "timestamp": "2025-04-24 15:22"
+    },
+    {
+      "rank": 12,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 7.613181555614812e-06,
+      "timestamp": "2025-04-24 15:22"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1924617231399976e-05,
+      "timestamp": "2025-04-24 15:22"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.987672912240762e-06,
+      "timestamp": "2025-04-24 15:22"
+    },
+    {
+      "rank": 15,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.1460547400244808e-06,
+      "timestamp": "2025-04-24 15:22"
+    }
   ]
 }
