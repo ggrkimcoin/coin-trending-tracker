@@ -27497,5 +27497,112 @@
       "price_btc": 9.4825586917406e-06,
       "timestamp": "2025-04-24 08:27"
     }
+  ],
+  "2025-04-24 09:21": [
+    {
+      "rank": 1,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.5345033299776137e-07,
+      "timestamp": "2025-04-24 09:21"
+    },
+    {
+      "rank": 2,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012858108170061343,
+      "timestamp": "2025-04-24 09:21"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.25587486548392e-05,
+      "timestamp": "2025-04-24 09:21"
+    },
+    {
+      "rank": 4,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.560675184043427e-06,
+      "timestamp": "2025-04-24 09:21"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1554441793558568e-05,
+      "timestamp": "2025-04-24 09:21"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018866209895129313,
+      "timestamp": "2025-04-24 09:21"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015886903698154636,
+      "timestamp": "2025-04-24 09:21"
+    },
+    {
+      "rank": 8,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.743522246718543e-06,
+      "timestamp": "2025-04-24 09:21"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.9856044709323215e-06,
+      "timestamp": "2025-04-24 09:21"
+    },
+    {
+      "rank": 10,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.6834379029094935e-05,
+      "timestamp": "2025-04-24 09:21"
+    },
+    {
+      "rank": 11,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 7.477111783106877e-07,
+      "timestamp": "2025-04-24 09:21"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003591980954958547,
+      "timestamp": "2025-04-24 09:21"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-24 09:21"
+    },
+    {
+      "rank": 14,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.8627552692966716e-06,
+      "timestamp": "2025-04-24 09:21"
+    },
+    {
+      "rank": 15,
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "price_btc": 1.7389680794320232e-06,
+      "timestamp": "2025-04-24 09:21"
+    }
   ]
 }
