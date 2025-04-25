@@ -29851,5 +29851,112 @@
       "price_btc": 2.0625282448204765e-06,
       "timestamp": "2025-04-25 08:27"
     }
+  ],
+  "2025-04-25 09:21": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.9442212704049143e-05,
+      "timestamp": "2025-04-25 09:21"
+    },
+    {
+      "rank": 2,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.332932826871231e-06,
+      "timestamp": "2025-04-25 09:21"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.138185712066719e-08,
+      "timestamp": "2025-04-25 09:21"
+    },
+    {
+      "rank": 4,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.2320115310475771e-07,
+      "timestamp": "2025-04-25 09:21"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013686428750174075,
+      "timestamp": "2025-04-25 09:21"
+    },
+    {
+      "rank": 6,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.924853882957628e-06,
+      "timestamp": "2025-04-25 09:21"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0974169582716463e-05,
+      "timestamp": "2025-04-25 09:21"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001647436096440163,
+      "timestamp": "2025-04-25 09:21"
+    },
+    {
+      "rank": 9,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 2.3443867911168393e-06,
+      "timestamp": "2025-04-25 09:21"
+    },
+    {
+      "rank": 10,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 8.679028516375837e-07,
+      "timestamp": "2025-04-25 09:21"
+    },
+    {
+      "rank": 11,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.579502480617393e-06,
+      "timestamp": "2025-04-25 09:21"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3433166290953898e-05,
+      "timestamp": "2025-04-25 09:21"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038169163372250947,
+      "timestamp": "2025-04-25 09:21"
+    },
+    {
+      "rank": 14,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.654392613721318e-06,
+      "timestamp": "2025-04-25 09:21"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018955359144576134,
+      "timestamp": "2025-04-25 09:21"
+    }
   ]
 }
