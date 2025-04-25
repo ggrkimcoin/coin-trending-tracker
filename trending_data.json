@@ -29209,5 +29209,112 @@
       "price_btc": 1.490591717823505e-10,
       "timestamp": "2025-04-25 01:40"
     }
+  ],
+  "2025-04-25 03:05": [
+    {
+      "rank": 1,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.416191853621902e-07,
+      "timestamp": "2025-04-25 03:05"
+    },
+    {
+      "rank": 2,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.168377087744338e-06,
+      "timestamp": "2025-04-25 03:05"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.545043433443686e-05,
+      "timestamp": "2025-04-25 03:05"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.135258663410158e-08,
+      "timestamp": "2025-04-25 03:05"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001624202511434323,
+      "timestamp": "2025-04-25 03:05"
+    },
+    {
+      "rank": 6,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.8496749786582492e-05,
+      "timestamp": "2025-04-25 03:05"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020130204798411505,
+      "timestamp": "2025-04-25 03:05"
+    },
+    {
+      "rank": 8,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012745754693355168,
+      "timestamp": "2025-04-25 03:05"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0214412123052167e-05,
+      "timestamp": "2025-04-25 03:05"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018789377124509076,
+      "timestamp": "2025-04-25 03:05"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 5.641032083901772e-06,
+      "timestamp": "2025-04-25 03:05"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00380499441369073,
+      "timestamp": "2025-04-25 03:05"
+    },
+    {
+      "rank": 13,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.459621482924355e-06,
+      "timestamp": "2025-04-25 03:05"
+    },
+    {
+      "rank": 14,
+      "name": "Stacks",
+      "symbol": "STX",
+      "price_btc": 9.419646320608941e-06,
+      "timestamp": "2025-04-25 03:05"
+    },
+    {
+      "rank": 15,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.583112182194805e-05,
+      "timestamp": "2025-04-25 03:05"
+    }
   ]
 }
