@@ -30065,5 +30065,112 @@
       "price_btc": 9.3644615352242e-06,
       "timestamp": "2025-04-25 10:21"
     }
+  ],
+  "2025-04-25 11:16": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8788819572144277e-05,
+      "timestamp": "2025-04-25 11:16"
+    },
+    {
+      "rank": 2,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.368696299199577e-06,
+      "timestamp": "2025-04-25 11:16"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.132899414619475e-08,
+      "timestamp": "2025-04-25 11:16"
+    },
+    {
+      "rank": 4,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.2936697267702512e-07,
+      "timestamp": "2025-04-25 11:16"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.07553972570085e-05,
+      "timestamp": "2025-04-25 11:16"
+    },
+    {
+      "rank": 6,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00014142021247651995,
+      "timestamp": "2025-04-25 11:16"
+    },
+    {
+      "rank": 7,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.7532930810460072e-11,
+      "timestamp": "2025-04-25 11:16"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003923670255855183,
+      "timestamp": "2025-04-25 11:16"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016369338501094452,
+      "timestamp": "2025-04-25 11:16"
+    },
+    {
+      "rank": 10,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.004375756528122e-06,
+      "timestamp": "2025-04-25 11:16"
+    },
+    {
+      "rank": 11,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.585142257163396e-06,
+      "timestamp": "2025-04-25 11:16"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 9.457371858316259e-06,
+      "timestamp": "2025-04-25 11:16"
+    },
+    {
+      "rank": 13,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 4.336882735874747e-06,
+      "timestamp": "2025-04-25 11:16"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1764890755481516e-05,
+      "timestamp": "2025-04-25 11:16"
+    },
+    {
+      "rank": 15,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.543308649124059e-06,
+      "timestamp": "2025-04-25 11:16"
+    }
   ]
 }
