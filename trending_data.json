@@ -30386,5 +30386,112 @@
       "price_btc": 1.1308373403605685e-05,
       "timestamp": "2025-04-25 13:28"
     }
+  ],
+  "2025-04-25 14:18": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.88902814992545e-05,
+      "timestamp": "2025-04-25 14:18"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.797770466239425e-08,
+      "timestamp": "2025-04-25 14:18"
+    },
+    {
+      "rank": 3,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.766152828214957e-06,
+      "timestamp": "2025-04-25 14:18"
+    },
+    {
+      "rank": 4,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.7616589663862546e-11,
+      "timestamp": "2025-04-25 14:18"
+    },
+    {
+      "rank": 5,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.2276894813007816e-07,
+      "timestamp": "2025-04-25 14:18"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0550379213021355e-05,
+      "timestamp": "2025-04-25 14:18"
+    },
+    {
+      "rank": 7,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013978632114674768,
+      "timestamp": "2025-04-25 14:18"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018744320407967686,
+      "timestamp": "2025-04-25 14:18"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038933579407123106,
+      "timestamp": "2025-04-25 14:18"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016269396064197007,
+      "timestamp": "2025-04-25 14:18"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 9.506937335852257e-06,
+      "timestamp": "2025-04-25 14:18"
+    },
+    {
+      "rank": 12,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.562103429357847e-06,
+      "timestamp": "2025-04-25 14:18"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.874676951448994e-06,
+      "timestamp": "2025-04-25 14:18"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.6509137584555865e-06,
+      "timestamp": "2025-04-25 14:18"
+    },
+    {
+      "rank": 15,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.538598693283537e-06,
+      "timestamp": "2025-04-25 14:18"
+    }
   ]
 }
