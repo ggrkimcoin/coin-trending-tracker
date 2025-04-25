@@ -29637,5 +29637,112 @@
       "price_btc": 4.1855716961420915e-06,
       "timestamp": "2025-04-25 06:28"
     }
+  ],
+  "2025-04-25 07:19": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8320384594225654e-05,
+      "timestamp": "2025-04-25 07:19"
+    },
+    {
+      "rank": 2,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.004603374919005e-06,
+      "timestamp": "2025-04-25 07:19"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.30631172114305e-08,
+      "timestamp": "2025-04-25 07:19"
+    },
+    {
+      "rank": 4,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0704266434543764e-05,
+      "timestamp": "2025-04-25 07:19"
+    },
+    {
+      "rank": 5,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 2.0388953601427574e-06,
+      "timestamp": "2025-04-25 07:19"
+    },
+    {
+      "rank": 6,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013659520040731622,
+      "timestamp": "2025-04-25 07:19"
+    },
+    {
+      "rank": 7,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.1996137819757135e-07,
+      "timestamp": "2025-04-25 07:19"
+    },
+    {
+      "rank": 8,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 2.2687545802451756e-06,
+      "timestamp": "2025-04-25 07:19"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1920462167465649e-05,
+      "timestamp": "2025-04-25 07:19"
+    },
+    {
+      "rank": 10,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.040964713627478e-06,
+      "timestamp": "2025-04-25 07:19"
+    },
+    {
+      "rank": 11,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.975443161673636e-05,
+      "timestamp": "2025-04-25 07:19"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.983635048089078e-05,
+      "timestamp": "2025-04-25 07:19"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001640616130678819,
+      "timestamp": "2025-04-25 07:19"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3503496897206824e-05,
+      "timestamp": "2025-04-25 07:19"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.997254964528661e-06,
+      "timestamp": "2025-04-25 07:19"
+    }
   ]
 }
