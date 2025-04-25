@@ -29102,5 +29102,112 @@
       "price_btc": 1.6337768249441234e-10,
       "timestamp": "2025-04-24 23:18"
     }
+  ],
+  "2025-04-25 01:40": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.146715491907131e-08,
+      "timestamp": "2025-04-25 01:40"
+    },
+    {
+      "rank": 2,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.345121994159885e-07,
+      "timestamp": "2025-04-25 01:40"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5670300061095615e-05,
+      "timestamp": "2025-04-25 01:40"
+    },
+    {
+      "rank": 4,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.925790174541832e-06,
+      "timestamp": "2025-04-25 01:40"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0372677848992175e-05,
+      "timestamp": "2025-04-25 01:40"
+    },
+    {
+      "rank": 6,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.574252849088505e-06,
+      "timestamp": "2025-04-25 01:40"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2089019903343519e-05,
+      "timestamp": "2025-04-25 01:40"
+    },
+    {
+      "rank": 8,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012979615262227027,
+      "timestamp": "2025-04-25 01:40"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016331701493104396,
+      "timestamp": "2025-04-25 01:40"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018902814921658757,
+      "timestamp": "2025-04-25 01:40"
+    },
+    {
+      "rank": 11,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.4109511012199354e-05,
+      "timestamp": "2025-04-25 01:40"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00382258898939792,
+      "timestamp": "2025-04-25 01:40"
+    },
+    {
+      "rank": 13,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 4.332436384042841e-06,
+      "timestamp": "2025-04-25 01:40"
+    },
+    {
+      "rank": 14,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.5531913557402162e-06,
+      "timestamp": "2025-04-25 01:40"
+    },
+    {
+      "rank": 15,
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "price_btc": 1.490591717823505e-10,
+      "timestamp": "2025-04-25 01:40"
+    }
   ]
 }
