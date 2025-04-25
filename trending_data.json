@@ -29744,5 +29744,112 @@
       "price_btc": 6.997254964528661e-06,
       "timestamp": "2025-04-25 07:19"
     }
+  ],
+  "2025-04-25 08:27": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.825818612762273e-05,
+      "timestamp": "2025-04-25 08:27"
+    },
+    {
+      "rank": 2,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.061184585699509e-06,
+      "timestamp": "2025-04-25 08:27"
+    },
+    {
+      "rank": 3,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.1608597642481666e-07,
+      "timestamp": "2025-04-25 08:27"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.158560766858611e-08,
+      "timestamp": "2025-04-25 08:27"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013725628242493987,
+      "timestamp": "2025-04-25 08:27"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0801961128156255e-05,
+      "timestamp": "2025-04-25 08:27"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016511192552034683,
+      "timestamp": "2025-04-25 08:27"
+    },
+    {
+      "rank": 8,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.9613173900694266e-06,
+      "timestamp": "2025-04-25 08:27"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperlane",
+      "symbol": "HYPER",
+      "price_btc": 2.213495400942457e-06,
+      "timestamp": "2025-04-25 08:27"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.60305644698887e-06,
+      "timestamp": "2025-04-25 08:27"
+    },
+    {
+      "rank": 11,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.5493923038890486e-06,
+      "timestamp": "2025-04-25 08:27"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01894379378648621,
+      "timestamp": "2025-04-25 08:27"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1819414978739568e-05,
+      "timestamp": "2025-04-25 08:27"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.340716606421854e-05,
+      "timestamp": "2025-04-25 08:27"
+    },
+    {
+      "rank": 15,
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "price_btc": 2.0625282448204765e-06,
+      "timestamp": "2025-04-25 08:27"
+    }
   ]
 }
