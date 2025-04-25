@@ -30493,5 +30493,112 @@
       "price_btc": 5.538598693283537e-06,
       "timestamp": "2025-04-25 14:18"
     }
+  ],
+  "2025-04-25 15:20": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.723939587391984e-11,
+      "timestamp": "2025-04-25 15:20"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.878514765773764e-05,
+      "timestamp": "2025-04-25 15:20"
+    },
+    {
+      "rank": 3,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.129860008867735e-06,
+      "timestamp": "2025-04-25 15:20"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.762414704269354e-08,
+      "timestamp": "2025-04-25 15:20"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 9.697472799408645e-06,
+      "timestamp": "2025-04-25 15:20"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0518470169669834e-05,
+      "timestamp": "2025-04-25 15:20"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038266597520283615,
+      "timestamp": "2025-04-25 15:20"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016166475264599272,
+      "timestamp": "2025-04-25 15:20"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018903615002321787,
+      "timestamp": "2025-04-25 15:20"
+    },
+    {
+      "rank": 10,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.2221899998542406e-07,
+      "timestamp": "2025-04-25 15:20"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-25 15:20"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.647470504231637e-06,
+      "timestamp": "2025-04-25 15:20"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.396515541788004e-11,
+      "timestamp": "2025-04-25 15:20"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperlane",
+      "symbol": "HYPER",
+      "price_btc": 2.168040814681617e-06,
+      "timestamp": "2025-04-25 15:20"
+    },
+    {
+      "rank": 15,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00014330989320782473,
+      "timestamp": "2025-04-25 15:20"
+    }
   ]
 }
