@@ -29530,5 +29530,112 @@
       "price_btc": 2.1565710582842288e-06,
       "timestamp": "2025-04-25 05:19"
     }
+  ],
+  "2025-04-25 06:28": [
+    {
+      "rank": 1,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.597022630937051e-06,
+      "timestamp": "2025-04-25 06:28"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.738696691182256e-05,
+      "timestamp": "2025-04-25 06:28"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.179941523736049e-08,
+      "timestamp": "2025-04-25 06:28"
+    },
+    {
+      "rank": 4,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.2333534159627064e-07,
+      "timestamp": "2025-04-25 06:28"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001301289797441168,
+      "timestamp": "2025-04-25 06:28"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0442910542626935e-05,
+      "timestamp": "2025-04-25 06:28"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.991656582438507e-06,
+      "timestamp": "2025-04-25 06:28"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003768955869517858,
+      "timestamp": "2025-04-25 06:28"
+    },
+    {
+      "rank": 9,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.8840149589522748e-06,
+      "timestamp": "2025-04-25 06:28"
+    },
+    {
+      "rank": 10,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 1.699512813437592e-10,
+      "timestamp": "2025-04-25 06:28"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1523418531703453e-05,
+      "timestamp": "2025-04-25 06:28"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.342854564030979e-11,
+      "timestamp": "2025-04-25 06:28"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.341977304591429e-05,
+      "timestamp": "2025-04-25 06:28"
+    },
+    {
+      "rank": 14,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 9.051777423002295e-07,
+      "timestamp": "2025-04-25 06:28"
+    },
+    {
+      "rank": 15,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 4.1855716961420915e-06,
+      "timestamp": "2025-04-25 06:28"
+    }
   ]
 }
