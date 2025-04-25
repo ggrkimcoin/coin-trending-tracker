@@ -30279,5 +30279,112 @@
       "price_btc": 0.0039020899098604063,
       "timestamp": "2025-04-25 12:39"
     }
+  ],
+  "2025-04-25 13:28": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.9059797216908285e-05,
+      "timestamp": "2025-04-25 13:28"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.735927138240797e-11,
+      "timestamp": "2025-04-25 13:28"
+    },
+    {
+      "rank": 3,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.85912259800159e-06,
+      "timestamp": "2025-04-25 13:28"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.014360186441742e-07,
+      "timestamp": "2025-04-25 13:28"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0584585654544425e-05,
+      "timestamp": "2025-04-25 13:28"
+    },
+    {
+      "rank": 6,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.2554812136536583e-07,
+      "timestamp": "2025-04-25 13:28"
+    },
+    {
+      "rank": 7,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001387435041654559,
+      "timestamp": "2025-04-25 13:28"
+    },
+    {
+      "rank": 8,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.547019904321998e-06,
+      "timestamp": "2025-04-25 13:28"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 9.384115597561922e-06,
+      "timestamp": "2025-04-25 13:28"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016268747561111311,
+      "timestamp": "2025-04-25 13:28"
+    },
+    {
+      "rank": 11,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.102046403747777e-06,
+      "timestamp": "2025-04-25 13:28"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038648131909642443,
+      "timestamp": "2025-04-25 13:28"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperlane",
+      "symbol": "HYPER",
+      "price_btc": 2.252593491858184e-06,
+      "timestamp": "2025-04-25 13:28"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.907315098898125e-05,
+      "timestamp": "2025-04-25 13:28"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1308373403605685e-05,
+      "timestamp": "2025-04-25 13:28"
+    }
   ]
 }
