@@ -31242,5 +31242,112 @@
       "price_btc": 1.0961488154587098e-05,
       "timestamp": "2025-04-25 21:18"
     }
+  ],
+  "2025-04-25 22:20": [
+    {
+      "rank": 1,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 1.001395106236095e-05,
+      "timestamp": "2025-04-25 22:20"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6674590288966838e-11,
+      "timestamp": "2025-04-25 22:20"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.705555346184695e-05,
+      "timestamp": "2025-04-25 22:20"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.094380031698399e-08,
+      "timestamp": "2025-04-25 22:20"
+    },
+    {
+      "rank": 5,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 3.5513090324383085e-07,
+      "timestamp": "2025-04-25 22:20"
+    },
+    {
+      "rank": 6,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.422572745737314e-06,
+      "timestamp": "2025-04-25 22:20"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 9.955799173665072e-06,
+      "timestamp": "2025-04-25 22:20"
+    },
+    {
+      "rank": 8,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.0373236886317117e-07,
+      "timestamp": "2025-04-25 22:20"
+    },
+    {
+      "rank": 9,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 1.8997588439599726e-10,
+      "timestamp": "2025-04-25 22:20"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037666745232962495,
+      "timestamp": "2025-04-25 22:20"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-25 22:20"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0001918509397334971,
+      "timestamp": "2025-04-25 22:20"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01891991450972363,
+      "timestamp": "2025-04-25 22:20"
+    },
+    {
+      "rank": 14,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 1.8215411117515173e-06,
+      "timestamp": "2025-04-25 22:20"
+    },
+    {
+      "rank": 15,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.3865608565596474e-06,
+      "timestamp": "2025-04-25 22:20"
+    }
   ]
 }
