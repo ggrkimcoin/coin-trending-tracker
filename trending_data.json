@@ -29316,5 +29316,112 @@
       "price_btc": 3.583112182194805e-05,
       "timestamp": "2025-04-25 03:05"
     }
+  ],
+  "2025-04-25 04:24": [
+    {
+      "rank": 1,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.209062328682925e-06,
+      "timestamp": "2025-04-25 04:24"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6019028135273146e-05,
+      "timestamp": "2025-04-25 04:24"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.200054469745138e-08,
+      "timestamp": "2025-04-25 04:24"
+    },
+    {
+      "rank": 4,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.3052907754695697e-07,
+      "timestamp": "2025-04-25 04:24"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012892569017624247,
+      "timestamp": "2025-04-25 04:24"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019894389317053854,
+      "timestamp": "2025-04-25 04:24"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-25 04:24"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016249860603257018,
+      "timestamp": "2025-04-25 04:24"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1492757919155216e-05,
+      "timestamp": "2025-04-25 04:24"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038290919972674697,
+      "timestamp": "2025-04-25 04:24"
+    },
+    {
+      "rank": 11,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 8.613915919239407e-07,
+      "timestamp": "2025-04-25 04:24"
+    },
+    {
+      "rank": 12,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.771896751192622e-06,
+      "timestamp": "2025-04-25 04:24"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.4162496596211095e-06,
+      "timestamp": "2025-04-25 04:24"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0339499307392101e-05,
+      "timestamp": "2025-04-25 04:24"
+    },
+    {
+      "rank": 15,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.8495757194538395e-05,
+      "timestamp": "2025-04-25 04:24"
+    }
   ]
 }
