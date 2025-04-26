@@ -31884,5 +31884,112 @@
       "price_btc": 1.1064276453643299e-05,
       "timestamp": "2025-04-26 04:23"
     }
+  ],
+  "2025-04-26 05:18": [
+    {
+      "rank": 1,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 9.872398089570527e-06,
+      "timestamp": "2025-04-26 05:18"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.0973469223731745e-05,
+      "timestamp": "2025-04-26 05:18"
+    },
+    {
+      "rank": 3,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.370452955131844e-06,
+      "timestamp": "2025-04-26 05:18"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7936593812595846e-05,
+      "timestamp": "2025-04-26 05:18"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0747895302342763e-05,
+      "timestamp": "2025-04-26 05:18"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.2456206334528e-08,
+      "timestamp": "2025-04-26 05:18"
+    },
+    {
+      "rank": 7,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.8521842776591e-07,
+      "timestamp": "2025-04-26 05:18"
+    },
+    {
+      "rank": 8,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.122096083315475e-06,
+      "timestamp": "2025-04-26 05:18"
+    },
+    {
+      "rank": 9,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.444764905057114e-06,
+      "timestamp": "2025-04-26 05:18"
+    },
+    {
+      "rank": 10,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 8.33143170043684e-06,
+      "timestamp": "2025-04-26 05:18"
+    },
+    {
+      "rank": 11,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2295902829516181e-05,
+      "timestamp": "2025-04-26 05:18"
+    },
+    {
+      "rank": 12,
+      "name": "Turbo",
+      "symbol": "TURBO",
+      "price_btc": 4.755455257053142e-08,
+      "timestamp": "2025-04-26 05:18"
+    },
+    {
+      "rank": 13,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 2.0434342897905413e-10,
+      "timestamp": "2025-04-26 05:18"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperlane",
+      "symbol": "HYPER",
+      "price_btc": 2.139735368072396e-06,
+      "timestamp": "2025-04-26 05:18"
+    },
+    {
+      "rank": 15,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.5452419724069388e-06,
+      "timestamp": "2025-04-26 05:18"
+    }
   ]
 }
