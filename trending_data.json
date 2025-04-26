@@ -32633,5 +32633,112 @@
       "price_btc": 0.00019034853150882603,
       "timestamp": "2025-04-26 11:14"
     }
+  ],
+  "2025-04-26 12:35": [
+    {
+      "rank": 1,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 8.670721686328693e-07,
+      "timestamp": "2025-04-26 12:35"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6296419277471263e-11,
+      "timestamp": "2025-04-26 12:35"
+    },
+    {
+      "rank": 3,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.756804511997784e-07,
+      "timestamp": "2025-04-26 12:35"
+    },
+    {
+      "rank": 4,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 5.260260714422541e-07,
+      "timestamp": "2025-04-26 12:35"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6496714220058134e-05,
+      "timestamp": "2025-04-26 12:35"
+    },
+    {
+      "rank": 6,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.898829501793952e-07,
+      "timestamp": "2025-04-26 12:35"
+    },
+    {
+      "rank": 7,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.910759933210124e-05,
+      "timestamp": "2025-04-26 12:35"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0725582018649865e-05,
+      "timestamp": "2025-04-26 12:35"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019026763347197915,
+      "timestamp": "2025-04-26 12:35"
+    },
+    {
+      "rank": 10,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.760888579418015e-06,
+      "timestamp": "2025-04-26 12:35"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1108514436238638e-05,
+      "timestamp": "2025-04-26 12:35"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00016289342081411907,
+      "timestamp": "2025-04-26 12:35"
+    },
+    {
+      "rank": 13,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.465221147135282e-06,
+      "timestamp": "2025-04-26 12:35"
+    },
+    {
+      "rank": 14,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.4203153012653287e-05,
+      "timestamp": "2025-04-26 12:35"
+    },
+    {
+      "rank": 15,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.111132182584642e-06,
+      "timestamp": "2025-04-26 12:35"
+    }
   ]
 }
