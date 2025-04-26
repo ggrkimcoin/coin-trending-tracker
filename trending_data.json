@@ -33275,5 +33275,112 @@
       "price_btc": 7.244505690162248e-07,
       "timestamp": "2025-04-26 17:15"
     }
+  ],
+  "2025-04-26 18:24": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.7683992616802886e-07,
+      "timestamp": "2025-04-26 18:24"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6304697287344245e-11,
+      "timestamp": "2025-04-26 18:24"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1305207481267011e-05,
+      "timestamp": "2025-04-26 18:24"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.696781074049444e-08,
+      "timestamp": "2025-04-26 18:24"
+    },
+    {
+      "rank": 5,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 1.0898232066012986e-06,
+      "timestamp": "2025-04-26 18:24"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.668520244785688e-05,
+      "timestamp": "2025-04-26 18:24"
+    },
+    {
+      "rank": 7,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.8016483151078537e-07,
+      "timestamp": "2025-04-26 18:24"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00364740984883454,
+      "timestamp": "2025-04-26 18:24"
+    },
+    {
+      "rank": 9,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 3.2185970508788493e-06,
+      "timestamp": "2025-04-26 18:24"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.5407435540530695e-06,
+      "timestamp": "2025-04-26 18:24"
+    },
+    {
+      "rank": 11,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 2.947682455512487e-08,
+      "timestamp": "2025-04-26 18:24"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.87201408181569e-06,
+      "timestamp": "2025-04-26 18:24"
+    },
+    {
+      "rank": 13,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.165831353020874e-06,
+      "timestamp": "2025-04-26 18:24"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018962422533934495,
+      "timestamp": "2025-04-26 18:24"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0547486843895009e-05,
+      "timestamp": "2025-04-26 18:24"
+    }
   ]
 }
