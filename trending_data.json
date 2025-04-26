@@ -33061,5 +33061,112 @@
       "price_btc": 2.3271624482632294e-05,
       "timestamp": "2025-04-26 15:18"
     }
+  ],
+  "2025-04-26 16:22": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.7726387746972415e-07,
+      "timestamp": "2025-04-26 16:22"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.499813473511951e-08,
+      "timestamp": "2025-04-26 16:22"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.683943960795015e-05,
+      "timestamp": "2025-04-26 16:22"
+    },
+    {
+      "rank": 4,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.8033480859334102e-07,
+      "timestamp": "2025-04-26 16:22"
+    },
+    {
+      "rank": 5,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.629759189884448e-11,
+      "timestamp": "2025-04-26 16:22"
+    },
+    {
+      "rank": 6,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 2.987676230796379e-06,
+      "timestamp": "2025-04-26 16:22"
+    },
+    {
+      "rank": 7,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.388615181359232e-06,
+      "timestamp": "2025-04-26 16:22"
+    },
+    {
+      "rank": 8,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 1.0132060391223936e-06,
+      "timestamp": "2025-04-26 16:22"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036803186604798155,
+      "timestamp": "2025-04-26 16:22"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0693617700518968e-05,
+      "timestamp": "2025-04-26 16:22"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1393647610625642e-05,
+      "timestamp": "2025-04-26 16:22"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0905873171966937e-05,
+      "timestamp": "2025-04-26 16:22"
+    },
+    {
+      "rank": 13,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 8.168055211214773e-06,
+      "timestamp": "2025-04-26 16:22"
+    },
+    {
+      "rank": 14,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.484265583137836e-06,
+      "timestamp": "2025-04-26 16:22"
+    },
+    {
+      "rank": 15,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 2.94706466115351e-08,
+      "timestamp": "2025-04-26 16:22"
+    }
   ]
 }
