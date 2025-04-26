@@ -32526,5 +32526,112 @@
       "price_btc": 3.059696887472461e-05,
       "timestamp": "2025-04-26 10:18"
     }
+  ],
+  "2025-04-26 11:14": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.601137502708907e-11,
+      "timestamp": "2025-04-26 11:14"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.8046915898656006e-07,
+      "timestamp": "2025-04-26 11:14"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1423595476261642e-05,
+      "timestamp": "2025-04-26 11:14"
+    },
+    {
+      "rank": 4,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 5.573358124110495e-07,
+      "timestamp": "2025-04-26 11:14"
+    },
+    {
+      "rank": 5,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.8266414148697643e-07,
+      "timestamp": "2025-04-26 11:14"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01915580245698604,
+      "timestamp": "2025-04-26 11:14"
+    },
+    {
+      "rank": 7,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00016864702600660116,
+      "timestamp": "2025-04-26 11:14"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.714566472064466e-05,
+      "timestamp": "2025-04-26 11:14"
+    },
+    {
+      "rank": 9,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.919810970315392e-06,
+      "timestamp": "2025-04-26 11:14"
+    },
+    {
+      "rank": 10,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 2.7677398961892772e-06,
+      "timestamp": "2025-04-26 11:14"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0822092260637658e-05,
+      "timestamp": "2025-04-26 11:14"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001583156830929607,
+      "timestamp": "2025-04-26 11:14"
+    },
+    {
+      "rank": 13,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.411645492713463e-08,
+      "timestamp": "2025-04-26 11:14"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.883849881063897e-06,
+      "timestamp": "2025-04-26 11:14"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019034853150882603,
+      "timestamp": "2025-04-26 11:14"
+    }
   ]
 }
