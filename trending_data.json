@@ -31991,5 +31991,112 @@
       "price_btc": 2.5452419724069388e-06,
       "timestamp": "2025-04-26 05:18"
     }
+  ],
+  "2025-04-26 06:26": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1258525766201898e-05,
+      "timestamp": "2025-04-26 06:26"
+    },
+    {
+      "rank": 2,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.7901899884480397e-07,
+      "timestamp": "2025-04-26 06:26"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.805127283670637e-05,
+      "timestamp": "2025-04-26 06:26"
+    },
+    {
+      "rank": 4,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 9.83323836306198e-06,
+      "timestamp": "2025-04-26 06:26"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.884895123491971e-06,
+      "timestamp": "2025-04-26 06:26"
+    },
+    {
+      "rank": 6,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.477246713707135e-06,
+      "timestamp": "2025-04-26 06:26"
+    },
+    {
+      "rank": 7,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.525701765815318e-06,
+      "timestamp": "2025-04-26 06:26"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.078945908561132e-05,
+      "timestamp": "2025-04-26 06:26"
+    },
+    {
+      "rank": 9,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00015574780873641255,
+      "timestamp": "2025-04-26 06:26"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018972060680253255,
+      "timestamp": "2025-04-26 06:26"
+    },
+    {
+      "rank": 11,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2046679913526093e-05,
+      "timestamp": "2025-04-26 06:26"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-26 06:26"
+    },
+    {
+      "rank": 13,
+      "name": "Brett",
+      "symbol": "BRETT",
+      "price_btc": 7.12080989776216e-07,
+      "timestamp": "2025-04-26 06:26"
+    },
+    {
+      "rank": 14,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.969228549843497e-05,
+      "timestamp": "2025-04-26 06:26"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0795871395296367e-05,
+      "timestamp": "2025-04-26 06:26"
+    }
   ]
 }
