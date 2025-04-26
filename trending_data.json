@@ -32419,5 +32419,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-04-26 09:18"
     }
+  ],
+  "2025-04-26 10:18": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.7930696171432307e-07,
+      "timestamp": "2025-04-26 10:18"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.717770696174521e-05,
+      "timestamp": "2025-04-26 10:18"
+    },
+    {
+      "rank": 3,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.7841511034229734e-07,
+      "timestamp": "2025-04-26 10:18"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1388872830862616e-05,
+      "timestamp": "2025-04-26 10:18"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019131405119422174,
+      "timestamp": "2025-04-26 10:18"
+    },
+    {
+      "rank": 6,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.537739937159985e-06,
+      "timestamp": "2025-04-26 10:18"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003656482871849902,
+      "timestamp": "2025-04-26 10:18"
+    },
+    {
+      "rank": 8,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00016743994852561566,
+      "timestamp": "2025-04-26 10:18"
+    },
+    {
+      "rank": 9,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.7030404937035347e-05,
+      "timestamp": "2025-04-26 10:18"
+    },
+    {
+      "rank": 10,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.798582599170234e-06,
+      "timestamp": "2025-04-26 10:18"
+    },
+    {
+      "rank": 11,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 5.187206080483149e-07,
+      "timestamp": "2025-04-26 10:18"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.913111317233257e-11,
+      "timestamp": "2025-04-26 10:18"
+    },
+    {
+      "rank": 13,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.797063316148637e-06,
+      "timestamp": "2025-04-26 10:18"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.873300226473673e-06,
+      "timestamp": "2025-04-26 10:18"
+    },
+    {
+      "rank": 15,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 3.059696887472461e-05,
+      "timestamp": "2025-04-26 10:18"
+    }
   ]
 }
