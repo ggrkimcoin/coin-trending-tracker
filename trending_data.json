@@ -31563,5 +31563,112 @@
       "price_btc": 1.0998059373639473e-06,
       "timestamp": "2025-04-26 01:36"
     }
+  ],
+  "2025-04-26 02:59": [
+    {
+      "rank": 1,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 9.90680038534401e-06,
+      "timestamp": "2025-04-26 02:59"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.803025372444997e-05,
+      "timestamp": "2025-04-26 02:59"
+    },
+    {
+      "rank": 3,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.693503755444354e-06,
+      "timestamp": "2025-04-26 02:59"
+    },
+    {
+      "rank": 4,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 2.1571304691266175e-10,
+      "timestamp": "2025-04-26 02:59"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.584604411235074e-08,
+      "timestamp": "2025-04-26 02:59"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1343368442642692e-05,
+      "timestamp": "2025-04-26 02:59"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015971941899993662,
+      "timestamp": "2025-04-26 02:59"
+    },
+    {
+      "rank": 8,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.9978010341535521e-07,
+      "timestamp": "2025-04-26 02:59"
+    },
+    {
+      "rank": 9,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00014867411139761317,
+      "timestamp": "2025-04-26 02:59"
+    },
+    {
+      "rank": 10,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.221682286101538e-05,
+      "timestamp": "2025-04-26 02:59"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.0178345835553509e-10,
+      "timestamp": "2025-04-26 02:59"
+    },
+    {
+      "rank": 12,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 3.315100707411198e-07,
+      "timestamp": "2025-04-26 02:59"
+    },
+    {
+      "rank": 13,
+      "name": "Supra",
+      "symbol": "SUPRA",
+      "price_btc": 5.092936482659353e-08,
+      "timestamp": "2025-04-26 02:59"
+    },
+    {
+      "rank": 14,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 2.768897526823783e-08,
+      "timestamp": "2025-04-26 02:59"
+    },
+    {
+      "rank": 15,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 7.399143547561624e-06,
+      "timestamp": "2025-04-26 02:59"
+    }
   ]
 }
