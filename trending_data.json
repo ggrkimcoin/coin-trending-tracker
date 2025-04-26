@@ -31777,5 +31777,112 @@
       "price_btc": 0.00019384856990719624,
       "timestamp": "2025-04-26 03:35"
     }
+  ],
+  "2025-04-26 04:23": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1307919748424529e-05,
+      "timestamp": "2025-04-26 04:23"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8332072838447904e-05,
+      "timestamp": "2025-04-26 04:23"
+    },
+    {
+      "rank": 3,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 9.887894813430086e-06,
+      "timestamp": "2025-04-26 04:23"
+    },
+    {
+      "rank": 4,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.581329578752872e-06,
+      "timestamp": "2025-04-26 04:23"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.45111136356538e-08,
+      "timestamp": "2025-04-26 04:23"
+    },
+    {
+      "rank": 6,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00015064886382771628,
+      "timestamp": "2025-04-26 04:23"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00159715547715593,
+      "timestamp": "2025-04-26 04:23"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-26 04:23"
+    },
+    {
+      "rank": 9,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.8574623793220376e-07,
+      "timestamp": "2025-04-26 04:23"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.453917525698453e-06,
+      "timestamp": "2025-04-26 04:23"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037309133139088856,
+      "timestamp": "2025-04-26 04:23"
+    },
+    {
+      "rank": 12,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 2.1392811659714945e-06,
+      "timestamp": "2025-04-26 04:23"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.893186055705706e-06,
+      "timestamp": "2025-04-26 04:23"
+    },
+    {
+      "rank": 14,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.8689225902919854e-05,
+      "timestamp": "2025-04-26 04:23"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1064276453643299e-05,
+      "timestamp": "2025-04-26 04:23"
+    }
   ]
 }
