@@ -32954,5 +32954,112 @@
       "price_btc": 9.082289141689867e-06,
       "timestamp": "2025-04-26 14:16"
     }
+  ],
+  "2025-04-26 15:18": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6213576462102447e-11,
+      "timestamp": "2025-04-26 15:18"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.167762337176302e-08,
+      "timestamp": "2025-04-26 15:18"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.633084976583372e-05,
+      "timestamp": "2025-04-26 15:18"
+    },
+    {
+      "rank": 4,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.704469719336205e-07,
+      "timestamp": "2025-04-26 15:18"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003627004016891529,
+      "timestamp": "2025-04-26 15:18"
+    },
+    {
+      "rank": 6,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 3.0649750469443187e-06,
+      "timestamp": "2025-04-26 15:18"
+    },
+    {
+      "rank": 7,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.807839486629949e-07,
+      "timestamp": "2025-04-26 15:18"
+    },
+    {
+      "rank": 8,
+      "name": "ZIGChain",
+      "symbol": "ZIG",
+      "price_btc": 8.18479302597902e-07,
+      "timestamp": "2025-04-26 15:18"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0651488570360648e-05,
+      "timestamp": "2025-04-26 15:18"
+    },
+    {
+      "rank": 10,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.495928345829022e-06,
+      "timestamp": "2025-04-26 15:18"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0871353512390312e-05,
+      "timestamp": "2025-04-26 15:18"
+    },
+    {
+      "rank": 12,
+      "name": "Synapse",
+      "symbol": "SYN",
+      "price_btc": 3.620229445673605e-06,
+      "timestamp": "2025-04-26 15:18"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.8539125268267885e-06,
+      "timestamp": "2025-04-26 15:18"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.082975858096205e-05,
+      "timestamp": "2025-04-26 15:18"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3271624482632294e-05,
+      "timestamp": "2025-04-26 15:18"
+    }
   ]
 }
