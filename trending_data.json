@@ -32740,5 +32740,112 @@
       "price_btc": 5.111132182584642e-06,
       "timestamp": "2025-04-26 12:35"
     }
+  ],
+  "2025-04-26 13:23": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.643588528126205e-11,
+      "timestamp": "2025-04-26 13:23"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.7460772130078874e-07,
+      "timestamp": "2025-04-26 13:23"
+    },
+    {
+      "rank": 3,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 8.701544926394129e-07,
+      "timestamp": "2025-04-26 13:23"
+    },
+    {
+      "rank": 4,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.929644376760368e-07,
+      "timestamp": "2025-04-26 13:23"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6510852197548336e-05,
+      "timestamp": "2025-04-26 13:23"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.095724039285971e-05,
+      "timestamp": "2025-04-26 13:23"
+    },
+    {
+      "rank": 7,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 4.805134401298225e-07,
+      "timestamp": "2025-04-26 13:23"
+    },
+    {
+      "rank": 8,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 1.9326897036582014e-10,
+      "timestamp": "2025-04-26 13:23"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018709693880807594,
+      "timestamp": "2025-04-26 13:23"
+    },
+    {
+      "rank": 10,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.708813516190361e-06,
+      "timestamp": "2025-04-26 13:23"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00016120933790032694,
+      "timestamp": "2025-04-26 13:23"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015752349689758082,
+      "timestamp": "2025-04-26 13:23"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003645947461742159,
+      "timestamp": "2025-04-26 13:23"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.864105728983502e-06,
+      "timestamp": "2025-04-26 13:23"
+    },
+    {
+      "rank": 15,
+      "name": "Spectre AI",
+      "symbol": "SPECTRE",
+      "price_btc": 2.8491569495320123e-05,
+      "timestamp": "2025-04-26 13:23"
+    }
   ]
 }
