@@ -33489,5 +33489,112 @@
       "price_btc": 9.737132271402653e-06,
       "timestamp": "2025-04-26 19:15"
     }
+  ],
+  "2025-04-26 20:19": [
+    {
+      "rank": 1,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 1.048300078430067e-05,
+      "timestamp": "2025-04-26 20:19"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6387599821720233e-11,
+      "timestamp": "2025-04-26 20:19"
+    },
+    {
+      "rank": 3,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.7340510699515025e-07,
+      "timestamp": "2025-04-26 20:19"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.716227358272666e-05,
+      "timestamp": "2025-04-26 20:19"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.673909945474218e-08,
+      "timestamp": "2025-04-26 20:19"
+    },
+    {
+      "rank": 6,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.8270463497565373e-07,
+      "timestamp": "2025-04-26 20:19"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1443808919803707e-05,
+      "timestamp": "2025-04-26 20:19"
+    },
+    {
+      "rank": 8,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.639046842665082e-06,
+      "timestamp": "2025-04-26 20:19"
+    },
+    {
+      "rank": 9,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 1.1061281562426973e-06,
+      "timestamp": "2025-04-26 20:19"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.543394295415098e-06,
+      "timestamp": "2025-04-26 20:19"
+    },
+    {
+      "rank": 11,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2444480135960448e-05,
+      "timestamp": "2025-04-26 20:19"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001651492839154132,
+      "timestamp": "2025-04-26 20:19"
+    },
+    {
+      "rank": 13,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 1.9677678279298934e-10,
+      "timestamp": "2025-04-26 20:19"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3341325115801108e-05,
+      "timestamp": "2025-04-26 20:19"
+    },
+    {
+      "rank": 15,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 7.654352441344332e-07,
+      "timestamp": "2025-04-26 20:19"
+    }
   ]
 }
