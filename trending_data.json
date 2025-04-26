@@ -32098,5 +32098,112 @@
       "price_btc": 1.0795871395296367e-05,
       "timestamp": "2025-04-26 06:26"
     }
+  ],
+  "2025-04-26 07:17": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1489810246539016e-05,
+      "timestamp": "2025-04-26 07:17"
+    },
+    {
+      "rank": 2,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.657089699041965e-06,
+      "timestamp": "2025-04-26 07:17"
+    },
+    {
+      "rank": 3,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.7889362615225823e-07,
+      "timestamp": "2025-04-26 07:17"
+    },
+    {
+      "rank": 4,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.1186272180623996e-05,
+      "timestamp": "2025-04-26 07:17"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.801001859784632e-05,
+      "timestamp": "2025-04-26 07:17"
+    },
+    {
+      "rank": 6,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.515505511485164e-06,
+      "timestamp": "2025-04-26 07:17"
+    },
+    {
+      "rank": 7,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001562487659635651,
+      "timestamp": "2025-04-26 07:17"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0766487277905918e-05,
+      "timestamp": "2025-04-26 07:17"
+    },
+    {
+      "rank": 9,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2509786361742615e-05,
+      "timestamp": "2025-04-26 07:17"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036988167295372376,
+      "timestamp": "2025-04-26 07:17"
+    },
+    {
+      "rank": 11,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 2.0534963757779942e-10,
+      "timestamp": "2025-04-26 07:17"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00160267734542996,
+      "timestamp": "2025-04-26 07:17"
+    },
+    {
+      "rank": 13,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 4.8093127871586693e-05,
+      "timestamp": "2025-04-26 07:17"
+    },
+    {
+      "rank": 14,
+      "name": "Brett",
+      "symbol": "BRETT",
+      "price_btc": 7.415825610963682e-07,
+      "timestamp": "2025-04-26 07:17"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-26 07:17"
+    }
   ]
 }
