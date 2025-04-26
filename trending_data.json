@@ -33810,5 +33810,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-04-26 22:17"
     }
+  ],
+  "2025-04-26 23:18": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6106664539646877e-11,
+      "timestamp": "2025-04-26 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.74930546743196e-07,
+      "timestamp": "2025-04-26 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 1.3942683563182094e-06,
+      "timestamp": "2025-04-26 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 1.0030161382102896e-05,
+      "timestamp": "2025-04-26 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.5149957388923455e-05,
+      "timestamp": "2025-04-26 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7221480287369705e-05,
+      "timestamp": "2025-04-26 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.814417462324469e-08,
+      "timestamp": "2025-04-26 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036796160400756864,
+      "timestamp": "2025-04-26 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.088611244614012e-05,
+      "timestamp": "2025-04-26 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0516064794242384e-05,
+      "timestamp": "2025-04-26 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.448447575860775e-06,
+      "timestamp": "2025-04-26 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-26 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1760478343264083e-05,
+      "timestamp": "2025-04-26 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.557882659401087e-06,
+      "timestamp": "2025-04-26 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015750441188025685,
+      "timestamp": "2025-04-26 23:18"
+    }
   ]
 }
