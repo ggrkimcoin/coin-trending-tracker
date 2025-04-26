@@ -31456,5 +31456,112 @@
       "price_btc": 1.1227315019902775e-05,
       "timestamp": "2025-04-25 23:18"
     }
+  ],
+  "2025-04-26 01:36": [
+    {
+      "rank": 1,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.920094727737542e-06,
+      "timestamp": "2025-04-26 01:36"
+    },
+    {
+      "rank": 2,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 9.801262943048316e-06,
+      "timestamp": "2025-04-26 01:36"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.760139011175579e-05,
+      "timestamp": "2025-04-26 01:36"
+    },
+    {
+      "rank": 4,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2220594528532455e-05,
+      "timestamp": "2025-04-26 01:36"
+    },
+    {
+      "rank": 5,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.9622485282360356e-07,
+      "timestamp": "2025-04-26 01:36"
+    },
+    {
+      "rank": 6,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 2.0846433322976574e-10,
+      "timestamp": "2025-04-26 01:36"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.188518580769097e-08,
+      "timestamp": "2025-04-26 01:36"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018952657566469574,
+      "timestamp": "2025-04-26 01:36"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003765186284575427,
+      "timestamp": "2025-04-26 01:36"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.8595529434106835e-06,
+      "timestamp": "2025-04-26 01:36"
+    },
+    {
+      "rank": 11,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.4512925998660765e-06,
+      "timestamp": "2025-04-26 01:36"
+    },
+    {
+      "rank": 12,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 6.94649644638459e-06,
+      "timestamp": "2025-04-26 01:36"
+    },
+    {
+      "rank": 13,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 3.5684534811832143e-07,
+      "timestamp": "2025-04-26 01:36"
+    },
+    {
+      "rank": 14,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 8.242138055723458e-06,
+      "timestamp": "2025-04-26 01:36"
+    },
+    {
+      "rank": 15,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0998059373639473e-06,
+      "timestamp": "2025-04-26 01:36"
+    }
   ]
 }
