@@ -34559,5 +34559,112 @@
       "price_btc": 4.880510555154317e-06,
       "timestamp": "2025-04-27 07:17"
     }
+  ],
+  "2025-04-27 08:23": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.483112306081614e-05,
+      "timestamp": "2025-04-27 08:23"
+    },
+    {
+      "rank": 2,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 9.976867018097139e-06,
+      "timestamp": "2025-04-27 08:23"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.037699067645743e-07,
+      "timestamp": "2025-04-27 08:23"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.835955882366426e-05,
+      "timestamp": "2025-04-27 08:23"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1774889609689289e-05,
+      "timestamp": "2025-04-27 08:23"
+    },
+    {
+      "rank": 6,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.935702557801657e-06,
+      "timestamp": "2025-04-27 08:23"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037285052512497853,
+      "timestamp": "2025-04-27 08:23"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019173721315554452,
+      "timestamp": "2025-04-27 08:23"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0225553721666458e-05,
+      "timestamp": "2025-04-27 08:23"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.754642273861008e-06,
+      "timestamp": "2025-04-27 08:23"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.612512631627147e-11,
+      "timestamp": "2025-04-27 08:23"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-27 08:23"
+    },
+    {
+      "rank": 13,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.9156850876016796e-06,
+      "timestamp": "2025-04-27 08:23"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.8296386971472065e-05,
+      "timestamp": "2025-04-27 08:23"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperlane",
+      "symbol": "HYPER",
+      "price_btc": 2.497110258859383e-06,
+      "timestamp": "2025-04-27 08:23"
+    }
   ]
 }
