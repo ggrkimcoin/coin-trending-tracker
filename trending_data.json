@@ -33917,5 +33917,112 @@
       "price_btc": 0.0015750441188025685,
       "timestamp": "2025-04-26 23:18"
     }
+  ],
+  "2025-04-27 01:44": [
+    {
+      "rank": 1,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 1.0038855959197323e-05,
+      "timestamp": "2025-04-27 01:44"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.530567803695322e-05,
+      "timestamp": "2025-04-27 01:44"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0115838127068484e-07,
+      "timestamp": "2025-04-27 01:44"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.655449400731991e-05,
+      "timestamp": "2025-04-27 01:44"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1236862924031676e-05,
+      "timestamp": "2025-04-27 01:44"
+    },
+    {
+      "rank": 6,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00015819238841996484,
+      "timestamp": "2025-04-27 01:44"
+    },
+    {
+      "rank": 7,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 1.3523470150618325e-06,
+      "timestamp": "2025-04-27 01:44"
+    },
+    {
+      "rank": 8,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 1.1120349613239054e-08,
+      "timestamp": "2025-04-27 01:44"
+    },
+    {
+      "rank": 9,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.803538998140336e-06,
+      "timestamp": "2025-04-27 01:44"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-27 01:44"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015675772199793645,
+      "timestamp": "2025-04-27 01:44"
+    },
+    {
+      "rank": 12,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.229105090602767e-06,
+      "timestamp": "2025-04-27 01:44"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0341649547358613e-05,
+      "timestamp": "2025-04-27 01:44"
+    },
+    {
+      "rank": 14,
+      "name": "Turbo",
+      "symbol": "TURBO",
+      "price_btc": 5.553869990724421e-08,
+      "timestamp": "2025-04-27 01:44"
+    },
+    {
+      "rank": 15,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.9722676392070655e-06,
+      "timestamp": "2025-04-27 01:44"
+    }
   ]
 }
