@@ -35843,5 +35843,112 @@
       "price_btc": 1.1530972966317314e-05,
       "timestamp": "2025-04-27 19:16"
     }
+  ],
+  "2025-04-27 20:20": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.54883801351511e-05,
+      "timestamp": "2025-04-27 20:20"
+    },
+    {
+      "rank": 2,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 9.381486846587923e-06,
+      "timestamp": "2025-04-27 20:20"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5793533214362846e-11,
+      "timestamp": "2025-04-27 20:20"
+    },
+    {
+      "rank": 4,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 1.0135187195904564e-05,
+      "timestamp": "2025-04-27 20:20"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8340460732437765e-05,
+      "timestamp": "2025-04-27 20:20"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.165337200333319e-07,
+      "timestamp": "2025-04-27 20:20"
+    },
+    {
+      "rank": 7,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.849793258900726e-06,
+      "timestamp": "2025-04-27 20:20"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1537554089236082e-05,
+      "timestamp": "2025-04-27 20:20"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003748589618427147,
+      "timestamp": "2025-04-27 20:20"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0146305507045823e-05,
+      "timestamp": "2025-04-27 20:20"
+    },
+    {
+      "rank": 11,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2074608227065284e-05,
+      "timestamp": "2025-04-27 20:20"
+    },
+    {
+      "rank": 12,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.65608855756277e-06,
+      "timestamp": "2025-04-27 20:20"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1493414360566773e-05,
+      "timestamp": "2025-04-27 20:20"
+    },
+    {
+      "rank": 14,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 7.178408809749288e-07,
+      "timestamp": "2025-04-27 20:20"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperlane",
+      "symbol": "HYPER",
+      "price_btc": 2.0796920871897527e-06,
+      "timestamp": "2025-04-27 20:20"
+    }
   ]
 }
