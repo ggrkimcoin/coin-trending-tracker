@@ -34452,5 +34452,112 @@
       "price_btc": 0.019144447345645063,
       "timestamp": "2025-04-27 06:26"
     }
+  ],
+  "2025-04-27 07:17": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.502053845848653e-05,
+      "timestamp": "2025-04-27 07:17"
+    },
+    {
+      "rank": 2,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 9.99494076518858e-06,
+      "timestamp": "2025-04-27 07:17"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0298471407484399e-07,
+      "timestamp": "2025-04-27 07:17"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8304337073757975e-05,
+      "timestamp": "2025-04-27 07:17"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00015812974362197293,
+      "timestamp": "2025-04-27 07:17"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1660841276618334e-05,
+      "timestamp": "2025-04-27 07:17"
+    },
+    {
+      "rank": 7,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 2.3167491780424987e-06,
+      "timestamp": "2025-04-27 07:17"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003748747043822626,
+      "timestamp": "2025-04-27 07:17"
+    },
+    {
+      "rank": 9,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.89542982699682e-06,
+      "timestamp": "2025-04-27 07:17"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015632456210904425,
+      "timestamp": "2025-04-27 07:17"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0206267138416499e-05,
+      "timestamp": "2025-04-27 07:17"
+    },
+    {
+      "rank": 12,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.490976143243262e-07,
+      "timestamp": "2025-04-27 07:17"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-27 07:17"
+    },
+    {
+      "rank": 14,
+      "name": "The Sandbox",
+      "symbol": "SAND",
+      "price_btc": 3.217621691357048e-06,
+      "timestamp": "2025-04-27 07:17"
+    },
+    {
+      "rank": 15,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.880510555154317e-06,
+      "timestamp": "2025-04-27 07:17"
+    }
   ]
 }
