@@ -34238,5 +34238,112 @@
       "price_btc": 1.4420606633528727e-06,
       "timestamp": "2025-04-27 04:22"
     }
+  ],
+  "2025-04-27 05:18": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.491081792051608e-05,
+      "timestamp": "2025-04-27 05:18"
+    },
+    {
+      "rank": 2,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 1.0007025000006479e-05,
+      "timestamp": "2025-04-27 05:18"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.776038247761388e-05,
+      "timestamp": "2025-04-27 05:18"
+    },
+    {
+      "rank": 4,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00016109232745285693,
+      "timestamp": "2025-04-27 05:18"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0082593462325573e-07,
+      "timestamp": "2025-04-27 05:18"
+    },
+    {
+      "rank": 6,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 1.375986223419165e-06,
+      "timestamp": "2025-04-27 05:18"
+    },
+    {
+      "rank": 7,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.367815152561858e-06,
+      "timestamp": "2025-04-27 05:18"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015590773204352346,
+      "timestamp": "2025-04-27 05:18"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0600682143879475e-05,
+      "timestamp": "2025-04-27 05:18"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.155651935656629e-05,
+      "timestamp": "2025-04-27 05:18"
+    },
+    {
+      "rank": 11,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 2.869828033060692e-06,
+      "timestamp": "2025-04-27 05:18"
+    },
+    {
+      "rank": 12,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.7858247406563616e-07,
+      "timestamp": "2025-04-27 05:18"
+    },
+    {
+      "rank": 13,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.335408916414023e-06,
+      "timestamp": "2025-04-27 05:18"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003683449510453319,
+      "timestamp": "2025-04-27 05:18"
+    },
+    {
+      "rank": 15,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.7596122910687415e-05,
+      "timestamp": "2025-04-27 05:18"
+    }
   ]
 }
