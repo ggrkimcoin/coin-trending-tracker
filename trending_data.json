@@ -34987,5 +34987,112 @@
       "price_btc": 0.00023695901978448985,
       "timestamp": "2025-04-27 11:14"
     }
+  ],
+  "2025-04-27 12:35": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5838666673928233e-11,
+      "timestamp": "2025-04-27 12:35"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.4585502118802187e-05,
+      "timestamp": "2025-04-27 12:35"
+    },
+    {
+      "rank": 3,
+      "name": "JUST",
+      "symbol": "JST",
+      "price_btc": 4.4664330976322255e-07,
+      "timestamp": "2025-04-27 12:35"
+    },
+    {
+      "rank": 4,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.92419353913606e-06,
+      "timestamp": "2025-04-27 12:35"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.2118663013685166e-05,
+      "timestamp": "2025-04-27 12:35"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1174358098920443e-07,
+      "timestamp": "2025-04-27 12:35"
+    },
+    {
+      "rank": 7,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.5712774617760317e-07,
+      "timestamp": "2025-04-27 12:35"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.862367683698125e-05,
+      "timestamp": "2025-04-27 12:35"
+    },
+    {
+      "rank": 9,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 1.0275674580827402e-05,
+      "timestamp": "2025-04-27 12:35"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003744852397232069,
+      "timestamp": "2025-04-27 12:35"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0188774035648287e-05,
+      "timestamp": "2025-04-27 12:35"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00015656755419232992,
+      "timestamp": "2025-04-27 12:35"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018653491505836908,
+      "timestamp": "2025-04-27 12:35"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.114633645348298e-05,
+      "timestamp": "2025-04-27 12:35"
+    },
+    {
+      "rank": 15,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.887708702200159e-07,
+      "timestamp": "2025-04-27 12:35"
+    }
   ]
 }
