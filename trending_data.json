@@ -34345,5 +34345,112 @@
       "price_btc": 1.7596122910687415e-05,
       "timestamp": "2025-04-27 05:18"
     }
+  ],
+  "2025-04-27 06:26": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.4849380077816094e-05,
+      "timestamp": "2025-04-27 06:26"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.5095876105400493e-07,
+      "timestamp": "2025-04-27 06:26"
+    },
+    {
+      "rank": 3,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 1.000059803110753e-05,
+      "timestamp": "2025-04-27 06:26"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1786644126351778e-05,
+      "timestamp": "2025-04-27 06:26"
+    },
+    {
+      "rank": 5,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 2.8159800439724175e-06,
+      "timestamp": "2025-04-27 06:26"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0220653076374866e-07,
+      "timestamp": "2025-04-27 06:26"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0520886842015852e-05,
+      "timestamp": "2025-04-27 06:26"
+    },
+    {
+      "rank": 8,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.897578061576867e-06,
+      "timestamp": "2025-04-27 06:26"
+    },
+    {
+      "rank": 9,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 1.3404160722508287e-06,
+      "timestamp": "2025-04-27 06:26"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.75887800700088e-06,
+      "timestamp": "2025-04-27 06:26"
+    },
+    {
+      "rank": 11,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.3993878927886296e-06,
+      "timestamp": "2025-04-27 06:26"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015583185703631724,
+      "timestamp": "2025-04-27 06:26"
+    },
+    {
+      "rank": 13,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.614260323143965e-06,
+      "timestamp": "2025-04-27 06:26"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0193308164361224e-05,
+      "timestamp": "2025-04-27 06:26"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019144447345645063,
+      "timestamp": "2025-04-27 06:26"
+    }
   ]
 }
