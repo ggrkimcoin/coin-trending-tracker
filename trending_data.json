@@ -34024,5 +34024,112 @@
       "price_btc": 4.9722676392070655e-06,
       "timestamp": "2025-04-27 01:44"
     }
+  ],
+  "2025-04-27 03:09": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.5169799173085e-05,
+      "timestamp": "2025-04-27 03:09"
+    },
+    {
+      "rank": 2,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 1.004028425933797e-05,
+      "timestamp": "2025-04-27 03:09"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.734977483421299e-05,
+      "timestamp": "2025-04-27 03:09"
+    },
+    {
+      "rank": 4,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 1.3154995902718456e-06,
+      "timestamp": "2025-04-27 03:09"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0127927693384592e-07,
+      "timestamp": "2025-04-27 03:09"
+    },
+    {
+      "rank": 6,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00016066256143107492,
+      "timestamp": "2025-04-27 03:09"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.164021009225129e-05,
+      "timestamp": "2025-04-27 03:09"
+    },
+    {
+      "rank": 8,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 2.7849867002306145e-08,
+      "timestamp": "2025-04-27 03:09"
+    },
+    {
+      "rank": 9,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.821750082680879e-07,
+      "timestamp": "2025-04-27 03:09"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0239123610696416e-05,
+      "timestamp": "2025-04-27 03:09"
+    },
+    {
+      "rank": 11,
+      "name": "aixbt by Virtuals",
+      "symbol": "AIXBT",
+      "price_btc": 1.4174867865727341e-06,
+      "timestamp": "2025-04-27 03:09"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.5617870416323e-11,
+      "timestamp": "2025-04-27 03:09"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019210195629134393,
+      "timestamp": "2025-04-27 03:09"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-27 03:09"
+    },
+    {
+      "rank": 15,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 2.8496939287559473e-06,
+      "timestamp": "2025-04-27 03:09"
+    }
   ]
 }
