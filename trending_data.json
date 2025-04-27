@@ -34666,5 +34666,112 @@
       "price_btc": 2.497110258859383e-06,
       "timestamp": "2025-04-27 08:23"
     }
+  ],
+  "2025-04-27 09:19": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.4864092393901026e-05,
+      "timestamp": "2025-04-27 09:19"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.851075795417399e-05,
+      "timestamp": "2025-04-27 09:19"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1101253271450539e-07,
+      "timestamp": "2025-04-27 09:19"
+    },
+    {
+      "rank": 4,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 9.989783998305334e-06,
+      "timestamp": "2025-04-27 09:19"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1847423257309155e-05,
+      "timestamp": "2025-04-27 09:19"
+    },
+    {
+      "rank": 6,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.896711441430022e-06,
+      "timestamp": "2025-04-27 09:19"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019216027623227976,
+      "timestamp": "2025-04-27 09:19"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0277127446330958e-05,
+      "timestamp": "2025-04-27 09:19"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.783463591309936e-06,
+      "timestamp": "2025-04-27 09:19"
+    },
+    {
+      "rank": 10,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.8226975927651055e-07,
+      "timestamp": "2025-04-27 09:19"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3133515747023038e-05,
+      "timestamp": "2025-04-27 09:19"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015749855025689297,
+      "timestamp": "2025-04-27 09:19"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-27 09:19"
+    },
+    {
+      "rank": 14,
+      "name": "Turbo",
+      "symbol": "TURBO",
+      "price_btc": 5.734107106375385e-08,
+      "timestamp": "2025-04-27 09:19"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037641266685515054,
+      "timestamp": "2025-04-27 09:19"
+    }
   ]
 }
