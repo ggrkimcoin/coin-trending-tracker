@@ -34880,5 +34880,112 @@
       "price_btc": 6.783770013806583e-06,
       "timestamp": "2025-04-27 10:20"
     }
+  ],
+  "2025-04-27 11:14": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.477532262187299e-05,
+      "timestamp": "2025-04-27 11:14"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5878841986369364e-11,
+      "timestamp": "2025-04-27 11:14"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0840347543697398e-07,
+      "timestamp": "2025-04-27 11:14"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8095784187541854e-05,
+      "timestamp": "2025-04-27 11:14"
+    },
+    {
+      "rank": 5,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 1.070473563486561e-05,
+      "timestamp": "2025-04-27 11:14"
+    },
+    {
+      "rank": 6,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.579057968064339e-07,
+      "timestamp": "2025-04-27 11:14"
+    },
+    {
+      "rank": 7,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.808793919836492e-06,
+      "timestamp": "2025-04-27 11:14"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.189934283633087e-05,
+      "timestamp": "2025-04-27 11:14"
+    },
+    {
+      "rank": 9,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 2.770264265978559e-06,
+      "timestamp": "2025-04-27 11:14"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018681473240139264,
+      "timestamp": "2025-04-27 11:14"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003698703237498439,
+      "timestamp": "2025-04-27 11:14"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.784288527826974e-06,
+      "timestamp": "2025-04-27 11:14"
+    },
+    {
+      "rank": 13,
+      "name": "Turbo",
+      "symbol": "TURBO",
+      "price_btc": 5.6293567266304504e-08,
+      "timestamp": "2025-04-27 11:14"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00015756938888560623,
+      "timestamp": "2025-04-27 11:14"
+    },
+    {
+      "rank": 15,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00023695901978448985,
+      "timestamp": "2025-04-27 11:14"
+    }
   ]
 }
