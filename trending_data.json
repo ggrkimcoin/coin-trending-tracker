@@ -36164,5 +36164,112 @@
       "price_btc": 0.0015837744476793496,
       "timestamp": "2025-04-27 22:18"
     }
+  ],
+  "2025-04-27 23:19": [
+    {
+      "rank": 1,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 9.565474169905753e-06,
+      "timestamp": "2025-04-27 23:19"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5720316891050245e-11,
+      "timestamp": "2025-04-27 23:19"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3959869235114876e-07,
+      "timestamp": "2025-04-27 23:19"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8086357925119374e-05,
+      "timestamp": "2025-04-27 23:19"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.889075132070912e-06,
+      "timestamp": "2025-04-27 23:19"
+    },
+    {
+      "rank": 6,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 6.992907968760392e-07,
+      "timestamp": "2025-04-27 23:19"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038464244142777286,
+      "timestamp": "2025-04-27 23:19"
+    },
+    {
+      "rank": 8,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.7902989262548965e-06,
+      "timestamp": "2025-04-27 23:19"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019099345885558953,
+      "timestamp": "2025-04-27 23:19"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.404241930893161e-05,
+      "timestamp": "2025-04-27 23:19"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015817182884387696,
+      "timestamp": "2025-04-27 23:19"
+    },
+    {
+      "rank": 12,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 1.986174180047676e-10,
+      "timestamp": "2025-04-27 23:19"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.519778946649451e-06,
+      "timestamp": "2025-04-27 23:19"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00015868707587248618,
+      "timestamp": "2025-04-27 23:19"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.663958456236869e-06,
+      "timestamp": "2025-04-27 23:19"
+    }
   ]
 }
