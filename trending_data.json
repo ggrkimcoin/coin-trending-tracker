@@ -35308,5 +35308,112 @@
       "price_btc": 0.0001882230864715867,
       "timestamp": "2025-04-27 14:16"
     }
+  ],
+  "2025-04-27 15:19": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5638744882475943e-11,
+      "timestamp": "2025-04-27 15:19"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.470869838393614e-05,
+      "timestamp": "2025-04-27 15:19"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0910269259345877e-07,
+      "timestamp": "2025-04-27 15:19"
+    },
+    {
+      "rank": 4,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.55093045234404e-06,
+      "timestamp": "2025-04-27 15:19"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.799165201831519e-05,
+      "timestamp": "2025-04-27 15:19"
+    },
+    {
+      "rank": 6,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 1.0108179211761796e-05,
+      "timestamp": "2025-04-27 15:19"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1473749225268133e-05,
+      "timestamp": "2025-04-27 15:19"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3813242382689285e-05,
+      "timestamp": "2025-04-27 15:19"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015865320848467178,
+      "timestamp": "2025-04-27 15:19"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0109631960678828e-05,
+      "timestamp": "2025-04-27 15:19"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1388492130981888e-05,
+      "timestamp": "2025-04-27 15:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.7665879857713463e-06,
+      "timestamp": "2025-04-27 15:19"
+    },
+    {
+      "rank": 13,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.664921625449586e-06,
+      "timestamp": "2025-04-27 15:19"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.733675704985682e-06,
+      "timestamp": "2025-04-27 15:19"
+    },
+    {
+      "rank": 15,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.232788681453416e-06,
+      "timestamp": "2025-04-27 15:19"
+    }
   ]
 }
