@@ -35201,5 +35201,112 @@
       "price_btc": 1.112467750027715e-05,
       "timestamp": "2025-04-27 13:24"
     }
+  ],
+  "2025-04-27 14:16": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.549233665728636e-11,
+      "timestamp": "2025-04-27 14:16"
+    },
+    {
+      "rank": 2,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.840573237097518e-06,
+      "timestamp": "2025-04-27 14:16"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.849015707235821e-05,
+      "timestamp": "2025-04-27 14:16"
+    },
+    {
+      "rank": 4,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.4644657676835954e-05,
+      "timestamp": "2025-04-27 14:16"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1043991517375381e-07,
+      "timestamp": "2025-04-27 14:16"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1640871943601925e-05,
+      "timestamp": "2025-04-27 14:16"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015842682135532786,
+      "timestamp": "2025-04-27 14:16"
+    },
+    {
+      "rank": 8,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 2.047880003020694e-06,
+      "timestamp": "2025-04-27 14:16"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0184232425970166e-05,
+      "timestamp": "2025-04-27 14:16"
+    },
+    {
+      "rank": 10,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.8001548101413413e-07,
+      "timestamp": "2025-04-27 14:16"
+    },
+    {
+      "rank": 11,
+      "name": "Bubblemaps",
+      "symbol": "BMT",
+      "price_btc": 1.396301614818268e-06,
+      "timestamp": "2025-04-27 14:16"
+    },
+    {
+      "rank": 12,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 1.0161324432595296e-05,
+      "timestamp": "2025-04-27 14:16"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037472009654021606,
+      "timestamp": "2025-04-27 14:16"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.176288567737346e-05,
+      "timestamp": "2025-04-27 14:16"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0001882230864715867,
+      "timestamp": "2025-04-27 14:16"
+    }
   ]
 }
