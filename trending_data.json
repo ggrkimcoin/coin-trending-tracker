@@ -34131,5 +34131,112 @@
       "price_btc": 2.8496939287559473e-06,
       "timestamp": "2025-04-27 03:09"
     }
+  ],
+  "2025-04-27 04:22": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0399643501660237e-07,
+      "timestamp": "2025-04-27 04:22"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1952675546410248e-05,
+      "timestamp": "2025-04-27 04:22"
+    },
+    {
+      "rank": 3,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00016462303577710957,
+      "timestamp": "2025-04-27 04:22"
+    },
+    {
+      "rank": 4,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 1.0028357184917158e-05,
+      "timestamp": "2025-04-27 04:22"
+    },
+    {
+      "rank": 5,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.389396103956295e-06,
+      "timestamp": "2025-04-27 04:22"
+    },
+    {
+      "rank": 6,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.7797159377392136e-07,
+      "timestamp": "2025-04-27 04:22"
+    },
+    {
+      "rank": 7,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.5276715764954596e-05,
+      "timestamp": "2025-04-27 04:22"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.790273726102735e-05,
+      "timestamp": "2025-04-27 04:22"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperlane",
+      "symbol": "HYPER",
+      "price_btc": 2.4602803331651122e-06,
+      "timestamp": "2025-04-27 04:22"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0615376892862242e-05,
+      "timestamp": "2025-04-27 04:22"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019197465581060908,
+      "timestamp": "2025-04-27 04:22"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036844455171838636,
+      "timestamp": "2025-04-27 04:22"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015651069249103741,
+      "timestamp": "2025-04-27 04:22"
+    },
+    {
+      "rank": 14,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 3.6708874957709206e-06,
+      "timestamp": "2025-04-27 04:22"
+    },
+    {
+      "rank": 15,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 1.4420606633528727e-06,
+      "timestamp": "2025-04-27 04:22"
+    }
   ]
 }
