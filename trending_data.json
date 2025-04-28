@@ -37448,5 +37448,112 @@
       "price_btc": 3.843327248660675e-05,
       "timestamp": "2025-04-28 14:22"
     }
+  ],
+  "2025-04-28 15:22": [
+    {
+      "rank": 1,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0027319845004090287,
+      "timestamp": "2025-04-28 15:22"
+    },
+    {
+      "rank": 2,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 8.138155736981828e-07,
+      "timestamp": "2025-04-28 15:22"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8163093080859556e-05,
+      "timestamp": "2025-04-28 15:22"
+    },
+    {
+      "rank": 4,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.64106556937042e-11,
+      "timestamp": "2025-04-28 15:22"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2782875915034684e-07,
+      "timestamp": "2025-04-28 15:22"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3143390997508031e-05,
+      "timestamp": "2025-04-28 15:22"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.207739405159052e-05,
+      "timestamp": "2025-04-28 15:22"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4274099914833085e-05,
+      "timestamp": "2025-04-28 15:22"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003926729097331834,
+      "timestamp": "2025-04-28 15:22"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01889241330496525,
+      "timestamp": "2025-04-28 15:22"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.536553859108347e-06,
+      "timestamp": "2025-04-28 15:22"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-28 15:22"
+    },
+    {
+      "rank": 13,
+      "name": "Tether Gold",
+      "symbol": "XAUT",
+      "price_btc": 0.035308516846330504,
+      "timestamp": "2025-04-28 15:22"
+    },
+    {
+      "rank": 14,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 6.810715452075221e-06,
+      "timestamp": "2025-04-28 15:22"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015632565153650762,
+      "timestamp": "2025-04-28 15:22"
+    }
   ]
 }
