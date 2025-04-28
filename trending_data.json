@@ -37341,5 +37341,112 @@
       "price_btc": 2.4317354506140573e-05,
       "timestamp": "2025-04-28 13:40"
     }
+  ],
+  "2025-04-28 14:22": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6410147064765944e-11,
+      "timestamp": "2025-04-28 14:22"
+    },
+    {
+      "rank": 2,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 8.712814187838311e-07,
+      "timestamp": "2025-04-28 14:22"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8912399902989815e-05,
+      "timestamp": "2025-04-28 14:22"
+    },
+    {
+      "rank": 4,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.002770323995750581,
+      "timestamp": "2025-04-28 14:22"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2722238877422263e-07,
+      "timestamp": "2025-04-28 14:22"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3359074575480694e-05,
+      "timestamp": "2025-04-28 14:22"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2074096819221e-05,
+      "timestamp": "2025-04-28 14:22"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01894878774791675,
+      "timestamp": "2025-04-28 14:22"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0285261669914087e-05,
+      "timestamp": "2025-04-28 14:22"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00398391969894925,
+      "timestamp": "2025-04-28 14:22"
+    },
+    {
+      "rank": 11,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.8304426493661703e-06,
+      "timestamp": "2025-04-28 14:22"
+    },
+    {
+      "rank": 12,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.669486784658614e-06,
+      "timestamp": "2025-04-28 14:22"
+    },
+    {
+      "rank": 13,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 6.647268704625439e-06,
+      "timestamp": "2025-04-28 14:22"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4294523041730808e-05,
+      "timestamp": "2025-04-28 14:22"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.843327248660675e-05,
+      "timestamp": "2025-04-28 14:22"
+    }
   ]
 }
