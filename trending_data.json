@@ -36378,5 +36378,112 @@
       "price_btc": 5.4802911227461476e-06,
       "timestamp": "2025-04-28 01:42"
     }
+  ],
+  "2025-04-28 03:10": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3108420091879442e-07,
+      "timestamp": "2025-04-28 03:10"
+    },
+    {
+      "rank": 2,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 9.259397419850945e-06,
+      "timestamp": "2025-04-28 03:10"
+    },
+    {
+      "rank": 3,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0028380849456523653,
+      "timestamp": "2025-04-28 03:10"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.75560929112821e-05,
+      "timestamp": "2025-04-28 03:10"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.610148116461361e-06,
+      "timestamp": "2025-04-28 03:10"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003769716613094769,
+      "timestamp": "2025-04-28 03:10"
+    },
+    {
+      "rank": 7,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.591307302922797e-06,
+      "timestamp": "2025-04-28 03:10"
+    },
+    {
+      "rank": 8,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 1.1063224834298483e-06,
+      "timestamp": "2025-04-28 03:10"
+    },
+    {
+      "rank": 9,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.7282302531209976e-06,
+      "timestamp": "2025-04-28 03:10"
+    },
+    {
+      "rank": 10,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 5.747036866330263e-05,
+      "timestamp": "2025-04-28 03:10"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3978770778769047e-05,
+      "timestamp": "2025-04-28 03:10"
+    },
+    {
+      "rank": 12,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.8745348874001894e-07,
+      "timestamp": "2025-04-28 03:10"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015605484760643628,
+      "timestamp": "2025-04-28 03:10"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-28 03:10"
+    },
+    {
+      "rank": 15,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.5452848230843485e-06,
+      "timestamp": "2025-04-28 03:10"
+    }
   ]
 }
