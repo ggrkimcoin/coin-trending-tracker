@@ -37662,5 +37662,112 @@
       "price_btc": 0.0064076299944531975,
       "timestamp": "2025-04-28 16:24"
     }
+  ],
+  "2025-04-28 17:17": [
+    {
+      "rank": 1,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 8.228108973940568e-07,
+      "timestamp": "2025-04-28 17:17"
+    },
+    {
+      "rank": 2,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.00281527371889254,
+      "timestamp": "2025-04-28 17:17"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7899297337271115e-05,
+      "timestamp": "2025-04-28 17:17"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.259175455661907e-07,
+      "timestamp": "2025-04-28 17:17"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3578287577405875e-05,
+      "timestamp": "2025-04-28 17:17"
+    },
+    {
+      "rank": 6,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.121134661297087e-06,
+      "timestamp": "2025-04-28 17:17"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1823676674714514e-05,
+      "timestamp": "2025-04-28 17:17"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015596441654204328,
+      "timestamp": "2025-04-28 17:17"
+    },
+    {
+      "rank": 9,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6087507314980566e-11,
+      "timestamp": "2025-04-28 17:17"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018768271176125235,
+      "timestamp": "2025-04-28 17:17"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4298228026440175e-05,
+      "timestamp": "2025-04-28 17:17"
+    },
+    {
+      "rank": 12,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.61029609531317e-06,
+      "timestamp": "2025-04-28 17:17"
+    },
+    {
+      "rank": 13,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 5.957810958347815e-07,
+      "timestamp": "2025-04-28 17:17"
+    },
+    {
+      "rank": 14,
+      "name": "Edge",
+      "symbol": "EDGE",
+      "price_btc": 1.0816361902678818e-05,
+      "timestamp": "2025-04-28 17:17"
+    },
+    {
+      "rank": 15,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00015534750818840565,
+      "timestamp": "2025-04-28 17:17"
+    }
   ]
 }
