@@ -38090,5 +38090,112 @@
       "price_btc": 7.008774081041348e-07,
       "timestamp": "2025-04-28 20:20"
     }
+  ],
+  "2025-04-28 21:17": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6290339097617262e-11,
+      "timestamp": "2025-04-28 21:17"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4875742249962469e-05,
+      "timestamp": "2025-04-28 21:17"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.777090955088153e-05,
+      "timestamp": "2025-04-28 21:17"
+    },
+    {
+      "rank": 4,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0026770032074397397,
+      "timestamp": "2025-04-28 21:17"
+    },
+    {
+      "rank": 5,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 8.109739850684316e-07,
+      "timestamp": "2025-04-28 21:17"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003965156993840022,
+      "timestamp": "2025-04-28 21:17"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1624445745998662e-05,
+      "timestamp": "2025-04-28 21:17"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.299855816754366e-07,
+      "timestamp": "2025-04-28 21:17"
+    },
+    {
+      "rank": 9,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0064309895594651e-06,
+      "timestamp": "2025-04-28 21:17"
+    },
+    {
+      "rank": 10,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.8965086723408264e-06,
+      "timestamp": "2025-04-28 21:17"
+    },
+    {
+      "rank": 11,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 6.986328866596493e-06,
+      "timestamp": "2025-04-28 21:17"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018902391665556652,
+      "timestamp": "2025-04-28 21:17"
+    },
+    {
+      "rank": 13,
+      "name": "Morphware",
+      "symbol": "XMW",
+      "price_btc": 1.0183550334069173e-06,
+      "timestamp": "2025-04-28 21:17"
+    },
+    {
+      "rank": 14,
+      "name": "MemeFi",
+      "symbol": "MEMEFI",
+      "price_btc": 5.378027060075753e-08,
+      "timestamp": "2025-04-28 21:17"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015558373361258117,
+      "timestamp": "2025-04-28 21:17"
+    }
   ]
 }
