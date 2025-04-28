@@ -37127,5 +37127,112 @@
       "price_btc": 7.64916939610967e-06,
       "timestamp": "2025-04-28 11:06"
     }
+  ],
+  "2025-04-28 12:48": [
+    {
+      "rank": 1,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 8.699710258264861e-07,
+      "timestamp": "2025-04-28 12:48"
+    },
+    {
+      "rank": 2,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0028696095982468,
+      "timestamp": "2025-04-28 12:48"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6204164107428055e-11,
+      "timestamp": "2025-04-28 12:48"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2953970446862965e-07,
+      "timestamp": "2025-04-28 12:48"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3200913391062843e-05,
+      "timestamp": "2025-04-28 12:48"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.229913855098073e-05,
+      "timestamp": "2025-04-28 12:48"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.965933477943789e-05,
+      "timestamp": "2025-04-28 12:48"
+    },
+    {
+      "rank": 8,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 6.80499102817426e-06,
+      "timestamp": "2025-04-28 12:48"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-28 12:48"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018972576161977586,
+      "timestamp": "2025-04-28 12:48"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4321882357714332e-05,
+      "timestamp": "2025-04-28 12:48"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.030223930865349e-05,
+      "timestamp": "2025-04-28 12:48"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019032038863849542,
+      "timestamp": "2025-04-28 12:48"
+    },
+    {
+      "rank": 14,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 2.5449670195111345e-06,
+      "timestamp": "2025-04-28 12:48"
+    },
+    {
+      "rank": 15,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.762096742180484e-06,
+      "timestamp": "2025-04-28 12:48"
+    }
   ]
 }
