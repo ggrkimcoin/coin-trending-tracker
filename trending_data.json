@@ -36592,5 +36592,112 @@
       "price_btc": 0.00015274312598250822,
       "timestamp": "2025-04-28 04:24"
     }
+  ],
+  "2025-04-28 05:27": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.4466053888446248e-07,
+      "timestamp": "2025-04-28 05:27"
+    },
+    {
+      "rank": 2,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 9.344075691186846e-06,
+      "timestamp": "2025-04-28 05:27"
+    },
+    {
+      "rank": 3,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0031440730782499055,
+      "timestamp": "2025-04-28 05:27"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.803267256864896e-05,
+      "timestamp": "2025-04-28 05:27"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2131669858794774e-05,
+      "timestamp": "2025-04-28 05:27"
+    },
+    {
+      "rank": 6,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.8518033038162204e-06,
+      "timestamp": "2025-04-28 05:27"
+    },
+    {
+      "rank": 7,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.594895468833996e-06,
+      "timestamp": "2025-04-28 05:27"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015838999648464113,
+      "timestamp": "2025-04-28 05:27"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.589673021291994e-06,
+      "timestamp": "2025-04-28 05:27"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.422579323647165e-05,
+      "timestamp": "2025-04-28 05:27"
+    },
+    {
+      "rank": 11,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.61348579810032e-06,
+      "timestamp": "2025-04-28 05:27"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.186437637150004e-05,
+      "timestamp": "2025-04-28 05:27"
+    },
+    {
+      "rank": 13,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.9587927306733728e-07,
+      "timestamp": "2025-04-28 05:27"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.416136392014119e-11,
+      "timestamp": "2025-04-28 05:27"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003792879593989623,
+      "timestamp": "2025-04-28 05:27"
+    }
   ]
 }
