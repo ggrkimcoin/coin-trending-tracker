@@ -38197,5 +38197,112 @@
       "price_btc": 0.0015558373361258117,
       "timestamp": "2025-04-28 21:17"
     }
+  ],
+  "2025-04-28 22:19": [
+    {
+      "rank": 1,
+      "name": "ZIGChain",
+      "symbol": "ZIG",
+      "price_btc": 9.083875454755608e-07,
+      "timestamp": "2025-04-28 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4753736794366215e-05,
+      "timestamp": "2025-04-28 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6199241587016048e-11,
+      "timestamp": "2025-04-28 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7603207842986534e-05,
+      "timestamp": "2025-04-28 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003946231411176038,
+      "timestamp": "2025-04-28 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2902429554006137e-07,
+      "timestamp": "2025-04-28 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00018817265137491214,
+      "timestamp": "2025-04-28 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.615252175006346e-06,
+      "timestamp": "2025-04-28 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.170804573774178e-05,
+      "timestamp": "2025-04-28 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 1.1355735014919083e-06,
+      "timestamp": "2025-04-28 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015600038365697715,
+      "timestamp": "2025-04-28 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0026559897664831635,
+      "timestamp": "2025-04-28 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.7810609211780143e-07,
+      "timestamp": "2025-04-28 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.500101611980499e-06,
+      "timestamp": "2025-04-28 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 8.11488366609146e-07,
+      "timestamp": "2025-04-28 22:19"
+    }
   ]
 }
