@@ -36271,5 +36271,112 @@
       "price_btc": 3.663958456236869e-06,
       "timestamp": "2025-04-27 23:19"
     }
+  ],
+  "2025-04-28 01:42": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3310364484437658e-07,
+      "timestamp": "2025-04-28 01:42"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.712904787255211e-05,
+      "timestamp": "2025-04-28 01:42"
+    },
+    {
+      "rank": 3,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.6315862094780514e-06,
+      "timestamp": "2025-04-28 01:42"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015716105049665967,
+      "timestamp": "2025-04-28 01:42"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.718520906699118e-06,
+      "timestamp": "2025-04-28 01:42"
+    },
+    {
+      "rank": 6,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 2.1332447638534624e-06,
+      "timestamp": "2025-04-28 01:42"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019032021335800592,
+      "timestamp": "2025-04-28 01:42"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0001826729376162582,
+      "timestamp": "2025-04-28 01:42"
+    },
+    {
+      "rank": 9,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.625180298613665e-06,
+      "timestamp": "2025-04-28 01:42"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.1221351133316762e-05,
+      "timestamp": "2025-04-28 01:42"
+    },
+    {
+      "rank": 11,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.20014201503623e-06,
+      "timestamp": "2025-04-28 01:42"
+    },
+    {
+      "rank": 12,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 4.014019514943191e-06,
+      "timestamp": "2025-04-28 01:42"
+    },
+    {
+      "rank": 13,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001549364585864623,
+      "timestamp": "2025-04-28 01:42"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.127686836040352e-05,
+      "timestamp": "2025-04-28 01:42"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.4802911227461476e-06,
+      "timestamp": "2025-04-28 01:42"
+    }
   ]
 }
