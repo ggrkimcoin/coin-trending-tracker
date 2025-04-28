@@ -36913,5 +36913,112 @@
       "price_btc": 0.0001921437737144159,
       "timestamp": "2025-04-28 07:46"
     }
+  ],
+  "2025-04-28 09:09": [
+    {
+      "rank": 1,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0028277084159092514,
+      "timestamp": "2025-04-28 09:09"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3665928970745756e-07,
+      "timestamp": "2025-04-28 09:09"
+    },
+    {
+      "rank": 3,
+      "name": "XDC Network",
+      "symbol": "XDC",
+      "price_btc": 8.2597820720014e-07,
+      "timestamp": "2025-04-28 09:09"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3418165288791044e-05,
+      "timestamp": "2025-04-28 09:09"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8951635159307914e-05,
+      "timestamp": "2025-04-28 09:09"
+    },
+    {
+      "rank": 6,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.016769955834561e-06,
+      "timestamp": "2025-04-28 09:09"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004038851343318111,
+      "timestamp": "2025-04-28 09:09"
+    },
+    {
+      "rank": 8,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.22506858032293e-06,
+      "timestamp": "2025-04-28 09:09"
+    },
+    {
+      "rank": 9,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00016257362603189354,
+      "timestamp": "2025-04-28 09:09"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019096094521752094,
+      "timestamp": "2025-04-28 09:09"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.566875691770188e-06,
+      "timestamp": "2025-04-28 09:09"
+    },
+    {
+      "rank": 12,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 2.0217624952324502e-07,
+      "timestamp": "2025-04-28 09:09"
+    },
+    {
+      "rank": 13,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.631919781431348e-06,
+      "timestamp": "2025-04-28 09:09"
+    },
+    {
+      "rank": 14,
+      "name": "Algorand",
+      "symbol": "ALGO",
+      "price_btc": 2.467467154318505e-06,
+      "timestamp": "2025-04-28 09:09"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.034969528663216e-05,
+      "timestamp": "2025-04-28 09:09"
+    }
   ]
 }
