@@ -37020,5 +37020,112 @@
       "price_btc": 1.034969528663216e-05,
       "timestamp": "2025-04-28 09:09"
     }
+  ],
+  "2025-04-28 11:06": [
+    {
+      "rank": 1,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.002962550099074683,
+      "timestamp": "2025-04-28 11:06"
+    },
+    {
+      "rank": 2,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 7.421331390273206e-07,
+      "timestamp": "2025-04-28 11:06"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3284748657757278e-07,
+      "timestamp": "2025-04-28 11:06"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3575550128160314e-05,
+      "timestamp": "2025-04-28 11:06"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003946556084698826,
+      "timestamp": "2025-04-28 11:06"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.983538264927239e-05,
+      "timestamp": "2025-04-28 11:06"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2692721985870987e-05,
+      "timestamp": "2025-04-28 11:06"
+    },
+    {
+      "rank": 8,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.6035406236512403e-11,
+      "timestamp": "2025-04-28 11:06"
+    },
+    {
+      "rank": 9,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.021469334318612e-06,
+      "timestamp": "2025-04-28 11:06"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4503004837342186e-05,
+      "timestamp": "2025-04-28 11:06"
+    },
+    {
+      "rank": 11,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 6.87581128182818e-06,
+      "timestamp": "2025-04-28 11:06"
+    },
+    {
+      "rank": 12,
+      "name": "XDC Network",
+      "symbol": "XDC",
+      "price_btc": 8.459969021606379e-07,
+      "timestamp": "2025-04-28 11:06"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-28 11:06"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.607974708482929e-11,
+      "timestamp": "2025-04-28 11:06"
+    },
+    {
+      "rank": 15,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 7.64916939610967e-06,
+      "timestamp": "2025-04-28 11:06"
+    }
   ]
 }
