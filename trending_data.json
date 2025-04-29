@@ -40337,5 +40337,112 @@
       "price_btc": 0.00014407454279237905,
       "timestamp": "2025-04-29 19:16"
     }
+  ],
+  "2025-04-29 20:22": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5431231726981e-11,
+      "timestamp": "2025-04-29 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.394737767194561e-05,
+      "timestamp": "2025-04-29 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.735843396219476e-05,
+      "timestamp": "2025-04-29 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.4941926752294e-06,
+      "timestamp": "2025-04-29 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1985075300684226e-05,
+      "timestamp": "2025-04-29 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5252955021269114e-05,
+      "timestamp": "2025-04-29 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.228059280248853e-06,
+      "timestamp": "2025-04-29 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.106421784215634e-06,
+      "timestamp": "2025-04-29 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001567079595787936,
+      "timestamp": "2025-04-29 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.6167080990996097e-07,
+      "timestamp": "2025-04-29 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.5607864538012445e-06,
+      "timestamp": "2025-04-29 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 1.0999857045689318e-06,
+      "timestamp": "2025-04-29 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 1.0162660618038655e-06,
+      "timestamp": "2025-04-29 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.406799671649115e-05,
+      "timestamp": "2025-04-29 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 9.03946747996727e-07,
+      "timestamp": "2025-04-29 20:22"
+    }
   ]
 }
