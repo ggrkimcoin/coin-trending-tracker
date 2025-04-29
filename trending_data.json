@@ -39160,5 +39160,112 @@
       "price_btc": 3.9980132295040245e-05,
       "timestamp": "2025-04-29 08:28"
     }
+  ],
+  "2025-04-29 09:22": [
+    {
+      "rank": 1,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 1.2109767677036743e-06,
+      "timestamp": "2025-04-29 09:22"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.779098287446779e-05,
+      "timestamp": "2025-04-29 09:22"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015699199984102114,
+      "timestamp": "2025-04-29 09:22"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.55806449725538e-05,
+      "timestamp": "2025-04-29 09:22"
+    },
+    {
+      "rank": 5,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.002909679417614034,
+      "timestamp": "2025-04-29 09:22"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2676838520333921e-07,
+      "timestamp": "2025-04-29 09:22"
+    },
+    {
+      "rank": 7,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.5046562092258395e-06,
+      "timestamp": "2025-04-29 09:22"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019265410788529513,
+      "timestamp": "2025-04-29 09:22"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2057165108575929e-05,
+      "timestamp": "2025-04-29 09:22"
+    },
+    {
+      "rank": 10,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 9.822242761093031e-07,
+      "timestamp": "2025-04-29 09:22"
+    },
+    {
+      "rank": 11,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.633687873503479e-06,
+      "timestamp": "2025-04-29 09:22"
+    },
+    {
+      "rank": 12,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.282140160912532e-06,
+      "timestamp": "2025-04-29 09:22"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4072847024786613e-05,
+      "timestamp": "2025-04-29 09:22"
+    },
+    {
+      "rank": 14,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.2469502193373526e-05,
+      "timestamp": "2025-04-29 09:22"
+    },
+    {
+      "rank": 15,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00015954300996385025,
+      "timestamp": "2025-04-29 09:22"
+    }
   ]
 }
