@@ -40658,5 +40658,112 @@
       "price_btc": 9.429782485492307e-07,
       "timestamp": "2025-04-29 22:18"
     }
+  ],
+  "2025-04-29 23:18": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.229838425192399e-06,
+      "timestamp": "2025-04-29 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.4518657440072994e-05,
+      "timestamp": "2025-04-29 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.450250503739166e-05,
+      "timestamp": "2025-04-29 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015527025452064377,
+      "timestamp": "2025-04-29 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013841168033562392,
+      "timestamp": "2025-04-29 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5385001788036546e-11,
+      "timestamp": "2025-04-29 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.706033171859795e-05,
+      "timestamp": "2025-04-29 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.253337944001469e-06,
+      "timestamp": "2025-04-29 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.0110584115167827e-06,
+      "timestamp": "2025-04-29 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1737030800194762e-07,
+      "timestamp": "2025-04-29 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "Turbo",
+      "symbol": "TURBO",
+      "price_btc": 4.9291535510217545e-08,
+      "timestamp": "2025-04-29 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.911063027797969e-05,
+      "timestamp": "2025-04-29 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.1518524637614367e-05,
+      "timestamp": "2025-04-29 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.297116406447376e-07,
+      "timestamp": "2025-04-29 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.4223259899899205e-06,
+      "timestamp": "2025-04-29 23:18"
+    }
   ]
 }
