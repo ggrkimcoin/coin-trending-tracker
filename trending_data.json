@@ -39053,5 +39053,112 @@
       "price_btc": 6.9219270360624865e-06,
       "timestamp": "2025-04-29 07:20"
     }
+  ],
+  "2025-04-29 08:28": [
+    {
+      "rank": 1,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 1.2422953531931963e-06,
+      "timestamp": "2025-04-29 08:28"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2736811124639965e-07,
+      "timestamp": "2025-04-29 08:28"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5579505113300614e-05,
+      "timestamp": "2025-04-29 08:28"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8066966759266646e-05,
+      "timestamp": "2025-04-29 08:28"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.210396049854414e-05,
+      "timestamp": "2025-04-29 08:28"
+    },
+    {
+      "rank": 6,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.002912403247557238,
+      "timestamp": "2025-04-29 08:28"
+    },
+    {
+      "rank": 7,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.6492022982642454e-07,
+      "timestamp": "2025-04-29 08:28"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001569821842839074,
+      "timestamp": "2025-04-29 08:28"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004039445085875904,
+      "timestamp": "2025-04-29 08:28"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.599236987709368e-06,
+      "timestamp": "2025-04-29 08:28"
+    },
+    {
+      "rank": 11,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.2878125269215185e-06,
+      "timestamp": "2025-04-29 08:28"
+    },
+    {
+      "rank": 12,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 9.910687836707034e-07,
+      "timestamp": "2025-04-29 08:28"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019205175695964173,
+      "timestamp": "2025-04-29 08:28"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00014968377590955686,
+      "timestamp": "2025-04-29 08:28"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.9980132295040245e-05,
+      "timestamp": "2025-04-29 08:28"
+    }
   ]
 }
