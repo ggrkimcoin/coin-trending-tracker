@@ -39481,5 +39481,112 @@
       "price_btc": 5.524364567911885e-06,
       "timestamp": "2025-04-29 11:17"
     }
+  ],
+  "2025-04-29 12:42": [
+    {
+      "rank": 1,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.2513736595199688e-06,
+      "timestamp": "2025-04-29 12:42"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.543209044232874e-05,
+      "timestamp": "2025-04-29 12:42"
+    },
+    {
+      "rank": 3,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 1.049901824085434e-06,
+      "timestamp": "2025-04-29 12:42"
+    },
+    {
+      "rank": 4,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5727879361608335e-11,
+      "timestamp": "2025-04-29 12:42"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.694523104146705e-05,
+      "timestamp": "2025-04-29 12:42"
+    },
+    {
+      "rank": 6,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.261550838529416e-06,
+      "timestamp": "2025-04-29 12:42"
+    },
+    {
+      "rank": 7,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 8.881938219046285e-07,
+      "timestamp": "2025-04-29 12:42"
+    },
+    {
+      "rank": 8,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.1185415321191637e-06,
+      "timestamp": "2025-04-29 12:42"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001562108975055372,
+      "timestamp": "2025-04-29 12:42"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-29 12:42"
+    },
+    {
+      "rank": 11,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2751223236052311e-07,
+      "timestamp": "2025-04-29 12:42"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019249593748196337,
+      "timestamp": "2025-04-29 12:42"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003969154261492735,
+      "timestamp": "2025-04-29 12:42"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4005022416968196e-05,
+      "timestamp": "2025-04-29 12:42"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.083725291162892e-06,
+      "timestamp": "2025-04-29 12:42"
+    }
   ]
 }
