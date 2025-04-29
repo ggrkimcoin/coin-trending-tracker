@@ -39374,5 +39374,112 @@
       "price_btc": 5.61975200887729e-06,
       "timestamp": "2025-04-29 10:22"
     }
+  ],
+  "2025-04-29 11:17": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5863841634310168e-11,
+      "timestamp": "2025-04-29 11:17"
+    },
+    {
+      "rank": 2,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.72969580293862e-06,
+      "timestamp": "2025-04-29 11:17"
+    },
+    {
+      "rank": 3,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 1.0932014659044807e-06,
+      "timestamp": "2025-04-29 11:17"
+    },
+    {
+      "rank": 4,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.2230965753465873e-06,
+      "timestamp": "2025-04-29 11:17"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4964694156263433e-05,
+      "timestamp": "2025-04-29 11:17"
+    },
+    {
+      "rank": 6,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0028812940071076022,
+      "timestamp": "2025-04-29 11:17"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.738297584107074e-05,
+      "timestamp": "2025-04-29 11:17"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0233575296862285e-05,
+      "timestamp": "2025-04-29 11:17"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.052630203058896e-06,
+      "timestamp": "2025-04-29 11:17"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4104425481339036e-05,
+      "timestamp": "2025-04-29 11:17"
+    },
+    {
+      "rank": 11,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2414062324012863e-07,
+      "timestamp": "2025-04-29 11:17"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003990419632333355,
+      "timestamp": "2025-04-29 11:17"
+    },
+    {
+      "rank": 13,
+      "name": "Gunz",
+      "symbol": "GUN",
+      "price_btc": 6.925573193908287e-07,
+      "timestamp": "2025-04-29 11:17"
+    },
+    {
+      "rank": 14,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.2796403156340955e-05,
+      "timestamp": "2025-04-29 11:17"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.524364567911885e-06,
+      "timestamp": "2025-04-29 11:17"
+    }
   ]
 }
