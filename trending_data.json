@@ -38946,5 +38946,112 @@
       "price_btc": 1.6312036223117297e-06,
       "timestamp": "2025-04-29 06:29"
     }
+  ],
+  "2025-04-29 07:20": [
+    {
+      "rank": 1,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 1.2992307946833818e-06,
+      "timestamp": "2025-04-29 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.743033060304207e-05,
+      "timestamp": "2025-04-29 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5419978712947647e-05,
+      "timestamp": "2025-04-29 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 9.284417641428671e-07,
+      "timestamp": "2025-04-29 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.002910025496172658,
+      "timestamp": "2025-04-29 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.245402427426299e-07,
+      "timestamp": "2025-04-29 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.58306970724131e-06,
+      "timestamp": "2025-04-29 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004014614580562268,
+      "timestamp": "2025-04-29 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.284165386774833e-05,
+      "timestamp": "2025-04-29 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015632429795518264,
+      "timestamp": "2025-04-29 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-29 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.3123623367586144e-06,
+      "timestamp": "2025-04-29 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.137983319416088e-06,
+      "timestamp": "2025-04-29 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 1.6939633445584431e-06,
+      "timestamp": "2025-04-29 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 6.9219270360624865e-06,
+      "timestamp": "2025-04-29 07:20"
+    }
   ]
 }
