@@ -40230,5 +40230,112 @@
       "price_btc": 0.0015644946677127887,
       "timestamp": "2025-04-29 18:26"
     }
+  ],
+  "2025-04-29 19:16": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5316724199405032e-11,
+      "timestamp": "2025-04-29 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5241211779755486e-05,
+      "timestamp": "2025-04-29 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7593721451464065e-05,
+      "timestamp": "2025-04-29 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.2371242344032825e-06,
+      "timestamp": "2025-04-29 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.05520213933832e-06,
+      "timestamp": "2025-04-29 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.524146480656487e-06,
+      "timestamp": "2025-04-29 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.37552748399412e-05,
+      "timestamp": "2025-04-29 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015714095056424192,
+      "timestamp": "2025-04-29 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 1.0889116613336606e-06,
+      "timestamp": "2025-04-29 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2172319593249077e-07,
+      "timestamp": "2025-04-29 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003901966479076747,
+      "timestamp": "2025-04-29 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2094411784317319e-05,
+      "timestamp": "2025-04-29 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019820807520394074,
+      "timestamp": "2025-04-29 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-29 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00014407454279237905,
+      "timestamp": "2025-04-29 19:16"
+    }
   ]
 }
