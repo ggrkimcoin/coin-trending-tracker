@@ -39909,5 +39909,112 @@
       "price_btc": 6.1453724011746165e-06,
       "timestamp": "2025-04-29 15:21"
     }
+  ],
+  "2025-04-29 16:25": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.569788485510213e-11,
+      "timestamp": "2025-04-29 16:25"
+    },
+    {
+      "rank": 2,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 1.0890671722062208e-06,
+      "timestamp": "2025-04-29 16:25"
+    },
+    {
+      "rank": 3,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.565416460390814e-06,
+      "timestamp": "2025-04-29 16:25"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5295147865903114e-05,
+      "timestamp": "2025-04-29 16:25"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2534546219324254e-07,
+      "timestamp": "2025-04-29 16:25"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019155036817258428,
+      "timestamp": "2025-04-29 16:25"
+    },
+    {
+      "rank": 7,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.221552112967662e-06,
+      "timestamp": "2025-04-29 16:25"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.783028625828505e-05,
+      "timestamp": "2025-04-29 16:25"
+    },
+    {
+      "rank": 9,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.9781914372257466e-05,
+      "timestamp": "2025-04-29 16:25"
+    },
+    {
+      "rank": 10,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 6.994505090221804e-07,
+      "timestamp": "2025-04-29 16:25"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1869194903508928e-05,
+      "timestamp": "2025-04-29 16:25"
+    },
+    {
+      "rank": 12,
+      "name": "ZIGChain",
+      "symbol": "ZIG",
+      "price_btc": 9.144074233424026e-07,
+      "timestamp": "2025-04-29 16:25"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003897975647411165,
+      "timestamp": "2025-04-29 16:25"
+    },
+    {
+      "rank": 14,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.00277468392239163,
+      "timestamp": "2025-04-29 16:25"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0139526623371708e-05,
+      "timestamp": "2025-04-29 16:25"
+    }
   ]
 }
