@@ -38839,5 +38839,112 @@
       "price_btc": 1.0244604797626941e-05,
       "timestamp": "2025-04-29 05:19"
     }
+  ],
+  "2025-04-29 06:29": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.567733235767439e-05,
+      "timestamp": "2025-04-29 06:29"
+    },
+    {
+      "rank": 2,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.002848239422488658,
+      "timestamp": "2025-04-29 06:29"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.736047171876378e-05,
+      "timestamp": "2025-04-29 06:29"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2387015731210874e-07,
+      "timestamp": "2025-04-29 06:29"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.6148701704211865e-06,
+      "timestamp": "2025-04-29 06:29"
+    },
+    {
+      "rank": 6,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 9.379101328198981e-07,
+      "timestamp": "2025-04-29 06:29"
+    },
+    {
+      "rank": 7,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 7.299600465066986e-07,
+      "timestamp": "2025-04-29 06:29"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015555740170893806,
+      "timestamp": "2025-04-29 06:29"
+    },
+    {
+      "rank": 9,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.2023123382844306e-06,
+      "timestamp": "2025-04-29 06:29"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.370430016888909e-06,
+      "timestamp": "2025-04-29 06:29"
+    },
+    {
+      "rank": 11,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.2718063990059786e-05,
+      "timestamp": "2025-04-29 06:29"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-29 06:29"
+    },
+    {
+      "rank": 13,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.6190220264075394e-07,
+      "timestamp": "2025-04-29 06:29"
+    },
+    {
+      "rank": 14,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 6.99564584789085e-06,
+      "timestamp": "2025-04-29 06:29"
+    },
+    {
+      "rank": 15,
+      "name": "aixbt by Virtuals",
+      "symbol": "AIXBT",
+      "price_btc": 1.6312036223117297e-06,
+      "timestamp": "2025-04-29 06:29"
+    }
   ]
 }
