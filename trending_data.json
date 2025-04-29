@@ -40016,5 +40016,112 @@
       "price_btc": 1.0139526623371708e-05,
       "timestamp": "2025-04-29 16:25"
     }
+  ],
+  "2025-04-29 17:18": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.548980634648094e-11,
+      "timestamp": "2025-04-29 17:18"
+    },
+    {
+      "rank": 2,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.1582678968937755e-06,
+      "timestamp": "2025-04-29 17:18"
+    },
+    {
+      "rank": 3,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.941332239467337e-06,
+      "timestamp": "2025-04-29 17:18"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5268549580227508e-05,
+      "timestamp": "2025-04-29 17:18"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.707391883711409e-05,
+      "timestamp": "2025-04-29 17:18"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019099188321779897,
+      "timestamp": "2025-04-29 17:18"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003894475849961279,
+      "timestamp": "2025-04-29 17:18"
+    },
+    {
+      "rank": 8,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 1.0637602784442628e-06,
+      "timestamp": "2025-04-29 17:18"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1903248356363957e-05,
+      "timestamp": "2025-04-29 17:18"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.5414016412367215e-06,
+      "timestamp": "2025-04-29 17:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0083764656068761e-05,
+      "timestamp": "2025-04-29 17:18"
+    },
+    {
+      "rank": 12,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 2.0913109601377893e-10,
+      "timestamp": "2025-04-29 17:18"
+    },
+    {
+      "rank": 13,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2092613152170433e-07,
+      "timestamp": "2025-04-29 17:18"
+    },
+    {
+      "rank": 14,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.00280799538783428,
+      "timestamp": "2025-04-29 17:18"
+    },
+    {
+      "rank": 15,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 1.0474774564273953e-06,
+      "timestamp": "2025-04-29 17:18"
+    }
   ]
 }
