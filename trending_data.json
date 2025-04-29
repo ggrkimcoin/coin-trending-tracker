@@ -38518,5 +38518,112 @@
       "price_btc": 2.630685562144794e-06,
       "timestamp": "2025-04-29 01:41"
     }
+  ],
+  "2025-04-29 03:06": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5711631060045273e-05,
+      "timestamp": "2025-04-29 03:06"
+    },
+    {
+      "rank": 2,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.2181658530685945e-06,
+      "timestamp": "2025-04-29 03:06"
+    },
+    {
+      "rank": 3,
+      "name": "GAME by Virtuals",
+      "symbol": "GAME",
+      "price_btc": 7.048280840542198e-07,
+      "timestamp": "2025-04-29 03:06"
+    },
+    {
+      "rank": 4,
+      "name": "aixbt by Virtuals",
+      "symbol": "AIXBT",
+      "price_btc": 1.6484696161710997e-06,
+      "timestamp": "2025-04-29 03:06"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2333418899862445e-07,
+      "timestamp": "2025-04-29 03:06"
+    },
+    {
+      "rank": 6,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.002818793532858092,
+      "timestamp": "2025-04-29 03:06"
+    },
+    {
+      "rank": 7,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 7.747116970519298e-07,
+      "timestamp": "2025-04-29 03:06"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.750088167041878e-05,
+      "timestamp": "2025-04-29 03:06"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004027771794810564,
+      "timestamp": "2025-04-29 03:06"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.63522701134236e-06,
+      "timestamp": "2025-04-29 03:06"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.4164181872464435e-06,
+      "timestamp": "2025-04-29 03:06"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1535346344210214e-05,
+      "timestamp": "2025-04-29 03:06"
+    },
+    {
+      "rank": 13,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.631798989028937e-06,
+      "timestamp": "2025-04-29 03:06"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019649778299940334,
+      "timestamp": "2025-04-29 03:06"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0272705851445509e-05,
+      "timestamp": "2025-04-29 03:06"
+    }
   ]
 }
