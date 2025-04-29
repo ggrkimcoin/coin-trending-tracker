@@ -40551,5 +40551,112 @@
       "price_btc": 1.4804578962858626e-06,
       "timestamp": "2025-04-29 21:18"
     }
+  ],
+  "2025-04-29 22:18": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.262825694812769e-06,
+      "timestamp": "2025-04-29 22:18"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5542615587773663e-11,
+      "timestamp": "2025-04-29 22:18"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7327215523865854e-05,
+      "timestamp": "2025-04-29 22:18"
+    },
+    {
+      "rank": 4,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.1193186830143183e-06,
+      "timestamp": "2025-04-29 22:18"
+    },
+    {
+      "rank": 5,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.400054633724655e-05,
+      "timestamp": "2025-04-29 22:18"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015556677112799557,
+      "timestamp": "2025-04-29 22:18"
+    },
+    {
+      "rank": 7,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013861228346528774,
+      "timestamp": "2025-04-29 22:18"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1768078288088655e-05,
+      "timestamp": "2025-04-29 22:18"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4540696584803333e-05,
+      "timestamp": "2025-04-29 22:18"
+    },
+    {
+      "rank": 10,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.002871045188757609,
+      "timestamp": "2025-04-29 22:18"
+    },
+    {
+      "rank": 11,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.774434191074258e-06,
+      "timestamp": "2025-04-29 22:18"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3917111972932044e-05,
+      "timestamp": "2025-04-29 22:18"
+    },
+    {
+      "rank": 13,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1645463556554493e-07,
+      "timestamp": "2025-04-29 22:18"
+    },
+    {
+      "rank": 14,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.440240050709306e-07,
+      "timestamp": "2025-04-29 22:18"
+    },
+    {
+      "rank": 15,
+      "name": "ZIGChain",
+      "symbol": "ZIG",
+      "price_btc": 9.429782485492307e-07,
+      "timestamp": "2025-04-29 22:18"
+    }
   ]
 }
