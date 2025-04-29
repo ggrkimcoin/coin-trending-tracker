@@ -38625,5 +38625,112 @@
       "price_btc": 1.0272705851445509e-05,
       "timestamp": "2025-04-29 03:06"
     }
+  ],
+  "2025-04-29 04:23": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5587735415783465e-05,
+      "timestamp": "2025-04-29 04:23"
+    },
+    {
+      "rank": 2,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.1089619686749547e-06,
+      "timestamp": "2025-04-29 04:23"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.737295516110462e-05,
+      "timestamp": "2025-04-29 04:23"
+    },
+    {
+      "rank": 4,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.245451859968046e-05,
+      "timestamp": "2025-04-29 04:23"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-29 04:23"
+    },
+    {
+      "rank": 6,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 7.924078232491859e-07,
+      "timestamp": "2025-04-29 04:23"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0190313811685511,
+      "timestamp": "2025-04-29 04:23"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2201149703893532e-07,
+      "timestamp": "2025-04-29 04:23"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.436250841023416e-06,
+      "timestamp": "2025-04-29 04:23"
+    },
+    {
+      "rank": 10,
+      "name": "aixbt by Virtuals",
+      "symbol": "AIXBT",
+      "price_btc": 1.6186967197813607e-06,
+      "timestamp": "2025-04-29 04:23"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015564761673191275,
+      "timestamp": "2025-04-29 04:23"
+    },
+    {
+      "rank": 12,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.146063522933597e-06,
+      "timestamp": "2025-04-29 04:23"
+    },
+    {
+      "rank": 13,
+      "name": "GAME by Virtuals",
+      "symbol": "GAME",
+      "price_btc": 6.956883364911857e-07,
+      "timestamp": "2025-04-29 04:23"
+    },
+    {
+      "rank": 14,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0028454685205929514,
+      "timestamp": "2025-04-29 04:23"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004040482006401926,
+      "timestamp": "2025-04-29 04:23"
+    }
   ]
 }
