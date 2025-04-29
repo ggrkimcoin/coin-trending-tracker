@@ -40444,5 +40444,112 @@
       "price_btc": 9.03946747996727e-07,
       "timestamp": "2025-04-29 20:22"
     }
+  ],
+  "2025-04-29 21:18": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.725998839831274e-05,
+      "timestamp": "2025-04-29 21:18"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.556561967831523e-11,
+      "timestamp": "2025-04-29 21:18"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1886642948170411e-05,
+      "timestamp": "2025-04-29 21:18"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015662332772582047,
+      "timestamp": "2025-04-29 21:18"
+    },
+    {
+      "rank": 5,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.384592318969739e-05,
+      "timestamp": "2025-04-29 21:18"
+    },
+    {
+      "rank": 6,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.489273208770223e-06,
+      "timestamp": "2025-04-29 21:18"
+    },
+    {
+      "rank": 7,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.178291047330489e-06,
+      "timestamp": "2025-04-29 21:18"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019077220957990786,
+      "timestamp": "2025-04-29 21:18"
+    },
+    {
+      "rank": 9,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0028983112577764657,
+      "timestamp": "2025-04-29 21:18"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.983040381202403e-06,
+      "timestamp": "2025-04-29 21:18"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-29 21:18"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.514063536213745e-05,
+      "timestamp": "2025-04-29 21:18"
+    },
+    {
+      "rank": 13,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.84809597775691e-06,
+      "timestamp": "2025-04-29 21:18"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4012039784412946e-05,
+      "timestamp": "2025-04-29 21:18"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.4804578962858626e-06,
+      "timestamp": "2025-04-29 21:18"
+    }
   ]
 }
