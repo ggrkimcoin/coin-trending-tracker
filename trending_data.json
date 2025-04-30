@@ -40765,5 +40765,112 @@
       "price_btc": 5.4223259899899205e-06,
       "timestamp": "2025-04-29 23:18"
     }
+  ],
+  "2025-04-30 01:40": [
+    {
+      "rank": 1,
+      "name": "DIA",
+      "symbol": "DIA",
+      "price_btc": 6.650275968995475e-06,
+      "timestamp": "2025-04-30 01:40"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038834218825664216,
+      "timestamp": "2025-04-30 01:40"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1917947084216152e-07,
+      "timestamp": "2025-04-30 01:40"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.759899915766316e-05,
+      "timestamp": "2025-04-30 01:40"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.448796631085276e-05,
+      "timestamp": "2025-04-30 01:40"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.793932775299742e-06,
+      "timestamp": "2025-04-30 01:40"
+    },
+    {
+      "rank": 7,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.2300422830321645e-06,
+      "timestamp": "2025-04-30 01:40"
+    },
+    {
+      "rank": 8,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 9.666377705450255e-07,
+      "timestamp": "2025-04-30 01:40"
+    },
+    {
+      "rank": 9,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 1.011609340755823e-06,
+      "timestamp": "2025-04-30 01:40"
+    },
+    {
+      "rank": 10,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.272322586827443e-05,
+      "timestamp": "2025-04-30 01:40"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019570484267261793,
+      "timestamp": "2025-04-30 01:40"
+    },
+    {
+      "rank": 12,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.95167788175058e-06,
+      "timestamp": "2025-04-30 01:40"
+    },
+    {
+      "rank": 13,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 2.1545261529163663e-06,
+      "timestamp": "2025-04-30 01:40"
+    },
+    {
+      "rank": 14,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.2246725061556314e-06,
+      "timestamp": "2025-04-30 01:40"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015465408676359166,
+      "timestamp": "2025-04-30 01:40"
+    }
   ]
 }
