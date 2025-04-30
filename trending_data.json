@@ -41728,5 +41728,112 @@
       "price_btc": 1.1273744252733624e-07,
       "timestamp": "2025-04-30 10:21"
     }
+  ],
+  "2025-04-30 11:16": [
+    {
+      "rank": 1,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 8.234353216439053e-06,
+      "timestamp": "2025-04-30 11:16"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.729820367535646e-07,
+      "timestamp": "2025-04-30 11:16"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5056347041311534e-11,
+      "timestamp": "2025-04-30 11:16"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.356379323083298e-05,
+      "timestamp": "2025-04-30 11:16"
+    },
+    {
+      "rank": 5,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.426898411317885e-06,
+      "timestamp": "2025-04-30 11:16"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038319485509407114,
+      "timestamp": "2025-04-30 11:16"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015537664583546796,
+      "timestamp": "2025-04-30 11:16"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.723019477124547e-05,
+      "timestamp": "2025-04-30 11:16"
+    },
+    {
+      "rank": 9,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.226595399520531e-06,
+      "timestamp": "2025-04-30 11:16"
+    },
+    {
+      "rank": 10,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.3587369469696882e-07,
+      "timestamp": "2025-04-30 11:16"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3522148788549806e-05,
+      "timestamp": "2025-04-30 11:16"
+    },
+    {
+      "rank": 12,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00015393016139897715,
+      "timestamp": "2025-04-30 11:16"
+    },
+    {
+      "rank": 13,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1332660811288443e-07,
+      "timestamp": "2025-04-30 11:16"
+    },
+    {
+      "rank": 14,
+      "name": "Tether Gold",
+      "symbol": "XAUT",
+      "price_btc": 0.03457341844744042,
+      "timestamp": "2025-04-30 11:16"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.821706387223036e-05,
+      "timestamp": "2025-04-30 11:16"
+    }
   ]
 }
