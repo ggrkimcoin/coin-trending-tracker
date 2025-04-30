@@ -41193,5 +41193,112 @@
       "price_btc": 1.1675095550416367e-05,
       "timestamp": "2025-04-30 05:19"
     }
+  ],
+  "2025-04-30 06:29": [
+    {
+      "rank": 1,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 8.870831066722687e-06,
+      "timestamp": "2025-04-30 06:29"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4233982133058236e-05,
+      "timestamp": "2025-04-30 06:29"
+    },
+    {
+      "rank": 3,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 1.1084861729400347e-06,
+      "timestamp": "2025-04-30 06:29"
+    },
+    {
+      "rank": 4,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 9.140504284685715e-06,
+      "timestamp": "2025-04-30 06:29"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.257393192671663e-06,
+      "timestamp": "2025-04-30 06:29"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7670382765696e-05,
+      "timestamp": "2025-04-30 06:29"
+    },
+    {
+      "rank": 7,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 1.0278547781070326e-06,
+      "timestamp": "2025-04-30 06:29"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.178215231368438e-07,
+      "timestamp": "2025-04-30 06:29"
+    },
+    {
+      "rank": 9,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 2.093294324076739e-10,
+      "timestamp": "2025-04-30 06:29"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1830737262133088e-05,
+      "timestamp": "2025-04-30 06:29"
+    },
+    {
+      "rank": 11,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.8682965198677123e-06,
+      "timestamp": "2025-04-30 06:29"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013846257967459286,
+      "timestamp": "2025-04-30 06:29"
+    },
+    {
+      "rank": 13,
+      "name": "Oraichain",
+      "symbol": "ORAI",
+      "price_btc": 3.787920588279022e-05,
+      "timestamp": "2025-04-30 06:29"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-30 06:29"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019308717082395526,
+      "timestamp": "2025-04-30 06:29"
+    }
   ]
 }
