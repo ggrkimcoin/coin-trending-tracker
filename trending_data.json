@@ -42263,5 +42263,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-04-30 15:21"
     }
+  ],
+  "2025-04-30 16:25": [
+    {
+      "rank": 1,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 7.018342661401991e-06,
+      "timestamp": "2025-04-30 16:25"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4323543164590596e-11,
+      "timestamp": "2025-04-30 16:25"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.617271517246788e-05,
+      "timestamp": "2025-04-30 16:25"
+    },
+    {
+      "rank": 4,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.5192401152050035e-07,
+      "timestamp": "2025-04-30 16:25"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4237484756442946e-05,
+      "timestamp": "2025-04-30 16:25"
+    },
+    {
+      "rank": 6,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.5589327143835374e-06,
+      "timestamp": "2025-04-30 16:25"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-30 16:25"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.20194498017913e-05,
+      "timestamp": "2025-04-30 16:25"
+    },
+    {
+      "rank": 9,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 9.90193787856748e-07,
+      "timestamp": "2025-04-30 16:25"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.562493277241838e-06,
+      "timestamp": "2025-04-30 16:25"
+    },
+    {
+      "rank": 11,
+      "name": "XION",
+      "symbol": "XION",
+      "price_btc": 1.0567061620992057e-05,
+      "timestamp": "2025-04-30 16:25"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001511056122521247,
+      "timestamp": "2025-04-30 16:25"
+    },
+    {
+      "rank": 13,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.71765693953029e-05,
+      "timestamp": "2025-04-30 16:25"
+    },
+    {
+      "rank": 14,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 2.0189159407683636e-06,
+      "timestamp": "2025-04-30 16:25"
+    },
+    {
+      "rank": 15,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.1036737804840075e-06,
+      "timestamp": "2025-04-30 16:25"
+    }
   ]
 }
