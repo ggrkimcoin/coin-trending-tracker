@@ -41300,5 +41300,112 @@
       "price_btc": 0.00019308717082395526,
       "timestamp": "2025-04-30 06:29"
     }
+  ],
+  "2025-04-30 07:19": [
+    {
+      "rank": 1,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 9.801342898143493e-06,
+      "timestamp": "2025-04-30 07:19"
+    },
+    {
+      "rank": 2,
+      "name": "Sign",
+      "symbol": "SIGN",
+      "price_btc": 1.0699035747343792e-06,
+      "timestamp": "2025-04-30 07:19"
+    },
+    {
+      "rank": 3,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.978455234936747e-06,
+      "timestamp": "2025-04-30 07:19"
+    },
+    {
+      "rank": 4,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.270199954324077e-06,
+      "timestamp": "2025-04-30 07:19"
+    },
+    {
+      "rank": 5,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 1.0096365417293226e-06,
+      "timestamp": "2025-04-30 07:19"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7644384945725e-05,
+      "timestamp": "2025-04-30 07:19"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1857928788388726e-07,
+      "timestamp": "2025-04-30 07:19"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2000390489132835e-05,
+      "timestamp": "2025-04-30 07:19"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019044714458993566,
+      "timestamp": "2025-04-30 07:19"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4188242069681153e-05,
+      "timestamp": "2025-04-30 07:19"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-30 07:19"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.8651251788487046e-05,
+      "timestamp": "2025-04-30 07:19"
+    },
+    {
+      "rank": 13,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013803339646557727,
+      "timestamp": "2025-04-30 07:19"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.366569929096101e-05,
+      "timestamp": "2025-04-30 07:19"
+    },
+    {
+      "rank": 15,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0028943394506673074,
+      "timestamp": "2025-04-30 07:19"
+    }
   ]
 }
