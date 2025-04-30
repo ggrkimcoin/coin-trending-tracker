@@ -40872,5 +40872,112 @@
       "price_btc": 0.0015465408676359166,
       "timestamp": "2025-04-30 01:40"
     }
+  ],
+  "2025-04-30 03:06": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.414675299652002e-05,
+      "timestamp": "2025-04-30 03:06"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1590644461336814e-07,
+      "timestamp": "2025-04-30 03:06"
+    },
+    {
+      "rank": 3,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 3.4123316047385863e-06,
+      "timestamp": "2025-04-30 03:06"
+    },
+    {
+      "rank": 4,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.805055242215258e-06,
+      "timestamp": "2025-04-30 03:06"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038663949830264515,
+      "timestamp": "2025-04-30 03:06"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7554101257464605e-05,
+      "timestamp": "2025-04-30 03:06"
+    },
+    {
+      "rank": 7,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.5679741022941493e-11,
+      "timestamp": "2025-04-30 03:06"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001552245596434133,
+      "timestamp": "2025-04-30 03:06"
+    },
+    {
+      "rank": 9,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 9.623055288504664e-07,
+      "timestamp": "2025-04-30 03:06"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019521326211078679,
+      "timestamp": "2025-04-30 03:06"
+    },
+    {
+      "rank": 11,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.002913351789318268,
+      "timestamp": "2025-04-30 03:06"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019043597581156212,
+      "timestamp": "2025-04-30 03:06"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3730271482105037e-05,
+      "timestamp": "2025-04-30 03:06"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.906565445804946e-05,
+      "timestamp": "2025-04-30 03:06"
+    },
+    {
+      "rank": 15,
+      "name": "DIA",
+      "symbol": "DIA",
+      "price_btc": 6.297879295435707e-06,
+      "timestamp": "2025-04-30 03:06"
+    }
   ]
 }
