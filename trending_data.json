@@ -42156,5 +42156,112 @@
       "price_btc": 9.028255393720976e-07,
       "timestamp": "2025-04-30 14:19"
     }
+  ],
+  "2025-04-30 15:21": [
+    {
+      "rank": 1,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 6.511945853545074e-06,
+      "timestamp": "2025-04-30 15:21"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4412387424022973e-11,
+      "timestamp": "2025-04-30 15:21"
+    },
+    {
+      "rank": 3,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.5235871883001745e-07,
+      "timestamp": "2025-04-30 15:21"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4120593629578828e-05,
+      "timestamp": "2025-04-30 15:21"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6113378671107754e-05,
+      "timestamp": "2025-04-30 15:21"
+    },
+    {
+      "rank": 6,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.5602771114492976e-06,
+      "timestamp": "2025-04-30 15:21"
+    },
+    {
+      "rank": 7,
+      "name": "XION",
+      "symbol": "XION",
+      "price_btc": 1.0492939204082398e-05,
+      "timestamp": "2025-04-30 15:21"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1297827217526879e-07,
+      "timestamp": "2025-04-30 15:21"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.212155332137665e-05,
+      "timestamp": "2025-04-30 15:21"
+    },
+    {
+      "rank": 10,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 1.0117193271443447e-06,
+      "timestamp": "2025-04-30 15:21"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00019411231370012653,
+      "timestamp": "2025-04-30 15:21"
+    },
+    {
+      "rank": 12,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.862324515893995e-06,
+      "timestamp": "2025-04-30 15:21"
+    },
+    {
+      "rank": 13,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.7490011402171858e-06,
+      "timestamp": "2025-04-30 15:21"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3047589401907775e-05,
+      "timestamp": "2025-04-30 15:21"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-30 15:21"
+    }
   ]
 }
