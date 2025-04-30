@@ -41942,5 +41942,112 @@
       "price_btc": 0.0189828842615771,
       "timestamp": "2025-04-30 12:39"
     }
+  ],
+  "2025-04-30 13:29": [
+    {
+      "rank": 1,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 7.1898189055894575e-06,
+      "timestamp": "2025-04-30 13:29"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.556666683982625e-07,
+      "timestamp": "2025-04-30 13:29"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.491565804855521e-11,
+      "timestamp": "2025-04-30 13:29"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3092352141331202e-05,
+      "timestamp": "2025-04-30 13:29"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.613055669621822e-05,
+      "timestamp": "2025-04-30 13:29"
+    },
+    {
+      "rank": 6,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.5831540759197936e-06,
+      "timestamp": "2025-04-30 13:29"
+    },
+    {
+      "rank": 7,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.365511291233022e-06,
+      "timestamp": "2025-04-30 13:29"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018720446422706774,
+      "timestamp": "2025-04-30 13:29"
+    },
+    {
+      "rank": 9,
+      "name": "XION",
+      "symbol": "XION",
+      "price_btc": 1.029815337898875e-05,
+      "timestamp": "2025-04-30 13:29"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015200380985212112,
+      "timestamp": "2025-04-30 13:29"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1658507875999847e-05,
+      "timestamp": "2025-04-30 13:29"
+    },
+    {
+      "rank": 12,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.070374062013926e-06,
+      "timestamp": "2025-04-30 13:29"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.535158773386002e-06,
+      "timestamp": "2025-04-30 13:29"
+    },
+    {
+      "rank": 14,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.3504625417015314e-07,
+      "timestamp": "2025-04-30 13:29"
+    },
+    {
+      "rank": 15,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 8.857689586421592e-07,
+      "timestamp": "2025-04-30 13:29"
+    }
   ]
 }
