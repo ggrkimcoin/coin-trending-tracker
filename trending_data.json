@@ -42477,5 +42477,112 @@
       "price_btc": 0.0015200000947595705,
       "timestamp": "2025-04-30 17:17"
     }
+  ],
+  "2025-04-30 18:28": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.478772237203351e-11,
+      "timestamp": "2025-04-30 18:28"
+    },
+    {
+      "rank": 2,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 6.323686228325298e-06,
+      "timestamp": "2025-04-30 18:28"
+    },
+    {
+      "rank": 3,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.620221614958289e-07,
+      "timestamp": "2025-04-30 18:28"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6640079768933295e-05,
+      "timestamp": "2025-04-30 18:28"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.40925647597656e-05,
+      "timestamp": "2025-04-30 18:28"
+    },
+    {
+      "rank": 6,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.34198732589304e-06,
+      "timestamp": "2025-04-30 18:28"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2550614668314167e-05,
+      "timestamp": "2025-04-30 18:28"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018922925593773777,
+      "timestamp": "2025-04-30 18:28"
+    },
+    {
+      "rank": 9,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.561553849269871e-06,
+      "timestamp": "2025-04-30 18:28"
+    },
+    {
+      "rank": 10,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.1996198687369663e-05,
+      "timestamp": "2025-04-30 18:28"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003775953052340685,
+      "timestamp": "2025-04-30 18:28"
+    },
+    {
+      "rank": 12,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.838144770311909e-06,
+      "timestamp": "2025-04-30 18:28"
+    },
+    {
+      "rank": 13,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 1.0831287635734755e-06,
+      "timestamp": "2025-04-30 18:28"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-04-30 18:28"
+    },
+    {
+      "rank": 15,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.969854029300383e-06,
+      "timestamp": "2025-04-30 18:28"
+    }
   ]
 }
