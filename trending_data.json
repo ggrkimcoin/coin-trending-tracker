@@ -42049,5 +42049,112 @@
       "price_btc": 8.857689586421592e-07,
       "timestamp": "2025-04-30 13:29"
     }
+  ],
+  "2025-04-30 14:19": [
+    {
+      "rank": 1,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 6.780502158723122e-06,
+      "timestamp": "2025-04-30 14:19"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4697334425986552e-11,
+      "timestamp": "2025-04-30 14:19"
+    },
+    {
+      "rank": 3,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.4795785612407996e-07,
+      "timestamp": "2025-04-30 14:19"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3003166024066718e-05,
+      "timestamp": "2025-04-30 14:19"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.561249641394537e-05,
+      "timestamp": "2025-04-30 14:19"
+    },
+    {
+      "rank": 6,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.5556500410773886e-06,
+      "timestamp": "2025-04-30 14:19"
+    },
+    {
+      "rank": 7,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.104741399199909e-06,
+      "timestamp": "2025-04-30 14:19"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003635164529599401,
+      "timestamp": "2025-04-30 14:19"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018790550219432028,
+      "timestamp": "2025-04-30 14:19"
+    },
+    {
+      "rank": 10,
+      "name": "Akash Network",
+      "symbol": "AKT",
+      "price_btc": 1.636910678814484e-05,
+      "timestamp": "2025-04-30 14:19"
+    },
+    {
+      "rank": 11,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0726937679634078e-07,
+      "timestamp": "2025-04-30 14:19"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001516200535485575,
+      "timestamp": "2025-04-30 14:19"
+    },
+    {
+      "rank": 13,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.2954339068272668e-07,
+      "timestamp": "2025-04-30 14:19"
+    },
+    {
+      "rank": 14,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.346715451025186e-05,
+      "timestamp": "2025-04-30 14:19"
+    },
+    {
+      "rank": 15,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 9.028255393720976e-07,
+      "timestamp": "2025-04-30 14:19"
+    }
   ]
 }
