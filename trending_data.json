@@ -43012,5 +43012,112 @@
       "price_btc": 2.562491722360906e-06,
       "timestamp": "2025-04-30 22:18"
     }
+  ],
+  "2025-04-30 23:18": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.541551505855599e-07,
+      "timestamp": "2025-04-30 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 6.105076064197967e-06,
+      "timestamp": "2025-04-30 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 1.0738424428204306e-06,
+      "timestamp": "2025-04-30 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020658836509805897,
+      "timestamp": "2025-04-30 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.125607248610928e-06,
+      "timestamp": "2025-04-30 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015606785120216861,
+      "timestamp": "2025-04-30 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4830996882327446e-05,
+      "timestamp": "2025-04-30 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.705233505423667e-05,
+      "timestamp": "2025-04-30 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3133533607169536e-05,
+      "timestamp": "2025-04-30 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4424058409833902e-11,
+      "timestamp": "2025-04-30 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "Algorand",
+      "symbol": "ALGO",
+      "price_btc": 2.3429010951010543e-06,
+      "timestamp": "2025-04-30 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1498520047967558e-07,
+      "timestamp": "2025-04-30 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037660185913631888,
+      "timestamp": "2025-04-30 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 2.025398356108433e-06,
+      "timestamp": "2025-04-30 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.1455914841139534e-06,
+      "timestamp": "2025-04-30 23:18"
+    }
   ]
 }
