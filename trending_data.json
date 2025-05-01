@@ -44510,5 +44510,112 @@
       "price_btc": 1.1534197168843631e-07,
       "timestamp": "2025-05-01 14:18"
     }
+  ],
+  "2025-05-01 15:20": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8051607174616165e-05,
+      "timestamp": "2025-05-01 15:20"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.562553305822024e-07,
+      "timestamp": "2025-05-01 15:20"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.849693878764831e-05,
+      "timestamp": "2025-05-01 15:20"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.3721707491546e-06,
+      "timestamp": "2025-05-01 15:20"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2932413162837856e-05,
+      "timestamp": "2025-05-01 15:20"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015769325082109448,
+      "timestamp": "2025-05-01 15:20"
+    },
+    {
+      "rank": 7,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.688577604639995e-06,
+      "timestamp": "2025-05-01 15:20"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.310038020180706e-05,
+      "timestamp": "2025-05-01 15:20"
+    },
+    {
+      "rank": 9,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.1047658173472403e-05,
+      "timestamp": "2025-05-01 15:20"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019047964450016313,
+      "timestamp": "2025-05-01 15:20"
+    },
+    {
+      "rank": 11,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.31490552433738e-06,
+      "timestamp": "2025-05-01 15:20"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.718013616423908e-06,
+      "timestamp": "2025-05-01 15:20"
+    },
+    {
+      "rank": 13,
+      "name": "aixbt by Virtuals",
+      "symbol": "AIXBT",
+      "price_btc": 2.192559847607143e-06,
+      "timestamp": "2025-05-01 15:20"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-01 15:20"
+    },
+    {
+      "rank": 15,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 4.570301355431431e-06,
+      "timestamp": "2025-05-01 15:20"
+    }
   ]
 }
