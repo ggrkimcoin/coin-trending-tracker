@@ -45045,5 +45045,112 @@
       "price_btc": 7.328752994133975e-06,
       "timestamp": "2025-05-01 19:15"
     }
+  ],
+  "2025-05-01 20:20": [
+    {
+      "rank": 1,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.041485850931636e-06,
+      "timestamp": "2025-05-01 20:20"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.508711633580052e-07,
+      "timestamp": "2025-05-01 20:20"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.703101337144138e-05,
+      "timestamp": "2025-05-01 20:20"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019073771953808622,
+      "timestamp": "2025-05-01 20:20"
+    },
+    {
+      "rank": 5,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.965113085584468e-06,
+      "timestamp": "2025-05-01 20:20"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.229817182448469e-05,
+      "timestamp": "2025-05-01 20:20"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.797162018060702e-05,
+      "timestamp": "2025-05-01 20:20"
+    },
+    {
+      "rank": 8,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.35914318246523e-06,
+      "timestamp": "2025-05-01 20:20"
+    },
+    {
+      "rank": 9,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.101140152830814e-05,
+      "timestamp": "2025-05-01 20:20"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.075747861614824e-11,
+      "timestamp": "2025-05-01 20:20"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.46695599059277e-06,
+      "timestamp": "2025-05-01 20:20"
+    },
+    {
+      "rank": 12,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.6783191774106808e-06,
+      "timestamp": "2025-05-01 20:20"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015525465301094628,
+      "timestamp": "2025-05-01 20:20"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001318994496175336,
+      "timestamp": "2025-05-01 20:20"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00375314830276176,
+      "timestamp": "2025-05-01 20:20"
+    }
   ]
 }
