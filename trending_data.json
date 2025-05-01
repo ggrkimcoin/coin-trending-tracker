@@ -43547,5 +43547,112 @@
       "price_btc": 7.610935947717693e-06,
       "timestamp": "2025-05-01 05:20"
     }
+  ],
+  "2025-05-01 06:29": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.729239037713402e-05,
+      "timestamp": "2025-05-01 06:29"
+    },
+    {
+      "rank": 2,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 5.623842801120376e-06,
+      "timestamp": "2025-05-01 06:29"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3168816126443949e-05,
+      "timestamp": "2025-05-01 06:29"
+    },
+    {
+      "rank": 4,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 9.95171349746853e-07,
+      "timestamp": "2025-05-01 06:29"
+    },
+    {
+      "rank": 5,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.1007039122145485e-05,
+      "timestamp": "2025-05-01 06:29"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.689975880107355e-05,
+      "timestamp": "2025-05-01 06:29"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002084773663741114,
+      "timestamp": "2025-05-01 06:29"
+    },
+    {
+      "rank": 8,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.0603041557340287e-06,
+      "timestamp": "2025-05-01 06:29"
+    },
+    {
+      "rank": 9,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.136232226750593e-05,
+      "timestamp": "2025-05-01 06:29"
+    },
+    {
+      "rank": 10,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.651375015818871e-06,
+      "timestamp": "2025-05-01 06:29"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-01 06:29"
+    },
+    {
+      "rank": 12,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.816060542360956e-07,
+      "timestamp": "2025-05-01 06:29"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3225754782102425e-05,
+      "timestamp": "2025-05-01 06:29"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015653677793910966,
+      "timestamp": "2025-05-01 06:29"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019054629528954852,
+      "timestamp": "2025-05-01 06:29"
+    }
   ]
 }
