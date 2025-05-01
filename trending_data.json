@@ -43440,5 +43440,112 @@
       "price_btc": 1.3281623136702764e-07,
       "timestamp": "2025-05-01 04:25"
     }
+  ],
+  "2025-05-01 05:20": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7403227391540306e-05,
+      "timestamp": "2025-05-01 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 1.0400976382209508e-06,
+      "timestamp": "2025-05-01 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.0948785996679759e-05,
+      "timestamp": "2025-05-01 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.662520982213554e-05,
+      "timestamp": "2025-05-01 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 5.709549110172038e-06,
+      "timestamp": "2025-05-01 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.1095736499079835e-05,
+      "timestamp": "2025-05-01 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.323991945944125e-05,
+      "timestamp": "2025-05-01 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.165372235901525e-06,
+      "timestamp": "2025-05-01 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.326069856545562e-05,
+      "timestamp": "2025-05-01 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020643116504588373,
+      "timestamp": "2025-05-01 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.146469433382061e-06,
+      "timestamp": "2025-05-01 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001565775330270113,
+      "timestamp": "2025-05-01 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-01 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0029491193959107877,
+      "timestamp": "2025-05-01 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "price_btc": 7.610935947717693e-06,
+      "timestamp": "2025-05-01 05:20"
+    }
   ]
 }
