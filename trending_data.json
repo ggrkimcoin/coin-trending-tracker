@@ -44724,5 +44724,112 @@
       "price_btc": 9.151390639891309e-11,
       "timestamp": "2025-05-01 16:25"
     }
+  ],
+  "2025-05-01 17:17": [
+    {
+      "rank": 1,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.1632717035909563e-06,
+      "timestamp": "2025-05-01 17:17"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.795550906106217e-05,
+      "timestamp": "2025-05-01 17:17"
+    },
+    {
+      "rank": 3,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.533551556337683e-07,
+      "timestamp": "2025-05-01 17:17"
+    },
+    {
+      "rank": 4,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.35436795453682e-06,
+      "timestamp": "2025-05-01 17:17"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2465541646257021e-05,
+      "timestamp": "2025-05-01 17:17"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.819797700122109e-05,
+      "timestamp": "2025-05-01 17:17"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01916136244978184,
+      "timestamp": "2025-05-01 17:17"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001563387756507043,
+      "timestamp": "2025-05-01 17:17"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020687817196094773,
+      "timestamp": "2025-05-01 17:17"
+    },
+    {
+      "rank": 10,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.732078672502717e-06,
+      "timestamp": "2025-05-01 17:17"
+    },
+    {
+      "rank": 11,
+      "name": "aixbt by Virtuals",
+      "symbol": "AIXBT",
+      "price_btc": 2.1653974909009047e-06,
+      "timestamp": "2025-05-01 17:17"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.323285174879238e-06,
+      "timestamp": "2025-05-01 17:17"
+    },
+    {
+      "rank": 13,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013388093486534745,
+      "timestamp": "2025-05-01 17:17"
+    },
+    {
+      "rank": 14,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.1073126137430344e-05,
+      "timestamp": "2025-05-01 17:17"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.447817920154265e-06,
+      "timestamp": "2025-05-01 17:17"
+    }
   ]
 }
