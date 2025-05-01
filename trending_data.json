@@ -44189,5 +44189,112 @@
       "price_btc": 9.69174531137994e-06,
       "timestamp": "2025-05-01 11:16"
     }
+  ],
+  "2025-05-01 12:39": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8091311831333152e-05,
+      "timestamp": "2025-05-01 12:39"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.595397299992516e-07,
+      "timestamp": "2025-05-01 12:39"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8402437022818036e-05,
+      "timestamp": "2025-05-01 12:39"
+    },
+    {
+      "rank": 4,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.742725495064839e-06,
+      "timestamp": "2025-05-01 12:39"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.02931412782972e-06,
+      "timestamp": "2025-05-01 12:39"
+    },
+    {
+      "rank": 6,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.539888887506687e-06,
+      "timestamp": "2025-05-01 12:39"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3005544073175118e-05,
+      "timestamp": "2025-05-01 12:39"
+    },
+    {
+      "rank": 8,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.1589061961436923e-06,
+      "timestamp": "2025-05-01 12:39"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-01 12:39"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015746233218966045,
+      "timestamp": "2025-05-01 12:39"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.668411407666531e-06,
+      "timestamp": "2025-05-01 12:39"
+    },
+    {
+      "rank": 12,
+      "name": "aixbt by Virtuals",
+      "symbol": "AIXBT",
+      "price_btc": 2.005614227413104e-06,
+      "timestamp": "2025-05-01 12:39"
+    },
+    {
+      "rank": 13,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.505491502875984e-06,
+      "timestamp": "2025-05-01 12:39"
+    },
+    {
+      "rank": 14,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1890693584724446e-07,
+      "timestamp": "2025-05-01 12:39"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.475083302573266e-06,
+      "timestamp": "2025-05-01 12:39"
+    }
   ]
 }
