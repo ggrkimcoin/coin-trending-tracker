@@ -43761,5 +43761,112 @@
       "price_btc": 0.003784174358830787,
       "timestamp": "2025-05-01 07:20"
     }
+  ],
+  "2025-05-01 08:26": [
+    {
+      "rank": 1,
+      "name": "Akash Network",
+      "symbol": "AKT",
+      "price_btc": 1.8506251507353557e-05,
+      "timestamp": "2025-05-01 08:26"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3105143551066652e-05,
+      "timestamp": "2025-05-01 08:26"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7197104058889592e-05,
+      "timestamp": "2025-05-01 08:26"
+    },
+    {
+      "rank": 4,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 5.377541690890602e-06,
+      "timestamp": "2025-05-01 08:26"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6711257888637164e-05,
+      "timestamp": "2025-05-01 08:26"
+    },
+    {
+      "rank": 6,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.134550041909911e-06,
+      "timestamp": "2025-05-01 08:26"
+    },
+    {
+      "rank": 7,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.1120179352446045e-05,
+      "timestamp": "2025-05-01 08:26"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.4042948150547185e-06,
+      "timestamp": "2025-05-01 08:26"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020927038515080291,
+      "timestamp": "2025-05-01 08:26"
+    },
+    {
+      "rank": 10,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.922869506480813e-07,
+      "timestamp": "2025-05-01 08:26"
+    },
+    {
+      "rank": 11,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 9.829596433094152e-07,
+      "timestamp": "2025-05-01 08:26"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.603035072974716e-06,
+      "timestamp": "2025-05-01 08:26"
+    },
+    {
+      "rank": 13,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.858228802494564e-06,
+      "timestamp": "2025-05-01 08:26"
+    },
+    {
+      "rank": 14,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.0598495207113116e-05,
+      "timestamp": "2025-05-01 08:26"
+    },
+    {
+      "rank": 15,
+      "name": "VaderAI by Virtuals",
+      "symbol": "VADER",
+      "price_btc": 3.666139210289715e-07,
+      "timestamp": "2025-05-01 08:26"
+    }
   ]
 }
