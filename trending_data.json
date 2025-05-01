@@ -45259,5 +45259,112 @@
       "price_btc": 2.1184186778661545e-06,
       "timestamp": "2025-05-01 21:18"
     }
+  ],
+  "2025-05-01 22:19": [
+    {
+      "rank": 1,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.01113827515811e-06,
+      "timestamp": "2025-05-01 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6983171465585603e-05,
+      "timestamp": "2025-05-01 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.5156071288836307e-07,
+      "timestamp": "2025-05-01 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.8086165316884565e-06,
+      "timestamp": "2025-05-01 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.978083743741094e-06,
+      "timestamp": "2025-05-01 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7502077370195944e-05,
+      "timestamp": "2025-05-01 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.366011129420967e-06,
+      "timestamp": "2025-05-01 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015586992266100913,
+      "timestamp": "2025-05-01 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.243339701975133e-05,
+      "timestamp": "2025-05-01 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Turbo",
+      "symbol": "TURBO",
+      "price_btc": 5.1882283686447003e-08,
+      "timestamp": "2025-05-01 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019097065127465743,
+      "timestamp": "2025-05-01 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020757528378947073,
+      "timestamp": "2025-05-01 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.2243753147493485e-06,
+      "timestamp": "2025-05-01 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 2.9438438926279945e-06,
+      "timestamp": "2025-05-01 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 5.3829228328622e-05,
+      "timestamp": "2025-05-01 22:19"
+    }
   ]
 }
