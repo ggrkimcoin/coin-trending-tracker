@@ -43333,5 +43333,112 @@
       "price_btc": 0.006328201063096101,
       "timestamp": "2025-05-01 03:16"
     }
+  ],
+  "2025-05-01 04:25": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.693059936164551e-05,
+      "timestamp": "2025-05-01 04:25"
+    },
+    {
+      "rank": 2,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 4.914058899517932e-06,
+      "timestamp": "2025-05-01 04:25"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3068568841743499e-05,
+      "timestamp": "2025-05-01 04:25"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6668782753822075e-05,
+      "timestamp": "2025-05-01 04:25"
+    },
+    {
+      "rank": 5,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.0856970065461067e-05,
+      "timestamp": "2025-05-01 04:25"
+    },
+    {
+      "rank": 6,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 1.0235441716446989e-06,
+      "timestamp": "2025-05-01 04:25"
+    },
+    {
+      "rank": 7,
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "price_btc": 7.672444422525811e-06,
+      "timestamp": "2025-05-01 04:25"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020360415845279475,
+      "timestamp": "2025-05-01 04:25"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015681147267269508,
+      "timestamp": "2025-05-01 04:25"
+    },
+    {
+      "rank": 10,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013725708881447013,
+      "timestamp": "2025-05-01 04:25"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-01 04:25"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.518180486141594e-06,
+      "timestamp": "2025-05-01 04:25"
+    },
+    {
+      "rank": 13,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.6197038701134177e-06,
+      "timestamp": "2025-05-01 04:25"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3255790306100835e-05,
+      "timestamp": "2025-05-01 04:25"
+    },
+    {
+      "rank": 15,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.3281623136702764e-07,
+      "timestamp": "2025-05-01 04:25"
+    }
   ]
 }
