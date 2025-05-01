@@ -43868,5 +43868,112 @@
       "price_btc": 3.666139210289715e-07,
       "timestamp": "2025-05-01 08:26"
     }
+  ],
+  "2025-05-01 09:21": [
+    {
+      "rank": 1,
+      "name": "Akash Network",
+      "symbol": "AKT",
+      "price_btc": 1.8193691348130698e-05,
+      "timestamp": "2025-05-01 09:21"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7012704417303565e-05,
+      "timestamp": "2025-05-01 09:21"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6977645387978743e-05,
+      "timestamp": "2025-05-01 09:21"
+    },
+    {
+      "rank": 4,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 5.359385089390658e-06,
+      "timestamp": "2025-05-01 09:21"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 5.142964600000327e-06,
+      "timestamp": "2025-05-01 09:21"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3187376036867161e-05,
+      "timestamp": "2025-05-01 09:21"
+    },
+    {
+      "rank": 7,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.1351298351111298e-05,
+      "timestamp": "2025-05-01 09:21"
+    },
+    {
+      "rank": 8,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.7925841652645295e-06,
+      "timestamp": "2025-05-01 09:21"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020981470705147047,
+      "timestamp": "2025-05-01 09:21"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3180204856652676e-05,
+      "timestamp": "2025-05-01 09:21"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015814716726400965,
+      "timestamp": "2025-05-01 09:21"
+    },
+    {
+      "rank": 12,
+      "name": "Beam",
+      "symbol": "BEAM",
+      "price_btc": 9.484193106861564e-08,
+      "timestamp": "2025-05-01 09:21"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019079496961937458,
+      "timestamp": "2025-05-01 09:21"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001385055235206564,
+      "timestamp": "2025-05-01 09:21"
+    },
+    {
+      "rank": 15,
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "price_btc": 7.788244830862507e-06,
+      "timestamp": "2025-05-01 09:21"
+    }
   ]
 }
