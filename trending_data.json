@@ -44938,5 +44938,112 @@
       "price_btc": 0.003808425991435717,
       "timestamp": "2025-05-01 18:28"
     }
+  ],
+  "2025-05-01 19:15": [
+    {
+      "rank": 1,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.1090846114272443e-06,
+      "timestamp": "2025-05-01 19:15"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.521048980728064e-07,
+      "timestamp": "2025-05-01 19:15"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7579575043312876e-05,
+      "timestamp": "2025-05-01 19:15"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.798715152719637e-05,
+      "timestamp": "2025-05-01 19:15"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.237531944194206e-05,
+      "timestamp": "2025-05-01 19:15"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019159497239109056,
+      "timestamp": "2025-05-01 19:15"
+    },
+    {
+      "rank": 7,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.828289234452912e-06,
+      "timestamp": "2025-05-01 19:15"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002093134706361753,
+      "timestamp": "2025-05-01 19:15"
+    },
+    {
+      "rank": 9,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.804262979974327e-06,
+      "timestamp": "2025-05-01 19:15"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-01 19:15"
+    },
+    {
+      "rank": 11,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1264245347777836e-07,
+      "timestamp": "2025-05-01 19:15"
+    },
+    {
+      "rank": 12,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.1016476847139151e-05,
+      "timestamp": "2025-05-01 19:15"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001560317507906401,
+      "timestamp": "2025-05-01 19:15"
+    },
+    {
+      "rank": 14,
+      "name": "aixbt by Virtuals",
+      "symbol": "AIXBT",
+      "price_btc": 2.152800218567627e-06,
+      "timestamp": "2025-05-01 19:15"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.328752994133975e-06,
+      "timestamp": "2025-05-01 19:15"
+    }
   ]
 }
