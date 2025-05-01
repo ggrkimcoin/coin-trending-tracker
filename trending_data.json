@@ -43119,5 +43119,112 @@
       "price_btc": 1.1455914841139534e-06,
       "timestamp": "2025-04-30 23:18"
     }
+  ],
+  "2025-05-01 01:48": [
+    {
+      "rank": 1,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 1.0273663096323558e-06,
+      "timestamp": "2025-05-01 01:48"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7499855907027727e-05,
+      "timestamp": "2025-05-01 01:48"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2981543702345404e-05,
+      "timestamp": "2025-05-01 01:48"
+    },
+    {
+      "rank": 4,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 5.710085163702171e-06,
+      "timestamp": "2025-05-01 01:48"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020836338988289093,
+      "timestamp": "2025-05-01 01:48"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-01 01:48"
+    },
+    {
+      "rank": 7,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00015328833035157667,
+      "timestamp": "2025-05-01 01:48"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015698817383615678,
+      "timestamp": "2025-05-01 01:48"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7354943589356134e-05,
+      "timestamp": "2025-05-01 01:48"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01904507059811083,
+      "timestamp": "2025-05-01 01:48"
+    },
+    {
+      "rank": 11,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2022749693791868e-05,
+      "timestamp": "2025-05-01 01:48"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.32635610042282e-05,
+      "timestamp": "2025-05-01 01:48"
+    },
+    {
+      "rank": 13,
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "price_btc": 7.65087409393597e-06,
+      "timestamp": "2025-05-01 01:48"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.674654087855284e-06,
+      "timestamp": "2025-05-01 01:48"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.001761906357843106,
+      "timestamp": "2025-05-01 01:48"
+    }
   ]
 }
