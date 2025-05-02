@@ -46543,5 +46543,112 @@
       "price_btc": 6.4396308558322335e-06,
       "timestamp": "2025-05-02 11:16"
     }
+  ],
+  "2025-05-02 12:39": [
+    {
+      "rank": 1,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.051598006841139e-06,
+      "timestamp": "2025-05-02 12:39"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.551840560438875e-05,
+      "timestamp": "2025-05-02 12:39"
+    },
+    {
+      "rank": 3,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.35810560923299e-07,
+      "timestamp": "2025-05-02 12:39"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.838184511877073e-05,
+      "timestamp": "2025-05-02 12:39"
+    },
+    {
+      "rank": 5,
+      "name": "StakeStone",
+      "symbol": "STO",
+      "price_btc": 1.7628209402758249e-06,
+      "timestamp": "2025-05-02 12:39"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020941307576212204,
+      "timestamp": "2025-05-02 12:39"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018912000047817068,
+      "timestamp": "2025-05-02 12:39"
+    },
+    {
+      "rank": 8,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.5230457851207924e-06,
+      "timestamp": "2025-05-02 12:39"
+    },
+    {
+      "rank": 9,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 5.421452257581345e-05,
+      "timestamp": "2025-05-02 12:39"
+    },
+    {
+      "rank": 10,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.652648387414056e-06,
+      "timestamp": "2025-05-02 12:39"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.6970256442469127e-06,
+      "timestamp": "2025-05-02 12:39"
+    },
+    {
+      "rank": 12,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0029286780399395787,
+      "timestamp": "2025-05-02 12:39"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003774284016179832,
+      "timestamp": "2025-05-02 12:39"
+    },
+    {
+      "rank": 14,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.003400223178208e-06,
+      "timestamp": "2025-05-02 12:39"
+    },
+    {
+      "rank": 15,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.1762120661605806e-06,
+      "timestamp": "2025-05-02 12:39"
+    }
   ]
 }
