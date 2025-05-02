@@ -47720,5 +47720,112 @@
       "price_btc": 2.0134222612118017e-06,
       "timestamp": "2025-05-02 22:19"
     }
+  ],
+  "2025-05-02 23:18": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.5786277480380886e-07,
+      "timestamp": "2025-05-02 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.3946313510431416e-07,
+      "timestamp": "2025-05-02 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8432902418875122e-05,
+      "timestamp": "2025-05-02 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.0142491902057808e-06,
+      "timestamp": "2025-05-02 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.315963311751614e-06,
+      "timestamp": "2025-05-02 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.523875788446029e-05,
+      "timestamp": "2025-05-02 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.1636547112733935e-06,
+      "timestamp": "2025-05-02 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.497750191950867e-06,
+      "timestamp": "2025-05-02 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.775576776328816e-06,
+      "timestamp": "2025-05-02 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002157926189120554,
+      "timestamp": "2025-05-02 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.186731617120297e-06,
+      "timestamp": "2025-05-02 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2781328018926617e-05,
+      "timestamp": "2025-05-02 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.995602972410903e-05,
+      "timestamp": "2025-05-02 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-02 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038329711929307613,
+      "timestamp": "2025-05-02 23:18"
+    }
   ]
 }
