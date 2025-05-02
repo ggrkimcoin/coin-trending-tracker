@@ -46008,5 +46008,112 @@
       "price_btc": 6.7958134862430995e-06,
       "timestamp": "2025-05-02 06:28"
     }
+  ],
+  "2025-05-02 07:19": [
+    {
+      "rank": 1,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.0408478461159035e-06,
+      "timestamp": "2025-05-02 07:19"
+    },
+    {
+      "rank": 2,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.6397977103967474e-06,
+      "timestamp": "2025-05-02 07:19"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.672373091220153e-05,
+      "timestamp": "2025-05-02 07:19"
+    },
+    {
+      "rank": 4,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.676083999731713e-06,
+      "timestamp": "2025-05-02 07:19"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015397010341074223,
+      "timestamp": "2025-05-02 07:19"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.578382548624235e-05,
+      "timestamp": "2025-05-02 07:19"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00368070285731274,
+      "timestamp": "2025-05-02 07:19"
+    },
+    {
+      "rank": 8,
+      "name": "WEMIX",
+      "symbol": "WEMIX",
+      "price_btc": 3.481874438447699e-06,
+      "timestamp": "2025-05-02 07:19"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01893820242594261,
+      "timestamp": "2025-05-02 07:19"
+    },
+    {
+      "rank": 10,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.1899003740657853e-06,
+      "timestamp": "2025-05-02 07:19"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.286214105252767e-05,
+      "timestamp": "2025-05-02 07:19"
+    },
+    {
+      "rank": 12,
+      "name": "Just a chill guy",
+      "symbol": "CHILLGUY",
+      "price_btc": 4.944106651109378e-07,
+      "timestamp": "2025-05-02 07:19"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.6200763910865e-06,
+      "timestamp": "2025-05-02 07:19"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.05329040165833e-11,
+      "timestamp": "2025-05-02 07:19"
+    },
+    {
+      "rank": 15,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0029565732228182995,
+      "timestamp": "2025-05-02 07:19"
+    }
   ]
 }
