@@ -47292,5 +47292,112 @@
       "price_btc": 0.0029538185056801054,
       "timestamp": "2025-05-02 18:27"
     }
+  ],
+  "2025-05-02 19:16": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.3842445148587613e-07,
+      "timestamp": "2025-05-02 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8997662944123532e-05,
+      "timestamp": "2025-05-02 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5525389341468255e-05,
+      "timestamp": "2025-05-02 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "StakeStone",
+      "symbol": "STO",
+      "price_btc": 2.099732393862535e-06,
+      "timestamp": "2025-05-02 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021828380389268194,
+      "timestamp": "2025-05-02 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.258207949456525e-07,
+      "timestamp": "2025-05-02 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.524239896095766e-05,
+      "timestamp": "2025-05-02 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.0546450264774815e-05,
+      "timestamp": "2025-05-02 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.218884611414114e-05,
+      "timestamp": "2025-05-02 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038416198152837365,
+      "timestamp": "2025-05-02 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.446281203210976e-06,
+      "timestamp": "2025-05-02 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.111982419884939e-06,
+      "timestamp": "2025-05-02 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 7.899257957498294e-07,
+      "timestamp": "2025-05-02 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015429665238530423,
+      "timestamp": "2025-05-02 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.7281910915254135e-06,
+      "timestamp": "2025-05-02 19:16"
+    }
   ]
 }
