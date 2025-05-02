@@ -47399,5 +47399,112 @@
       "price_btc": 1.7281910915254135e-06,
       "timestamp": "2025-05-02 19:16"
     }
+  ],
+  "2025-05-02 20:22": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.3610946534320047e-07,
+      "timestamp": "2025-05-02 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 4.1220426143381205e-07,
+      "timestamp": "2025-05-02 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.534345249014986e-05,
+      "timestamp": "2025-05-02 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.869370172107565e-05,
+      "timestamp": "2025-05-02 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "StakeStone",
+      "symbol": "STO",
+      "price_btc": 2.010457645512666e-06,
+      "timestamp": "2025-05-02 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2474639796282397e-07,
+      "timestamp": "2025-05-02 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.875413294199908e-06,
+      "timestamp": "2025-05-02 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.7588922957615854e-06,
+      "timestamp": "2025-05-02 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "GRIFFAIN",
+      "symbol": "GRIFFAIN",
+      "price_btc": 7.195134950002022e-07,
+      "timestamp": "2025-05-02 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.972912678765126e-06,
+      "timestamp": "2025-05-02 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.99528201984148e-06,
+      "timestamp": "2025-05-02 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015275941224247574,
+      "timestamp": "2025-05-02 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021598795273805086,
+      "timestamp": "2025-05-02 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2148428410082247e-05,
+      "timestamp": "2025-05-02 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.447514972794023e-06,
+      "timestamp": "2025-05-02 20:22"
+    }
   ]
 }
