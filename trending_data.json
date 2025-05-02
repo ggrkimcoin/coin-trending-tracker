@@ -46329,5 +46329,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-05-02 09:21"
     }
+  ],
+  "2025-05-02 10:21": [
+    {
+      "rank": 1,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.0284396231621282e-06,
+      "timestamp": "2025-05-02 10:21"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.583269418646778e-05,
+      "timestamp": "2025-05-02 10:21"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018840126592878096,
+      "timestamp": "2025-05-02 10:21"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8059631402495444e-05,
+      "timestamp": "2025-05-02 10:21"
+    },
+    {
+      "rank": 5,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.476197461857848e-06,
+      "timestamp": "2025-05-02 10:21"
+    },
+    {
+      "rank": 6,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.5007695288038276e-06,
+      "timestamp": "2025-05-02 10:21"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021126885775920483,
+      "timestamp": "2025-05-02 10:21"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.357128231760195e-06,
+      "timestamp": "2025-05-02 10:21"
+    },
+    {
+      "rank": 9,
+      "name": "WEMIX",
+      "symbol": "WEMIX",
+      "price_btc": 4.005126185851086e-06,
+      "timestamp": "2025-05-02 10:21"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015492412426587737,
+      "timestamp": "2025-05-02 10:21"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.2130455010281077e-06,
+      "timestamp": "2025-05-02 10:21"
+    },
+    {
+      "rank": 12,
+      "name": "aixbt by Virtuals",
+      "symbol": "AIXBT",
+      "price_btc": 2.05992676255511e-06,
+      "timestamp": "2025-05-02 10:21"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2414912551271493e-05,
+      "timestamp": "2025-05-02 10:21"
+    },
+    {
+      "rank": 14,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 2.7071136041227195e-06,
+      "timestamp": "2025-05-02 10:21"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.6840697188130641e-06,
+      "timestamp": "2025-05-02 10:21"
+    }
   ]
 }
