@@ -47185,5 +47185,112 @@
       "price_btc": 2.667744852241183e-06,
       "timestamp": "2025-05-02 17:17"
     }
+  ],
+  "2025-05-02 18:27": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.389183413311529e-07,
+      "timestamp": "2025-05-02 18:27"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.903315864596297e-05,
+      "timestamp": "2025-05-02 18:27"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015383374835595581,
+      "timestamp": "2025-05-02 18:27"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2685938394768905e-07,
+      "timestamp": "2025-05-02 18:27"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.557079495367506e-05,
+      "timestamp": "2025-05-02 18:27"
+    },
+    {
+      "rank": 6,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.015766419151514e-06,
+      "timestamp": "2025-05-02 18:27"
+    },
+    {
+      "rank": 7,
+      "name": "StakeStone",
+      "symbol": "STO",
+      "price_btc": 2.024584173791121e-06,
+      "timestamp": "2025-05-02 18:27"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019005892199462523,
+      "timestamp": "2025-05-02 18:27"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021672747208063478,
+      "timestamp": "2025-05-02 18:27"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003837370008107793,
+      "timestamp": "2025-05-02 18:27"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.2086777004346243e-06,
+      "timestamp": "2025-05-02 18:27"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2306740479175523e-05,
+      "timestamp": "2025-05-02 18:27"
+    },
+    {
+      "rank": 13,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 7.370819527050329e-06,
+      "timestamp": "2025-05-02 18:27"
+    },
+    {
+      "rank": 14,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.460571553302484e-06,
+      "timestamp": "2025-05-02 18:27"
+    },
+    {
+      "rank": 15,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0029538185056801054,
+      "timestamp": "2025-05-02 18:27"
+    }
   ]
 }
