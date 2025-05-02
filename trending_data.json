@@ -45473,5 +45473,112 @@
       "price_btc": 0.019088660792557364,
       "timestamp": "2025-05-01 23:18"
     }
+  ],
+  "2025-05-02 01:41": [
+    {
+      "rank": 1,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.0466814633595782e-06,
+      "timestamp": "2025-05-02 01:41"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.223729511309417e-05,
+      "timestamp": "2025-05-02 01:41"
+    },
+    {
+      "rank": 3,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.4650911424426454e-06,
+      "timestamp": "2025-05-02 01:41"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015548262904705133,
+      "timestamp": "2025-05-02 01:41"
+    },
+    {
+      "rank": 5,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.347573321560278e-06,
+      "timestamp": "2025-05-02 01:41"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6401272561689845e-05,
+      "timestamp": "2025-05-02 01:41"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019020302627634687,
+      "timestamp": "2025-05-02 01:41"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7024845973598114e-05,
+      "timestamp": "2025-05-02 01:41"
+    },
+    {
+      "rank": 9,
+      "name": "Immutable",
+      "symbol": "IMX",
+      "price_btc": 6.89392339522762e-06,
+      "timestamp": "2025-05-02 01:41"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.642261200588494e-06,
+      "timestamp": "2025-05-02 01:41"
+    },
+    {
+      "rank": 11,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.0954689523590398e-05,
+      "timestamp": "2025-05-02 01:41"
+    },
+    {
+      "rank": 12,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 3.1739774508010236e-06,
+      "timestamp": "2025-05-02 01:41"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036975994838068303,
+      "timestamp": "2025-05-02 01:41"
+    },
+    {
+      "rank": 14,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.185461538952867e-06,
+      "timestamp": "2025-05-02 01:41"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.911677910195056e-06,
+      "timestamp": "2025-05-02 01:41"
+    }
   ]
 }
