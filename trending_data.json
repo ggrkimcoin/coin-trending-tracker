@@ -46757,5 +46757,112 @@
       "price_btc": 3.1879525833375094e-06,
       "timestamp": "2025-05-02 13:28"
     }
+  ],
+  "2025-05-02 14:18": [
+    {
+      "rank": 1,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.0584598332992277e-06,
+      "timestamp": "2025-05-02 14:18"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.945963467257383e-05,
+      "timestamp": "2025-05-02 14:18"
+    },
+    {
+      "rank": 3,
+      "name": "StakeStone",
+      "symbol": "STO",
+      "price_btc": 1.824537423298151e-06,
+      "timestamp": "2025-05-02 14:18"
+    },
+    {
+      "rank": 4,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.410606744888206e-07,
+      "timestamp": "2025-05-02 14:18"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5638143731954907e-05,
+      "timestamp": "2025-05-02 14:18"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015531763059305802,
+      "timestamp": "2025-05-02 14:18"
+    },
+    {
+      "rank": 7,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.2633951017759634e-06,
+      "timestamp": "2025-05-02 14:18"
+    },
+    {
+      "rank": 8,
+      "name": "aixbt by Virtuals",
+      "symbol": "AIXBT",
+      "price_btc": 2.1492826425905093e-06,
+      "timestamp": "2025-05-02 14:18"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2473429905102634e-05,
+      "timestamp": "2025-05-02 14:18"
+    },
+    {
+      "rank": 10,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.159872780317279e-06,
+      "timestamp": "2025-05-02 14:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.201042188121454e-06,
+      "timestamp": "2025-05-02 14:18"
+    },
+    {
+      "rank": 12,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.580769702848092e-06,
+      "timestamp": "2025-05-02 14:18"
+    },
+    {
+      "rank": 13,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.6361865678604618e-06,
+      "timestamp": "2025-05-02 14:18"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021313492197770704,
+      "timestamp": "2025-05-02 14:18"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-02 14:18"
+    }
   ]
 }
