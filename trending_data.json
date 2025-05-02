@@ -46115,5 +46115,112 @@
       "price_btc": 0.0029565732228182995,
       "timestamp": "2025-05-02 07:19"
     }
+  ],
+  "2025-05-02 08:26": [
+    {
+      "rank": 1,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.0160820441592555e-06,
+      "timestamp": "2025-05-02 08:26"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.615835630438664e-06,
+      "timestamp": "2025-05-02 08:26"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.567888055350796e-05,
+      "timestamp": "2025-05-02 08:26"
+    },
+    {
+      "rank": 4,
+      "name": "WEMIX",
+      "symbol": "WEMIX",
+      "price_btc": 3.5421828813160854e-06,
+      "timestamp": "2025-05-02 08:26"
+    },
+    {
+      "rank": 5,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.6573106073294431e-06,
+      "timestamp": "2025-05-02 08:26"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020999622414704877,
+      "timestamp": "2025-05-02 08:26"
+    },
+    {
+      "rank": 7,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.457561563742637e-06,
+      "timestamp": "2025-05-02 08:26"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015435747112306196,
+      "timestamp": "2025-05-02 08:26"
+    },
+    {
+      "rank": 9,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012870079609233952,
+      "timestamp": "2025-05-02 08:26"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018844199345992366,
+      "timestamp": "2025-05-02 08:26"
+    },
+    {
+      "rank": 11,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 3.047410707857755e-06,
+      "timestamp": "2025-05-02 08:26"
+    },
+    {
+      "rank": 12,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.6944472673664403e-06,
+      "timestamp": "2025-05-02 08:26"
+    },
+    {
+      "rank": 13,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.065144360603729e-07,
+      "timestamp": "2025-05-02 08:26"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.708550136647847e-05,
+      "timestamp": "2025-05-02 08:26"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-02 08:26"
+    }
   ]
 }
