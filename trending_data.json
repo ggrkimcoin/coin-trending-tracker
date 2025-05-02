@@ -47506,5 +47506,112 @@
       "price_btc": 9.447514972794023e-06,
       "timestamp": "2025-05-02 20:22"
     }
+  ],
+  "2025-05-02 21:18": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.377400817497545e-07,
+      "timestamp": "2025-05-02 21:18"
+    },
+    {
+      "rank": 2,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.714381992297534e-07,
+      "timestamp": "2025-05-02 21:18"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2520551080476583e-07,
+      "timestamp": "2025-05-02 21:18"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.567856279987455e-05,
+      "timestamp": "2025-05-02 21:18"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015278415643004127,
+      "timestamp": "2025-05-02 21:18"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8768394936570935e-05,
+      "timestamp": "2025-05-02 21:18"
+    },
+    {
+      "rank": 7,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.9887670314348615e-06,
+      "timestamp": "2025-05-02 21:18"
+    },
+    {
+      "rank": 8,
+      "name": "StakeStone",
+      "symbol": "STO",
+      "price_btc": 2.0446603638534717e-06,
+      "timestamp": "2025-05-02 21:18"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2103040512544671e-05,
+      "timestamp": "2025-05-02 21:18"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.385175233920296e-06,
+      "timestamp": "2025-05-02 21:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019026258564038466,
+      "timestamp": "2025-05-02 21:18"
+    },
+    {
+      "rank": 12,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.7663204419065517e-06,
+      "timestamp": "2025-05-02 21:18"
+    },
+    {
+      "rank": 13,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0414004366558968e-06,
+      "timestamp": "2025-05-02 21:18"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-02 21:18"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.463096123180124e-06,
+      "timestamp": "2025-05-02 21:18"
+    }
   ]
 }
