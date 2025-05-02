@@ -47613,5 +47613,112 @@
       "price_btc": 9.463096123180124e-06,
       "timestamp": "2025-05-02 21:18"
     }
+  ],
+  "2025-05-02 22:19": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.488126367042501e-07,
+      "timestamp": "2025-05-02 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.54253090917155e-05,
+      "timestamp": "2025-05-02 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.3775396229142104e-07,
+      "timestamp": "2025-05-02 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8100407174800413e-05,
+      "timestamp": "2025-05-02 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.988727607696284e-06,
+      "timestamp": "2025-05-02 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-02 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00152629009670379,
+      "timestamp": "2025-05-02 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2287363839279848e-07,
+      "timestamp": "2025-05-02 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019004979422254337,
+      "timestamp": "2025-05-02 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.398719434871443e-06,
+      "timestamp": "2025-05-02 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1978477475457822e-05,
+      "timestamp": "2025-05-02 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021516056925128513,
+      "timestamp": "2025-05-02 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0515672049867403e-06,
+      "timestamp": "2025-05-02 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.905600938641278e-06,
+      "timestamp": "2025-05-02 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "StakeStone",
+      "symbol": "STO",
+      "price_btc": 2.0134222612118017e-06,
+      "timestamp": "2025-05-02 22:19"
+    }
   ]
 }
