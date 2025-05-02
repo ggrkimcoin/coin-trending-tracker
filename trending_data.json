@@ -47078,5 +47078,112 @@
       "price_btc": 4.4925068127491646e-06,
       "timestamp": "2025-05-02 16:25"
     }
+  ],
+  "2025-05-02 17:17": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.409076615800174e-07,
+      "timestamp": "2025-05-02 17:17"
+    },
+    {
+      "rank": 2,
+      "name": "StakeStone",
+      "symbol": "STO",
+      "price_btc": 1.9828325001413936e-06,
+      "timestamp": "2025-05-02 17:17"
+    },
+    {
+      "rank": 3,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.019425969520722e-06,
+      "timestamp": "2025-05-02 17:17"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.547806126609205e-05,
+      "timestamp": "2025-05-02 17:17"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9199774039171063e-05,
+      "timestamp": "2025-05-02 17:17"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-02 17:17"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021869744946561702,
+      "timestamp": "2025-05-02 17:17"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2551552198300654e-07,
+      "timestamp": "2025-05-02 17:17"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.207920598569358e-05,
+      "timestamp": "2025-05-02 17:17"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015436980226784325,
+      "timestamp": "2025-05-02 17:17"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.28611004917614e-05,
+      "timestamp": "2025-05-02 17:17"
+    },
+    {
+      "rank": 12,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0098859533010224e-06,
+      "timestamp": "2025-05-02 17:17"
+    },
+    {
+      "rank": 13,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.509421851426194e-06,
+      "timestamp": "2025-05-02 17:17"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.81915608742178e-06,
+      "timestamp": "2025-05-02 17:17"
+    },
+    {
+      "rank": 15,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 2.667744852241183e-06,
+      "timestamp": "2025-05-02 17:17"
+    }
   ]
 }
