@@ -46436,5 +46436,112 @@
       "price_btc": 1.6840697188130641e-06,
       "timestamp": "2025-05-02 10:21"
     }
+  ],
+  "2025-05-02 11:16": [
+    {
+      "rank": 1,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.114391998459797e-06,
+      "timestamp": "2025-05-02 11:16"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.3691636416722545e-07,
+      "timestamp": "2025-05-02 11:16"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.550526269584483e-05,
+      "timestamp": "2025-05-02 11:16"
+    },
+    {
+      "rank": 4,
+      "name": "StakeStone",
+      "symbol": "STO",
+      "price_btc": 1.7111161936315537e-06,
+      "timestamp": "2025-05-02 11:16"
+    },
+    {
+      "rank": 5,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.4968067958725242e-06,
+      "timestamp": "2025-05-02 11:16"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001547381561977336,
+      "timestamp": "2025-05-02 11:16"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.788528361638137e-05,
+      "timestamp": "2025-05-02 11:16"
+    },
+    {
+      "rank": 8,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.1854578468330747e-06,
+      "timestamp": "2025-05-02 11:16"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.674722831223331e-06,
+      "timestamp": "2025-05-02 11:16"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.926839313289578e-11,
+      "timestamp": "2025-05-02 11:16"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01887793190064853,
+      "timestamp": "2025-05-02 11:16"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021055016104835162,
+      "timestamp": "2025-05-02 11:16"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037804609401596127,
+      "timestamp": "2025-05-02 11:16"
+    },
+    {
+      "rank": 14,
+      "name": "WEMIX",
+      "symbol": "WEMIX",
+      "price_btc": 4.13390986365726e-06,
+      "timestamp": "2025-05-02 11:16"
+    },
+    {
+      "rank": 15,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.4396308558322335e-06,
+      "timestamp": "2025-05-02 11:16"
+    }
   ]
 }
