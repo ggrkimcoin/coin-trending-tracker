@@ -46650,5 +46650,112 @@
       "price_btc": 3.1762120661605806e-06,
       "timestamp": "2025-05-02 12:39"
     }
+  ],
+  "2025-05-02 13:28": [
+    {
+      "rank": 1,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.054119128712061e-06,
+      "timestamp": "2025-05-02 13:28"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.4149058541370347e-07,
+      "timestamp": "2025-05-02 13:28"
+    },
+    {
+      "rank": 3,
+      "name": "StakeStone",
+      "symbol": "STO",
+      "price_btc": 1.8586035681720467e-06,
+      "timestamp": "2025-05-02 13:28"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.566140039765404e-05,
+      "timestamp": "2025-05-02 13:28"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8992513656046368e-05,
+      "timestamp": "2025-05-02 13:28"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015533266212918921,
+      "timestamp": "2025-05-02 13:28"
+    },
+    {
+      "rank": 7,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.359864651596041e-06,
+      "timestamp": "2025-05-02 13:28"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002125328598030513,
+      "timestamp": "2025-05-02 13:28"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2899242767118866e-05,
+      "timestamp": "2025-05-02 13:28"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.6244314318084425e-06,
+      "timestamp": "2025-05-02 13:28"
+    },
+    {
+      "rank": 11,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.2132726546053142e-06,
+      "timestamp": "2025-05-02 13:28"
+    },
+    {
+      "rank": 12,
+      "name": "Turbo",
+      "symbol": "TURBO",
+      "price_btc": 6.082622698927427e-08,
+      "timestamp": "2025-05-02 13:28"
+    },
+    {
+      "rank": 13,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.5677713263004343e-06,
+      "timestamp": "2025-05-02 13:28"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018954270752530984,
+      "timestamp": "2025-05-02 13:28"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.1879525833375094e-06,
+      "timestamp": "2025-05-02 13:28"
+    }
   ]
 }
