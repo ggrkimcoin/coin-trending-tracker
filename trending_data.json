@@ -45687,5 +45687,112 @@
       "price_btc": 9.859461646160372e-07,
       "timestamp": "2025-05-02 03:08"
     }
+  ],
+  "2025-05-02 04:23": [
+    {
+      "rank": 1,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 2.0479945849010147e-06,
+      "timestamp": "2025-05-02 04:23"
+    },
+    {
+      "rank": 2,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.736797737837846e-06,
+      "timestamp": "2025-05-02 04:23"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6066326911890214e-05,
+      "timestamp": "2025-05-02 04:23"
+    },
+    {
+      "rank": 4,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 6.072192237721976e-06,
+      "timestamp": "2025-05-02 04:23"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.696643768322706e-05,
+      "timestamp": "2025-05-02 04:23"
+    },
+    {
+      "rank": 6,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.618640630617904e-06,
+      "timestamp": "2025-05-02 04:23"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001551136401366889,
+      "timestamp": "2025-05-02 04:23"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.158158728791526e-06,
+      "timestamp": "2025-05-02 04:23"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00369242294394715,
+      "timestamp": "2025-05-02 04:23"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0904304636956679e-07,
+      "timestamp": "2025-05-02 04:23"
+    },
+    {
+      "rank": 11,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 2.6254729621032928e-06,
+      "timestamp": "2025-05-02 04:23"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2255824463956575e-05,
+      "timestamp": "2025-05-02 04:23"
+    },
+    {
+      "rank": 13,
+      "name": "Brett",
+      "symbol": "BRETT",
+      "price_btc": 6.726816353296415e-07,
+      "timestamp": "2025-05-02 04:23"
+    },
+    {
+      "rank": 14,
+      "name": "aixbt by Virtuals",
+      "symbol": "AIXBT",
+      "price_btc": 2.0502693523090695e-06,
+      "timestamp": "2025-05-02 04:23"
+    },
+    {
+      "rank": 15,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 7.539960328062331e-06,
+      "timestamp": "2025-05-02 04:23"
+    }
   ]
 }
