@@ -48362,5 +48362,112 @@
       "price_btc": 0.0015330687557577648,
       "timestamp": "2025-05-03 06:26"
     }
+  ],
+  "2025-05-03 07:17": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8227844671016667e-05,
+      "timestamp": "2025-05-03 07:17"
+    },
+    {
+      "rank": 2,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.717698024305962e-07,
+      "timestamp": "2025-05-03 07:17"
+    },
+    {
+      "rank": 3,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.9561853572989943e-06,
+      "timestamp": "2025-05-03 07:17"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2361023569764763e-07,
+      "timestamp": "2025-05-03 07:17"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5461899169465906e-05,
+      "timestamp": "2025-05-03 07:17"
+    },
+    {
+      "rank": 6,
+      "name": "StakeStone",
+      "symbol": "STO",
+      "price_btc": 2.099503171497926e-06,
+      "timestamp": "2025-05-03 07:17"
+    },
+    {
+      "rank": 7,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.785943686720415e-06,
+      "timestamp": "2025-05-03 07:17"
+    },
+    {
+      "rank": 8,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.535301534708631e-06,
+      "timestamp": "2025-05-03 07:17"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002134006808427244,
+      "timestamp": "2025-05-03 07:17"
+    },
+    {
+      "rank": 10,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 5.400106274704045e-07,
+      "timestamp": "2025-05-03 07:17"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0245183431482029e-06,
+      "timestamp": "2025-05-03 07:17"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015355792288806692,
+      "timestamp": "2025-05-03 07:17"
+    },
+    {
+      "rank": 13,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.986306390969116e-06,
+      "timestamp": "2025-05-03 07:17"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2898955195564775e-05,
+      "timestamp": "2025-05-03 07:17"
+    },
+    {
+      "rank": 15,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014979301069911947,
+      "timestamp": "2025-05-03 07:17"
+    }
   ]
 }
