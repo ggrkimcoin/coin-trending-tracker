@@ -50074,5 +50074,112 @@
       "price_btc": 0.00011728695473084748,
       "timestamp": "2025-05-03 22:18"
     }
+  ],
+  "2025-05-03 23:17": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4812655457062424e-05,
+      "timestamp": "2025-05-03 23:17"
+    },
+    {
+      "rank": 2,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 4.6926507496295374e-07,
+      "timestamp": "2025-05-03 23:17"
+    },
+    {
+      "rank": 3,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.161445341952221e-07,
+      "timestamp": "2025-05-03 23:17"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.771846546287198e-05,
+      "timestamp": "2025-05-03 23:17"
+    },
+    {
+      "rank": 5,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.272884944683482e-05,
+      "timestamp": "2025-05-03 23:17"
+    },
+    {
+      "rank": 6,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.418082065755863e-06,
+      "timestamp": "2025-05-03 23:17"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00022002661080532652,
+      "timestamp": "2025-05-03 23:17"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037027643379227153,
+      "timestamp": "2025-05-03 23:17"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1395285919788969e-05,
+      "timestamp": "2025-05-03 23:17"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-03 23:17"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 5.4836472760501285e-06,
+      "timestamp": "2025-05-03 23:17"
+    },
+    {
+      "rank": 12,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 7.902299482101185e-07,
+      "timestamp": "2025-05-03 23:17"
+    },
+    {
+      "rank": 13,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 1.9814542601072733e-08,
+      "timestamp": "2025-05-03 23:17"
+    },
+    {
+      "rank": 14,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.8320108324909404e-06,
+      "timestamp": "2025-05-03 23:17"
+    },
+    {
+      "rank": 15,
+      "name": "Turbo",
+      "symbol": "TURBO",
+      "price_btc": 5.000206563875726e-08,
+      "timestamp": "2025-05-03 23:17"
+    }
   ]
 }
