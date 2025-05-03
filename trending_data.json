@@ -47934,5 +47934,112 @@
       "price_btc": 0.0001506482345772309,
       "timestamp": "2025-05-03 01:38"
     }
+  ],
+  "2025-05-03 03:03": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.819049464468941e-05,
+      "timestamp": "2025-05-03 03:03"
+    },
+    {
+      "rank": 2,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.947133926845463e-06,
+      "timestamp": "2025-05-03 03:03"
+    },
+    {
+      "rank": 3,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 7.134803152992285e-07,
+      "timestamp": "2025-05-03 03:03"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5458366503760986e-05,
+      "timestamp": "2025-05-03 03:03"
+    },
+    {
+      "rank": 5,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.8607817777302425e-06,
+      "timestamp": "2025-05-03 03:03"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021380950333807686,
+      "timestamp": "2025-05-03 03:03"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.182233961092884e-05,
+      "timestamp": "2025-05-03 03:03"
+    },
+    {
+      "rank": 8,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.485925947249869e-05,
+      "timestamp": "2025-05-03 03:03"
+    },
+    {
+      "rank": 9,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.6894752780912464e-05,
+      "timestamp": "2025-05-03 03:03"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038721630523442865,
+      "timestamp": "2025-05-03 03:03"
+    },
+    {
+      "rank": 11,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.836015096074489e-06,
+      "timestamp": "2025-05-03 03:03"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.145318764120169e-06,
+      "timestamp": "2025-05-03 03:03"
+    },
+    {
+      "rank": 13,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.8451662421052774e-06,
+      "timestamp": "2025-05-03 03:03"
+    },
+    {
+      "rank": 14,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 5.38336600712658e-05,
+      "timestamp": "2025-05-03 03:03"
+    },
+    {
+      "rank": 15,
+      "name": "GRIFFAIN",
+      "symbol": "GRIFFAIN",
+      "price_btc": 7.190241444835415e-07,
+      "timestamp": "2025-05-03 03:03"
+    }
   ]
 }
