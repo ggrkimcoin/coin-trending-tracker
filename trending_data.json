@@ -49111,5 +49111,112 @@
       "price_btc": 0.00013248655253905102,
       "timestamp": "2025-05-03 13:24"
     }
+  ],
+  "2025-05-03 14:17": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.215701114684032e-07,
+      "timestamp": "2025-05-03 14:17"
+    },
+    {
+      "rank": 2,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.7010886809646746e-07,
+      "timestamp": "2025-05-03 14:17"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1762173950566976e-07,
+      "timestamp": "2025-05-03 14:17"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4763159921098966e-05,
+      "timestamp": "2025-05-03 14:17"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021378968669034842,
+      "timestamp": "2025-05-03 14:17"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.867118443067734e-05,
+      "timestamp": "2025-05-03 14:17"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015406286370472804,
+      "timestamp": "2025-05-03 14:17"
+    },
+    {
+      "rank": 8,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 1.894904885816691e-08,
+      "timestamp": "2025-05-03 14:17"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003785063204736895,
+      "timestamp": "2025-05-03 14:17"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1659953501712014e-05,
+      "timestamp": "2025-05-03 14:17"
+    },
+    {
+      "rank": 11,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.825652534281456e-06,
+      "timestamp": "2025-05-03 14:17"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.093720618759557e-06,
+      "timestamp": "2025-05-03 14:17"
+    },
+    {
+      "rank": 13,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.431644142161901e-06,
+      "timestamp": "2025-05-03 14:17"
+    },
+    {
+      "rank": 14,
+      "name": "Supra",
+      "symbol": "SUPRA",
+      "price_btc": 7.305850050214045e-08,
+      "timestamp": "2025-05-03 14:17"
+    },
+    {
+      "rank": 15,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 5.531631108946286e-07,
+      "timestamp": "2025-05-03 14:17"
+    }
   ]
 }
