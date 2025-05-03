@@ -49860,5 +49860,112 @@
       "price_btc": 0.0029078799056136617,
       "timestamp": "2025-05-03 20:19"
     }
+  ],
+  "2025-05-03 21:17": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.1453266299572616e-07,
+      "timestamp": "2025-05-03 21:17"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.432016261207819e-05,
+      "timestamp": "2025-05-03 21:17"
+    },
+    {
+      "rank": 3,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 4.906775633946402e-07,
+      "timestamp": "2025-05-03 21:17"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7862648672339814e-05,
+      "timestamp": "2025-05-03 21:17"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019077763200442344,
+      "timestamp": "2025-05-03 21:17"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00022012897208303626,
+      "timestamp": "2025-05-03 21:17"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015289239070563016,
+      "timestamp": "2025-05-03 21:17"
+    },
+    {
+      "rank": 8,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.243900253445029e-05,
+      "timestamp": "2025-05-03 21:17"
+    },
+    {
+      "rank": 9,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.322848256204006e-06,
+      "timestamp": "2025-05-03 21:17"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.067137613908988e-06,
+      "timestamp": "2025-05-03 21:17"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.043303282968212e-06,
+      "timestamp": "2025-05-03 21:17"
+    },
+    {
+      "rank": 12,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.001828115796691347,
+      "timestamp": "2025-05-03 21:17"
+    },
+    {
+      "rank": 13,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 3.820845711544946e-06,
+      "timestamp": "2025-05-03 21:17"
+    },
+    {
+      "rank": 14,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.00622080005330302,
+      "timestamp": "2025-05-03 21:17"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.097000873584697e-06,
+      "timestamp": "2025-05-03 21:17"
+    }
   ]
 }
