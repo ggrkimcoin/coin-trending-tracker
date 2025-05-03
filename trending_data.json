@@ -48790,5 +48790,112 @@
       "price_btc": 0.003780740502414947,
       "timestamp": "2025-05-03 10:19"
     }
+  ],
+  "2025-05-03 11:15": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.825069704468882e-05,
+      "timestamp": "2025-05-03 11:15"
+    },
+    {
+      "rank": 2,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 4.4158565365560316e-07,
+      "timestamp": "2025-05-03 11:15"
+    },
+    {
+      "rank": 3,
+      "name": "StakeStone",
+      "symbol": "STO",
+      "price_btc": 2.210522641242129e-06,
+      "timestamp": "2025-05-03 11:15"
+    },
+    {
+      "rank": 4,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.3064591200397677e-07,
+      "timestamp": "2025-05-03 11:15"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.490697866730338e-05,
+      "timestamp": "2025-05-03 11:15"
+    },
+    {
+      "rank": 6,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.8990057349669e-06,
+      "timestamp": "2025-05-03 11:15"
+    },
+    {
+      "rank": 7,
+      "name": "Orca",
+      "symbol": "ORCA",
+      "price_btc": 3.0296241386194466e-05,
+      "timestamp": "2025-05-03 11:15"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1898968310745625e-07,
+      "timestamp": "2025-05-03 11:15"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.0685988303453675e-06,
+      "timestamp": "2025-05-03 11:15"
+    },
+    {
+      "rank": 10,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.0291085054418964e-05,
+      "timestamp": "2025-05-03 11:15"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002118086109619534,
+      "timestamp": "2025-05-03 11:15"
+    },
+    {
+      "rank": 12,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 8.349401163627777e-07,
+      "timestamp": "2025-05-03 11:15"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018986533622884213,
+      "timestamp": "2025-05-03 11:15"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015318024841427984,
+      "timestamp": "2025-05-03 11:15"
+    },
+    {
+      "rank": 15,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.8685827937277855e-06,
+      "timestamp": "2025-05-03 11:15"
+    }
   ]
 }
