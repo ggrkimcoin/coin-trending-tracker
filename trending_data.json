@@ -47827,5 +47827,112 @@
       "price_btc": 0.0038329711929307613,
       "timestamp": "2025-05-02 23:18"
     }
+  ],
+  "2025-05-03 01:38": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7903470082019962e-05,
+      "timestamp": "2025-05-03 01:38"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4865049735290944e-05,
+      "timestamp": "2025-05-03 01:38"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015305416558917065,
+      "timestamp": "2025-05-03 01:38"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021301031632659466,
+      "timestamp": "2025-05-03 01:38"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2162687099230544e-07,
+      "timestamp": "2025-05-03 01:38"
+    },
+    {
+      "rank": 6,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.8826257053232533e-06,
+      "timestamp": "2025-05-03 01:38"
+    },
+    {
+      "rank": 7,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.40113262692213e-06,
+      "timestamp": "2025-05-03 01:38"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.147758566409302e-06,
+      "timestamp": "2025-05-03 01:38"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.893732351092317e-06,
+      "timestamp": "2025-05-03 01:38"
+    },
+    {
+      "rank": 10,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.9668816324281934e-06,
+      "timestamp": "2025-05-03 01:38"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1798922913586035e-05,
+      "timestamp": "2025-05-03 01:38"
+    },
+    {
+      "rank": 12,
+      "name": "StakeStone",
+      "symbol": "STO",
+      "price_btc": 2.0932108641847342e-06,
+      "timestamp": "2025-05-03 01:38"
+    },
+    {
+      "rank": 13,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 8.016759001777757e-07,
+      "timestamp": "2025-05-03 01:38"
+    },
+    {
+      "rank": 14,
+      "name": "aixbt by Virtuals",
+      "symbol": "AIXBT",
+      "price_btc": 1.9970325863296038e-06,
+      "timestamp": "2025-05-03 01:38"
+    },
+    {
+      "rank": 15,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001506482345772309,
+      "timestamp": "2025-05-03 01:38"
+    }
   ]
 }
