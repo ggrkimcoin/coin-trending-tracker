@@ -49432,5 +49432,112 @@
       "price_btc": 2.2938247296677713e-05,
       "timestamp": "2025-05-03 16:23"
     }
+  ],
+  "2025-05-03 17:15": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.149444085102338e-07,
+      "timestamp": "2025-05-03 17:15"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4261878228934545e-05,
+      "timestamp": "2025-05-03 17:15"
+    },
+    {
+      "rank": 3,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 5.437486252722042e-07,
+      "timestamp": "2025-05-03 17:15"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8328862847457778e-05,
+      "timestamp": "2025-05-03 17:15"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015280086715189084,
+      "timestamp": "2025-05-03 17:15"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018954820245681483,
+      "timestamp": "2025-05-03 17:15"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-03 17:15"
+    },
+    {
+      "rank": 8,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011920767815743042,
+      "timestamp": "2025-05-03 17:15"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.676072502863157e-06,
+      "timestamp": "2025-05-03 17:15"
+    },
+    {
+      "rank": 10,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.62452288448424e-06,
+      "timestamp": "2025-05-03 17:15"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.99639677432706e-07,
+      "timestamp": "2025-05-03 17:15"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037267739858408543,
+      "timestamp": "2025-05-03 17:15"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.0216622509726537e-06,
+      "timestamp": "2025-05-03 17:15"
+    },
+    {
+      "rank": 14,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 1.871618757955673e-08,
+      "timestamp": "2025-05-03 17:15"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1334769562034474e-05,
+      "timestamp": "2025-05-03 17:15"
+    }
   ]
 }
