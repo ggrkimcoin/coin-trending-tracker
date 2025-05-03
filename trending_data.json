@@ -49753,5 +49753,112 @@
       "price_btc": 7.364106891886554e-06,
       "timestamp": "2025-05-03 19:14"
     }
+  ],
+  "2025-05-03 20:19": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.168446440428235e-07,
+      "timestamp": "2025-05-03 20:19"
+    },
+    {
+      "rank": 2,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 5.380978295497453e-07,
+      "timestamp": "2025-05-03 20:19"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.440851163616638e-05,
+      "timestamp": "2025-05-03 20:19"
+    },
+    {
+      "rank": 4,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.6354055591786707e-07,
+      "timestamp": "2025-05-03 20:19"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.815213714385336e-05,
+      "timestamp": "2025-05-03 20:19"
+    },
+    {
+      "rank": 6,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.2976957744334006e-05,
+      "timestamp": "2025-05-03 20:19"
+    },
+    {
+      "rank": 7,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011938527543128517,
+      "timestamp": "2025-05-03 20:19"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01906354492650376,
+      "timestamp": "2025-05-03 20:19"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021996420999028044,
+      "timestamp": "2025-05-03 20:19"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037320070444398718,
+      "timestamp": "2025-05-03 20:19"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 1.899162613548327e-08,
+      "timestamp": "2025-05-03 20:19"
+    },
+    {
+      "rank": 12,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014951789381268212,
+      "timestamp": "2025-05-03 20:19"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.142643449924737e-05,
+      "timestamp": "2025-05-03 20:19"
+    },
+    {
+      "rank": 14,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.994537696358113e-07,
+      "timestamp": "2025-05-03 20:19"
+    },
+    {
+      "rank": 15,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0029078799056136617,
+      "timestamp": "2025-05-03 20:19"
+    }
   ]
 }
