@@ -49218,5 +49218,112 @@
       "price_btc": 5.531631108946286e-07,
       "timestamp": "2025-05-03 14:17"
     }
+  ],
+  "2025-05-03 15:18": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.2198240756403413e-07,
+      "timestamp": "2025-05-03 15:18"
+    },
+    {
+      "rank": 2,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.5873815635519186e-07,
+      "timestamp": "2025-05-03 15:18"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.865707819629935e-05,
+      "timestamp": "2025-05-03 15:18"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4646635823947556e-05,
+      "timestamp": "2025-05-03 15:18"
+    },
+    {
+      "rank": 5,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 6.542521607435448e-07,
+      "timestamp": "2025-05-03 15:18"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1625795254851263e-07,
+      "timestamp": "2025-05-03 15:18"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1597514012682703e-05,
+      "timestamp": "2025-05-03 15:18"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019042809781517313,
+      "timestamp": "2025-05-03 15:18"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021477628196736362,
+      "timestamp": "2025-05-03 15:18"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-03 15:18"
+    },
+    {
+      "rank": 11,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.0247214160612574e-05,
+      "timestamp": "2025-05-03 15:18"
+    },
+    {
+      "rank": 12,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006203714850156563,
+      "timestamp": "2025-05-03 15:18"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.089414320023633e-06,
+      "timestamp": "2025-05-03 15:18"
+    },
+    {
+      "rank": 14,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00015029093283847603,
+      "timestamp": "2025-05-03 15:18"
+    },
+    {
+      "rank": 15,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 1.9273452477167685e-08,
+      "timestamp": "2025-05-03 15:18"
+    }
   ]
 }
