@@ -49646,5 +49646,112 @@
       "price_btc": 7.443768917945879e-06,
       "timestamp": "2025-05-03 18:25"
     }
+  ],
+  "2025-05-03 19:14": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.1300490260618136e-07,
+      "timestamp": "2025-05-03 19:14"
+    },
+    {
+      "rank": 2,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 5.008540011122495e-07,
+      "timestamp": "2025-05-03 19:14"
+    },
+    {
+      "rank": 3,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.58398190883824e-07,
+      "timestamp": "2025-05-03 19:14"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018987104244484517,
+      "timestamp": "2025-05-03 19:14"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8269777948578482e-05,
+      "timestamp": "2025-05-03 19:14"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.419974589930685e-05,
+      "timestamp": "2025-05-03 19:14"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001524799266922274,
+      "timestamp": "2025-05-03 19:14"
+    },
+    {
+      "rank": 8,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.285823825802593e-05,
+      "timestamp": "2025-05-03 19:14"
+    },
+    {
+      "rank": 9,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011808465628622918,
+      "timestamp": "2025-05-03 19:14"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.113231173841118e-07,
+      "timestamp": "2025-05-03 19:14"
+    },
+    {
+      "rank": 11,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.3207206480529145e-06,
+      "timestamp": "2025-05-03 19:14"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.665921280849927e-06,
+      "timestamp": "2025-05-03 19:14"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-03 19:14"
+    },
+    {
+      "rank": 14,
+      "name": "IOTA",
+      "symbol": "IOTA",
+      "price_btc": 2.1464379739552256e-06,
+      "timestamp": "2025-05-03 19:14"
+    },
+    {
+      "rank": 15,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.364106891886554e-06,
+      "timestamp": "2025-05-03 19:14"
+    }
   ]
 }
