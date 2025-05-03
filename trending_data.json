@@ -48148,5 +48148,112 @@
       "price_btc": 3.1717431983218575e-06,
       "timestamp": "2025-05-03 04:23"
     }
+  ],
+  "2025-05-03 05:19": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.81676374264012e-05,
+      "timestamp": "2025-05-03 05:19"
+    },
+    {
+      "rank": 2,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 5.619457814161415e-07,
+      "timestamp": "2025-05-03 05:19"
+    },
+    {
+      "rank": 3,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.5843490272988777e-07,
+      "timestamp": "2025-05-03 05:19"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.575929740078585e-05,
+      "timestamp": "2025-05-03 05:19"
+    },
+    {
+      "rank": 5,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.9663553676992684e-06,
+      "timestamp": "2025-05-03 05:19"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1957956638851578e-07,
+      "timestamp": "2025-05-03 05:19"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015343394061491796,
+      "timestamp": "2025-05-03 05:19"
+    },
+    {
+      "rank": 8,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.863271393431174e-06,
+      "timestamp": "2025-05-03 05:19"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1805816381503526e-05,
+      "timestamp": "2025-05-03 05:19"
+    },
+    {
+      "rank": 10,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.487773341542546e-05,
+      "timestamp": "2025-05-03 05:19"
+    },
+    {
+      "rank": 11,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 1.0729105536645494e-06,
+      "timestamp": "2025-05-03 05:19"
+    },
+    {
+      "rank": 12,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 4.9217173934878734e-05,
+      "timestamp": "2025-05-03 05:19"
+    },
+    {
+      "rank": 13,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.958720020272923e-06,
+      "timestamp": "2025-05-03 05:19"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003871964978764073,
+      "timestamp": "2025-05-03 05:19"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.368268514418874e-06,
+      "timestamp": "2025-05-03 05:19"
+    }
   ]
 }
