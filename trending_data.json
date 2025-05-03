@@ -49325,5 +49325,112 @@
       "price_btc": 1.9273452477167685e-08,
       "timestamp": "2025-05-03 15:18"
     }
+  ],
+  "2025-05-03 16:23": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.198779470370102e-07,
+      "timestamp": "2025-05-03 16:23"
+    },
+    {
+      "rank": 2,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 5.997106667480761e-07,
+      "timestamp": "2025-05-03 16:23"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.446156366113693e-05,
+      "timestamp": "2025-05-03 16:23"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.140663909923736e-05,
+      "timestamp": "2025-05-03 16:23"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8750128460782622e-05,
+      "timestamp": "2025-05-03 16:23"
+    },
+    {
+      "rank": 6,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.495239941484747e-06,
+      "timestamp": "2025-05-03 16:23"
+    },
+    {
+      "rank": 7,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013156085193613537,
+      "timestamp": "2025-05-03 16:23"
+    },
+    {
+      "rank": 8,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.7559974547062915e-06,
+      "timestamp": "2025-05-03 16:23"
+    },
+    {
+      "rank": 9,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.582846382186463e-05,
+      "timestamp": "2025-05-03 16:23"
+    },
+    {
+      "rank": 10,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.859151072437e-06,
+      "timestamp": "2025-05-03 16:23"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019031231627759406,
+      "timestamp": "2025-05-03 16:23"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.244282770039595e-06,
+      "timestamp": "2025-05-03 16:23"
+    },
+    {
+      "rank": 13,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0028792430919323533,
+      "timestamp": "2025-05-03 16:23"
+    },
+    {
+      "rank": 14,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.938244155419424e-06,
+      "timestamp": "2025-05-03 16:23"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2938247296677713e-05,
+      "timestamp": "2025-05-03 16:23"
+    }
   ]
 }
