@@ -51251,5 +51251,112 @@
       "price_btc": 1.2987778227283436e-07,
       "timestamp": "2025-05-04 11:15"
     }
+  ],
+  "2025-05-04 12:37": [
+    {
+      "rank": 1,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 1.154432176916133e-05,
+      "timestamp": "2025-05-04 12:37"
+    },
+    {
+      "rank": 2,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.360875716902703e-05,
+      "timestamp": "2025-05-04 12:37"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7048143955686862e-05,
+      "timestamp": "2025-05-04 12:37"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4018470775406185e-05,
+      "timestamp": "2025-05-04 12:37"
+    },
+    {
+      "rank": 5,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.0538813167058325e-05,
+      "timestamp": "2025-05-04 12:37"
+    },
+    {
+      "rank": 6,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.034149280746076e-07,
+      "timestamp": "2025-05-04 12:37"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015262805895201739,
+      "timestamp": "2025-05-04 12:37"
+    },
+    {
+      "rank": 8,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.372574773555212e-06,
+      "timestamp": "2025-05-04 12:37"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.196096988517826e-06,
+      "timestamp": "2025-05-04 12:37"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036644028644284075,
+      "timestamp": "2025-05-04 12:37"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2909558305464167e-05,
+      "timestamp": "2025-05-04 12:37"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021872032471175306,
+      "timestamp": "2025-05-04 12:37"
+    },
+    {
+      "rank": 13,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 7.1774829783391556e-06,
+      "timestamp": "2025-05-04 12:37"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011700142652837413,
+      "timestamp": "2025-05-04 12:37"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-04 12:37"
+    }
   ]
 }
