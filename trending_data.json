@@ -50395,5 +50395,112 @@
       "price_btc": 3.292069336340816e-05,
       "timestamp": "2025-05-04 03:16"
     }
+  ],
+  "2025-05-04 04:24": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.394636492702741e-06,
+      "timestamp": "2025-05-04 04:24"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.390658253703864e-05,
+      "timestamp": "2025-05-04 04:24"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7137218717537204e-05,
+      "timestamp": "2025-05-04 04:24"
+    },
+    {
+      "rank": 4,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.575446154397206e-06,
+      "timestamp": "2025-05-04 04:24"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021530292356175315,
+      "timestamp": "2025-05-04 04:24"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 5.370839609841843e-06,
+      "timestamp": "2025-05-04 04:24"
+    },
+    {
+      "rank": 7,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 1.814569975433552e-08,
+      "timestamp": "2025-05-04 04:24"
+    },
+    {
+      "rank": 8,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 8.228662506345255e-06,
+      "timestamp": "2025-05-04 04:24"
+    },
+    {
+      "rank": 9,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 4.2762454626591846e-07,
+      "timestamp": "2025-05-04 04:24"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-04 04:24"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0191321136035981,
+      "timestamp": "2025-05-04 04:24"
+    },
+    {
+      "rank": 12,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.272313211896367e-05,
+      "timestamp": "2025-05-04 04:24"
+    },
+    {
+      "rank": 13,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.286055209070521e-06,
+      "timestamp": "2025-05-04 04:24"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.110348947266814e-06,
+      "timestamp": "2025-05-04 04:24"
+    },
+    {
+      "rank": 15,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 7.622340917083615e-07,
+      "timestamp": "2025-05-04 04:24"
+    }
   ]
 }
