@@ -50609,5 +50609,112 @@
       "price_btc": 4.262226815506657e-07,
       "timestamp": "2025-05-04 05:19"
     }
+  ],
+  "2025-05-04 06:27": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3142751685057096e-05,
+      "timestamp": "2025-05-04 06:27"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.342604355222947e-06,
+      "timestamp": "2025-05-04 06:27"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.712923278067784e-05,
+      "timestamp": "2025-05-04 06:27"
+    },
+    {
+      "rank": 4,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.5254148026418364e-06,
+      "timestamp": "2025-05-04 06:27"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.140321150800842e-06,
+      "timestamp": "2025-05-04 06:27"
+    },
+    {
+      "rank": 6,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.4387783660309165e-05,
+      "timestamp": "2025-05-04 06:27"
+    },
+    {
+      "rank": 7,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.55159593003442e-06,
+      "timestamp": "2025-05-04 06:27"
+    },
+    {
+      "rank": 8,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011639470615616436,
+      "timestamp": "2025-05-04 06:27"
+    },
+    {
+      "rank": 9,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.244561605923248e-06,
+      "timestamp": "2025-05-04 06:27"
+    },
+    {
+      "rank": 10,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.7775720429262523e-06,
+      "timestamp": "2025-05-04 06:27"
+    },
+    {
+      "rank": 11,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.133096920217413e-05,
+      "timestamp": "2025-05-04 06:27"
+    },
+    {
+      "rank": 12,
+      "name": "Arkham",
+      "symbol": "ARKM",
+      "price_btc": 5.588207282632443e-06,
+      "timestamp": "2025-05-04 06:27"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3002489009285923e-05,
+      "timestamp": "2025-05-04 06:27"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019229403783975543,
+      "timestamp": "2025-05-04 06:27"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.534328028553254e-11,
+      "timestamp": "2025-05-04 06:27"
+    }
   ]
 }
