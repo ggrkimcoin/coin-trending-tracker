@@ -50716,5 +50716,112 @@
       "price_btc": 8.534328028553254e-11,
       "timestamp": "2025-05-04 06:27"
     }
+  ],
+  "2025-05-04 07:17": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3319707613048184e-05,
+      "timestamp": "2025-05-04 07:17"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6833419223103456e-05,
+      "timestamp": "2025-05-04 07:17"
+    },
+    {
+      "rank": 3,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.4198741403554876e-05,
+      "timestamp": "2025-05-04 07:17"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1406729129509496e-05,
+      "timestamp": "2025-05-04 07:17"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.34855504487746e-06,
+      "timestamp": "2025-05-04 07:17"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015196277596530286,
+      "timestamp": "2025-05-04 07:17"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019236643877528537,
+      "timestamp": "2025-05-04 07:17"
+    },
+    {
+      "rank": 8,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.70055610706767e-06,
+      "timestamp": "2025-05-04 07:17"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.218489659686413e-06,
+      "timestamp": "2025-05-04 07:17"
+    },
+    {
+      "rank": 10,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011641672511484803,
+      "timestamp": "2025-05-04 07:17"
+    },
+    {
+      "rank": 11,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 4.5085542124741003e-07,
+      "timestamp": "2025-05-04 07:17"
+    },
+    {
+      "rank": 12,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.7622495002309472e-06,
+      "timestamp": "2025-05-04 07:17"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3044092509476992e-05,
+      "timestamp": "2025-05-04 07:17"
+    },
+    {
+      "rank": 14,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 5.249041495043974e-07,
+      "timestamp": "2025-05-04 07:17"
+    },
+    {
+      "rank": 15,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 3.351786927895122e-06,
+      "timestamp": "2025-05-04 07:17"
+    }
   ]
 }
