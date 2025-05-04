@@ -51358,5 +51358,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-05-04 12:37"
     }
+  ],
+  "2025-05-04 13:25": [
+    {
+      "rank": 1,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 1.2507951528649206e-05,
+      "timestamp": "2025-05-04 13:25"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.036336800449761e-07,
+      "timestamp": "2025-05-04 13:25"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.395339459328898e-05,
+      "timestamp": "2025-05-04 13:25"
+    },
+    {
+      "rank": 4,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.332072752198481e-05,
+      "timestamp": "2025-05-04 13:25"
+    },
+    {
+      "rank": 5,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.0345384022311063e-05,
+      "timestamp": "2025-05-04 13:25"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7203220000658937e-05,
+      "timestamp": "2025-05-04 13:25"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015258465556042223,
+      "timestamp": "2025-05-04 13:25"
+    },
+    {
+      "rank": 8,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 4.392097764473096e-07,
+      "timestamp": "2025-05-04 13:25"
+    },
+    {
+      "rank": 9,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0978885009505564e-07,
+      "timestamp": "2025-05-04 13:25"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036652318999730125,
+      "timestamp": "2025-05-04 13:25"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.09629817288951e-06,
+      "timestamp": "2025-05-04 13:25"
+    },
+    {
+      "rank": 12,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.930755430687903e-06,
+      "timestamp": "2025-05-04 13:25"
+    },
+    {
+      "rank": 13,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011691004864631884,
+      "timestamp": "2025-05-04 13:25"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.225986370898029e-06,
+      "timestamp": "2025-05-04 13:25"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.481813328567805e-06,
+      "timestamp": "2025-05-04 13:25"
+    }
   ]
 }
