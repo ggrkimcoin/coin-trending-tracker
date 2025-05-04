@@ -51679,5 +51679,112 @@
       "price_btc": 1.9331929285058465e-06,
       "timestamp": "2025-05-04 15:19"
     }
+  ],
+  "2025-05-04 16:23": [
+    {
+      "rank": 1,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 1.2539223677786372e-05,
+      "timestamp": "2025-05-04 16:23"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.437260225502455e-05,
+      "timestamp": "2025-05-04 16:23"
+    },
+    {
+      "rank": 3,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.0059805657073198e-05,
+      "timestamp": "2025-05-04 16:23"
+    },
+    {
+      "rank": 4,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.0137539381309777e-07,
+      "timestamp": "2025-05-04 16:23"
+    },
+    {
+      "rank": 5,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.936636271607508e-06,
+      "timestamp": "2025-05-04 16:23"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7813322005645062e-05,
+      "timestamp": "2025-05-04 16:23"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001539238254240814,
+      "timestamp": "2025-05-04 16:23"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019178411139390283,
+      "timestamp": "2025-05-04 16:23"
+    },
+    {
+      "rank": 9,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.136957287766619e-06,
+      "timestamp": "2025-05-04 16:23"
+    },
+    {
+      "rank": 10,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.8397410100960413e-06,
+      "timestamp": "2025-05-04 16:23"
+    },
+    {
+      "rank": 11,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.461689143175697e-05,
+      "timestamp": "2025-05-04 16:23"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003704366595511382,
+      "timestamp": "2025-05-04 16:23"
+    },
+    {
+      "rank": 13,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 9.901327200189561e-06,
+      "timestamp": "2025-05-04 16:23"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011691603671662338,
+      "timestamp": "2025-05-04 16:23"
+    },
+    {
+      "rank": 15,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 5.50554145357531e-07,
+      "timestamp": "2025-05-04 16:23"
+    }
   ]
 }
