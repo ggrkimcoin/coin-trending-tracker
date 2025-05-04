@@ -50823,5 +50823,112 @@
       "price_btc": 3.351786927895122e-06,
       "timestamp": "2025-05-04 07:17"
     }
+  ],
+  "2025-05-04 08:23": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.343959695033732e-05,
+      "timestamp": "2025-05-04 08:23"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7236438439629023e-05,
+      "timestamp": "2025-05-04 08:23"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.363327514285239e-06,
+      "timestamp": "2025-05-04 08:23"
+    },
+    {
+      "rank": 4,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 4.4183092009703036e-07,
+      "timestamp": "2025-05-04 08:23"
+    },
+    {
+      "rank": 5,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.37774798136502e-05,
+      "timestamp": "2025-05-04 08:23"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015177791676437647,
+      "timestamp": "2025-05-04 08:23"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019183974368946886,
+      "timestamp": "2025-05-04 08:23"
+    },
+    {
+      "rank": 8,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011624069521761895,
+      "timestamp": "2025-05-04 08:23"
+    },
+    {
+      "rank": 9,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.102509254222756e-05,
+      "timestamp": "2025-05-04 08:23"
+    },
+    {
+      "rank": 10,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.7457991510888939e-06,
+      "timestamp": "2025-05-04 08:23"
+    },
+    {
+      "rank": 11,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.1578450843429077e-06,
+      "timestamp": "2025-05-04 08:23"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.089971686122585e-06,
+      "timestamp": "2025-05-04 08:23"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.303359724360512e-05,
+      "timestamp": "2025-05-04 08:23"
+    },
+    {
+      "rank": 14,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.545941837636965e-06,
+      "timestamp": "2025-05-04 08:23"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036313057678640636,
+      "timestamp": "2025-05-04 08:23"
+    }
   ]
 }
