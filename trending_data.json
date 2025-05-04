@@ -51465,5 +51465,112 @@
       "price_btc": 5.481813328567805e-06,
       "timestamp": "2025-05-04 13:25"
     }
+  ],
+  "2025-05-04 14:16": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.001840138562601e-07,
+      "timestamp": "2025-05-04 14:16"
+    },
+    {
+      "rank": 2,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 1.383930630598435e-05,
+      "timestamp": "2025-05-04 14:16"
+    },
+    {
+      "rank": 3,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.9979272261538227e-05,
+      "timestamp": "2025-05-04 14:16"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3796472274369975e-05,
+      "timestamp": "2025-05-04 14:16"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.731765876566128e-05,
+      "timestamp": "2025-05-04 14:16"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015258540735213324,
+      "timestamp": "2025-05-04 14:16"
+    },
+    {
+      "rank": 7,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.341373661952592e-05,
+      "timestamp": "2025-05-04 14:16"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0191358674996202,
+      "timestamp": "2025-05-04 14:16"
+    },
+    {
+      "rank": 9,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 5.292733451035236e-05,
+      "timestamp": "2025-05-04 14:16"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.1784497453326485e-06,
+      "timestamp": "2025-05-04 14:16"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036373148608583998,
+      "timestamp": "2025-05-04 14:16"
+    },
+    {
+      "rank": 12,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.6921966022306157e-06,
+      "timestamp": "2025-05-04 14:16"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021748580252821926,
+      "timestamp": "2025-05-04 14:16"
+    },
+    {
+      "rank": 14,
+      "name": "DeepBook",
+      "symbol": "DEEP",
+      "price_btc": 1.913409937047442e-06,
+      "timestamp": "2025-05-04 14:16"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.006078606580073e-06,
+      "timestamp": "2025-05-04 14:16"
+    }
   ]
 }
