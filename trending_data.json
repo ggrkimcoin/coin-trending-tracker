@@ -51037,5 +51037,112 @@
       "price_btc": 4.998927865576246e-07,
       "timestamp": "2025-05-04 09:19"
     }
+  ],
+  "2025-05-04 10:19": [
+    {
+      "rank": 1,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.333621262436381e-05,
+      "timestamp": "2025-05-04 10:19"
+    },
+    {
+      "rank": 2,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.0051464240974402e-05,
+      "timestamp": "2025-05-04 10:19"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.372952712873194e-05,
+      "timestamp": "2025-05-04 10:19"
+    },
+    {
+      "rank": 4,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.35926487651431e-06,
+      "timestamp": "2025-05-04 10:19"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.203157363810714e-06,
+      "timestamp": "2025-05-04 10:19"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01912232878622635,
+      "timestamp": "2025-05-04 10:19"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0292806981354307e-07,
+      "timestamp": "2025-05-04 10:19"
+    },
+    {
+      "rank": 8,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 8.960382664199303e-07,
+      "timestamp": "2025-05-04 10:19"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015180650004837052,
+      "timestamp": "2025-05-04 10:19"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.520309648434181e-11,
+      "timestamp": "2025-05-04 10:19"
+    },
+    {
+      "rank": 11,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 9.772125313822506e-06,
+      "timestamp": "2025-05-04 10:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.014874580823505e-06,
+      "timestamp": "2025-05-04 10:19"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6724530388117314e-05,
+      "timestamp": "2025-05-04 10:19"
+    },
+    {
+      "rank": 14,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.723301332308713e-06,
+      "timestamp": "2025-05-04 10:19"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-04 10:19"
+    }
   ]
 }
