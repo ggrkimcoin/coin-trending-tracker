@@ -50181,5 +50181,112 @@
       "price_btc": 5.000206563875726e-08,
       "timestamp": "2025-05-03 23:17"
     }
+  ],
+  "2025-05-04 01:49": [
+    {
+      "rank": 1,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 4.54981744353888e-07,
+      "timestamp": "2025-05-04 01:49"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01917195163995868,
+      "timestamp": "2025-05-04 01:49"
+    },
+    {
+      "rank": 3,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2906664792025368e-05,
+      "timestamp": "2025-05-04 01:49"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.759678335565237e-05,
+      "timestamp": "2025-05-04 01:49"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.12539461057593e-06,
+      "timestamp": "2025-05-04 01:49"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.435244497860466e-05,
+      "timestamp": "2025-05-04 01:49"
+    },
+    {
+      "rank": 7,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011689374103804204,
+      "timestamp": "2025-05-04 01:49"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015311026350007236,
+      "timestamp": "2025-05-04 01:49"
+    },
+    {
+      "rank": 9,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.374595712637132e-06,
+      "timestamp": "2025-05-04 01:49"
+    },
+    {
+      "rank": 10,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.0322777281038452e-06,
+      "timestamp": "2025-05-04 01:49"
+    },
+    {
+      "rank": 11,
+      "name": "StakeStone",
+      "symbol": "STO",
+      "price_btc": 1.8214601914259421e-06,
+      "timestamp": "2025-05-04 01:49"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-04 01:49"
+    },
+    {
+      "rank": 13,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 1.6423917818587354e-06,
+      "timestamp": "2025-05-04 01:49"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1321384219576884e-05,
+      "timestamp": "2025-05-04 01:49"
+    },
+    {
+      "rank": 15,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 9.864497221308242e-06,
+      "timestamp": "2025-05-04 01:49"
+    }
   ]
 }
