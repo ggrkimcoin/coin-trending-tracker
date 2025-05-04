@@ -50288,5 +50288,112 @@
       "price_btc": 9.864497221308242e-06,
       "timestamp": "2025-05-04 01:49"
     }
+  ],
+  "2025-05-04 03:16": [
+    {
+      "rank": 1,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.6380565857712766e-06,
+      "timestamp": "2025-05-04 03:16"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.780952595255203e-05,
+      "timestamp": "2025-05-04 03:16"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3898279268428423e-05,
+      "timestamp": "2025-05-04 03:16"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019118506473780286,
+      "timestamp": "2025-05-04 03:16"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.353605283131743e-06,
+      "timestamp": "2025-05-04 03:16"
+    },
+    {
+      "rank": 6,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 1.8386166401232833e-08,
+      "timestamp": "2025-05-04 03:16"
+    },
+    {
+      "rank": 7,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 3.7946454474768345e-07,
+      "timestamp": "2025-05-04 03:16"
+    },
+    {
+      "rank": 8,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.190785268518932e-05,
+      "timestamp": "2025-05-04 03:16"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.126497763297342e-05,
+      "timestamp": "2025-05-04 03:16"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0592768836844667e-07,
+      "timestamp": "2025-05-04 03:16"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021487236135124248,
+      "timestamp": "2025-05-04 03:16"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.109374916362489e-06,
+      "timestamp": "2025-05-04 03:16"
+    },
+    {
+      "rank": 13,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.833700526328129e-06,
+      "timestamp": "2025-05-04 03:16"
+    },
+    {
+      "rank": 14,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.409322538423394e-06,
+      "timestamp": "2025-05-04 03:16"
+    },
+    {
+      "rank": 15,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.292069336340816e-05,
+      "timestamp": "2025-05-04 03:16"
+    }
   ]
 }
