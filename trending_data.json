@@ -50930,5 +50930,112 @@
       "price_btc": 0.0036313057678640636,
       "timestamp": "2025-05-04 08:23"
     }
+  ],
+  "2025-05-04 09:19": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.36329405560062e-05,
+      "timestamp": "2025-05-04 09:19"
+    },
+    {
+      "rank": 2,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.3610887763832416e-05,
+      "timestamp": "2025-05-04 09:19"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.320058972285601e-06,
+      "timestamp": "2025-05-04 09:19"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.164399264413946e-06,
+      "timestamp": "2025-05-04 09:19"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6849932719780803e-05,
+      "timestamp": "2025-05-04 09:19"
+    },
+    {
+      "rank": 6,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.5279246544829115e-06,
+      "timestamp": "2025-05-04 09:19"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01913675141435979,
+      "timestamp": "2025-05-04 09:19"
+    },
+    {
+      "rank": 8,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.0441033201044214e-05,
+      "timestamp": "2025-05-04 09:19"
+    },
+    {
+      "rank": 9,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 9.334421996705596e-07,
+      "timestamp": "2025-05-04 09:19"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-04 09:19"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015173872552843007,
+      "timestamp": "2025-05-04 09:19"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2891391416948588e-05,
+      "timestamp": "2025-05-04 09:19"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002135651168616103,
+      "timestamp": "2025-05-04 09:19"
+    },
+    {
+      "rank": 14,
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "price_btc": 4.8258433438036714e-05,
+      "timestamp": "2025-05-04 09:19"
+    },
+    {
+      "rank": 15,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 4.998927865576246e-07,
+      "timestamp": "2025-05-04 09:19"
+    }
   ]
 }
