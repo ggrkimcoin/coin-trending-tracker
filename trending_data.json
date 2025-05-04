@@ -52107,5 +52107,112 @@
       "price_btc": 6.195790662923242e-06,
       "timestamp": "2025-05-04 19:15"
     }
+  ],
+  "2025-05-04 20:20": [
+    {
+      "rank": 1,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.9526511203892672e-06,
+      "timestamp": "2025-05-04 20:20"
+    },
+    {
+      "rank": 2,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 6.60108112752792e-07,
+      "timestamp": "2025-05-04 20:20"
+    },
+    {
+      "rank": 3,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 1.2183676693307376e-05,
+      "timestamp": "2025-05-04 20:20"
+    },
+    {
+      "rank": 4,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.002776482025346e-05,
+      "timestamp": "2025-05-04 20:20"
+    },
+    {
+      "rank": 5,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.9723615804554006e-07,
+      "timestamp": "2025-05-04 20:20"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.021291971011579e-06,
+      "timestamp": "2025-05-04 20:20"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021307007700165784,
+      "timestamp": "2025-05-04 20:20"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7281701280250643e-05,
+      "timestamp": "2025-05-04 20:20"
+    },
+    {
+      "rank": 9,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.061737101333627e-06,
+      "timestamp": "2025-05-04 20:20"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.437226553195788e-05,
+      "timestamp": "2025-05-04 20:20"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036189623781678437,
+      "timestamp": "2025-05-04 20:20"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015305240424458378,
+      "timestamp": "2025-05-04 20:20"
+    },
+    {
+      "rank": 13,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001145652404466821,
+      "timestamp": "2025-05-04 20:20"
+    },
+    {
+      "rank": 14,
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "price_btc": 1.3314987480767698e-10,
+      "timestamp": "2025-05-04 20:20"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.4643425781242585e-06,
+      "timestamp": "2025-05-04 20:20"
+    }
   ]
 }
