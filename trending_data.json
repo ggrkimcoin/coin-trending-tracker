@@ -52000,5 +52000,112 @@
       "price_btc": 2.0216805489743087e-08,
       "timestamp": "2025-05-04 18:25"
     }
+  ],
+  "2025-05-04 19:15": [
+    {
+      "rank": 1,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 7.428487069763101e-07,
+      "timestamp": "2025-05-04 19:15"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.9652957133806827e-07,
+      "timestamp": "2025-05-04 19:15"
+    },
+    {
+      "rank": 3,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 1.1938957849315978e-05,
+      "timestamp": "2025-05-04 19:15"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.726897952099486e-05,
+      "timestamp": "2025-05-04 19:15"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4174150392579495e-05,
+      "timestamp": "2025-05-04 19:15"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003629935547434292,
+      "timestamp": "2025-05-04 19:15"
+    },
+    {
+      "rank": 7,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.076705445491939e-06,
+      "timestamp": "2025-05-04 19:15"
+    },
+    {
+      "rank": 8,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.6995074943521286e-06,
+      "timestamp": "2025-05-04 19:15"
+    },
+    {
+      "rank": 9,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.977638085593529e-05,
+      "timestamp": "2025-05-04 19:15"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-04 19:15"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015364091280724885,
+      "timestamp": "2025-05-04 19:15"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.443733373617854e-06,
+      "timestamp": "2025-05-04 19:15"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.956257916754779e-06,
+      "timestamp": "2025-05-04 19:15"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011374992631167032,
+      "timestamp": "2025-05-04 19:15"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.195790662923242e-06,
+      "timestamp": "2025-05-04 19:15"
+    }
   ]
 }
