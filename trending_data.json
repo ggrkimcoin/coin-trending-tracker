@@ -52321,5 +52321,112 @@
       "price_btc": 4.070835905140911e-06,
       "timestamp": "2025-05-04 21:17"
     }
+  ],
+  "2025-05-04 22:18": [
+    {
+      "rank": 1,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 6.451646114811823e-07,
+      "timestamp": "2025-05-04 22:18"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4554480308815095e-05,
+      "timestamp": "2025-05-04 22:18"
+    },
+    {
+      "rank": 3,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.020072019357285e-05,
+      "timestamp": "2025-05-04 22:18"
+    },
+    {
+      "rank": 4,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 1.1494908181236698e-05,
+      "timestamp": "2025-05-04 22:18"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036446363692056926,
+      "timestamp": "2025-05-04 22:18"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002125318741145446,
+      "timestamp": "2025-05-04 22:18"
+    },
+    {
+      "rank": 7,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.0916469394154545e-06,
+      "timestamp": "2025-05-04 22:18"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7559472710439473e-05,
+      "timestamp": "2025-05-04 22:18"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.142439463613005e-05,
+      "timestamp": "2025-05-04 22:18"
+    },
+    {
+      "rank": 10,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001161556403391705,
+      "timestamp": "2025-05-04 22:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.058030771698934e-06,
+      "timestamp": "2025-05-04 22:18"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.177973052892011e-06,
+      "timestamp": "2025-05-04 22:18"
+    },
+    {
+      "rank": 13,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.264895397929337e-06,
+      "timestamp": "2025-05-04 22:18"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.035940575666732e-06,
+      "timestamp": "2025-05-04 22:18"
+    },
+    {
+      "rank": 15,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.01613545715591e-07,
+      "timestamp": "2025-05-04 22:18"
+    }
   ]
 }
