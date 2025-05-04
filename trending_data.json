@@ -51786,5 +51786,112 @@
       "price_btc": 5.50554145357531e-07,
       "timestamp": "2025-05-04 16:23"
     }
+  ],
+  "2025-05-04 17:15": [
+    {
+      "rank": 1,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 1.2695436959845324e-05,
+      "timestamp": "2025-05-04 17:15"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.420101082046394e-05,
+      "timestamp": "2025-05-04 17:15"
+    },
+    {
+      "rank": 3,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.969727792663362e-07,
+      "timestamp": "2025-05-04 17:15"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015395335517250023,
+      "timestamp": "2025-05-04 17:15"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7802090063735065e-05,
+      "timestamp": "2025-05-04 17:15"
+    },
+    {
+      "rank": 6,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.981235121382034e-06,
+      "timestamp": "2025-05-04 17:15"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01914985341299707,
+      "timestamp": "2025-05-04 17:15"
+    },
+    {
+      "rank": 8,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.984665336650364e-05,
+      "timestamp": "2025-05-04 17:15"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.990089620277386e-06,
+      "timestamp": "2025-05-04 17:15"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.11589797251399e-06,
+      "timestamp": "2025-05-04 17:15"
+    },
+    {
+      "rank": 11,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 9.450667979727506e-07,
+      "timestamp": "2025-05-04 17:15"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1593709237090419e-05,
+      "timestamp": "2025-05-04 17:15"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.200698014280917e-06,
+      "timestamp": "2025-05-04 17:15"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.442694770914804e-06,
+      "timestamp": "2025-05-04 17:15"
+    },
+    {
+      "rank": 15,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011548352059853423,
+      "timestamp": "2025-05-04 17:15"
+    }
   ]
 }
