@@ -52535,5 +52535,112 @@
       "price_btc": 7.5855725497643305e-06,
       "timestamp": "2025-05-04 23:18"
     }
+  ],
+  "2025-05-05 01:45": [
+    {
+      "rank": 1,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 1.1404221935921651e-05,
+      "timestamp": "2025-05-05 01:45"
+    },
+    {
+      "rank": 2,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 7.296613090412682e-07,
+      "timestamp": "2025-05-05 01:45"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7068125539700163e-05,
+      "timestamp": "2025-05-05 01:45"
+    },
+    {
+      "rank": 4,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.179652641430779e-06,
+      "timestamp": "2025-05-05 01:45"
+    },
+    {
+      "rank": 5,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.065858788851006e-05,
+      "timestamp": "2025-05-05 01:45"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4337614089531714e-05,
+      "timestamp": "2025-05-05 01:45"
+    },
+    {
+      "rank": 7,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 2.275334804268706e-08,
+      "timestamp": "2025-05-05 01:45"
+    },
+    {
+      "rank": 8,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011740343633067554,
+      "timestamp": "2025-05-05 01:45"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.473008343923129e-06,
+      "timestamp": "2025-05-05 01:45"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019172110789504617,
+      "timestamp": "2025-05-05 01:45"
+    },
+    {
+      "rank": 11,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 7.741553397611048e-07,
+      "timestamp": "2025-05-05 01:45"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015298337145655196,
+      "timestamp": "2025-05-05 01:45"
+    },
+    {
+      "rank": 13,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 8.652876183302597e-07,
+      "timestamp": "2025-05-05 01:45"
+    },
+    {
+      "rank": 14,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 4.5538056810578516e-05,
+      "timestamp": "2025-05-05 01:45"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.269555894869314e-06,
+      "timestamp": "2025-05-05 01:45"
+    }
   ]
 }
