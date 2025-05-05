@@ -54782,5 +54782,112 @@
       "price_btc": 0.0009113523071245807,
       "timestamp": "2025-05-05 22:19"
     }
+  ],
+  "2025-05-05 23:18": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.045354088036812e-07,
+      "timestamp": "2025-05-05 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.018828987563021e-08,
+      "timestamp": "2025-05-05 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.8255112435324948e-06,
+      "timestamp": "2025-05-05 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7915708017255546e-05,
+      "timestamp": "2025-05-05 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.2025969510139915e-06,
+      "timestamp": "2025-05-05 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019212244472708567,
+      "timestamp": "2025-05-05 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021432479388694149,
+      "timestamp": "2025-05-05 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.114209259758741e-05,
+      "timestamp": "2025-05-05 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.8540260923909416e-06,
+      "timestamp": "2025-05-05 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001183520454419352,
+      "timestamp": "2025-05-05 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-05 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015499304441050272,
+      "timestamp": "2025-05-05 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 5.431943182270684e-07,
+      "timestamp": "2025-05-05 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2567604729431267e-05,
+      "timestamp": "2025-05-05 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.0002082948411087915,
+      "timestamp": "2025-05-05 23:18"
+    }
   ]
 }
