@@ -54140,5 +54140,112 @@
       "price_btc": 8.372336500104866e-11,
       "timestamp": "2025-05-05 16:26"
     }
+  ],
+  "2025-05-05 17:17": [
+    {
+      "rank": 1,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.787205508098634e-06,
+      "timestamp": "2025-05-05 17:17"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6209889700466774e-05,
+      "timestamp": "2025-05-05 17:17"
+    },
+    {
+      "rank": 3,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.99459679714801e-07,
+      "timestamp": "2025-05-05 17:17"
+    },
+    {
+      "rank": 4,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.069619891039283e-05,
+      "timestamp": "2025-05-05 17:17"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.039352714595348e-06,
+      "timestamp": "2025-05-05 17:17"
+    },
+    {
+      "rank": 6,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.067671473665433e-08,
+      "timestamp": "2025-05-05 17:17"
+    },
+    {
+      "rank": 7,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 5.623466840500284e-07,
+      "timestamp": "2025-05-05 17:17"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003913605943953095,
+      "timestamp": "2025-05-05 17:17"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015392200895950523,
+      "timestamp": "2025-05-05 17:17"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019200316582527216,
+      "timestamp": "2025-05-05 17:17"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.658048486805191e-07,
+      "timestamp": "2025-05-05 17:17"
+    },
+    {
+      "rank": 12,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.832231649952056e-06,
+      "timestamp": "2025-05-05 17:17"
+    },
+    {
+      "rank": 13,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011770005641865896,
+      "timestamp": "2025-05-05 17:17"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.4500702232780265e-06,
+      "timestamp": "2025-05-05 17:17"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.8159315191160693e-06,
+      "timestamp": "2025-05-05 17:17"
+    }
   ]
 }
