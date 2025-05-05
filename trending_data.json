@@ -53070,5 +53070,112 @@
       "price_btc": 1.825771451235243e-10,
       "timestamp": "2025-05-05 06:30"
     }
+  ],
+  "2025-05-05 07:20": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.565626533086202e-05,
+      "timestamp": "2025-05-05 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 6.594354776444553e-07,
+      "timestamp": "2025-05-05 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 1.0847378644696367e-05,
+      "timestamp": "2025-05-05 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.109012847493047e-05,
+      "timestamp": "2025-05-05 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.160129776962221e-06,
+      "timestamp": "2025-05-05 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.31639548400844e-06,
+      "timestamp": "2025-05-05 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015501223717879998,
+      "timestamp": "2025-05-05 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-05 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001181038179586981,
+      "timestamp": "2025-05-05 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037785144157704773,
+      "timestamp": "2025-05-05 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.237349300121604e-06,
+      "timestamp": "2025-05-05 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01921301722843618,
+      "timestamp": "2025-05-05 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.189820706076418e-05,
+      "timestamp": "2025-05-05 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1521298936277348e-07,
+      "timestamp": "2025-05-05 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.0028490314176258e-05,
+      "timestamp": "2025-05-05 07:20"
+    }
   ]
 }
