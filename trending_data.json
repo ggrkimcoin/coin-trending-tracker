@@ -54033,5 +54033,112 @@
       "price_btc": 5.952537546016891e-07,
       "timestamp": "2025-05-05 15:21"
     }
+  ],
+  "2025-05-05 16:26": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.634746351943467e-05,
+      "timestamp": "2025-05-05 16:26"
+    },
+    {
+      "rank": 2,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 5.887337927776882e-07,
+      "timestamp": "2025-05-05 16:26"
+    },
+    {
+      "rank": 3,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.7969655076068301e-06,
+      "timestamp": "2025-05-05 16:26"
+    },
+    {
+      "rank": 4,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011907434810848288,
+      "timestamp": "2025-05-05 16:26"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015321996854920673,
+      "timestamp": "2025-05-05 16:26"
+    },
+    {
+      "rank": 6,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.9806381624992473e-07,
+      "timestamp": "2025-05-05 16:26"
+    },
+    {
+      "rank": 7,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.0490743804915573e-05,
+      "timestamp": "2025-05-05 16:26"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019185128372614345,
+      "timestamp": "2025-05-05 16:26"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.167389231599295e-06,
+      "timestamp": "2025-05-05 16:26"
+    },
+    {
+      "rank": 10,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.713181440606294e-07,
+      "timestamp": "2025-05-05 16:26"
+    },
+    {
+      "rank": 11,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.02419723094817e-08,
+      "timestamp": "2025-05-05 16:26"
+    },
+    {
+      "rank": 12,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 8.316831039338966e-07,
+      "timestamp": "2025-05-05 16:26"
+    },
+    {
+      "rank": 13,
+      "name": "Ava AI",
+      "symbol": "AVA",
+      "price_btc": 8.913823418543992e-07,
+      "timestamp": "2025-05-05 16:26"
+    },
+    {
+      "rank": 14,
+      "name": "Particle Network",
+      "symbol": "PARTI",
+      "price_btc": 3.249214904705122e-06,
+      "timestamp": "2025-05-05 16:26"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.372336500104866e-11,
+      "timestamp": "2025-05-05 16:26"
+    }
   ]
 }
