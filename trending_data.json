@@ -54675,5 +54675,112 @@
       "price_btc": 0.0009025996057549911,
       "timestamp": "2025-05-05 21:18"
     }
+  ],
+  "2025-05-05 22:19": [
+    {
+      "rank": 1,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.137864473832208e-08,
+      "timestamp": "2025-05-05 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7496776926662053e-05,
+      "timestamp": "2025-05-05 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.028028791751281e-07,
+      "timestamp": "2025-05-05 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.083893020873245e-06,
+      "timestamp": "2025-05-05 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.114644123581855e-05,
+      "timestamp": "2025-05-05 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.834999844916814e-06,
+      "timestamp": "2025-05-05 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015485955956100704,
+      "timestamp": "2025-05-05 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00394857206734375,
+      "timestamp": "2025-05-05 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5986997288918566e-05,
+      "timestamp": "2025-05-05 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1972145246719356e-05,
+      "timestamp": "2025-05-05 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 5.565904530111421e-07,
+      "timestamp": "2025-05-05 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0188411574003006e-06,
+      "timestamp": "2025-05-05 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019167452192124464,
+      "timestamp": "2025-05-05 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-05 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0009113523071245807,
+      "timestamp": "2025-05-05 22:19"
+    }
   ]
 }
