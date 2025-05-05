@@ -53391,5 +53391,112 @@
       "price_btc": 2.957876560602821e-06,
       "timestamp": "2025-05-05 09:22"
     }
+  ],
+  "2025-05-05 10:22": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8809093228209084e-05,
+      "timestamp": "2025-05-05 10:22"
+    },
+    {
+      "rank": 2,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 7.345801635917654e-07,
+      "timestamp": "2025-05-05 10:22"
+    },
+    {
+      "rank": 3,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 1.2686675728541983e-05,
+      "timestamp": "2025-05-05 10:22"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.621574260957946e-05,
+      "timestamp": "2025-05-05 10:22"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.153137005910327e-06,
+      "timestamp": "2025-05-05 10:22"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.26387231609956e-06,
+      "timestamp": "2025-05-05 10:22"
+    },
+    {
+      "rank": 7,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.075368868760497e-05,
+      "timestamp": "2025-05-05 10:22"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-05 10:22"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021605953142871635,
+      "timestamp": "2025-05-05 10:22"
+    },
+    {
+      "rank": 10,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001171081234553224,
+      "timestamp": "2025-05-05 10:22"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001542695265917746,
+      "timestamp": "2025-05-05 10:22"
+    },
+    {
+      "rank": 12,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.401302866425947e-06,
+      "timestamp": "2025-05-05 10:22"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.264494718788824e-06,
+      "timestamp": "2025-05-05 10:22"
+    },
+    {
+      "rank": 14,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 7.964149184258687e-07,
+      "timestamp": "2025-05-05 10:22"
+    },
+    {
+      "rank": 15,
+      "name": "VaderAI by Virtuals",
+      "symbol": "VADER",
+      "price_btc": 3.5347284048926035e-07,
+      "timestamp": "2025-05-05 10:22"
+    }
   ]
 }
