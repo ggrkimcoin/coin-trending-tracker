@@ -54247,5 +54247,112 @@
       "price_btc": 1.8159315191160693e-06,
       "timestamp": "2025-05-05 17:17"
     }
+  ],
+  "2025-05-05 18:24": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7444351852235384e-05,
+      "timestamp": "2025-05-05 18:24"
+    },
+    {
+      "rank": 2,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.256721883212393e-08,
+      "timestamp": "2025-05-05 18:24"
+    },
+    {
+      "rank": 3,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011724974528212265,
+      "timestamp": "2025-05-05 18:24"
+    },
+    {
+      "rank": 4,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.12111753353554e-05,
+      "timestamp": "2025-05-05 18:24"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.623883489954854e-05,
+      "timestamp": "2025-05-05 18:24"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015412860315812632,
+      "timestamp": "2025-05-05 18:24"
+    },
+    {
+      "rank": 7,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.692118424916234e-07,
+      "timestamp": "2025-05-05 18:24"
+    },
+    {
+      "rank": 8,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.7693744532959088e-06,
+      "timestamp": "2025-05-05 18:24"
+    },
+    {
+      "rank": 9,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001448242039670581,
+      "timestamp": "2025-05-05 18:24"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.403486931281773e-11,
+      "timestamp": "2025-05-05 18:24"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003930377707490095,
+      "timestamp": "2025-05-05 18:24"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019173143957461773,
+      "timestamp": "2025-05-05 18:24"
+    },
+    {
+      "rank": 13,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.141874498768899e-07,
+      "timestamp": "2025-05-05 18:24"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.230815666075526e-06,
+      "timestamp": "2025-05-05 18:24"
+    },
+    {
+      "rank": 15,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.03900385410643e-06,
+      "timestamp": "2025-05-05 18:24"
+    }
   ]
 }
