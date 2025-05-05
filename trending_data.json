@@ -53712,5 +53712,112 @@
       "price_btc": 0.00012008552651691346,
       "timestamp": "2025-05-05 12:40"
     }
+  ],
+  "2025-05-05 13:30": [
+    {
+      "rank": 1,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.8029876700084166e-06,
+      "timestamp": "2025-05-05 13:30"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.967023584645726e-07,
+      "timestamp": "2025-05-05 13:30"
+    },
+    {
+      "rank": 3,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 6.622737539049221e-07,
+      "timestamp": "2025-05-05 13:30"
+    },
+    {
+      "rank": 4,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 1.231634873889457e-05,
+      "timestamp": "2025-05-05 13:30"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6425568989511646e-05,
+      "timestamp": "2025-05-05 13:30"
+    },
+    {
+      "rank": 6,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011899495620168532,
+      "timestamp": "2025-05-05 13:30"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8013292470894185e-05,
+      "timestamp": "2025-05-05 13:30"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015323512193450167,
+      "timestamp": "2025-05-05 13:30"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019145770952448998,
+      "timestamp": "2025-05-05 13:30"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021333755820961795,
+      "timestamp": "2025-05-05 13:30"
+    },
+    {
+      "rank": 11,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0029529737730370326,
+      "timestamp": "2025-05-05 13:30"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.072270093524966e-05,
+      "timestamp": "2025-05-05 13:30"
+    },
+    {
+      "rank": 13,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 9.676165090303068e-06,
+      "timestamp": "2025-05-05 13:30"
+    },
+    {
+      "rank": 14,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.7597567542374194e-06,
+      "timestamp": "2025-05-05 13:30"
+    },
+    {
+      "rank": 15,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1650283513986212e-07,
+      "timestamp": "2025-05-05 13:30"
+    }
   ]
 }
