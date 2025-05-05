@@ -53284,5 +53284,112 @@
       "price_btc": 7.060013993690934e-06,
       "timestamp": "2025-05-05 08:28"
     }
+  ],
+  "2025-05-05 09:22": [
+    {
+      "rank": 1,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 7.092065171207434e-07,
+      "timestamp": "2025-05-05 09:22"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.654674628836984e-05,
+      "timestamp": "2025-05-05 09:22"
+    },
+    {
+      "rank": 3,
+      "name": "Arcblock",
+      "symbol": "ABT",
+      "price_btc": 1.237093345316343e-05,
+      "timestamp": "2025-05-05 09:22"
+    },
+    {
+      "rank": 4,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.095000958134442e-05,
+      "timestamp": "2025-05-05 09:22"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9283241726461843e-05,
+      "timestamp": "2025-05-05 09:22"
+    },
+    {
+      "rank": 6,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.167853781384938e-06,
+      "timestamp": "2025-05-05 09:22"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.263794250750849e-06,
+      "timestamp": "2025-05-05 09:22"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002173682827531196,
+      "timestamp": "2025-05-05 09:22"
+    },
+    {
+      "rank": 9,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.850868188697935e-07,
+      "timestamp": "2025-05-05 09:22"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0193376216955264,
+      "timestamp": "2025-05-05 09:22"
+    },
+    {
+      "rank": 11,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.010145192021277e-05,
+      "timestamp": "2025-05-05 09:22"
+    },
+    {
+      "rank": 12,
+      "name": "Turbo",
+      "symbol": "TURBO",
+      "price_btc": 5.657193815738193e-08,
+      "timestamp": "2025-05-05 09:22"
+    },
+    {
+      "rank": 13,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.432248971923177e-06,
+      "timestamp": "2025-05-05 09:22"
+    },
+    {
+      "rank": 14,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.002928811104549576,
+      "timestamp": "2025-05-05 09:22"
+    },
+    {
+      "rank": 15,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.957876560602821e-06,
+      "timestamp": "2025-05-05 09:22"
+    }
   ]
 }
