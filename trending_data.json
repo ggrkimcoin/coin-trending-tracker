@@ -53926,5 +53926,112 @@
       "price_btc": 3.236180720426404e-05,
       "timestamp": "2025-05-05 14:20"
     }
+  ],
+  "2025-05-05 15:21": [
+    {
+      "rank": 1,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.8005688561959347e-06,
+      "timestamp": "2025-05-05 15:21"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.9967268911266824e-07,
+      "timestamp": "2025-05-05 15:21"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7970124841655845e-05,
+      "timestamp": "2025-05-05 15:21"
+    },
+    {
+      "rank": 4,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011989185819525745,
+      "timestamp": "2025-05-05 15:21"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6687822116018995e-05,
+      "timestamp": "2025-05-05 15:21"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001541095629723446,
+      "timestamp": "2025-05-05 15:21"
+    },
+    {
+      "rank": 7,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.083349497544766e-05,
+      "timestamp": "2025-05-05 15:21"
+    },
+    {
+      "rank": 8,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.762238832441617e-06,
+      "timestamp": "2025-05-05 15:21"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038732427696861462,
+      "timestamp": "2025-05-05 15:21"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01924945145127947,
+      "timestamp": "2025-05-05 15:21"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.78141577737074e-07,
+      "timestamp": "2025-05-05 15:21"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.27419244587447e-06,
+      "timestamp": "2025-05-05 15:21"
+    },
+    {
+      "rank": 13,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 3.217168817130013e-05,
+      "timestamp": "2025-05-05 15:21"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.292169254272147e-06,
+      "timestamp": "2025-05-05 15:21"
+    },
+    {
+      "rank": 15,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 5.952537546016891e-07,
+      "timestamp": "2025-05-05 15:21"
+    }
   ]
 }
