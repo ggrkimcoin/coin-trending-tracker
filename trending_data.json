@@ -56815,5 +56815,112 @@
       "price_btc": 3.149605022213625e-08,
       "timestamp": "2025-05-06 19:15"
     }
+  ],
+  "2025-05-06 20:22": [
+    {
+      "rank": 1,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.7715112589107714e-05,
+      "timestamp": "2025-05-06 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.6164206992108736e-06,
+      "timestamp": "2025-05-06 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.18779009135859e-06,
+      "timestamp": "2025-05-06 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.8987426010654376e-07,
+      "timestamp": "2025-05-06 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.0265050619814366e-05,
+      "timestamp": "2025-05-06 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015248081959563888,
+      "timestamp": "2025-05-06 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.746336523437173e-06,
+      "timestamp": "2025-05-06 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.40456558469272e-05,
+      "timestamp": "2025-05-06 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5376048553012058e-05,
+      "timestamp": "2025-05-06 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 3.9851295907200275e-07,
+      "timestamp": "2025-05-06 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.124966639022559e-06,
+      "timestamp": "2025-05-06 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 8.099885119656405e-07,
+      "timestamp": "2025-05-06 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.737191021766766e-06,
+      "timestamp": "2025-05-06 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.962769290850796e-06,
+      "timestamp": "2025-05-06 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.2084473046601304e-08,
+      "timestamp": "2025-05-06 20:22"
+    }
   ]
 }
