@@ -56922,5 +56922,112 @@
       "price_btc": 3.2084473046601304e-08,
       "timestamp": "2025-05-06 20:22"
     }
+  ],
+  "2025-05-06 21:18": [
+    {
+      "rank": 1,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.7900779053720858e-05,
+      "timestamp": "2025-05-06 21:18"
+    },
+    {
+      "rank": 2,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.0042420975006585e-05,
+      "timestamp": "2025-05-06 21:18"
+    },
+    {
+      "rank": 3,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.6248548779875667e-06,
+      "timestamp": "2025-05-06 21:18"
+    },
+    {
+      "rank": 4,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.340599231761153e-08,
+      "timestamp": "2025-05-06 21:18"
+    },
+    {
+      "rank": 5,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 2.8462018496636776e-07,
+      "timestamp": "2025-05-06 21:18"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.1748173324394505e-06,
+      "timestamp": "2025-05-06 21:18"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.360113537911001e-05,
+      "timestamp": "2025-05-06 21:18"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038135174760873256,
+      "timestamp": "2025-05-06 21:18"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5128118292178151e-05,
+      "timestamp": "2025-05-06 21:18"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001524358672619769,
+      "timestamp": "2025-05-06 21:18"
+    },
+    {
+      "rank": 11,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 8.423910316112456e-07,
+      "timestamp": "2025-05-06 21:18"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.92106545593235e-06,
+      "timestamp": "2025-05-06 21:18"
+    },
+    {
+      "rank": 13,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.752038917883911e-06,
+      "timestamp": "2025-05-06 21:18"
+    },
+    {
+      "rank": 14,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.378061659480494e-07,
+      "timestamp": "2025-05-06 21:18"
+    },
+    {
+      "rank": 15,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.053069730209944e-06,
+      "timestamp": "2025-05-06 21:18"
+    }
   ]
 }
