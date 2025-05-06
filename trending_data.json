@@ -56173,5 +56173,112 @@
       "price_btc": 6.170697052969875e-06,
       "timestamp": "2025-05-06 13:32"
     }
+  ],
+  "2025-05-06 14:20": [
+    {
+      "rank": 1,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.7461050094300348e-06,
+      "timestamp": "2025-05-06 14:20"
+    },
+    {
+      "rank": 2,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.0875308395763553e-05,
+      "timestamp": "2025-05-06 14:20"
+    },
+    {
+      "rank": 3,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.8908230746142115e-05,
+      "timestamp": "2025-05-06 14:20"
+    },
+    {
+      "rank": 4,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.241212730150763e-06,
+      "timestamp": "2025-05-06 14:20"
+    },
+    {
+      "rank": 5,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.883537466267686e-07,
+      "timestamp": "2025-05-06 14:20"
+    },
+    {
+      "rank": 6,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.784030952566461e-06,
+      "timestamp": "2025-05-06 14:20"
+    },
+    {
+      "rank": 7,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 9.408310684670715e-07,
+      "timestamp": "2025-05-06 14:20"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.541404026032762e-05,
+      "timestamp": "2025-05-06 14:20"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.432844292127162e-05,
+      "timestamp": "2025-05-06 14:20"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01878875260650505,
+      "timestamp": "2025-05-06 14:20"
+    },
+    {
+      "rank": 11,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 4.4532503269189183e-07,
+      "timestamp": "2025-05-06 14:20"
+    },
+    {
+      "rank": 12,
+      "name": "SQD",
+      "symbol": "SQD",
+      "price_btc": 2.6493338025836233e-06,
+      "timestamp": "2025-05-06 14:20"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003799855055249852,
+      "timestamp": "2025-05-06 14:20"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.7984637227778035e-06,
+      "timestamp": "2025-05-06 14:20"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002109943703840164,
+      "timestamp": "2025-05-06 14:20"
+    }
   ]
 }
