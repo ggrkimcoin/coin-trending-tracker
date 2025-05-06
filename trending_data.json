@@ -56387,5 +56387,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-05-06 15:27"
     }
+  ],
+  "2025-05-06 16:24": [
+    {
+      "rank": 1,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.4952893545646963e-06,
+      "timestamp": "2025-05-06 16:24"
+    },
+    {
+      "rank": 2,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.6563106295529438e-06,
+      "timestamp": "2025-05-06 16:24"
+    },
+    {
+      "rank": 3,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.866150166142355e-07,
+      "timestamp": "2025-05-06 16:24"
+    },
+    {
+      "rank": 4,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.7657744732368526e-06,
+      "timestamp": "2025-05-06 16:24"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5815278779166286e-05,
+      "timestamp": "2025-05-06 16:24"
+    },
+    {
+      "rank": 6,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.7910508192541532e-05,
+      "timestamp": "2025-05-06 16:24"
+    },
+    {
+      "rank": 7,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 8.06616682353395e-07,
+      "timestamp": "2025-05-06 16:24"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-06 16:24"
+    },
+    {
+      "rank": 9,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.8727895573957605e-05,
+      "timestamp": "2025-05-06 16:24"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4092002464820596e-05,
+      "timestamp": "2025-05-06 16:24"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00151094105763964,
+      "timestamp": "2025-05-06 16:24"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1633061620053981e-05,
+      "timestamp": "2025-05-06 16:24"
+    },
+    {
+      "rank": 13,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.0875844700160575e-06,
+      "timestamp": "2025-05-06 16:24"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038170054317286798,
+      "timestamp": "2025-05-06 16:24"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.903684918016533e-06,
+      "timestamp": "2025-05-06 16:24"
+    }
   ]
 }
