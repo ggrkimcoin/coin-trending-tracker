@@ -57136,5 +57136,112 @@
       "price_btc": 2.8937849847069453e-07,
       "timestamp": "2025-05-06 22:19"
     }
+  ],
+  "2025-05-06 23:18": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.912374962007618e-07,
+      "timestamp": "2025-05-06 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.7400551352816379e-06,
+      "timestamp": "2025-05-06 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5977708501277236e-06,
+      "timestamp": "2025-05-06 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.0009853510020046e-05,
+      "timestamp": "2025-05-06 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.8487883101153152e-05,
+      "timestamp": "2025-05-06 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4601916616578405e-05,
+      "timestamp": "2025-05-06 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.570915430626448e-05,
+      "timestamp": "2025-05-06 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-06 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1186939497971242e-05,
+      "timestamp": "2025-05-06 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003849199417595901,
+      "timestamp": "2025-05-06 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.18017341831945e-06,
+      "timestamp": "2025-05-06 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2285924117923688e-05,
+      "timestamp": "2025-05-06 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.055338815653329e-06,
+      "timestamp": "2025-05-06 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015163128633009103,
+      "timestamp": "2025-05-06 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01877105805275503,
+      "timestamp": "2025-05-06 23:18"
+    }
   ]
 }
