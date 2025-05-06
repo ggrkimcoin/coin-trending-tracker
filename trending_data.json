@@ -55852,5 +55852,112 @@
       "price_btc": 0.00011344822198140936,
       "timestamp": "2025-05-06 10:22"
     }
+  ],
+  "2025-05-06 11:16": [
+    {
+      "rank": 1,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.0595354833091395e-05,
+      "timestamp": "2025-05-06 11:16"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.9245463215986426e-07,
+      "timestamp": "2025-05-06 11:16"
+    },
+    {
+      "rank": 3,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.7850932938896901e-06,
+      "timestamp": "2025-05-06 11:16"
+    },
+    {
+      "rank": 4,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 6.686742173650512e-06,
+      "timestamp": "2025-05-06 11:16"
+    },
+    {
+      "rank": 5,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 4.5351778677025266e-07,
+      "timestamp": "2025-05-06 11:16"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.453421424084437e-05,
+      "timestamp": "2025-05-06 11:16"
+    },
+    {
+      "rank": 7,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.0499587439236832e-05,
+      "timestamp": "2025-05-06 11:16"
+    },
+    {
+      "rank": 8,
+      "name": "MilkyWay",
+      "symbol": "MILK",
+      "price_btc": 1.3341362902658265e-06,
+      "timestamp": "2025-05-06 11:16"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.743491178438846e-05,
+      "timestamp": "2025-05-06 11:16"
+    },
+    {
+      "rank": 10,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 4.629274251677665e-07,
+      "timestamp": "2025-05-06 11:16"
+    },
+    {
+      "rank": 11,
+      "name": "Jager Hunter",
+      "symbol": "JAGER",
+      "price_btc": 2.470861699099015e-14,
+      "timestamp": "2025-05-06 11:16"
+    },
+    {
+      "rank": 12,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.220416465425357e-06,
+      "timestamp": "2025-05-06 11:16"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015240477873801192,
+      "timestamp": "2025-05-06 11:16"
+    },
+    {
+      "rank": 14,
+      "name": "IOTA",
+      "symbol": "IOTA",
+      "price_btc": 2.029964431857104e-06,
+      "timestamp": "2025-05-06 11:16"
+    },
+    {
+      "rank": 15,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.957363359309428e-06,
+      "timestamp": "2025-05-06 11:16"
+    }
   ]
 }
