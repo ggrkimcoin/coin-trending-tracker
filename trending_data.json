@@ -57029,5 +57029,112 @@
       "price_btc": 4.053069730209944e-06,
       "timestamp": "2025-05-06 21:18"
     }
+  ],
+  "2025-05-06 22:19": [
+    {
+      "rank": 1,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.8911764179868448e-05,
+      "timestamp": "2025-05-06 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.6159094292350953e-06,
+      "timestamp": "2025-05-06 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.381415163593018e-05,
+      "timestamp": "2025-05-06 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1675573322526542e-07,
+      "timestamp": "2025-05-06 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.0053476922561646e-05,
+      "timestamp": "2025-05-06 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038203454846806022,
+      "timestamp": "2025-05-06 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.531898696547651e-05,
+      "timestamp": "2025-05-06 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0904670382118122e-05,
+      "timestamp": "2025-05-06 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.149097012712416e-06,
+      "timestamp": "2025-05-06 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.067980175467431e-06,
+      "timestamp": "2025-05-06 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011468392251189351,
+      "timestamp": "2025-05-06 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001531430360131918,
+      "timestamp": "2025-05-06 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2443718282737706e-05,
+      "timestamp": "2025-05-06 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 2.0727059193220378e-08,
+      "timestamp": "2025-05-06 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.8937849847069453e-07,
+      "timestamp": "2025-05-06 22:19"
+    }
   ]
 }
