@@ -55745,5 +55745,112 @@
       "price_btc": 0.0002124461715284494,
       "timestamp": "2025-05-06 09:22"
     }
+  ],
+  "2025-05-06 10:22": [
+    {
+      "rank": 1,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.0812712164655322e-05,
+      "timestamp": "2025-05-06 10:22"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.2514754865912985e-06,
+      "timestamp": "2025-05-06 10:22"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.484769984352747e-05,
+      "timestamp": "2025-05-06 10:22"
+    },
+    {
+      "rank": 4,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 4.678230348787578e-07,
+      "timestamp": "2025-05-06 10:22"
+    },
+    {
+      "rank": 5,
+      "name": "MilkyWay",
+      "symbol": "MILK",
+      "price_btc": 1.3896474554375837e-06,
+      "timestamp": "2025-05-06 10:22"
+    },
+    {
+      "rank": 6,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 4.439277077792022e-07,
+      "timestamp": "2025-05-06 10:22"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7656951879661564e-05,
+      "timestamp": "2025-05-06 10:22"
+    },
+    {
+      "rank": 8,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.15204842480907e-08,
+      "timestamp": "2025-05-06 10:22"
+    },
+    {
+      "rank": 9,
+      "name": "Jager Hunter",
+      "symbol": "JAGER",
+      "price_btc": 1.9804255912470886e-14,
+      "timestamp": "2025-05-06 10:22"
+    },
+    {
+      "rank": 10,
+      "name": "BSquared Network",
+      "symbol": "B2",
+      "price_btc": 7.415431354512043e-06,
+      "timestamp": "2025-05-06 10:22"
+    },
+    {
+      "rank": 11,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 6.812581803751545e-06,
+      "timestamp": "2025-05-06 10:22"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.0373467193306786e-05,
+      "timestamp": "2025-05-06 10:22"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015307877090842159,
+      "timestamp": "2025-05-06 10:22"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.7897821950193317e-06,
+      "timestamp": "2025-05-06 10:22"
+    },
+    {
+      "rank": 15,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011344822198140936,
+      "timestamp": "2025-05-06 10:22"
+    }
   ]
 }
