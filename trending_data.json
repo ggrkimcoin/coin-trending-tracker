@@ -55959,5 +55959,112 @@
       "price_btc": 5.957363359309428e-06,
       "timestamp": "2025-05-06 11:16"
     }
+  ],
+  "2025-05-06 12:42": [
+    {
+      "rank": 1,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.228055779820426e-06,
+      "timestamp": "2025-05-06 12:42"
+    },
+    {
+      "rank": 2,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 9.346538511145658e-07,
+      "timestamp": "2025-05-06 12:42"
+    },
+    {
+      "rank": 3,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.7440589667842534e-06,
+      "timestamp": "2025-05-06 12:42"
+    },
+    {
+      "rank": 4,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.0489765796957202e-05,
+      "timestamp": "2025-05-06 12:42"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5338216561060518e-05,
+      "timestamp": "2025-05-06 12:42"
+    },
+    {
+      "rank": 6,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.8902943432049387e-07,
+      "timestamp": "2025-05-06 12:42"
+    },
+    {
+      "rank": 7,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.789765670413779e-06,
+      "timestamp": "2025-05-06 12:42"
+    },
+    {
+      "rank": 8,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 4.379871949041081e-07,
+      "timestamp": "2025-05-06 12:42"
+    },
+    {
+      "rank": 9,
+      "name": "SyrupUSDC",
+      "symbol": "SYRUPUSDC",
+      "price_btc": 1.1710924783766936e-05,
+      "timestamp": "2025-05-06 12:42"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4008230332995675e-05,
+      "timestamp": "2025-05-06 12:42"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018897534674360384,
+      "timestamp": "2025-05-06 12:42"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.045554207751877e-05,
+      "timestamp": "2025-05-06 12:42"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00020901212898104303,
+      "timestamp": "2025-05-06 12:42"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015214900040170106,
+      "timestamp": "2025-05-06 12:42"
+    },
+    {
+      "rank": 15,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.107600992582632e-08,
+      "timestamp": "2025-05-06 12:42"
+    }
   ]
 }
