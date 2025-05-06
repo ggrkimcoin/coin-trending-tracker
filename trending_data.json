@@ -56601,5 +56601,112 @@
       "price_btc": 2.6797449735116913e-06,
       "timestamp": "2025-05-06 17:17"
     }
+  ],
+  "2025-05-06 18:28": [
+    {
+      "rank": 1,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.623194621412766e-06,
+      "timestamp": "2025-05-06 18:28"
+    },
+    {
+      "rank": 2,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.2631520246888477e-06,
+      "timestamp": "2025-05-06 18:28"
+    },
+    {
+      "rank": 3,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.792280973480057e-05,
+      "timestamp": "2025-05-06 18:28"
+    },
+    {
+      "rank": 4,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.8953422287206837e-07,
+      "timestamp": "2025-05-06 18:28"
+    },
+    {
+      "rank": 5,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.7436272717534325e-06,
+      "timestamp": "2025-05-06 18:28"
+    },
+    {
+      "rank": 6,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.0178397758679948e-05,
+      "timestamp": "2025-05-06 18:28"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.387436107830989e-05,
+      "timestamp": "2025-05-06 18:28"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5443060867155633e-05,
+      "timestamp": "2025-05-06 18:28"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038022297400454952,
+      "timestamp": "2025-05-06 18:28"
+    },
+    {
+      "rank": 10,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011471795343542033,
+      "timestamp": "2025-05-06 18:28"
+    },
+    {
+      "rank": 11,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 7.881452940858343e-07,
+      "timestamp": "2025-05-06 18:28"
+    },
+    {
+      "rank": 12,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.1158206523114e-06,
+      "timestamp": "2025-05-06 18:28"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015200453724704109,
+      "timestamp": "2025-05-06 18:28"
+    },
+    {
+      "rank": 14,
+      "name": "Solana Name Service",
+      "symbol": "FIDA",
+      "price_btc": 6.580296692543095e-07,
+      "timestamp": "2025-05-06 18:28"
+    },
+    {
+      "rank": 15,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.559302314658235e-07,
+      "timestamp": "2025-05-06 18:28"
+    }
   ]
 }
