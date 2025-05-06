@@ -55424,5 +55424,112 @@
       "price_btc": 2.807481522202278e-06,
       "timestamp": "2025-05-06 06:29"
     }
+  ],
+  "2025-05-06 07:20": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2606601342225819e-07,
+      "timestamp": "2025-05-06 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.635946958555055e-05,
+      "timestamp": "2025-05-06 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.316570042270751e-06,
+      "timestamp": "2025-05-06 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.580096134500182e-05,
+      "timestamp": "2025-05-06 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.270539150438668e-08,
+      "timestamp": "2025-05-06 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.155471474657762e-05,
+      "timestamp": "2025-05-06 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.782732812426854e-05,
+      "timestamp": "2025-05-06 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.225701585675026e-06,
+      "timestamp": "2025-05-06 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003923056025388689,
+      "timestamp": "2025-05-06 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019103724363627866,
+      "timestamp": "2025-05-06 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011614948630780146,
+      "timestamp": "2025-05-06 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0015462330608042e-06,
+      "timestamp": "2025-05-06 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 4.757289572281686e-07,
+      "timestamp": "2025-05-06 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "Akash Network",
+      "symbol": "AKT",
+      "price_btc": 1.675436894054039e-05,
+      "timestamp": "2025-05-06 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "MemeFi",
+      "symbol": "MEMEFI",
+      "price_btc": 6.592744130048044e-08,
+      "timestamp": "2025-05-06 07:20"
+    }
   ]
 }
