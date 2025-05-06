@@ -55317,5 +55317,112 @@
       "price_btc": 1.7568296888303284e-05,
       "timestamp": "2025-05-06 05:20"
     }
+  ],
+  "2025-05-06 06:29": [
+    {
+      "rank": 1,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.160144743006964e-08,
+      "timestamp": "2025-05-06 06:29"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2680407241784953e-07,
+      "timestamp": "2025-05-06 06:29"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.410207653390334e-06,
+      "timestamp": "2025-05-06 06:29"
+    },
+    {
+      "rank": 4,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.1627755027958985e-05,
+      "timestamp": "2025-05-06 06:29"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.560104440565254e-05,
+      "timestamp": "2025-05-06 06:29"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.752719574436607e-05,
+      "timestamp": "2025-05-06 06:29"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003949521730544393,
+      "timestamp": "2025-05-06 06:29"
+    },
+    {
+      "rank": 8,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.002989310899957285,
+      "timestamp": "2025-05-06 06:29"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.033034625004695e-06,
+      "timestamp": "2025-05-06 06:29"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.405550162576345e-11,
+      "timestamp": "2025-05-06 06:29"
+    },
+    {
+      "rank": 11,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.8448857355581853e-05,
+      "timestamp": "2025-05-06 06:29"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019076902711482203,
+      "timestamp": "2025-05-06 06:29"
+    },
+    {
+      "rank": 13,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.871785154378287e-06,
+      "timestamp": "2025-05-06 06:29"
+    },
+    {
+      "rank": 14,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014318831998332688,
+      "timestamp": "2025-05-06 06:29"
+    },
+    {
+      "rank": 15,
+      "name": "Particle Network",
+      "symbol": "PARTI",
+      "price_btc": 2.807481522202278e-06,
+      "timestamp": "2025-05-06 06:29"
+    }
   ]
 }
