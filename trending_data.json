@@ -56708,5 +56708,112 @@
       "price_btc": 9.559302314658235e-07,
       "timestamp": "2025-05-06 18:28"
     }
+  ],
+  "2025-05-06 19:15": [
+    {
+      "rank": 1,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.8248447525547235e-05,
+      "timestamp": "2025-05-06 19:15"
+    },
+    {
+      "rank": 2,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.180744494551374e-06,
+      "timestamp": "2025-05-06 19:15"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4176489885165764e-05,
+      "timestamp": "2025-05-06 19:15"
+    },
+    {
+      "rank": 4,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.0042350486820757e-05,
+      "timestamp": "2025-05-06 19:15"
+    },
+    {
+      "rank": 5,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.610953597352552e-06,
+      "timestamp": "2025-05-06 19:15"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038588370024708243,
+      "timestamp": "2025-05-06 19:15"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.965114050845584e-06,
+      "timestamp": "2025-05-06 19:15"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015224206575070657,
+      "timestamp": "2025-05-06 19:15"
+    },
+    {
+      "rank": 9,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.7742003009964083e-06,
+      "timestamp": "2025-05-06 19:15"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021650602277326913,
+      "timestamp": "2025-05-06 19:15"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5716585240504018e-05,
+      "timestamp": "2025-05-06 19:15"
+    },
+    {
+      "rank": 12,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.108197258658409e-06,
+      "timestamp": "2025-05-06 19:15"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2496615509942293e-05,
+      "timestamp": "2025-05-06 19:15"
+    },
+    {
+      "rank": 14,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 2.4999395887187065e-05,
+      "timestamp": "2025-05-06 19:15"
+    },
+    {
+      "rank": 15,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.149605022213625e-08,
+      "timestamp": "2025-05-06 19:15"
+    }
   ]
 }
