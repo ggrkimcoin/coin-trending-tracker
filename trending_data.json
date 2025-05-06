@@ -54996,5 +54996,112 @@
       "price_btc": 2.2512166352373493e-05,
       "timestamp": "2025-05-06 01:42"
     }
+  ],
+  "2025-05-06 03:08": [
+    {
+      "rank": 1,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.334653619786672e-08,
+      "timestamp": "2025-05-06 03:08"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-06 03:08"
+    },
+    {
+      "rank": 3,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.7934742206126806e-06,
+      "timestamp": "2025-05-06 03:08"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000212606191355787,
+      "timestamp": "2025-05-06 03:08"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5116707108661955e-05,
+      "timestamp": "2025-05-06 03:08"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019094978315209007,
+      "timestamp": "2025-05-06 03:08"
+    },
+    {
+      "rank": 7,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.222870029649109e-05,
+      "timestamp": "2025-05-06 03:08"
+    },
+    {
+      "rank": 8,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 2.9572047771996846e-05,
+      "timestamp": "2025-05-06 03:08"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.115784286440384e-06,
+      "timestamp": "2025-05-06 03:08"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2332878240248553e-05,
+      "timestamp": "2025-05-06 03:08"
+    },
+    {
+      "rank": 11,
+      "name": "Pundi X",
+      "symbol": "PUNDIX",
+      "price_btc": 5.265272957402529e-06,
+      "timestamp": "2025-05-06 03:08"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001530361922113437,
+      "timestamp": "2025-05-06 03:08"
+    },
+    {
+      "rank": 13,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001427957019586499,
+      "timestamp": "2025-05-06 03:08"
+    },
+    {
+      "rank": 14,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.8456955352643539e-06,
+      "timestamp": "2025-05-06 03:08"
+    },
+    {
+      "rank": 15,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.866418937749238e-07,
+      "timestamp": "2025-05-06 03:08"
+    }
   ]
 }
