@@ -54889,5 +54889,112 @@
       "price_btc": 0.0002082948411087915,
       "timestamp": "2025-05-05 23:18"
     }
+  ],
+  "2025-05-06 01:42": [
+    {
+      "rank": 1,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0050606586106215e-06,
+      "timestamp": "2025-05-06 01:42"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015388503789302635,
+      "timestamp": "2025-05-06 01:42"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003949179093872736,
+      "timestamp": "2025-05-06 01:42"
+    },
+    {
+      "rank": 4,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.182653413897155e-08,
+      "timestamp": "2025-05-06 01:42"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.771018764272735e-05,
+      "timestamp": "2025-05-06 01:42"
+    },
+    {
+      "rank": 6,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.4254032074914986e-06,
+      "timestamp": "2025-05-06 01:42"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.201825206083417e-06,
+      "timestamp": "2025-05-06 01:42"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.569057877535893e-05,
+      "timestamp": "2025-05-06 01:42"
+    },
+    {
+      "rank": 9,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.212591970012828e-06,
+      "timestamp": "2025-05-06 01:42"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019160660656696395,
+      "timestamp": "2025-05-06 01:42"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 2.0512749072628737e-08,
+      "timestamp": "2025-05-06 01:42"
+    },
+    {
+      "rank": 12,
+      "name": "Turbo",
+      "symbol": "TURBO",
+      "price_btc": 5.653287256091861e-08,
+      "timestamp": "2025-05-06 01:42"
+    },
+    {
+      "rank": 13,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.8716791680696562e-06,
+      "timestamp": "2025-05-06 01:42"
+    },
+    {
+      "rank": 14,
+      "name": "Akash Network",
+      "symbol": "AKT",
+      "price_btc": 1.801497625583471e-05,
+      "timestamp": "2025-05-06 01:42"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2512166352373493e-05,
+      "timestamp": "2025-05-06 01:42"
+    }
   ]
 }
