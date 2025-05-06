@@ -55210,5 +55210,112 @@
       "price_btc": 7.005719729637102e-06,
       "timestamp": "2025-05-06 04:24"
     }
+  ],
+  "2025-05-06 05:20": [
+    {
+      "rank": 1,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.3957059902356236e-08,
+      "timestamp": "2025-05-06 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.188022161867037e-05,
+      "timestamp": "2025-05-06 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 9.381092896037573e-06,
+      "timestamp": "2025-05-06 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003984133114497228,
+      "timestamp": "2025-05-06 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.574103894028129e-05,
+      "timestamp": "2025-05-06 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015335435580435639,
+      "timestamp": "2025-05-06 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2452620926246903e-05,
+      "timestamp": "2025-05-06 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.241400533671479e-06,
+      "timestamp": "2025-05-06 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2412679635353918e-07,
+      "timestamp": "2025-05-06 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011622860230189437,
+      "timestamp": "2025-05-06 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.433510811450433e-06,
+      "timestamp": "2025-05-06 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 4.6331135232456595e-05,
+      "timestamp": "2025-05-06 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 4.821156400320817e-07,
+      "timestamp": "2025-05-06 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019107076729361162,
+      "timestamp": "2025-05-06 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7568296888303284e-05,
+      "timestamp": "2025-05-06 05:20"
+    }
   ]
 }
