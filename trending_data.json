@@ -56066,5 +56066,112 @@
       "price_btc": 3.107600992582632e-08,
       "timestamp": "2025-05-06 12:42"
     }
+  ],
+  "2025-05-06 13:32": [
+    {
+      "rank": 1,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.761608167316229e-06,
+      "timestamp": "2025-05-06 13:32"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.9003525748081155e-07,
+      "timestamp": "2025-05-06 13:32"
+    },
+    {
+      "rank": 3,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.782215133570677e-06,
+      "timestamp": "2025-05-06 13:32"
+    },
+    {
+      "rank": 4,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.279802792020556e-06,
+      "timestamp": "2025-05-06 13:32"
+    },
+    {
+      "rank": 5,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.9505618630607767e-05,
+      "timestamp": "2025-05-06 13:32"
+    },
+    {
+      "rank": 6,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 9.207023037724084e-07,
+      "timestamp": "2025-05-06 13:32"
+    },
+    {
+      "rank": 7,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.9211989320345937e-05,
+      "timestamp": "2025-05-06 13:32"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5250779977382796e-05,
+      "timestamp": "2025-05-06 13:32"
+    },
+    {
+      "rank": 9,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 4.4272095710114427e-07,
+      "timestamp": "2025-05-06 13:32"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.414732926521898e-05,
+      "timestamp": "2025-05-06 13:32"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01885396912991262,
+      "timestamp": "2025-05-06 13:32"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038029560028088414,
+      "timestamp": "2025-05-06 13:32"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-06 13:32"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001518781229366923,
+      "timestamp": "2025-05-06 13:32"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.170697052969875e-06,
+      "timestamp": "2025-05-06 13:32"
+    }
   ]
 }
