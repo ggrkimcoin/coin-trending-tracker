@@ -59169,5 +59169,112 @@
       "price_btc": 1.6353484157308397e-06,
       "timestamp": "2025-05-07 19:17"
     }
+  ],
+  "2025-05-07 20:22": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.388253490714395e-05,
+      "timestamp": "2025-05-07 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.9677676677729165e-07,
+      "timestamp": "2025-05-07 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "Obol",
+      "symbol": "OBOL",
+      "price_btc": 2.916908132926178e-06,
+      "timestamp": "2025-05-07 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.4648869012430095e-05,
+      "timestamp": "2025-05-07 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.384693544019382e-05,
+      "timestamp": "2025-05-07 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015143761252558007,
+      "timestamp": "2025-05-07 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.794943142205348e-07,
+      "timestamp": "2025-05-07 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.3582742565819548e-05,
+      "timestamp": "2025-05-07 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.95984030165363e-06,
+      "timestamp": "2025-05-07 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.751445779735525e-06,
+      "timestamp": "2025-05-07 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.785325277675406e-06,
+      "timestamp": "2025-05-07 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 6.882071275300092e-06,
+      "timestamp": "2025-05-07 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "Beam",
+      "symbol": "BEAM",
+      "price_btc": 7.453395642530836e-08,
+      "timestamp": "2025-05-07 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.240508080647949e-08,
+      "timestamp": "2025-05-07 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1946362148149674e-05,
+      "timestamp": "2025-05-07 20:22"
+    }
   ]
 }
