@@ -57671,5 +57671,112 @@
       "price_btc": 8.132494996740534e-06,
       "timestamp": "2025-05-07 05:20"
     }
+  ],
+  "2025-05-07 06:29": [
+    {
+      "rank": 1,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.1821861973456471e-05,
+      "timestamp": "2025-05-07 06:29"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4989255980556095e-05,
+      "timestamp": "2025-05-07 06:29"
+    },
+    {
+      "rank": 3,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.500488889721083e-06,
+      "timestamp": "2025-05-07 06:29"
+    },
+    {
+      "rank": 4,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.804608803413859e-05,
+      "timestamp": "2025-05-07 06:29"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015115016392938864,
+      "timestamp": "2025-05-07 06:29"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.155192989059446e-07,
+      "timestamp": "2025-05-07 06:29"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.963703870315864e-06,
+      "timestamp": "2025-05-07 06:29"
+    },
+    {
+      "rank": 8,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.994143992886248e-06,
+      "timestamp": "2025-05-07 06:29"
+    },
+    {
+      "rank": 9,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 8.09258810151981e-07,
+      "timestamp": "2025-05-07 06:29"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4901278260367818e-05,
+      "timestamp": "2025-05-07 06:29"
+    },
+    {
+      "rank": 11,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.6490729299870839e-06,
+      "timestamp": "2025-05-07 06:29"
+    },
+    {
+      "rank": 12,
+      "name": "STP",
+      "symbol": "STPT",
+      "price_btc": 7.376922355711458e-07,
+      "timestamp": "2025-05-07 06:29"
+    },
+    {
+      "rank": 13,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.9898599503352015e-05,
+      "timestamp": "2025-05-07 06:29"
+    },
+    {
+      "rank": 14,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 6.162875295957502e-06,
+      "timestamp": "2025-05-07 06:29"
+    },
+    {
+      "rank": 15,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 3.688767573064317e-07,
+      "timestamp": "2025-05-07 06:29"
+    }
   ]
 }
