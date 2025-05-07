@@ -59490,5 +59490,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-05-07 22:19"
     }
+  ],
+  "2025-05-07 23:18": [
+    {
+      "rank": 1,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.5372729450386766e-05,
+      "timestamp": "2025-05-07 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001519149133057542,
+      "timestamp": "2025-05-07 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4423416932783565e-05,
+      "timestamp": "2025-05-07 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.041428819871768e-07,
+      "timestamp": "2025-05-07 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.464115460477093e-05,
+      "timestamp": "2025-05-07 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018689818014216826,
+      "timestamp": "2025-05-07 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-07 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.3432075828286592e-05,
+      "timestamp": "2025-05-07 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "Obol",
+      "symbol": "OBOL",
+      "price_btc": 2.8498689577859216e-06,
+      "timestamp": "2025-05-07 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.66183312766202e-06,
+      "timestamp": "2025-05-07 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021822643466827776,
+      "timestamp": "2025-05-07 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.981176286602345e-06,
+      "timestamp": "2025-05-07 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 4.653602556904636e-06,
+      "timestamp": "2025-05-07 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.5616978780144917e-05,
+      "timestamp": "2025-05-07 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.498167109562336e-11,
+      "timestamp": "2025-05-07 23:18"
+    }
   ]
 }
