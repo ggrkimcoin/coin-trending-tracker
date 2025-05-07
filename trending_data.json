@@ -57992,5 +57992,112 @@
       "price_btc": 0.003796223929294848,
       "timestamp": "2025-05-07 08:28"
     }
+  ],
+  "2025-05-07 09:22": [
+    {
+      "rank": 1,
+      "name": "Lumia",
+      "symbol": "LUMIA",
+      "price_btc": 3.5393431157275733e-06,
+      "timestamp": "2025-05-07 09:22"
+    },
+    {
+      "rank": 2,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.6299841707071444e-06,
+      "timestamp": "2025-05-07 09:22"
+    },
+    {
+      "rank": 3,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.568195945215539e-06,
+      "timestamp": "2025-05-07 09:22"
+    },
+    {
+      "rank": 4,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 2.1823302990990944e-05,
+      "timestamp": "2025-05-07 09:22"
+    },
+    {
+      "rank": 5,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.2038120822594863e-05,
+      "timestamp": "2025-05-07 09:22"
+    },
+    {
+      "rank": 6,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.0237892722296065e-05,
+      "timestamp": "2025-05-07 09:22"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4757953021043542e-05,
+      "timestamp": "2025-05-07 09:22"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5173999202774574e-05,
+      "timestamp": "2025-05-07 09:22"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.5128849119592023e-06,
+      "timestamp": "2025-05-07 09:22"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002203456579697733,
+      "timestamp": "2025-05-07 09:22"
+    },
+    {
+      "rank": 11,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1786451246358365e-07,
+      "timestamp": "2025-05-07 09:22"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018981634836149716,
+      "timestamp": "2025-05-07 09:22"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0600395353601265e-05,
+      "timestamp": "2025-05-07 09:22"
+    },
+    {
+      "rank": 14,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.871603707747472e-05,
+      "timestamp": "2025-05-07 09:22"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.8051677989272852e-06,
+      "timestamp": "2025-05-07 09:22"
+    }
   ]
 }
