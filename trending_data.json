@@ -57885,5 +57885,112 @@
       "price_btc": 6.01666558763994e-06,
       "timestamp": "2025-05-07 07:20"
     }
+  ],
+  "2025-05-07 08:28": [
+    {
+      "rank": 1,
+      "name": "Lumia",
+      "symbol": "LUMIA",
+      "price_btc": 3.6231749332551466e-06,
+      "timestamp": "2025-05-07 08:28"
+    },
+    {
+      "rank": 2,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5541644471069713e-06,
+      "timestamp": "2025-05-07 08:28"
+    },
+    {
+      "rank": 3,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.9967573604439584e-05,
+      "timestamp": "2025-05-07 08:28"
+    },
+    {
+      "rank": 4,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.3910925866488665e-06,
+      "timestamp": "2025-05-07 08:28"
+    },
+    {
+      "rank": 5,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 2.1798859449319384e-05,
+      "timestamp": "2025-05-07 08:28"
+    },
+    {
+      "rank": 6,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.173630723920335e-05,
+      "timestamp": "2025-05-07 08:28"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4998539887424747e-05,
+      "timestamp": "2025-05-07 08:28"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4985777355767475e-05,
+      "timestamp": "2025-05-07 08:28"
+    },
+    {
+      "rank": 9,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.6776564767925462e-06,
+      "timestamp": "2025-05-07 08:28"
+    },
+    {
+      "rank": 10,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.353608460011879e-08,
+      "timestamp": "2025-05-07 08:28"
+    },
+    {
+      "rank": 11,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.8994803812485958e-05,
+      "timestamp": "2025-05-07 08:28"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.982347330219757e-06,
+      "timestamp": "2025-05-07 08:28"
+    },
+    {
+      "rank": 13,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2065217800196805e-07,
+      "timestamp": "2025-05-07 08:28"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0501643085288175e-05,
+      "timestamp": "2025-05-07 08:28"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003796223929294848,
+      "timestamp": "2025-05-07 08:28"
+    }
   ]
 }
