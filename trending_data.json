@@ -57564,5 +57564,112 @@
       "price_btc": 0.0029305090282986212,
       "timestamp": "2025-05-07 04:24"
     }
+  ],
+  "2025-05-07 05:20": [
+    {
+      "rank": 1,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.1624048184668518e-05,
+      "timestamp": "2025-05-07 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.2731816411593806e-06,
+      "timestamp": "2025-05-07 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.6180141977778722e-06,
+      "timestamp": "2025-05-07 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.503087498108271e-05,
+      "timestamp": "2025-05-07 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0716398241177725e-05,
+      "timestamp": "2025-05-07 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.9842134043940437e-05,
+      "timestamp": "2025-05-07 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.8843565348657922e-05,
+      "timestamp": "2025-05-07 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1683393852634418e-07,
+      "timestamp": "2025-05-07 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.510867080510799e-05,
+      "timestamp": "2025-05-07 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.010500776211765e-06,
+      "timestamp": "2025-05-07 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.7988214880714873e-06,
+      "timestamp": "2025-05-07 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001132683222084231,
+      "timestamp": "2025-05-07 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.002957616435748094,
+      "timestamp": "2025-05-07 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Supra",
+      "symbol": "SUPRA",
+      "price_btc": 7.359444401485244e-08,
+      "timestamp": "2025-05-07 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "Eigenlayer",
+      "symbol": "EIGEN",
+      "price_btc": 8.132494996740534e-06,
+      "timestamp": "2025-05-07 05:20"
+    }
   ]
 }
