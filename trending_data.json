@@ -59276,5 +59276,112 @@
       "price_btc": 2.1946362148149674e-05,
       "timestamp": "2025-05-07 20:22"
     }
+  ],
+  "2025-05-07 21:17": [
+    {
+      "rank": 1,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.8104001591653964e-06,
+      "timestamp": "2025-05-07 21:17"
+    },
+    {
+      "rank": 2,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.3761974276728922e-05,
+      "timestamp": "2025-05-07 21:17"
+    },
+    {
+      "rank": 3,
+      "name": "Mog Coin",
+      "symbol": "MOG",
+      "price_btc": 7.824429003777989e-12,
+      "timestamp": "2025-05-07 21:17"
+    },
+    {
+      "rank": 4,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.379492503018515e-05,
+      "timestamp": "2025-05-07 21:17"
+    },
+    {
+      "rank": 5,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.4378215556507284e-07,
+      "timestamp": "2025-05-07 21:17"
+    },
+    {
+      "rank": 6,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.950374566224863e-07,
+      "timestamp": "2025-05-07 21:17"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001508143327299992,
+      "timestamp": "2025-05-07 21:17"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.388903516550725e-05,
+      "timestamp": "2025-05-07 21:17"
+    },
+    {
+      "rank": 9,
+      "name": "Obol",
+      "symbol": "OBOL",
+      "price_btc": 2.7817657710362206e-06,
+      "timestamp": "2025-05-07 21:17"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.953903313437828e-06,
+      "timestamp": "2025-05-07 21:17"
+    },
+    {
+      "rank": 11,
+      "name": "IOTA",
+      "symbol": "IOTA",
+      "price_btc": 2.1162936601697304e-06,
+      "timestamp": "2025-05-07 21:17"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.144584238708356e-06,
+      "timestamp": "2025-05-07 21:17"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018559033974284947,
+      "timestamp": "2025-05-07 21:17"
+    },
+    {
+      "rank": 14,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 6.284422250669099e-07,
+      "timestamp": "2025-05-07 21:17"
+    },
+    {
+      "rank": 15,
+      "name": "Turbo",
+      "symbol": "TURBO",
+      "price_btc": 5.504775083364901e-08,
+      "timestamp": "2025-05-07 21:17"
+    }
   ]
 }
