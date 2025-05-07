@@ -58634,5 +58634,112 @@
       "price_btc": 0.0015121924218869842,
       "timestamp": "2025-05-07 14:20"
     }
+  ],
+  "2025-05-07 15:23": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.035574244740458e-07,
+      "timestamp": "2025-05-07 15:23"
+    },
+    {
+      "rank": 2,
+      "name": "Obol",
+      "symbol": "OBOL",
+      "price_btc": 3.3424170616954686e-06,
+      "timestamp": "2025-05-07 15:23"
+    },
+    {
+      "rank": 3,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.2920708360666402e-05,
+      "timestamp": "2025-05-07 15:23"
+    },
+    {
+      "rank": 4,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.0428483029150627e-05,
+      "timestamp": "2025-05-07 15:23"
+    },
+    {
+      "rank": 5,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.8469476756035572e-06,
+      "timestamp": "2025-05-07 15:23"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3948175876869244e-05,
+      "timestamp": "2025-05-07 15:23"
+    },
+    {
+      "rank": 7,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.9946735678593144e-07,
+      "timestamp": "2025-05-07 15:23"
+    },
+    {
+      "rank": 8,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.168729484668942e-06,
+      "timestamp": "2025-05-07 15:23"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00150825482818255,
+      "timestamp": "2025-05-07 15:23"
+    },
+    {
+      "rank": 10,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5611368019723565e-06,
+      "timestamp": "2025-05-07 15:23"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.429853606243831e-05,
+      "timestamp": "2025-05-07 15:23"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01879272336130396,
+      "timestamp": "2025-05-07 15:23"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1967593233118494e-05,
+      "timestamp": "2025-05-07 15:23"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037257259665521873,
+      "timestamp": "2025-05-07 15:23"
+    },
+    {
+      "rank": 15,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1286625761441985e-07,
+      "timestamp": "2025-05-07 15:23"
+    }
   ]
 }
