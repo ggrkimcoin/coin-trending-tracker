@@ -58741,5 +58741,112 @@
       "price_btc": 1.1286625761441985e-07,
       "timestamp": "2025-05-07 15:23"
     }
+  ],
+  "2025-05-07 16:27": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.768459479041047e-07,
+      "timestamp": "2025-05-07 16:27"
+    },
+    {
+      "rank": 2,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5540030263587028e-06,
+      "timestamp": "2025-05-07 16:27"
+    },
+    {
+      "rank": 3,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.8615547900851067e-06,
+      "timestamp": "2025-05-07 16:27"
+    },
+    {
+      "rank": 4,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.9847467989447053e-07,
+      "timestamp": "2025-05-07 16:27"
+    },
+    {
+      "rank": 5,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.331896255482263e-05,
+      "timestamp": "2025-05-07 16:27"
+    },
+    {
+      "rank": 6,
+      "name": "Obol",
+      "symbol": "OBOL",
+      "price_btc": 3.089124876052233e-06,
+      "timestamp": "2025-05-07 16:27"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.422863056897028e-05,
+      "timestamp": "2025-05-07 16:27"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3715787994263246e-05,
+      "timestamp": "2025-05-07 16:27"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1949095763558615e-05,
+      "timestamp": "2025-05-07 16:27"
+    },
+    {
+      "rank": 10,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.9606770554122233e-05,
+      "timestamp": "2025-05-07 16:27"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015031469037590684,
+      "timestamp": "2025-05-07 16:27"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036913269139803146,
+      "timestamp": "2025-05-07 16:27"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.1678339565371746e-06,
+      "timestamp": "2025-05-07 16:27"
+    },
+    {
+      "rank": 14,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.6362054863933071e-06,
+      "timestamp": "2025-05-07 16:27"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.830687876103516e-06,
+      "timestamp": "2025-05-07 16:27"
+    }
   ]
 }
