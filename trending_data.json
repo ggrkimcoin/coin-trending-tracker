@@ -58420,5 +58420,112 @@
       "price_btc": 8.39565173299674e-11,
       "timestamp": "2025-05-07 12:42"
     }
+  ],
+  "2025-05-07 13:33": [
+    {
+      "rank": 1,
+      "name": "Obol",
+      "symbol": "OBOL",
+      "price_btc": 3.466677429172609e-06,
+      "timestamp": "2025-05-07 13:33"
+    },
+    {
+      "rank": 2,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.411972861137891e-05,
+      "timestamp": "2025-05-07 13:33"
+    },
+    {
+      "rank": 3,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5687158972538266e-06,
+      "timestamp": "2025-05-07 13:33"
+    },
+    {
+      "rank": 4,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.965494151599912e-07,
+      "timestamp": "2025-05-07 13:33"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4106670720497248e-05,
+      "timestamp": "2025-05-07 13:33"
+    },
+    {
+      "rank": 6,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.974734934165479e-06,
+      "timestamp": "2025-05-07 13:33"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.464236205521589e-05,
+      "timestamp": "2025-05-07 13:33"
+    },
+    {
+      "rank": 8,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.081923679694292e-05,
+      "timestamp": "2025-05-07 13:33"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021875413290239437,
+      "timestamp": "2025-05-07 13:33"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1465569126994925e-07,
+      "timestamp": "2025-05-07 13:33"
+    },
+    {
+      "rank": 11,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.8697822179366734e-05,
+      "timestamp": "2025-05-07 13:33"
+    },
+    {
+      "rank": 12,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.641769660842319e-06,
+      "timestamp": "2025-05-07 13:33"
+    },
+    {
+      "rank": 13,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0029375732879132355,
+      "timestamp": "2025-05-07 13:33"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0251242295629e-05,
+      "timestamp": "2025-05-07 13:33"
+    },
+    {
+      "rank": 15,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.332219854839733e-08,
+      "timestamp": "2025-05-07 13:33"
+    }
   ]
 }
