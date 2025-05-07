@@ -58099,5 +58099,112 @@
       "price_btc": 2.8051677989272852e-06,
       "timestamp": "2025-05-07 09:22"
     }
+  ],
+  "2025-05-07 10:22": [
+    {
+      "rank": 1,
+      "name": "Lumia",
+      "symbol": "LUMIA",
+      "price_btc": 3.67214733512759e-06,
+      "timestamp": "2025-05-07 10:22"
+    },
+    {
+      "rank": 2,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5880088584189989e-06,
+      "timestamp": "2025-05-07 10:22"
+    },
+    {
+      "rank": 3,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.4224042188464855e-06,
+      "timestamp": "2025-05-07 10:22"
+    },
+    {
+      "rank": 4,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.353510540968934e-05,
+      "timestamp": "2025-05-07 10:22"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.518688100676767e-05,
+      "timestamp": "2025-05-07 10:22"
+    },
+    {
+      "rank": 6,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.6062475694607603e-06,
+      "timestamp": "2025-05-07 10:22"
+    },
+    {
+      "rank": 7,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.060990051245172e-05,
+      "timestamp": "2025-05-07 10:22"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015255525352540348,
+      "timestamp": "2025-05-07 10:22"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.453715618920423e-05,
+      "timestamp": "2025-05-07 10:22"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.064284243674266e-05,
+      "timestamp": "2025-05-07 10:22"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00022054807930846427,
+      "timestamp": "2025-05-07 10:22"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-07 10:22"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003767508013592227,
+      "timestamp": "2025-05-07 10:22"
+    },
+    {
+      "rank": 14,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 2.184307027687689e-05,
+      "timestamp": "2025-05-07 10:22"
+    },
+    {
+      "rank": 15,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 7.889035579861298e-07,
+      "timestamp": "2025-05-07 10:22"
+    }
   ]
 }
