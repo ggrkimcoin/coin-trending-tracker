@@ -57350,5 +57350,112 @@
       "price_btc": 1.0912993634060348e-05,
       "timestamp": "2025-05-07 01:42"
     }
+  ],
+  "2025-05-07 03:10": [
+    {
+      "rank": 1,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.1307538153830133e-06,
+      "timestamp": "2025-05-07 03:10"
+    },
+    {
+      "rank": 2,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.8776077116477268e-05,
+      "timestamp": "2025-05-07 03:10"
+    },
+    {
+      "rank": 3,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5805970726006414e-06,
+      "timestamp": "2025-05-07 03:10"
+    },
+    {
+      "rank": 4,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.1764461136921355e-05,
+      "timestamp": "2025-05-07 03:10"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2021107763899708e-07,
+      "timestamp": "2025-05-07 03:10"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.503865720920441e-05,
+      "timestamp": "2025-05-07 03:10"
+    },
+    {
+      "rank": 7,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.009425065964402e-05,
+      "timestamp": "2025-05-07 03:10"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5080304623008018e-05,
+      "timestamp": "2025-05-07 03:10"
+    },
+    {
+      "rank": 9,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 8.162361314395179e-07,
+      "timestamp": "2025-05-07 03:10"
+    },
+    {
+      "rank": 10,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.315393946440832e-07,
+      "timestamp": "2025-05-07 03:10"
+    },
+    {
+      "rank": 11,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 3.8751509931317103e-07,
+      "timestamp": "2025-05-07 03:10"
+    },
+    {
+      "rank": 12,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.79581907627901e-06,
+      "timestamp": "2025-05-07 03:10"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018886331246658093,
+      "timestamp": "2025-05-07 03:10"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.222520871099518e-05,
+      "timestamp": "2025-05-07 03:10"
+    },
+    {
+      "rank": 15,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.013563173033194e-06,
+      "timestamp": "2025-05-07 03:10"
+    }
   ]
 }
