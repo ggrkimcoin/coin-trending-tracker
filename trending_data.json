@@ -59383,5 +59383,112 @@
       "price_btc": 5.504775083364901e-08,
       "timestamp": "2025-05-07 21:17"
     }
+  ],
+  "2025-05-07 22:19": [
+    {
+      "rank": 1,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.0024214239433315e-07,
+      "timestamp": "2025-05-07 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.782057181958904e-06,
+      "timestamp": "2025-05-07 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.344521505056213e-07,
+      "timestamp": "2025-05-07 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4096192433371667e-05,
+      "timestamp": "2025-05-07 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Obol",
+      "symbol": "OBOL",
+      "price_btc": 2.8437238933425847e-06,
+      "timestamp": "2025-05-07 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.3735389065843082e-05,
+      "timestamp": "2025-05-07 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4358382187803024e-05,
+      "timestamp": "2025-05-07 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001514913244795286,
+      "timestamp": "2025-05-07 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.474441269750094e-05,
+      "timestamp": "2025-05-07 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Mog Coin",
+      "symbol": "MOG",
+      "price_btc": 8.165814068809299e-12,
+      "timestamp": "2025-05-07 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.688248696828821e-06,
+      "timestamp": "2025-05-07 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.0647297314386076e-05,
+      "timestamp": "2025-05-07 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018548381717867015,
+      "timestamp": "2025-05-07 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.92784886194588e-06,
+      "timestamp": "2025-05-07 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-07 22:19"
+    }
   ]
 }
