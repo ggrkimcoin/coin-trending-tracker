@@ -58955,5 +58955,112 @@
       "price_btc": 0.018700645228257637,
       "timestamp": "2025-05-07 17:18"
     }
+  ],
+  "2025-05-07 18:28": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.6368933177504775e-07,
+      "timestamp": "2025-05-07 18:28"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.993275869167591e-07,
+      "timestamp": "2025-05-07 18:28"
+    },
+    {
+      "rank": 3,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.4906491524254892e-05,
+      "timestamp": "2025-05-07 18:28"
+    },
+    {
+      "rank": 4,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.908369515163598e-06,
+      "timestamp": "2025-05-07 18:28"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.941520895924928e-06,
+      "timestamp": "2025-05-07 18:28"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.361864519893375e-05,
+      "timestamp": "2025-05-07 18:28"
+    },
+    {
+      "rank": 7,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.3723309803755489e-05,
+      "timestamp": "2025-05-07 18:28"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.391241719853665e-05,
+      "timestamp": "2025-05-07 18:28"
+    },
+    {
+      "rank": 9,
+      "name": "Obol",
+      "symbol": "OBOL",
+      "price_btc": 3.0951464409034116e-06,
+      "timestamp": "2025-05-07 18:28"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003721609938866612,
+      "timestamp": "2025-05-07 18:28"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002183027164063766,
+      "timestamp": "2025-05-07 18:28"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0017102405455471e-05,
+      "timestamp": "2025-05-07 18:28"
+    },
+    {
+      "rank": 13,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.975467412996942e-05,
+      "timestamp": "2025-05-07 18:28"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.1225984694471784e-06,
+      "timestamp": "2025-05-07 18:28"
+    },
+    {
+      "rank": 15,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.2720088507556124e-08,
+      "timestamp": "2025-05-07 18:28"
+    }
   ]
 }
