@@ -58313,5 +58313,112 @@
       "price_btc": 7.725808794482279e-07,
       "timestamp": "2025-05-07 11:17"
     }
+  ],
+  "2025-05-07 12:42": [
+    {
+      "rank": 1,
+      "name": "Obol",
+      "symbol": "OBOL",
+      "price_btc": 3.415718105902297e-06,
+      "timestamp": "2025-05-07 12:42"
+    },
+    {
+      "rank": 2,
+      "name": "Lumia",
+      "symbol": "LUMIA",
+      "price_btc": 3.4525714657216872e-06,
+      "timestamp": "2025-05-07 12:42"
+    },
+    {
+      "rank": 3,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.410164824384489e-05,
+      "timestamp": "2025-05-07 12:42"
+    },
+    {
+      "rank": 4,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 3.0011367316649654e-07,
+      "timestamp": "2025-05-07 12:42"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.41820806936512e-05,
+      "timestamp": "2025-05-07 12:42"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.485698807873587e-05,
+      "timestamp": "2025-05-07 12:42"
+    },
+    {
+      "rank": 7,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.000202373135901e-06,
+      "timestamp": "2025-05-07 12:42"
+    },
+    {
+      "rank": 8,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.0786068387254545e-05,
+      "timestamp": "2025-05-07 12:42"
+    },
+    {
+      "rank": 9,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.839809310384462e-05,
+      "timestamp": "2025-05-07 12:42"
+    },
+    {
+      "rank": 10,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.287485101922723e-06,
+      "timestamp": "2025-05-07 12:42"
+    },
+    {
+      "rank": 11,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1528881875436071e-07,
+      "timestamp": "2025-05-07 12:42"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018869402548908756,
+      "timestamp": "2025-05-07 12:42"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.163277037630359e-06,
+      "timestamp": "2025-05-07 12:42"
+    },
+    {
+      "rank": 14,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 2.186446455124378e-05,
+      "timestamp": "2025-05-07 12:42"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.39565173299674e-11,
+      "timestamp": "2025-05-07 12:42"
+    }
   ]
 }
