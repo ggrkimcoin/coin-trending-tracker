@@ -57457,5 +57457,112 @@
       "price_btc": 4.013563173033194e-06,
       "timestamp": "2025-05-07 03:10"
     }
+  ],
+  "2025-05-07 04:24": [
+    {
+      "rank": 1,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5981260957607833e-06,
+      "timestamp": "2025-05-07 04:24"
+    },
+    {
+      "rank": 2,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.168869145683857e-05,
+      "timestamp": "2025-05-07 04:24"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1917607860767349e-07,
+      "timestamp": "2025-05-07 04:24"
+    },
+    {
+      "rank": 4,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.17783521089051e-06,
+      "timestamp": "2025-05-07 04:24"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5080631026439235e-05,
+      "timestamp": "2025-05-07 04:24"
+    },
+    {
+      "rank": 6,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.987819179415851e-05,
+      "timestamp": "2025-05-07 04:24"
+    },
+    {
+      "rank": 7,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.8955988013983762e-05,
+      "timestamp": "2025-05-07 04:24"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01892944818503511,
+      "timestamp": "2025-05-07 04:24"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5149208048325958e-05,
+      "timestamp": "2025-05-07 04:24"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0738878273221158e-05,
+      "timestamp": "2025-05-07 04:24"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-07 04:24"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021514551431445883,
+      "timestamp": "2025-05-07 04:24"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.7989029256353136e-06,
+      "timestamp": "2025-05-07 04:24"
+    },
+    {
+      "rank": 14,
+      "name": "Supra",
+      "symbol": "SUPRA",
+      "price_btc": 7.423050109376435e-08,
+      "timestamp": "2025-05-07 04:24"
+    },
+    {
+      "rank": 15,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0029305090282986212,
+      "timestamp": "2025-05-07 04:24"
+    }
   ]
 }
