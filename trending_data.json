@@ -58206,5 +58206,112 @@
       "price_btc": 7.889035579861298e-07,
       "timestamp": "2025-05-07 10:22"
     }
+  ],
+  "2025-05-07 11:17": [
+    {
+      "rank": 1,
+      "name": "Lumia",
+      "symbol": "LUMIA",
+      "price_btc": 3.6754568731489185e-06,
+      "timestamp": "2025-05-07 11:17"
+    },
+    {
+      "rank": 2,
+      "name": "Vanar Chain",
+      "symbol": "VANRY",
+      "price_btc": 2.9787882663604704e-07,
+      "timestamp": "2025-05-07 11:17"
+    },
+    {
+      "rank": 3,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.7414661812875279e-06,
+      "timestamp": "2025-05-07 11:17"
+    },
+    {
+      "rank": 4,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.2804008955934796e-05,
+      "timestamp": "2025-05-07 11:17"
+    },
+    {
+      "rank": 5,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.4622681294025507e-06,
+      "timestamp": "2025-05-07 11:17"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.483725713378516e-05,
+      "timestamp": "2025-05-07 11:17"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4045626278378284e-05,
+      "timestamp": "2025-05-07 11:17"
+    },
+    {
+      "rank": 8,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.6213395356997655e-06,
+      "timestamp": "2025-05-07 11:17"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01890802324423588,
+      "timestamp": "2025-05-07 11:17"
+    },
+    {
+      "rank": 10,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.067355579279324e-05,
+      "timestamp": "2025-05-07 11:17"
+    },
+    {
+      "rank": 11,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5687969360850203e-06,
+      "timestamp": "2025-05-07 11:17"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015218178022892638,
+      "timestamp": "2025-05-07 11:17"
+    },
+    {
+      "rank": 13,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 3.439649650895395e-07,
+      "timestamp": "2025-05-07 11:17"
+    },
+    {
+      "rank": 14,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.987126966524004e-06,
+      "timestamp": "2025-05-07 11:17"
+    },
+    {
+      "rank": 15,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 7.725808794482279e-07,
+      "timestamp": "2025-05-07 11:17"
+    }
   ]
 }
