@@ -61630,5 +61630,112 @@
       "price_btc": 1.1779699321799291e-05,
       "timestamp": "2025-05-08 20:22"
     }
+  ],
+  "2025-05-08 21:19": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.890727112311252e-05,
+      "timestamp": "2025-05-08 21:19"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9865294605345863e-05,
+      "timestamp": "2025-05-08 21:19"
+    },
+    {
+      "rank": 3,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5375745128959844e-06,
+      "timestamp": "2025-05-08 21:19"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.021262141966289803,
+      "timestamp": "2025-05-08 21:19"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015845140705653988,
+      "timestamp": "2025-05-08 21:19"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00022746337814750375,
+      "timestamp": "2025-05-08 21:19"
+    },
+    {
+      "rank": 7,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.6100382327724995e-06,
+      "timestamp": "2025-05-08 21:19"
+    },
+    {
+      "rank": 8,
+      "name": "Spectral",
+      "symbol": "SPEC",
+      "price_btc": 1.4289657329678464e-05,
+      "timestamp": "2025-05-08 21:19"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0041165307203314275,
+      "timestamp": "2025-05-08 21:19"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1091326768250091e-10,
+      "timestamp": "2025-05-08 21:19"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-08 21:19"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.5304365093825775e-06,
+      "timestamp": "2025-05-08 21:19"
+    },
+    {
+      "rank": 13,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.40578056908756e-06,
+      "timestamp": "2025-05-08 21:19"
+    },
+    {
+      "rank": 14,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3870065482176077e-07,
+      "timestamp": "2025-05-08 21:19"
+    },
+    {
+      "rank": 15,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 7.038280617545361e-07,
+      "timestamp": "2025-05-08 21:19"
+    }
   ]
 }
