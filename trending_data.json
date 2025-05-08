@@ -60453,5 +60453,112 @@
       "price_btc": 0.019400946155475732,
       "timestamp": "2025-05-08 09:22"
     }
+  ],
+  "2025-05-08 10:22": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.4260039796289224e-07,
+      "timestamp": "2025-05-08 10:22"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7235113474782276e-05,
+      "timestamp": "2025-05-08 10:22"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.617631186026035e-05,
+      "timestamp": "2025-05-08 10:22"
+    },
+    {
+      "rank": 4,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 2.702495073337709e-05,
+      "timestamp": "2025-05-08 10:22"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-08 10:22"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004065930929092586,
+      "timestamp": "2025-05-08 10:22"
+    },
+    {
+      "rank": 7,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.639756752583631e-06,
+      "timestamp": "2025-05-08 10:22"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015468029176663619,
+      "timestamp": "2025-05-08 10:22"
+    },
+    {
+      "rank": 9,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.3737588327894693e-05,
+      "timestamp": "2025-05-08 10:22"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.276548828223625e-11,
+      "timestamp": "2025-05-08 10:22"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012322900204449414,
+      "timestamp": "2025-05-08 10:22"
+    },
+    {
+      "rank": 12,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.298198910733154e-05,
+      "timestamp": "2025-05-08 10:22"
+    },
+    {
+      "rank": 13,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.109179037976021e-06,
+      "timestamp": "2025-05-08 10:22"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.313916244537837e-05,
+      "timestamp": "2025-05-08 10:22"
+    },
+    {
+      "rank": 15,
+      "name": "MemeFi",
+      "symbol": "MEMEFI",
+      "price_btc": 5.830711396801874e-08,
+      "timestamp": "2025-05-08 10:22"
+    }
   ]
 }
