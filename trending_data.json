@@ -61416,5 +61416,112 @@
       "price_btc": 2.04213113424622e-06,
       "timestamp": "2025-05-08 18:28"
     }
+  ],
+  "2025-05-08 19:16": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8673275111964846e-05,
+      "timestamp": "2025-05-08 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.786468259500898e-05,
+      "timestamp": "2025-05-08 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015788893359268,
+      "timestamp": "2025-05-08 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.410922004237255e-07,
+      "timestamp": "2025-05-08 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.020380233949159703,
+      "timestamp": "2025-05-08 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.4480946785822204e-07,
+      "timestamp": "2025-05-08 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.542693624525095e-06,
+      "timestamp": "2025-05-08 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.0278101994515494e-10,
+      "timestamp": "2025-05-08 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.151742063048602e-06,
+      "timestamp": "2025-05-08 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004085007459787883,
+      "timestamp": "2025-05-08 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.469539870428488e-06,
+      "timestamp": "2025-05-08 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.327064740444489e-08,
+      "timestamp": "2025-05-08 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.6063339202473462e-06,
+      "timestamp": "2025-05-08 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.384750270859141e-06,
+      "timestamp": "2025-05-08 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-08 19:16"
+    }
   ]
 }
