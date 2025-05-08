@@ -60132,5 +60132,112 @@
       "price_btc": 2.949820786647787e-06,
       "timestamp": "2025-05-08 06:30"
     }
+  ],
+  "2025-05-08 07:20": [
+    {
+      "rank": 1,
+      "name": "Mog Coin",
+      "symbol": "MOG",
+      "price_btc": 9.161543625606923e-12,
+      "timestamp": "2025-05-08 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001520883298664571,
+      "timestamp": "2025-05-08 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.679002343648972e-05,
+      "timestamp": "2025-05-08 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 2.7414236467970205e-06,
+      "timestamp": "2025-05-08 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5386039972362837e-05,
+      "timestamp": "2025-05-08 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021906356303602525,
+      "timestamp": "2025-05-08 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004007974352983751,
+      "timestamp": "2025-05-08 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.344523221511708e-07,
+      "timestamp": "2025-05-08 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.4818062950396114e-05,
+      "timestamp": "2025-05-08 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Obol",
+      "symbol": "OBOL",
+      "price_btc": 2.9263799949321586e-06,
+      "timestamp": "2025-05-08 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.4714310654807009e-05,
+      "timestamp": "2025-05-08 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.344267845513216e-05,
+      "timestamp": "2025-05-08 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 3.314836822815164e-06,
+      "timestamp": "2025-05-08 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.6999196506589076e-06,
+      "timestamp": "2025-05-08 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.626900003768895e-07,
+      "timestamp": "2025-05-08 07:20"
+    }
   ]
 }
