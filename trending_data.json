@@ -60988,5 +60988,112 @@
       "price_btc": 0.00014981099891786447,
       "timestamp": "2025-05-08 14:18"
     }
+  ],
+  "2025-05-08 15:22": [
+    {
+      "rank": 1,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.547821259042756e-06,
+      "timestamp": "2025-05-08 15:22"
+    },
+    {
+      "rank": 2,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.432129695823775e-07,
+      "timestamp": "2025-05-08 15:22"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.798949909214309e-05,
+      "timestamp": "2025-05-08 15:22"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6561634845724123e-05,
+      "timestamp": "2025-05-08 15:22"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3753591423584942e-07,
+      "timestamp": "2025-05-08 15:22"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00406036434210439,
+      "timestamp": "2025-05-08 15:22"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.020009243598857106,
+      "timestamp": "2025-05-08 15:22"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-08 15:22"
+    },
+    {
+      "rank": 9,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.9057803438196115e-06,
+      "timestamp": "2025-05-08 15:22"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015804624693648334,
+      "timestamp": "2025-05-08 15:22"
+    },
+    {
+      "rank": 11,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.647626514634936e-06,
+      "timestamp": "2025-05-08 15:22"
+    },
+    {
+      "rank": 12,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001500284019064691,
+      "timestamp": "2025-05-08 15:22"
+    },
+    {
+      "rank": 13,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.28727853335965e-05,
+      "timestamp": "2025-05-08 15:22"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1279685794800719e-05,
+      "timestamp": "2025-05-08 15:22"
+    },
+    {
+      "rank": 15,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.3060486399006244e-05,
+      "timestamp": "2025-05-08 15:22"
+    }
   ]
 }
