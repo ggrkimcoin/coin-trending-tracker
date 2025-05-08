@@ -60667,5 +60667,112 @@
       "price_btc": 6.213709192237686e-06,
       "timestamp": "2025-05-08 11:17"
     }
+  ],
+  "2025-05-08 12:41": [
+    {
+      "rank": 1,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.568107065766889e-06,
+      "timestamp": "2025-05-08 12:41"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.664637718944617e-06,
+      "timestamp": "2025-05-08 12:41"
+    },
+    {
+      "rank": 3,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.881209184691801e-06,
+      "timestamp": "2025-05-08 12:41"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8159054124292096e-05,
+      "timestamp": "2025-05-08 12:41"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0040399614236316835,
+      "timestamp": "2025-05-08 12:41"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.612126320793887e-05,
+      "timestamp": "2025-05-08 12:41"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.4314187544358477e-07,
+      "timestamp": "2025-05-08 12:41"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-08 12:41"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019764299742558507,
+      "timestamp": "2025-05-08 12:41"
+    },
+    {
+      "rank": 10,
+      "name": "io.net",
+      "symbol": "IO",
+      "price_btc": 9.493558560862812e-06,
+      "timestamp": "2025-05-08 12:41"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2358492313981216e-05,
+      "timestamp": "2025-05-08 12:41"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.256984175895981e-06,
+      "timestamp": "2025-05-08 12:41"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.326470427596998e-11,
+      "timestamp": "2025-05-08 12:41"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015591640395903636,
+      "timestamp": "2025-05-08 12:41"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.293544081770557e-05,
+      "timestamp": "2025-05-08 12:41"
+    }
   ]
 }
