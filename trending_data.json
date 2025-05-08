@@ -59918,5 +59918,112 @@
       "price_btc": 1.3668356838796142e-05,
       "timestamp": "2025-05-08 04:25"
     }
+  ],
+  "2025-05-08 05:20": [
+    {
+      "rank": 1,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 6.9429564597000685e-06,
+      "timestamp": "2025-05-08 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.4504252535472753e-05,
+      "timestamp": "2025-05-08 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.336411047456398e-06,
+      "timestamp": "2025-05-08 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.63124077017645e-05,
+      "timestamp": "2025-05-08 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Mog Coin",
+      "symbol": "MOG",
+      "price_btc": 8.97350399515368e-12,
+      "timestamp": "2025-05-08 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5087735317968413e-05,
+      "timestamp": "2025-05-08 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.3683908734499096e-06,
+      "timestamp": "2025-05-08 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015251798484732478,
+      "timestamp": "2025-05-08 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003989492598688258,
+      "timestamp": "2025-05-08 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0778874674864732e-05,
+      "timestamp": "2025-05-08 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.781340684998614e-11,
+      "timestamp": "2025-05-08 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 4.572438601393704e-06,
+      "timestamp": "2025-05-08 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-08 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.698944456290495e-06,
+      "timestamp": "2025-05-08 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.9966661629607042e-06,
+      "timestamp": "2025-05-08 05:20"
+    }
   ]
 }
