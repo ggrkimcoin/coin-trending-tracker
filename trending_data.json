@@ -59597,5 +59597,112 @@
       "price_btc": 8.498167109562336e-11,
       "timestamp": "2025-05-07 23:18"
     }
+  ],
+  "2025-05-08 01:42": [
+    {
+      "rank": 1,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.4855573317377834e-05,
+      "timestamp": "2025-05-08 01:42"
+    },
+    {
+      "rank": 2,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.3678504903500552e-05,
+      "timestamp": "2025-05-08 01:42"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.44461398624768e-05,
+      "timestamp": "2025-05-08 01:42"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.468629736452036e-05,
+      "timestamp": "2025-05-08 01:42"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015185932865725395,
+      "timestamp": "2025-05-08 01:42"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00021510616636308928,
+      "timestamp": "2025-05-08 01:42"
+    },
+    {
+      "rank": 7,
+      "name": "Obol",
+      "symbol": "OBOL",
+      "price_btc": 2.933642577010536e-06,
+      "timestamp": "2025-05-08 01:42"
+    },
+    {
+      "rank": 8,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.708370196445738e-06,
+      "timestamp": "2025-05-08 01:42"
+    },
+    {
+      "rank": 9,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 6.048818357358135e-06,
+      "timestamp": "2025-05-08 01:42"
+    },
+    {
+      "rank": 10,
+      "name": "Mog Coin",
+      "symbol": "MOG",
+      "price_btc": 8.886807198464365e-12,
+      "timestamp": "2025-05-08 01:42"
+    },
+    {
+      "rank": 11,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 4.9467821387491605e-05,
+      "timestamp": "2025-05-08 01:42"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01865818002380313,
+      "timestamp": "2025-05-08 01:42"
+    },
+    {
+      "rank": 13,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 4.68961497919321e-06,
+      "timestamp": "2025-05-08 01:42"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.227518852052541e-05,
+      "timestamp": "2025-05-08 01:42"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0553634782277493e-05,
+      "timestamp": "2025-05-08 01:42"
+    }
   ]
 }
