@@ -59704,5 +59704,112 @@
       "price_btc": 1.0553634782277493e-05,
       "timestamp": "2025-05-08 01:42"
     }
+  ],
+  "2025-05-08 03:11": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5863527549670505e-05,
+      "timestamp": "2025-05-08 03:11"
+    },
+    {
+      "rank": 2,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 6.584987175883404e-06,
+      "timestamp": "2025-05-08 03:11"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4492820385067183e-05,
+      "timestamp": "2025-05-08 03:11"
+    },
+    {
+      "rank": 4,
+      "name": "Mog Coin",
+      "symbol": "MOG",
+      "price_btc": 9.053127649606892e-12,
+      "timestamp": "2025-05-08 03:11"
+    },
+    {
+      "rank": 5,
+      "name": "Obol",
+      "symbol": "OBOL",
+      "price_btc": 2.96350054417581e-06,
+      "timestamp": "2025-05-08 03:11"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015154923530234564,
+      "timestamp": "2025-05-08 03:11"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0728709201935161e-05,
+      "timestamp": "2025-05-08 03:11"
+    },
+    {
+      "rank": 8,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.4541429805313634e-05,
+      "timestamp": "2025-05-08 03:11"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.018657714734368978,
+      "timestamp": "2025-05-08 03:11"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-08 03:11"
+    },
+    {
+      "rank": 11,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.1729994749084076e-05,
+      "timestamp": "2025-05-08 03:11"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.141505457336149e-06,
+      "timestamp": "2025-05-08 03:11"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002150157647962192,
+      "timestamp": "2025-05-08 03:11"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.196846469202785e-05,
+      "timestamp": "2025-05-08 03:11"
+    },
+    {
+      "rank": 15,
+      "name": "Particle Network",
+      "symbol": "PARTI",
+      "price_btc": 2.49879460792332e-06,
+      "timestamp": "2025-05-08 03:11"
+    }
   ]
 }
