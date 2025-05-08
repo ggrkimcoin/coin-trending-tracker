@@ -60239,5 +60239,112 @@
       "price_btc": 9.626900003768895e-07,
       "timestamp": "2025-05-08 07:20"
     }
+  ],
+  "2025-05-08 08:27": [
+    {
+      "rank": 1,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 2.7254663961178322e-05,
+      "timestamp": "2025-05-08 08:27"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004099733207612891,
+      "timestamp": "2025-05-08 08:27"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6546523206687072e-05,
+      "timestamp": "2025-05-08 08:27"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.677189961188155e-05,
+      "timestamp": "2025-05-08 08:27"
+    },
+    {
+      "rank": 5,
+      "name": "Mog Coin",
+      "symbol": "MOG",
+      "price_btc": 9.135893164684866e-12,
+      "timestamp": "2025-05-08 08:27"
+    },
+    {
+      "rank": 6,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.3671319259100444e-05,
+      "timestamp": "2025-05-08 08:27"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-08 08:27"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3575652941847467e-07,
+      "timestamp": "2025-05-08 08:27"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01937561491104988,
+      "timestamp": "2025-05-08 08:27"
+    },
+    {
+      "rank": 10,
+      "name": "io.net",
+      "symbol": "IO",
+      "price_btc": 8.751719636298433e-06,
+      "timestamp": "2025-05-08 08:27"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015298265578082987,
+      "timestamp": "2025-05-08 08:27"
+    },
+    {
+      "rank": 12,
+      "name": "Obol",
+      "symbol": "OBOL",
+      "price_btc": 2.7625948494097216e-06,
+      "timestamp": "2025-05-08 08:27"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002200592559347478,
+      "timestamp": "2025-05-08 08:27"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2089883890385595e-05,
+      "timestamp": "2025-05-08 08:27"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.299871207490022e-05,
+      "timestamp": "2025-05-08 08:27"
+    }
   ]
 }
