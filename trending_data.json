@@ -60025,5 +60025,112 @@
       "price_btc": 2.9966661629607042e-06,
       "timestamp": "2025-05-08 05:20"
     }
+  ],
+  "2025-05-08 06:30": [
+    {
+      "rank": 1,
+      "name": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "price_btc": 2.929610105826601e-06,
+      "timestamp": "2025-05-08 06:30"
+    },
+    {
+      "rank": 2,
+      "name": "Mog Coin",
+      "symbol": "MOG",
+      "price_btc": 9.071504497825463e-12,
+      "timestamp": "2025-05-08 06:30"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4834131586779068e-05,
+      "timestamp": "2025-05-08 06:30"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.647066530019981e-05,
+      "timestamp": "2025-05-08 06:30"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003991124716630573,
+      "timestamp": "2025-05-08 06:30"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002173326730270219,
+      "timestamp": "2025-05-08 06:30"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.019270604290558855,
+      "timestamp": "2025-05-08 06:30"
+    },
+    {
+      "rank": 8,
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "price_btc": 1.3760551062847377e-05,
+      "timestamp": "2025-05-08 06:30"
+    },
+    {
+      "rank": 9,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.114738647051714e-06,
+      "timestamp": "2025-05-08 06:30"
+    },
+    {
+      "rank": 10,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.5118881970717123e-05,
+      "timestamp": "2025-05-08 06:30"
+    },
+    {
+      "rank": 11,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2848628212914123e-07,
+      "timestamp": "2025-05-08 06:30"
+    },
+    {
+      "rank": 12,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 3.822643211398656e-08,
+      "timestamp": "2025-05-08 06:30"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015208307514410979,
+      "timestamp": "2025-05-08 06:30"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.245105880824852e-06,
+      "timestamp": "2025-05-08 06:30"
+    },
+    {
+      "rank": 15,
+      "name": "Obol",
+      "symbol": "OBOL",
+      "price_btc": 2.949820786647787e-06,
+      "timestamp": "2025-05-08 06:30"
+    }
   ]
 }
