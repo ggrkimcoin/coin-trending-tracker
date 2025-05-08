@@ -60881,5 +60881,112 @@
       "price_btc": 0.0015606858441858918,
       "timestamp": "2025-05-08 13:30"
     }
+  ],
+  "2025-05-08 14:18": [
+    {
+      "rank": 1,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5421849899816132e-06,
+      "timestamp": "2025-05-08 14:18"
+    },
+    {
+      "rank": 2,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.9105980709696786e-06,
+      "timestamp": "2025-05-08 14:18"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.42104158451338e-07,
+      "timestamp": "2025-05-08 14:18"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.820793136477699e-05,
+      "timestamp": "2025-05-08 14:18"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004039043480854787,
+      "timestamp": "2025-05-08 14:18"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.652504889494736e-05,
+      "timestamp": "2025-05-08 14:18"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015609869624196979,
+      "timestamp": "2025-05-08 14:18"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.01994365834205002,
+      "timestamp": "2025-05-08 14:18"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.321346338671436e-06,
+      "timestamp": "2025-05-08 14:18"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002159082117772993,
+      "timestamp": "2025-05-08 14:18"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.586356145558714e-06,
+      "timestamp": "2025-05-08 14:18"
+    },
+    {
+      "rank": 12,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.630824018775033e-06,
+      "timestamp": "2025-05-08 14:18"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1134655460349517e-05,
+      "timestamp": "2025-05-08 14:18"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-08 14:18"
+    },
+    {
+      "rank": 15,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014981099891786447,
+      "timestamp": "2025-05-08 14:18"
+    }
   ]
 }
