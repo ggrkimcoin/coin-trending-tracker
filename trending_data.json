@@ -63877,5 +63877,112 @@
       "price_btc": 9.856289374819891e-06,
       "timestamp": "2025-05-09 19:16"
     }
+  ],
+  "2025-05-09 20:22": [
+    {
+      "rank": 1,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 7.484386364257642e-08,
+      "timestamp": "2025-05-09 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.504288173183465e-06,
+      "timestamp": "2025-05-09 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.322936806034667e-06,
+      "timestamp": "2025-05-09 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8951296941468767e-05,
+      "timestamp": "2025-05-09 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 7.618252690696394e-10,
+      "timestamp": "2025-05-09 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016633340667490159,
+      "timestamp": "2025-05-09 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1939094492449502e-10,
+      "timestamp": "2025-05-09 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.003663438873072e-06,
+      "timestamp": "2025-05-09 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013897251708874575,
+      "timestamp": "2025-05-09 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004123712210862058,
+      "timestamp": "2025-05-09 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 2.2977347736037967e-06,
+      "timestamp": "2025-05-09 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002434373774132789,
+      "timestamp": "2025-05-09 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.771500116095414e-05,
+      "timestamp": "2025-05-09 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.381730607542149e-07,
+      "timestamp": "2025-05-09 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "Brett",
+      "symbol": "BRETT",
+      "price_btc": 7.361376242758832e-07,
+      "timestamp": "2025-05-09 20:22"
+    }
   ]
 }
