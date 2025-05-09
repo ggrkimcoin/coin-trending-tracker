@@ -62486,5 +62486,112 @@
       "price_btc": 3.581794084636951e-06,
       "timestamp": "2025-05-09 06:29"
     }
+  ],
+  "2025-05-09 07:19": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.062768018609791e-05,
+      "timestamp": "2025-05-09 07:19"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.021871098422660162,
+      "timestamp": "2025-05-09 07:19"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015896112681902217,
+      "timestamp": "2025-05-09 07:19"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.4974229686462924e-07,
+      "timestamp": "2025-05-09 07:19"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.870440003410662e-05,
+      "timestamp": "2025-05-09 07:19"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.114323381232643e-06,
+      "timestamp": "2025-05-09 07:19"
+    },
+    {
+      "rank": 7,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 9.834779171442444e-07,
+      "timestamp": "2025-05-09 07:19"
+    },
+    {
+      "rank": 8,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5028728893958503e-06,
+      "timestamp": "2025-05-09 07:19"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.0970483568388813e-10,
+      "timestamp": "2025-05-09 07:19"
+    },
+    {
+      "rank": 10,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.396206897971195e-06,
+      "timestamp": "2025-05-09 07:19"
+    },
+    {
+      "rank": 11,
+      "name": "Peanut the Squirrel",
+      "symbol": "PNUT",
+      "price_btc": 2.6459796759742978e-06,
+      "timestamp": "2025-05-09 07:19"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004247551214855823,
+      "timestamp": "2025-05-09 07:19"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2399009998939502e-05,
+      "timestamp": "2025-05-09 07:19"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023657465580169529,
+      "timestamp": "2025-05-09 07:19"
+    },
+    {
+      "rank": 15,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.6166659186806285e-06,
+      "timestamp": "2025-05-09 07:19"
+    }
   ]
 }
