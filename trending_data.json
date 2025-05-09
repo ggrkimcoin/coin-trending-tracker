@@ -62593,5 +62593,112 @@
       "price_btc": 3.6166659186806285e-06,
       "timestamp": "2025-05-09 07:19"
     }
+  ],
+  "2025-05-09 08:27": [
+    {
+      "rank": 1,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022967044669759535,
+      "timestamp": "2025-05-09 08:27"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9884918411602443e-05,
+      "timestamp": "2025-05-09 08:27"
+    },
+    {
+      "rank": 3,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.4948745267993526e-06,
+      "timestamp": "2025-05-09 08:27"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8538095213956324e-05,
+      "timestamp": "2025-05-09 08:27"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016055251065778008,
+      "timestamp": "2025-05-09 08:27"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.4765262579771556e-07,
+      "timestamp": "2025-05-09 08:27"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.2758349433727225e-06,
+      "timestamp": "2025-05-09 08:27"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.17481255528748e-10,
+      "timestamp": "2025-05-09 08:27"
+    },
+    {
+      "rank": 9,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.1452734432041347e-06,
+      "timestamp": "2025-05-09 08:27"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.297553838716295e-05,
+      "timestamp": "2025-05-09 08:27"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004288721044057123,
+      "timestamp": "2025-05-09 08:27"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.0790136723655795e-05,
+      "timestamp": "2025-05-09 08:27"
+    },
+    {
+      "rank": 13,
+      "name": "aixbt by Virtuals",
+      "symbol": "AIXBT",
+      "price_btc": 2.157057554460736e-06,
+      "timestamp": "2025-05-09 08:27"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.6566866814198776e-06,
+      "timestamp": "2025-05-09 08:27"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.955605740379741e-06,
+      "timestamp": "2025-05-09 08:27"
+    }
   ]
 }
