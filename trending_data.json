@@ -64091,5 +64091,112 @@
       "price_btc": 1.200881378553608e-10,
       "timestamp": "2025-05-09 21:18"
     }
+  ],
+  "2025-05-09 22:18": [
+    {
+      "rank": 1,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 8.49852386594219e-10,
+      "timestamp": "2025-05-09 22:18"
+    },
+    {
+      "rank": 2,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 8.24268404930149e-08,
+      "timestamp": "2025-05-09 22:18"
+    },
+    {
+      "rank": 3,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.4362837059748475e-06,
+      "timestamp": "2025-05-09 22:18"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.799466453901461e-05,
+      "timestamp": "2025-05-09 22:18"
+    },
+    {
+      "rank": 5,
+      "name": "Peanut the Squirrel",
+      "symbol": "PNUT",
+      "price_btc": 3.889160137539111e-06,
+      "timestamp": "2025-05-09 22:18"
+    },
+    {
+      "rank": 6,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.139988820640641e-06,
+      "timestamp": "2025-05-09 22:18"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3475335418114433e-05,
+      "timestamp": "2025-05-09 22:18"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1922655051405343e-10,
+      "timestamp": "2025-05-09 22:18"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9262056395515868e-05,
+      "timestamp": "2025-05-09 22:18"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016734903436605988,
+      "timestamp": "2025-05-09 22:18"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013924597383070905,
+      "timestamp": "2025-05-09 22:18"
+    },
+    {
+      "rank": 12,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 8.685633705017942e-07,
+      "timestamp": "2025-05-09 22:18"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002428264023391889,
+      "timestamp": "2025-05-09 22:18"
+    },
+    {
+      "rank": 14,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.8165343982301338e-05,
+      "timestamp": "2025-05-09 22:18"
+    },
+    {
+      "rank": 15,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.9886204120313303e-06,
+      "timestamp": "2025-05-09 22:18"
+    }
   ]
 }
