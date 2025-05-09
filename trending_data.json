@@ -62379,5 +62379,112 @@
       "price_btc": 2.2370401716426018e-05,
       "timestamp": "2025-05-09 05:19"
     }
+  ],
+  "2025-05-09 06:29": [
+    {
+      "rank": 1,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.512149747790695e-06,
+      "timestamp": "2025-05-09 06:29"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.790192879481029e-05,
+      "timestamp": "2025-05-09 06:29"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.679003850245595e-06,
+      "timestamp": "2025-05-09 06:29"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.028397670202923e-05,
+      "timestamp": "2025-05-09 06:29"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-09 06:29"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0215052663416416,
+      "timestamp": "2025-05-09 06:29"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015798605603420362,
+      "timestamp": "2025-05-09 06:29"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.4651063800890014e-07,
+      "timestamp": "2025-05-09 06:29"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.0705095928308336e-10,
+      "timestamp": "2025-05-09 06:29"
+    },
+    {
+      "rank": 10,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.0093191240803232e-06,
+      "timestamp": "2025-05-09 06:29"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2299887375935696e-05,
+      "timestamp": "2025-05-09 06:29"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004174176563767716,
+      "timestamp": "2025-05-09 06:29"
+    },
+    {
+      "rank": 13,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013489102041863138,
+      "timestamp": "2025-05-09 06:29"
+    },
+    {
+      "rank": 14,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.278087977060541e-06,
+      "timestamp": "2025-05-09 06:29"
+    },
+    {
+      "rank": 15,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.581794084636951e-06,
+      "timestamp": "2025-05-09 06:29"
+    }
   ]
 }
