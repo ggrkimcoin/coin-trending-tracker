@@ -62807,5 +62807,112 @@
       "price_btc": 0.00024294337095598153,
       "timestamp": "2025-05-09 09:21"
     }
+  ],
+  "2025-05-09 10:21": [
+    {
+      "rank": 1,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001617145795829011,
+      "timestamp": "2025-05-09 10:21"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.827474181228761e-05,
+      "timestamp": "2025-05-09 10:21"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02268233007506503,
+      "timestamp": "2025-05-09 10:21"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004139136344798413,
+      "timestamp": "2025-05-09 10:21"
+    },
+    {
+      "rank": 5,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2764002769478336e-10,
+      "timestamp": "2025-05-09 10:21"
+    },
+    {
+      "rank": 6,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5059786600626088e-06,
+      "timestamp": "2025-05-09 10:21"
+    },
+    {
+      "rank": 7,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.172549559651727e-06,
+      "timestamp": "2025-05-09 10:21"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9595603166869842e-05,
+      "timestamp": "2025-05-09 10:21"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.86399417977103e-06,
+      "timestamp": "2025-05-09 10:21"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.224086638156646e-06,
+      "timestamp": "2025-05-09 10:21"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2542028796557418e-05,
+      "timestamp": "2025-05-09 10:21"
+    },
+    {
+      "rank": 12,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.3594295583880996e-05,
+      "timestamp": "2025-05-09 10:21"
+    },
+    {
+      "rank": 13,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.4807526619124476e-07,
+      "timestamp": "2025-05-09 10:21"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.8258335580512026e-05,
+      "timestamp": "2025-05-09 10:21"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023936869608924666,
+      "timestamp": "2025-05-09 10:21"
+    }
   ]
 }
