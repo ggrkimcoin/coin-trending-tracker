@@ -63128,5 +63128,112 @@
       "price_btc": 0.004157465224357325,
       "timestamp": "2025-05-09 12:39"
     }
+  ],
+  "2025-05-09 13:29": [
+    {
+      "rank": 1,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 1.010832549571658e-07,
+      "timestamp": "2025-05-09 13:29"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.873486888597294e-05,
+      "timestamp": "2025-05-09 13:29"
+    },
+    {
+      "rank": 3,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.244071435163285e-06,
+      "timestamp": "2025-05-09 13:29"
+    },
+    {
+      "rank": 4,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.239787427696926e-10,
+      "timestamp": "2025-05-09 13:29"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022784724512277445,
+      "timestamp": "2025-05-09 13:29"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001668619096264154,
+      "timestamp": "2025-05-09 13:29"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9605820203944926e-05,
+      "timestamp": "2025-05-09 13:29"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.218084012151804e-06,
+      "timestamp": "2025-05-09 13:29"
+    },
+    {
+      "rank": 9,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.506868151205429e-06,
+      "timestamp": "2025-05-09 13:29"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3263870783766853e-05,
+      "timestamp": "2025-05-09 13:29"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004210414407519407,
+      "timestamp": "2025-05-09 13:29"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.983077703154794e-06,
+      "timestamp": "2025-05-09 13:29"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3152761037013988e-05,
+      "timestamp": "2025-05-09 13:29"
+    },
+    {
+      "rank": 14,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.4284457884926804e-07,
+      "timestamp": "2025-05-09 13:29"
+    },
+    {
+      "rank": 15,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.183712142835844e-06,
+      "timestamp": "2025-05-09 13:29"
+    }
   ]
 }
