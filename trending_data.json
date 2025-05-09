@@ -62165,5 +62165,112 @@
       "price_btc": 3.780708690850452e-05,
       "timestamp": "2025-05-09 03:10"
     }
+  ],
+  "2025-05-09 04:25": [
+    {
+      "rank": 1,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5227370372989597e-06,
+      "timestamp": "2025-05-09 04:25"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02155225462661853,
+      "timestamp": "2025-05-09 04:25"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.770889551716016e-05,
+      "timestamp": "2025-05-09 04:25"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.593154627614174e-06,
+      "timestamp": "2025-05-09 04:25"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023103383732973068,
+      "timestamp": "2025-05-09 04:25"
+    },
+    {
+      "rank": 6,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.2712165494131563e-06,
+      "timestamp": "2025-05-09 04:25"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9416430459168705e-05,
+      "timestamp": "2025-05-09 04:25"
+    },
+    {
+      "rank": 8,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.7532184851979805e-05,
+      "timestamp": "2025-05-09 04:25"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-09 04:25"
+    },
+    {
+      "rank": 10,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013313869341998,
+      "timestamp": "2025-05-09 04:25"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015759194306216703,
+      "timestamp": "2025-05-09 04:25"
+    },
+    {
+      "rank": 12,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3462898144797507e-07,
+      "timestamp": "2025-05-09 04:25"
+    },
+    {
+      "rank": 13,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 4.531500517664071e-06,
+      "timestamp": "2025-05-09 04:25"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.528264077879641e-06,
+      "timestamp": "2025-05-09 04:25"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.0485712544903603e-10,
+      "timestamp": "2025-05-09 04:25"
+    }
   ]
 }
