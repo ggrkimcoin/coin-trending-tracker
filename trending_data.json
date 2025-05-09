@@ -62272,5 +62272,112 @@
       "price_btc": 1.0485712544903603e-10,
       "timestamp": "2025-05-09 04:25"
     }
+  ],
+  "2025-05-09 05:19": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.783328970630091e-05,
+      "timestamp": "2025-05-09 05:19"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015749436965953806,
+      "timestamp": "2025-05-09 05:19"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.021542937943755718,
+      "timestamp": "2025-05-09 05:19"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023318948356325107,
+      "timestamp": "2025-05-09 05:19"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.968873791643703e-05,
+      "timestamp": "2025-05-09 05:19"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-09 05:19"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.5866898650548165e-06,
+      "timestamp": "2025-05-09 05:19"
+    },
+    {
+      "rank": 8,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5186387702584134e-06,
+      "timestamp": "2025-05-09 05:19"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.0587665783217407e-10,
+      "timestamp": "2025-05-09 05:19"
+    },
+    {
+      "rank": 10,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00015194277779839288,
+      "timestamp": "2025-05-09 05:19"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0041468005370594975,
+      "timestamp": "2025-05-09 05:19"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001336441119625925,
+      "timestamp": "2025-05-09 05:19"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.550416073615687e-06,
+      "timestamp": "2025-05-09 05:19"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.2730787468160708e-06,
+      "timestamp": "2025-05-09 05:19"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2370401716426018e-05,
+      "timestamp": "2025-05-09 05:19"
+    }
   ]
 }
