@@ -62914,5 +62914,112 @@
       "price_btc": 0.00023936869608924666,
       "timestamp": "2025-05-09 10:21"
     }
+  ],
+  "2025-05-09 11:16": [
+    {
+      "rank": 1,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2553912197920663e-10,
+      "timestamp": "2025-05-09 11:16"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02270120891236391,
+      "timestamp": "2025-05-09 11:16"
+    },
+    {
+      "rank": 3,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.3053500408214706e-06,
+      "timestamp": "2025-05-09 11:16"
+    },
+    {
+      "rank": 4,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.4993639097603343e-06,
+      "timestamp": "2025-05-09 11:16"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8628049230592364e-05,
+      "timestamp": "2025-05-09 11:16"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016787071664389577,
+      "timestamp": "2025-05-09 11:16"
+    },
+    {
+      "rank": 7,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.857392757577521e-05,
+      "timestamp": "2025-05-09 11:16"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9558275500649056e-05,
+      "timestamp": "2025-05-09 11:16"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2914736253307754e-05,
+      "timestamp": "2025-05-09 11:16"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002468328543622729,
+      "timestamp": "2025-05-09 11:16"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004177227779102115,
+      "timestamp": "2025-05-09 11:16"
+    },
+    {
+      "rank": 12,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.4779297254927872e-07,
+      "timestamp": "2025-05-09 11:16"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.245923380422567e-06,
+      "timestamp": "2025-05-09 11:16"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013722639459364932,
+      "timestamp": "2025-05-09 11:16"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.732377984513416e-06,
+      "timestamp": "2025-05-09 11:16"
+    }
   ]
 }
