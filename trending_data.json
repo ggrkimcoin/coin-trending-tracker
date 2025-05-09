@@ -63663,5 +63663,112 @@
       "price_btc": 3.712946438536848e-05,
       "timestamp": "2025-05-09 17:17"
     }
+  ],
+  "2025-05-09 18:28": [
+    {
+      "rank": 1,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5030332386131398e-06,
+      "timestamp": "2025-05-09 18:28"
+    },
+    {
+      "rank": 2,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 7.062339393808246e-08,
+      "timestamp": "2025-05-09 18:28"
+    },
+    {
+      "rank": 3,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2034616511918624e-10,
+      "timestamp": "2025-05-09 18:28"
+    },
+    {
+      "rank": 4,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.428797201663441e-06,
+      "timestamp": "2025-05-09 18:28"
+    },
+    {
+      "rank": 5,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 7.257408061271601e-10,
+      "timestamp": "2025-05-09 18:28"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001664696728232471,
+      "timestamp": "2025-05-09 18:28"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8915677206735727e-05,
+      "timestamp": "2025-05-09 18:28"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022666112890016354,
+      "timestamp": "2025-05-09 18:28"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.782560496206322e-05,
+      "timestamp": "2025-05-09 18:28"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-09 18:28"
+    },
+    {
+      "rank": 11,
+      "name": "Peanut the Squirrel",
+      "symbol": "PNUT",
+      "price_btc": 3.1230460265933338e-06,
+      "timestamp": "2025-05-09 18:28"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00014155565494343263,
+      "timestamp": "2025-05-09 18:28"
+    },
+    {
+      "rank": 13,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 8.528012387939576e-07,
+      "timestamp": "2025-05-09 18:28"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00024117892130665595,
+      "timestamp": "2025-05-09 18:28"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.045736520930875e-06,
+      "timestamp": "2025-05-09 18:28"
+    }
   ]
 }
