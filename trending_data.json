@@ -65803,5 +65803,112 @@
       "price_btc": 0.001658587102202189,
       "timestamp": "2025-05-10 15:19"
     }
+  ],
+  "2025-05-10 16:22": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.856473194921063e-06,
+      "timestamp": "2025-05-10 16:22"
+    },
+    {
+      "rank": 2,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.468505641151928e-10,
+      "timestamp": "2025-05-10 16:22"
+    },
+    {
+      "rank": 3,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.688513718977206e-06,
+      "timestamp": "2025-05-10 16:22"
+    },
+    {
+      "rank": 4,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 9.369730539633656e-07,
+      "timestamp": "2025-05-10 16:22"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8470205336825218e-05,
+      "timestamp": "2025-05-10 16:22"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023605784619159572,
+      "timestamp": "2025-05-10 16:22"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.839710451343619e-05,
+      "timestamp": "2025-05-10 16:22"
+    },
+    {
+      "rank": 8,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 7.278223873716616e-08,
+      "timestamp": "2025-05-10 16:22"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016590420238815162,
+      "timestamp": "2025-05-10 16:22"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2465578810000403e-10,
+      "timestamp": "2025-05-10 16:22"
+    },
+    {
+      "rank": 11,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.200630867413035e-06,
+      "timestamp": "2025-05-10 16:22"
+    },
+    {
+      "rank": 12,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.600920993840861e-05,
+      "timestamp": "2025-05-10 16:22"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3259452475339276e-05,
+      "timestamp": "2025-05-10 16:22"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.050924288144967e-06,
+      "timestamp": "2025-05-10 16:22"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-10 16:22"
+    }
   ]
 }
