@@ -65375,5 +65375,112 @@
       "price_btc": 3.8949167289138064e-05,
       "timestamp": "2025-05-10 11:16"
     }
+  ],
+  "2025-05-10 12:36": [
+    {
+      "rank": 1,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 8.964000071904763e-10,
+      "timestamp": "2025-05-10 12:36"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004269725372890037,
+      "timestamp": "2025-05-10 12:36"
+    },
+    {
+      "rank": 3,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.6485064024393677e-06,
+      "timestamp": "2025-05-10 12:36"
+    },
+    {
+      "rank": 4,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.618621095662052e-06,
+      "timestamp": "2025-05-10 12:36"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8737802406527565e-05,
+      "timestamp": "2025-05-10 12:36"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016416679492263293,
+      "timestamp": "2025-05-10 12:36"
+    },
+    {
+      "rank": 7,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 7.568427619056239e-08,
+      "timestamp": "2025-05-10 12:36"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-10 12:36"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.764237442325035e-05,
+      "timestamp": "2025-05-10 12:36"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.967156624474661e-06,
+      "timestamp": "2025-05-10 12:36"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02318769273494942,
+      "timestamp": "2025-05-10 12:36"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.884222460325604e-06,
+      "timestamp": "2025-05-10 12:36"
+    },
+    {
+      "rank": 13,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 8.265547007398078e-06,
+      "timestamp": "2025-05-10 12:36"
+    },
+    {
+      "rank": 14,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.2120921355398604e-06,
+      "timestamp": "2025-05-10 12:36"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3077406190666944e-05,
+      "timestamp": "2025-05-10 12:36"
+    }
   ]
 }
