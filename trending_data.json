@@ -65910,5 +65910,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-05-10 16:22"
     }
+  ],
+  "2025-05-10 17:15": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.732851503437701e-06,
+      "timestamp": "2025-05-10 17:15"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8786043886132586e-05,
+      "timestamp": "2025-05-10 17:15"
+    },
+    {
+      "rank": 3,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 1.0233562555448233e-06,
+      "timestamp": "2025-05-10 17:15"
+    },
+    {
+      "rank": 4,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.521893057866542e-10,
+      "timestamp": "2025-05-10 17:15"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8615240882800567e-05,
+      "timestamp": "2025-05-10 17:15"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023806696660952614,
+      "timestamp": "2025-05-10 17:15"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.012073325740917e-05,
+      "timestamp": "2025-05-10 17:15"
+    },
+    {
+      "rank": 8,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 3.504161508083299e-07,
+      "timestamp": "2025-05-10 17:15"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001661148050869626,
+      "timestamp": "2025-05-10 17:15"
+    },
+    {
+      "rank": 10,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.6945836997522062e-06,
+      "timestamp": "2025-05-10 17:15"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2787447283071628e-10,
+      "timestamp": "2025-05-10 17:15"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.701881296041214e-06,
+      "timestamp": "2025-05-10 17:15"
+    },
+    {
+      "rank": 13,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 7.300359257127683e-08,
+      "timestamp": "2025-05-10 17:15"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002438767355633747,
+      "timestamp": "2025-05-10 17:15"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.124979719912176e-06,
+      "timestamp": "2025-05-10 17:15"
+    }
   ]
 }
