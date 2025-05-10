@@ -65589,5 +65589,112 @@
       "price_btc": 2.178034734296456e-06,
       "timestamp": "2025-05-10 13:25"
     }
+  ],
+  "2025-05-10 14:16": [
+    {
+      "rank": 1,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.709130725360331e-10,
+      "timestamp": "2025-05-10 14:16"
+    },
+    {
+      "rank": 2,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 7.566319536088455e-08,
+      "timestamp": "2025-05-10 14:16"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8295625133545784e-05,
+      "timestamp": "2025-05-10 14:16"
+    },
+    {
+      "rank": 4,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.6619072015662075e-06,
+      "timestamp": "2025-05-10 14:16"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023523619509349024,
+      "timestamp": "2025-05-10 14:16"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.888623922356234e-05,
+      "timestamp": "2025-05-10 14:16"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004322327893194054,
+      "timestamp": "2025-05-10 14:16"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2925027738097303e-05,
+      "timestamp": "2025-05-10 14:16"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.0320286581654765e-06,
+      "timestamp": "2025-05-10 14:16"
+    },
+    {
+      "rank": 10,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.7159069851066454e-06,
+      "timestamp": "2025-05-10 14:16"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.326164551099173e-05,
+      "timestamp": "2025-05-10 14:16"
+    },
+    {
+      "rank": 12,
+      "name": "aixbt by Virtuals",
+      "symbol": "AIXBT",
+      "price_btc": 2.032040097299504e-06,
+      "timestamp": "2025-05-10 14:16"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.6843044780900365e-06,
+      "timestamp": "2025-05-10 14:16"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.7822660109260223e-06,
+      "timestamp": "2025-05-10 14:16"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-10 14:16"
+    }
   ]
 }
