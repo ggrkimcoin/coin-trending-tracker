@@ -64626,5 +64626,112 @@
       "price_btc": 1.343047527958874e-05,
       "timestamp": "2025-05-10 04:23"
     }
+  ],
+  "2025-05-10 05:18": [
+    {
+      "rank": 1,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 8.03704230152995e-08,
+      "timestamp": "2025-05-10 05:18"
+    },
+    {
+      "rank": 2,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.3180595667666715e-06,
+      "timestamp": "2025-05-10 05:18"
+    },
+    {
+      "rank": 3,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.79749231552658e-06,
+      "timestamp": "2025-05-10 05:18"
+    },
+    {
+      "rank": 4,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.26994886201335e-10,
+      "timestamp": "2025-05-10 05:18"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.818513064086107e-05,
+      "timestamp": "2025-05-10 05:18"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016552833930547767,
+      "timestamp": "2025-05-10 05:18"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-10 05:18"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022676511746695056,
+      "timestamp": "2025-05-10 05:18"
+    },
+    {
+      "rank": 9,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3308764605598837e-07,
+      "timestamp": "2025-05-10 05:18"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8748094586248628e-05,
+      "timestamp": "2025-05-10 05:18"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001376549314513566,
+      "timestamp": "2025-05-10 05:18"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.2899938162278356e-05,
+      "timestamp": "2025-05-10 05:18"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.112380113247464e-06,
+      "timestamp": "2025-05-10 05:18"
+    },
+    {
+      "rank": 14,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 5.026744490529278e-06,
+      "timestamp": "2025-05-10 05:18"
+    },
+    {
+      "rank": 15,
+      "name": "Peanut the Squirrel",
+      "symbol": "PNUT",
+      "price_btc": 3.500997223844389e-06,
+      "timestamp": "2025-05-10 05:18"
+    }
   ]
 }
