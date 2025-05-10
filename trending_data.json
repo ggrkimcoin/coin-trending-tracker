@@ -65054,5 +65054,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-05-10 08:23"
     }
+  ],
+  "2025-05-10 09:18": [
+    {
+      "rank": 1,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022976440153236487,
+      "timestamp": "2025-05-10 09:18"
+    },
+    {
+      "rank": 2,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.1555966641105835e-06,
+      "timestamp": "2025-05-10 09:18"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016588015614578764,
+      "timestamp": "2025-05-10 09:18"
+    },
+    {
+      "rank": 4,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.899234115584533e-06,
+      "timestamp": "2025-05-10 09:18"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8225676968226574e-05,
+      "timestamp": "2025-05-10 09:18"
+    },
+    {
+      "rank": 6,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 8.738662692032977e-10,
+      "timestamp": "2025-05-10 09:18"
+    },
+    {
+      "rank": 7,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 7.620442122015369e-08,
+      "timestamp": "2025-05-10 09:18"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2617085483505323e-10,
+      "timestamp": "2025-05-10 09:18"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.872928444033867e-05,
+      "timestamp": "2025-05-10 09:18"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3329306986865059e-05,
+      "timestamp": "2025-05-10 09:18"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004330769106149697,
+      "timestamp": "2025-05-10 09:18"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.712789924831379e-06,
+      "timestamp": "2025-05-10 09:18"
+    },
+    {
+      "rank": 13,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.425773112792525e-06,
+      "timestamp": "2025-05-10 09:18"
+    },
+    {
+      "rank": 14,
+      "name": "Optimism",
+      "symbol": "OP",
+      "price_btc": 7.434334530797584e-06,
+      "timestamp": "2025-05-10 09:18"
+    },
+    {
+      "rank": 15,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.693564525808187e-06,
+      "timestamp": "2025-05-10 09:18"
+    }
   ]
 }
