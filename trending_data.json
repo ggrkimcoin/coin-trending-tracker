@@ -66017,5 +66017,112 @@
       "price_btc": 7.124979719912176e-06,
       "timestamp": "2025-05-10 17:15"
     }
+  ],
+  "2025-05-10 18:24": [
+    {
+      "rank": 1,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.6933409025915895e-06,
+      "timestamp": "2025-05-10 18:24"
+    },
+    {
+      "rank": 2,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.64399928265397e-10,
+      "timestamp": "2025-05-10 18:24"
+    },
+    {
+      "rank": 3,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.406523999439179e-06,
+      "timestamp": "2025-05-10 18:24"
+    },
+    {
+      "rank": 4,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 1.0906085301037505e-06,
+      "timestamp": "2025-05-10 18:24"
+    },
+    {
+      "rank": 5,
+      "name": "tao.bot",
+      "symbol": "TAOBOT",
+      "price_btc": 3.931201855961243e-06,
+      "timestamp": "2025-05-10 18:24"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0148147262859186e-05,
+      "timestamp": "2025-05-10 18:24"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8760110497710437e-05,
+      "timestamp": "2025-05-10 18:24"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016676756710617504,
+      "timestamp": "2025-05-10 18:24"
+    },
+    {
+      "rank": 9,
+      "name": "ZIGChain",
+      "symbol": "ZIG",
+      "price_btc": 9.466559359259266e-07,
+      "timestamp": "2025-05-10 18:24"
+    },
+    {
+      "rank": 10,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.8854578171102597e-05,
+      "timestamp": "2025-05-10 18:24"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.874974853245914e-05,
+      "timestamp": "2025-05-10 18:24"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004344848679317644,
+      "timestamp": "2025-05-10 18:24"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023918764669706473,
+      "timestamp": "2025-05-10 18:24"
+    },
+    {
+      "rank": 14,
+      "name": "Spectre AI",
+      "symbol": "SPECTRE",
+      "price_btc": 3.5020067930781626e-05,
+      "timestamp": "2025-05-10 18:24"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.296894301802834e-10,
+      "timestamp": "2025-05-10 18:24"
+    }
   ]
 }
