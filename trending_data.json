@@ -64305,5 +64305,112 @@
       "price_btc": 2.2777567524510028e-05,
       "timestamp": "2025-05-09 23:18"
     }
+  ],
+  "2025-05-10 01:38": [
+    {
+      "rank": 1,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.223446568701569e-10,
+      "timestamp": "2025-05-10 01:38"
+    },
+    {
+      "rank": 2,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 7.507987560984673e-08,
+      "timestamp": "2025-05-10 01:38"
+    },
+    {
+      "rank": 3,
+      "name": "Peanut the Squirrel",
+      "symbol": "PNUT",
+      "price_btc": 3.355254217440219e-06,
+      "timestamp": "2025-05-10 01:38"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.810741703112518e-05,
+      "timestamp": "2025-05-10 01:38"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3047262780722332e-05,
+      "timestamp": "2025-05-10 01:38"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8773189721815326e-05,
+      "timestamp": "2025-05-10 01:38"
+    },
+    {
+      "rank": 7,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.2115693358095867e-06,
+      "timestamp": "2025-05-10 01:38"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2111809277065616e-10,
+      "timestamp": "2025-05-10 01:38"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022686573218488413,
+      "timestamp": "2025-05-10 01:38"
+    },
+    {
+      "rank": 10,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.9871908627634646e-06,
+      "timestamp": "2025-05-10 01:38"
+    },
+    {
+      "rank": 11,
+      "name": "Goatseus Maximus",
+      "symbol": "GOAT",
+      "price_btc": 1.5603974598460234e-06,
+      "timestamp": "2025-05-10 01:38"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016658027476882033,
+      "timestamp": "2025-05-10 01:38"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.721792402931129e-06,
+      "timestamp": "2025-05-10 01:38"
+    },
+    {
+      "rank": 14,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.221345831723835e-06,
+      "timestamp": "2025-05-10 01:38"
+    },
+    {
+      "rank": 15,
+      "name": "Brett",
+      "symbol": "BRETT",
+      "price_btc": 7.504666898580224e-07,
+      "timestamp": "2025-05-10 01:38"
+    }
   ]
 }
