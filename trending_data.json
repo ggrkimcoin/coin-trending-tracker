@@ -64519,5 +64519,112 @@
       "price_btc": 0.022719137862911996,
       "timestamp": "2025-05-10 03:04"
     }
+  ],
+  "2025-05-10 04:23": [
+    {
+      "rank": 1,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 8.537729445203657e-08,
+      "timestamp": "2025-05-10 04:23"
+    },
+    {
+      "rank": 2,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.267826932219674e-06,
+      "timestamp": "2025-05-10 04:23"
+    },
+    {
+      "rank": 3,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.604747003234098e-10,
+      "timestamp": "2025-05-10 04:23"
+    },
+    {
+      "rank": 4,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.787868878496243e-06,
+      "timestamp": "2025-05-10 04:23"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8587081608572632e-05,
+      "timestamp": "2025-05-10 04:23"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3209266061251107e-07,
+      "timestamp": "2025-05-10 04:23"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.831349635777765e-05,
+      "timestamp": "2025-05-10 04:23"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016590716789366456,
+      "timestamp": "2025-05-10 04:23"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2899318959004254e-05,
+      "timestamp": "2025-05-10 04:23"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2191964492898448e-10,
+      "timestamp": "2025-05-10 04:23"
+    },
+    {
+      "rank": 11,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 2.0946994073127165e-10,
+      "timestamp": "2025-05-10 04:23"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.118610882143466e-06,
+      "timestamp": "2025-05-10 04:23"
+    },
+    {
+      "rank": 13,
+      "name": "Peanut the Squirrel",
+      "symbol": "PNUT",
+      "price_btc": 3.4326702468327317e-06,
+      "timestamp": "2025-05-10 04:23"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023735353019754368,
+      "timestamp": "2025-05-10 04:23"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.343047527958874e-05,
+      "timestamp": "2025-05-10 04:23"
+    }
   ]
 }
