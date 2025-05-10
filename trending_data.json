@@ -64947,5 +64947,112 @@
       "price_btc": 0.0016542682325503956,
       "timestamp": "2025-05-10 07:17"
     }
+  ],
+  "2025-05-10 08:23": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.849902619382758e-05,
+      "timestamp": "2025-05-10 08:23"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3391527594989516e-05,
+      "timestamp": "2025-05-10 08:23"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023186389791867903,
+      "timestamp": "2025-05-10 08:23"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016599968862609795,
+      "timestamp": "2025-05-10 08:23"
+    },
+    {
+      "rank": 5,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 7.943094775711563e-08,
+      "timestamp": "2025-05-10 08:23"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.90724757401488e-05,
+      "timestamp": "2025-05-10 08:23"
+    },
+    {
+      "rank": 7,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 8.983079521164823e-10,
+      "timestamp": "2025-05-10 08:23"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2701160741160072e-10,
+      "timestamp": "2025-05-10 08:23"
+    },
+    {
+      "rank": 9,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.2975080180444145e-06,
+      "timestamp": "2025-05-10 08:23"
+    },
+    {
+      "rank": 10,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 3.085244802305119e-05,
+      "timestamp": "2025-05-10 08:23"
+    },
+    {
+      "rank": 11,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 8.534414261358722e-06,
+      "timestamp": "2025-05-10 08:23"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001391306079253577,
+      "timestamp": "2025-05-10 08:23"
+    },
+    {
+      "rank": 13,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.775565629214391e-06,
+      "timestamp": "2025-05-10 08:23"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3015037815207338e-05,
+      "timestamp": "2025-05-10 08:23"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-10 08:23"
+    }
   ]
 }
