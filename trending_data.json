@@ -65161,5 +65161,112 @@
       "price_btc": 3.693564525808187e-06,
       "timestamp": "2025-05-10 09:18"
     }
+  ],
+  "2025-05-10 10:19": [
+    {
+      "rank": 1,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 8.873632671020029e-10,
+      "timestamp": "2025-05-10 10:19"
+    },
+    {
+      "rank": 2,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 7.866057351912524e-08,
+      "timestamp": "2025-05-10 10:19"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02314266976921198,
+      "timestamp": "2025-05-10 10:19"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.830580455599301e-05,
+      "timestamp": "2025-05-10 10:19"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.996585509569999e-06,
+      "timestamp": "2025-05-10 10:19"
+    },
+    {
+      "rank": 6,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.277871072002074e-10,
+      "timestamp": "2025-05-10 10:19"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.056340047366424e-06,
+      "timestamp": "2025-05-10 10:19"
+    },
+    {
+      "rank": 8,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.703458670333542e-06,
+      "timestamp": "2025-05-10 10:19"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004345975422082868,
+      "timestamp": "2025-05-10 10:19"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3570280762476014e-07,
+      "timestamp": "2025-05-10 10:19"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00024625161530977016,
+      "timestamp": "2025-05-10 10:19"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.9124917671607825e-05,
+      "timestamp": "2025-05-10 10:19"
+    },
+    {
+      "rank": 13,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.2098916199366452e-06,
+      "timestamp": "2025-05-10 10:19"
+    },
+    {
+      "rank": 14,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 3.107110680442639e-05,
+      "timestamp": "2025-05-10 10:19"
+    },
+    {
+      "rank": 15,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 8.755908827215565e-06,
+      "timestamp": "2025-05-10 10:19"
+    }
   ]
 }
