@@ -66124,5 +66124,112 @@
       "price_btc": 1.296894301802834e-10,
       "timestamp": "2025-05-10 18:24"
     }
+  ],
+  "2025-05-10 19:14": [
+    {
+      "rank": 1,
+      "name": "tao.bot",
+      "symbol": "TAOBOT",
+      "price_btc": 4.005252705344948e-06,
+      "timestamp": "2025-05-10 19:14"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.454183742458679e-06,
+      "timestamp": "2025-05-10 19:14"
+    },
+    {
+      "rank": 3,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 1.0427814091890681e-06,
+      "timestamp": "2025-05-10 19:14"
+    },
+    {
+      "rank": 4,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.8444235493202794e-05,
+      "timestamp": "2025-05-10 19:14"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8636689488235244e-05,
+      "timestamp": "2025-05-10 19:14"
+    },
+    {
+      "rank": 6,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.783540182339665e-10,
+      "timestamp": "2025-05-10 19:14"
+    },
+    {
+      "rank": 7,
+      "name": "Spectre AI",
+      "symbol": "SPECTRE",
+      "price_btc": 3.508810227359775e-05,
+      "timestamp": "2025-05-10 19:14"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001670496477820573,
+      "timestamp": "2025-05-10 19:14"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2779095699418844e-05,
+      "timestamp": "2025-05-10 19:14"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.014843541482833e-05,
+      "timestamp": "2025-05-10 19:14"
+    },
+    {
+      "rank": 11,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.119680063637286e-05,
+      "timestamp": "2025-05-10 19:14"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9199264954143542e-05,
+      "timestamp": "2025-05-10 19:14"
+    },
+    {
+      "rank": 13,
+      "name": "ZIGChain",
+      "symbol": "ZIG",
+      "price_btc": 9.680562908639515e-07,
+      "timestamp": "2025-05-10 19:14"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004365571897049971,
+      "timestamp": "2025-05-10 19:14"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-10 19:14"
+    }
   ]
 }
