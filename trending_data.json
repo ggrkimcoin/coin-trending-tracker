@@ -64840,5 +64840,112 @@
       "price_btc": 2.2991971178029568e-05,
       "timestamp": "2025-05-10 06:26"
     }
+  ],
+  "2025-05-10 07:17": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.831553210363671e-05,
+      "timestamp": "2025-05-10 07:17"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3530335688121808e-05,
+      "timestamp": "2025-05-10 07:17"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.096341465448502e-06,
+      "timestamp": "2025-05-10 07:17"
+    },
+    {
+      "rank": 4,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.569422806289948e-10,
+      "timestamp": "2025-05-10 07:17"
+    },
+    {
+      "rank": 5,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2522357149473397e-10,
+      "timestamp": "2025-05-10 07:17"
+    },
+    {
+      "rank": 6,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 7.906239737573754e-08,
+      "timestamp": "2025-05-10 07:17"
+    },
+    {
+      "rank": 7,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.2486089766471856e-06,
+      "timestamp": "2025-05-10 07:17"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8730589956476228e-05,
+      "timestamp": "2025-05-10 07:17"
+    },
+    {
+      "rank": 9,
+      "name": "Peanut the Squirrel",
+      "symbol": "PNUT",
+      "price_btc": 3.4536184152895653e-06,
+      "timestamp": "2025-05-10 07:17"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3477040598324333e-07,
+      "timestamp": "2025-05-10 07:17"
+    },
+    {
+      "rank": 11,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 8.29811332678941e-06,
+      "timestamp": "2025-05-10 07:17"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004310271318108214,
+      "timestamp": "2025-05-10 07:17"
+    },
+    {
+      "rank": 13,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 1.7730611669873958e-06,
+      "timestamp": "2025-05-10 07:17"
+    },
+    {
+      "rank": 14,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 5.266835847711157e-06,
+      "timestamp": "2025-05-10 07:17"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016542682325503956,
+      "timestamp": "2025-05-10 07:17"
+    }
   ]
 }
