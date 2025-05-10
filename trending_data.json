@@ -64733,5 +64733,112 @@
       "price_btc": 3.500997223844389e-06,
       "timestamp": "2025-05-10 05:18"
     }
+  ],
+  "2025-05-10 06:26": [
+    {
+      "rank": 1,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.780489652617137e-10,
+      "timestamp": "2025-05-10 06:26"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.837010372736921e-05,
+      "timestamp": "2025-05-10 06:26"
+    },
+    {
+      "rank": 3,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.2524821206998612e-06,
+      "timestamp": "2025-05-10 06:26"
+    },
+    {
+      "rank": 4,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2341742476871015e-10,
+      "timestamp": "2025-05-10 06:26"
+    },
+    {
+      "rank": 5,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 8.084493749758408e-08,
+      "timestamp": "2025-05-10 06:26"
+    },
+    {
+      "rank": 6,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 7.726892375683785e-06,
+      "timestamp": "2025-05-10 06:26"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.151507164218567e-06,
+      "timestamp": "2025-05-10 06:26"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016608935048054458,
+      "timestamp": "2025-05-10 06:26"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3510810826334928e-05,
+      "timestamp": "2025-05-10 06:26"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022855166357724825,
+      "timestamp": "2025-05-10 06:26"
+    },
+    {
+      "rank": 11,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 8.377248382462775e-06,
+      "timestamp": "2025-05-10 06:26"
+    },
+    {
+      "rank": 12,
+      "name": "New XAI Gork",
+      "symbol": "GORK",
+      "price_btc": 3.8179171924174704e-07,
+      "timestamp": "2025-05-10 06:26"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.92656494016951e-05,
+      "timestamp": "2025-05-10 06:26"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-10 06:26"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2991971178029568e-05,
+      "timestamp": "2025-05-10 06:26"
+    }
   ]
 }
