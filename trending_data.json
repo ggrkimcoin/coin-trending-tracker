@@ -66338,5 +66338,112 @@
       "price_btc": 1.1633403034417894e-11,
       "timestamp": "2025-05-10 20:19"
     }
+  ],
+  "2025-05-10 21:16": [
+    {
+      "rank": 1,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 1.167068478631189e-09,
+      "timestamp": "2025-05-10 21:16"
+    },
+    {
+      "rank": 2,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.701051628573682e-06,
+      "timestamp": "2025-05-10 21:16"
+    },
+    {
+      "rank": 3,
+      "name": "tao.bot",
+      "symbol": "TAOBOT",
+      "price_btc": 4.087167785514825e-06,
+      "timestamp": "2025-05-10 21:16"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8745043352931775e-05,
+      "timestamp": "2025-05-10 21:16"
+    },
+    {
+      "rank": 5,
+      "name": "Spectre AI",
+      "symbol": "SPECTRE",
+      "price_btc": 3.533450745933717e-05,
+      "timestamp": "2025-05-10 21:16"
+    },
+    {
+      "rank": 6,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 9.215112068664659e-06,
+      "timestamp": "2025-05-10 21:16"
+    },
+    {
+      "rank": 7,
+      "name": "NEURALAI",
+      "symbol": "NEURAL",
+      "price_btc": 4.837920736494805e-05,
+      "timestamp": "2025-05-10 21:16"
+    },
+    {
+      "rank": 8,
+      "name": "PAAL AI",
+      "symbol": "PAAL",
+      "price_btc": 1.5648066333795225e-06,
+      "timestamp": "2025-05-10 21:16"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.901661895668717e-05,
+      "timestamp": "2025-05-10 21:16"
+    },
+    {
+      "rank": 10,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 1.0457299066757494e-06,
+      "timestamp": "2025-05-10 21:16"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004385497392556124,
+      "timestamp": "2025-05-10 21:16"
+    },
+    {
+      "rank": 12,
+      "name": "ZIGChain",
+      "symbol": "ZIG",
+      "price_btc": 9.786000414649966e-07,
+      "timestamp": "2025-05-10 21:16"
+    },
+    {
+      "rank": 13,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 8.779883700302725e-06,
+      "timestamp": "2025-05-10 21:16"
+    },
+    {
+      "rank": 14,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5858075167391507e-06,
+      "timestamp": "2025-05-10 21:16"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02418431991630624,
+      "timestamp": "2025-05-10 21:16"
+    }
   ]
 }
