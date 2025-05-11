@@ -66980,5 +66980,112 @@
       "price_btc": 8.302969682745594e-07,
       "timestamp": "2025-05-11 04:24"
     }
+  ],
+  "2025-05-11 05:18": [
+    {
+      "rank": 1,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 9.140584645538713e-06,
+      "timestamp": "2025-05-11 05:18"
+    },
+    {
+      "rank": 2,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 1.1021358246534829e-09,
+      "timestamp": "2025-05-11 05:18"
+    },
+    {
+      "rank": 3,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 1.13646796446195e-05,
+      "timestamp": "2025-05-11 05:18"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.865954795832265e-05,
+      "timestamp": "2025-05-11 05:18"
+    },
+    {
+      "rank": 5,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.557163463413125e-06,
+      "timestamp": "2025-05-11 05:18"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004418678580900351,
+      "timestamp": "2025-05-11 05:18"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0017005810933660675,
+      "timestamp": "2025-05-11 05:18"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8640858269816597e-05,
+      "timestamp": "2025-05-11 05:18"
+    },
+    {
+      "rank": 9,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.3136530014609296e-06,
+      "timestamp": "2025-05-11 05:18"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024407115654766044,
+      "timestamp": "2025-05-11 05:18"
+    },
+    {
+      "rank": 11,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.3070241914280885e-06,
+      "timestamp": "2025-05-11 05:18"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3212809301040691e-05,
+      "timestamp": "2025-05-11 05:18"
+    },
+    {
+      "rank": 13,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.2637067608528387e-05,
+      "timestamp": "2025-05-11 05:18"
+    },
+    {
+      "rank": 14,
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "price_btc": 1.1703504272600463e-05,
+      "timestamp": "2025-05-11 05:18"
+    },
+    {
+      "rank": 15,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 4.6129679315690845e-06,
+      "timestamp": "2025-05-11 05:18"
+    }
   ]
 }
