@@ -67087,5 +67087,112 @@
       "price_btc": 4.6129679315690845e-06,
       "timestamp": "2025-05-11 05:18"
     }
+  ],
+  "2025-05-11 06:27": [
+    {
+      "rank": 1,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 9.077054743396087e-06,
+      "timestamp": "2025-05-11 06:27"
+    },
+    {
+      "rank": 2,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 1.1108959174723415e-05,
+      "timestamp": "2025-05-11 06:27"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8559443351392506e-05,
+      "timestamp": "2025-05-11 06:27"
+    },
+    {
+      "rank": 4,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5467945602981477e-06,
+      "timestamp": "2025-05-11 06:27"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016906381788718307,
+      "timestamp": "2025-05-11 06:27"
+    },
+    {
+      "rank": 6,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 1.1503809948793587e-09,
+      "timestamp": "2025-05-11 06:27"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024442312460269896,
+      "timestamp": "2025-05-11 06:27"
+    },
+    {
+      "rank": 8,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 4.552694363917921e-06,
+      "timestamp": "2025-05-11 06:27"
+    },
+    {
+      "rank": 9,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.1024125687537884e-05,
+      "timestamp": "2025-05-11 06:27"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.21740801520571e-06,
+      "timestamp": "2025-05-11 06:27"
+    },
+    {
+      "rank": 11,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 7.576461021872136e-07,
+      "timestamp": "2025-05-11 06:27"
+    },
+    {
+      "rank": 12,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 1.173770914704612e-06,
+      "timestamp": "2025-05-11 06:27"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.784919585797285e-06,
+      "timestamp": "2025-05-11 06:27"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3068468570813836e-05,
+      "timestamp": "2025-05-11 06:27"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0043743906287149635,
+      "timestamp": "2025-05-11 06:27"
+    }
   ]
 }
