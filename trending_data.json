@@ -67408,5 +67408,112 @@
       "price_btc": 7.137809746935325e-08,
       "timestamp": "2025-05-11 08:24"
     }
+  ],
+  "2025-05-11 09:19": [
+    {
+      "rank": 1,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 9.128347733955654e-06,
+      "timestamp": "2025-05-11 09:19"
+    },
+    {
+      "rank": 2,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 1.0392905954761268e-05,
+      "timestamp": "2025-05-11 09:19"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.812534806534163e-05,
+      "timestamp": "2025-05-11 09:19"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016694024001700238,
+      "timestamp": "2025-05-11 09:19"
+    },
+    {
+      "rank": 5,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5552087512919018e-06,
+      "timestamp": "2025-05-11 09:19"
+    },
+    {
+      "rank": 6,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.272374783606113e-05,
+      "timestamp": "2025-05-11 09:19"
+    },
+    {
+      "rank": 7,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2372905306337626e-10,
+      "timestamp": "2025-05-11 09:19"
+    },
+    {
+      "rank": 8,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 1.2153450326953173e-09,
+      "timestamp": "2025-05-11 09:19"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023968548212077806,
+      "timestamp": "2025-05-11 09:19"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8333389831257307e-05,
+      "timestamp": "2025-05-11 09:19"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-11 09:19"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023300097033044167,
+      "timestamp": "2025-05-11 09:19"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.023820442176144e-06,
+      "timestamp": "2025-05-11 09:19"
+    },
+    {
+      "rank": 14,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.9529799032380765e-06,
+      "timestamp": "2025-05-11 09:19"
+    },
+    {
+      "rank": 15,
+      "name": "Particle Network",
+      "symbol": "PARTI",
+      "price_btc": 3.4496801508537033e-06,
+      "timestamp": "2025-05-11 09:19"
+    }
   ]
 }
