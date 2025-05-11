@@ -68585,5 +68585,112 @@
       "price_btc": 0.00023977216101111096,
       "timestamp": "2025-05-11 19:14"
     }
+  ],
+  "2025-05-11 20:20": [
+    {
+      "rank": 1,
+      "name": "Metacade",
+      "symbol": "MCADE",
+      "price_btc": 1.9653755165826387e-07,
+      "timestamp": "2025-05-11 20:20"
+    },
+    {
+      "rank": 2,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.619321824993765e-10,
+      "timestamp": "2025-05-11 20:20"
+    },
+    {
+      "rank": 3,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5336467703193558e-06,
+      "timestamp": "2025-05-11 20:20"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.039970133815572e-05,
+      "timestamp": "2025-05-11 20:20"
+    },
+    {
+      "rank": 5,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.007589247052911e-06,
+      "timestamp": "2025-05-11 20:20"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.842125168377232e-05,
+      "timestamp": "2025-05-11 20:20"
+    },
+    {
+      "rank": 7,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.116330725384492e-06,
+      "timestamp": "2025-05-11 20:20"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2920425738601593e-10,
+      "timestamp": "2025-05-11 20:20"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016536977929110341,
+      "timestamp": "2025-05-11 20:20"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023999458419144085,
+      "timestamp": "2025-05-11 20:20"
+    },
+    {
+      "rank": 11,
+      "name": "Peanut the Squirrel",
+      "symbol": "PNUT",
+      "price_btc": 3.90005184458243e-06,
+      "timestamp": "2025-05-11 20:20"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8564079014778428e-05,
+      "timestamp": "2025-05-11 20:20"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.270527780811689e-05,
+      "timestamp": "2025-05-11 20:20"
+    },
+    {
+      "rank": 14,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.9184166784662894e-06,
+      "timestamp": "2025-05-11 20:20"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-11 20:20"
+    }
   ]
 }
