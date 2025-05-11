@@ -68157,5 +68157,112 @@
       "price_btc": 6.5503451934931e-08,
       "timestamp": "2025-05-11 15:18"
     }
+  ],
+  "2025-05-11 16:23": [
+    {
+      "rank": 1,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5491964073818663e-06,
+      "timestamp": "2025-05-11 16:23"
+    },
+    {
+      "rank": 2,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.051514349812471e-10,
+      "timestamp": "2025-05-11 16:23"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.0345077039464936e-05,
+      "timestamp": "2025-05-11 16:23"
+    },
+    {
+      "rank": 4,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.976989667545832e-06,
+      "timestamp": "2025-05-11 16:23"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.761955772352573e-05,
+      "timestamp": "2025-05-11 16:23"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.82278715878887e-05,
+      "timestamp": "2025-05-11 16:23"
+    },
+    {
+      "rank": 7,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2743861260005204e-10,
+      "timestamp": "2025-05-11 16:23"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.742013583629414e-06,
+      "timestamp": "2025-05-11 16:23"
+    },
+    {
+      "rank": 9,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 2.0698537064127232e-10,
+      "timestamp": "2025-05-11 16:23"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3053547320919564e-07,
+      "timestamp": "2025-05-11 16:23"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016368593811385125,
+      "timestamp": "2025-05-11 16:23"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004265159733314634,
+      "timestamp": "2025-05-11 16:23"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023148604933294017,
+      "timestamp": "2025-05-11 16:23"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023632295663935245,
+      "timestamp": "2025-05-11 16:23"
+    },
+    {
+      "rank": 15,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.6288160123487434e-06,
+      "timestamp": "2025-05-11 16:23"
+    }
   ]
 }
