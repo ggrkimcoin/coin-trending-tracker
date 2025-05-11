@@ -67301,5 +67301,112 @@
       "price_btc": 8.542890290578356e-06,
       "timestamp": "2025-05-11 07:18"
     }
+  ],
+  "2025-05-11 08:24": [
+    {
+      "rank": 1,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.92177606465498e-06,
+      "timestamp": "2025-05-11 08:24"
+    },
+    {
+      "rank": 2,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 1.0698608961913852e-05,
+      "timestamp": "2025-05-11 08:24"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.838502612625514e-05,
+      "timestamp": "2025-05-11 08:24"
+    },
+    {
+      "rank": 4,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5607920703032342e-06,
+      "timestamp": "2025-05-11 08:24"
+    },
+    {
+      "rank": 5,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 1.1698585424093997e-09,
+      "timestamp": "2025-05-11 08:24"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02403648754825743,
+      "timestamp": "2025-05-11 08:24"
+    },
+    {
+      "rank": 7,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.229133339947912e-06,
+      "timestamp": "2025-05-11 08:24"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016717312064541653,
+      "timestamp": "2025-05-11 08:24"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2762745858648172e-05,
+      "timestamp": "2025-05-11 08:24"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.169979066696307e-06,
+      "timestamp": "2025-05-11 08:24"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.240987108874225e-10,
+      "timestamp": "2025-05-11 08:24"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.935028251156847e-06,
+      "timestamp": "2025-05-11 08:24"
+    },
+    {
+      "rank": 13,
+      "name": "Particle Network",
+      "symbol": "PARTI",
+      "price_btc": 3.405380617464699e-06,
+      "timestamp": "2025-05-11 08:24"
+    },
+    {
+      "rank": 14,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3177623610866576e-07,
+      "timestamp": "2025-05-11 08:24"
+    },
+    {
+      "rank": 15,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 7.137809746935325e-08,
+      "timestamp": "2025-05-11 08:24"
+    }
   ]
 }
