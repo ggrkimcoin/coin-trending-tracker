@@ -66873,5 +66873,112 @@
       "price_btc": 0.002164142122675596,
       "timestamp": "2025-05-11 03:14"
     }
+  ],
+  "2025-05-11 04:24": [
+    {
+      "rank": 1,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 1.1348362713726642e-05,
+      "timestamp": "2025-05-11 04:24"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 9.21583217438943e-06,
+      "timestamp": "2025-05-11 04:24"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.864810139349635e-05,
+      "timestamp": "2025-05-11 04:24"
+    },
+    {
+      "rank": 4,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 1.1370350508239694e-09,
+      "timestamp": "2025-05-11 04:24"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02440641489477504,
+      "timestamp": "2025-05-11 04:24"
+    },
+    {
+      "rank": 6,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5639565679398454e-06,
+      "timestamp": "2025-05-11 04:24"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001696145182543867,
+      "timestamp": "2025-05-11 04:24"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004372525977549544,
+      "timestamp": "2025-05-11 04:24"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0229263044687184e-05,
+      "timestamp": "2025-05-11 04:24"
+    },
+    {
+      "rank": 10,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.30863351389654e-06,
+      "timestamp": "2025-05-11 04:24"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8821836072543366e-05,
+      "timestamp": "2025-05-11 04:24"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013714664812367026,
+      "timestamp": "2025-05-11 04:24"
+    },
+    {
+      "rank": 13,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.620564890098796e-06,
+      "timestamp": "2025-05-11 04:24"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.257587499135516e-10,
+      "timestamp": "2025-05-11 04:24"
+    },
+    {
+      "rank": 15,
+      "name": "Brett",
+      "symbol": "BRETT",
+      "price_btc": 8.302969682745594e-07,
+      "timestamp": "2025-05-11 04:24"
+    }
   ]
 }
