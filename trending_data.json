@@ -67836,5 +67836,112 @@
       "price_btc": 4.169399774545898e-05,
       "timestamp": "2025-05-11 12:36"
     }
+  ],
+  "2025-05-11 13:25": [
+    {
+      "rank": 1,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.1251564153232074e-05,
+      "timestamp": "2025-05-11 13:25"
+    },
+    {
+      "rank": 2,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.612193196205134e-06,
+      "timestamp": "2025-05-11 13:25"
+    },
+    {
+      "rank": 3,
+      "name": "Peanut the Squirrel",
+      "symbol": "PNUT",
+      "price_btc": 4.398780093359712e-06,
+      "timestamp": "2025-05-11 13:25"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024129573171609155,
+      "timestamp": "2025-05-11 13:25"
+    },
+    {
+      "rank": 5,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5402810801698285e-06,
+      "timestamp": "2025-05-11 13:25"
+    },
+    {
+      "rank": 6,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.236359484518179e-06,
+      "timestamp": "2025-05-11 13:25"
+    },
+    {
+      "rank": 7,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 1.1409561919427746e-09,
+      "timestamp": "2025-05-11 13:25"
+    },
+    {
+      "rank": 8,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.7860782758616733e-06,
+      "timestamp": "2025-05-11 13:25"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8296733568920235e-05,
+      "timestamp": "2025-05-11 13:25"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2889953476416736e-10,
+      "timestamp": "2025-05-11 13:25"
+    },
+    {
+      "rank": 11,
+      "name": "Brett",
+      "symbol": "BRETT",
+      "price_btc": 8.138871805158202e-07,
+      "timestamp": "2025-05-11 13:25"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2982361261268959e-05,
+      "timestamp": "2025-05-11 13:25"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0043537389837563735,
+      "timestamp": "2025-05-11 13:25"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023659147940125158,
+      "timestamp": "2025-05-11 13:25"
+    },
+    {
+      "rank": 15,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 6.822531143719274e-08,
+      "timestamp": "2025-05-11 13:25"
+    }
   ]
 }
