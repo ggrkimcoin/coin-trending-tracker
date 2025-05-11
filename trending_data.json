@@ -68371,5 +68371,112 @@
       "price_btc": 2.073369672478171e-10,
       "timestamp": "2025-05-11 17:15"
     }
+  ],
+  "2025-05-11 18:25": [
+    {
+      "rank": 1,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 1.0387419141637213e-09,
+      "timestamp": "2025-05-11 18:25"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.0339341654659363e-05,
+      "timestamp": "2025-05-11 18:25"
+    },
+    {
+      "rank": 3,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.0163234933962785e-06,
+      "timestamp": "2025-05-11 18:25"
+    },
+    {
+      "rank": 4,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5420829724926158e-06,
+      "timestamp": "2025-05-11 18:25"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016503790818455742,
+      "timestamp": "2025-05-11 18:25"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023647887903371472,
+      "timestamp": "2025-05-11 18:25"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023902731291068537,
+      "timestamp": "2025-05-11 18:25"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.831552211638425e-05,
+      "timestamp": "2025-05-11 18:25"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.886728434434626e-06,
+      "timestamp": "2025-05-11 18:25"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004302804611304525,
+      "timestamp": "2025-05-11 18:25"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.093593850318398e-06,
+      "timestamp": "2025-05-11 18:25"
+    },
+    {
+      "rank": 12,
+      "name": "Peanut the Squirrel",
+      "symbol": "PNUT",
+      "price_btc": 3.958881843796206e-06,
+      "timestamp": "2025-05-11 18:25"
+    },
+    {
+      "rank": 13,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001313459368260877,
+      "timestamp": "2025-05-11 18:25"
+    },
+    {
+      "rank": 14,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.2192004370540683e-06,
+      "timestamp": "2025-05-11 18:25"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0021044542450019453,
+      "timestamp": "2025-05-11 18:25"
+    }
   ]
 }
