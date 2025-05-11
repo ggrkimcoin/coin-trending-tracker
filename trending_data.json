@@ -67194,5 +67194,112 @@
       "price_btc": 0.0043743906287149635,
       "timestamp": "2025-05-11 06:27"
     }
+  ],
+  "2025-05-11 07:18": [
+    {
+      "rank": 1,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 9.115758205887782e-06,
+      "timestamp": "2025-05-11 07:18"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.821522499570496e-05,
+      "timestamp": "2025-05-11 07:18"
+    },
+    {
+      "rank": 3,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 1.0805943096307794e-05,
+      "timestamp": "2025-05-11 07:18"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016766180479051939,
+      "timestamp": "2025-05-11 07:18"
+    },
+    {
+      "rank": 5,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.149669896181675e-06,
+      "timestamp": "2025-05-11 07:18"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004315952084377085,
+      "timestamp": "2025-05-11 07:18"
+    },
+    {
+      "rank": 7,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 1.1264660758656043e-09,
+      "timestamp": "2025-05-11 07:18"
+    },
+    {
+      "rank": 8,
+      "name": "ZIGChain",
+      "symbol": "ZIG",
+      "price_btc": 9.912725757062877e-07,
+      "timestamp": "2025-05-11 07:18"
+    },
+    {
+      "rank": 9,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5544131011263753e-06,
+      "timestamp": "2025-05-11 07:18"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024068043776754377,
+      "timestamp": "2025-05-11 07:18"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.287385321953606e-05,
+      "timestamp": "2025-05-11 07:18"
+    },
+    {
+      "rank": 12,
+      "name": "tao.bot",
+      "symbol": "TAOBOT",
+      "price_btc": 4.386297847802893e-06,
+      "timestamp": "2025-05-11 07:18"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.945906895163117e-06,
+      "timestamp": "2025-05-11 07:18"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.850190886948404e-05,
+      "timestamp": "2025-05-11 07:18"
+    },
+    {
+      "rank": 15,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 8.542890290578356e-06,
+      "timestamp": "2025-05-11 07:18"
+    }
   ]
 }
