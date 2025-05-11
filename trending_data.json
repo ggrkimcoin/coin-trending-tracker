@@ -67729,5 +67729,112 @@
       "price_btc": 6.779308420588828e-08,
       "timestamp": "2025-05-11 11:14"
     }
+  ],
+  "2025-05-11 12:36": [
+    {
+      "rank": 1,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.024025736666914e-05,
+      "timestamp": "2025-05-11 12:36"
+    },
+    {
+      "rank": 2,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.1214680165406055e-06,
+      "timestamp": "2025-05-11 12:36"
+    },
+    {
+      "rank": 3,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 1.1049138771271376e-09,
+      "timestamp": "2025-05-11 12:36"
+    },
+    {
+      "rank": 4,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.5697838434747617e-06,
+      "timestamp": "2025-05-11 12:36"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8114765827980114e-05,
+      "timestamp": "2025-05-11 12:36"
+    },
+    {
+      "rank": 6,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5330861139501407e-06,
+      "timestamp": "2025-05-11 12:36"
+    },
+    {
+      "rank": 7,
+      "name": "Peanut the Squirrel",
+      "symbol": "PNUT",
+      "price_btc": 4.137719756648054e-06,
+      "timestamp": "2025-05-11 12:36"
+    },
+    {
+      "rank": 8,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.6243815478381717e-06,
+      "timestamp": "2025-05-11 12:36"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8513963224338544e-05,
+      "timestamp": "2025-05-11 12:36"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004364906583414628,
+      "timestamp": "2025-05-11 12:36"
+    },
+    {
+      "rank": 11,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00015888479878633084,
+      "timestamp": "2025-05-11 12:36"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002382434067061881,
+      "timestamp": "2025-05-11 12:36"
+    },
+    {
+      "rank": 13,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 8.165736891747326e-06,
+      "timestamp": "2025-05-11 12:36"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-11 12:36"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.169399774545898e-05,
+      "timestamp": "2025-05-11 12:36"
+    }
   ]
 }
