@@ -68478,5 +68478,112 @@
       "price_btc": 0.0021044542450019453,
       "timestamp": "2025-05-11 18:25"
     }
+  ],
+  "2025-05-11 19:14": [
+    {
+      "rank": 1,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5298836448257431e-06,
+      "timestamp": "2025-05-11 19:14"
+    },
+    {
+      "rank": 2,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.95270733610723e-10,
+      "timestamp": "2025-05-11 19:14"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016517537345048729,
+      "timestamp": "2025-05-11 19:14"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.0399725663176762e-05,
+      "timestamp": "2025-05-11 19:14"
+    },
+    {
+      "rank": 5,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.1223953271262491e-06,
+      "timestamp": "2025-05-11 19:14"
+    },
+    {
+      "rank": 6,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.9910740115457007e-06,
+      "timestamp": "2025-05-11 19:14"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.844144357289301e-05,
+      "timestamp": "2025-05-11 19:14"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3204014800740378e-10,
+      "timestamp": "2025-05-11 19:14"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023982870181882335,
+      "timestamp": "2025-05-11 19:14"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.828302429152791e-05,
+      "timestamp": "2025-05-11 19:14"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2742558332315007e-05,
+      "timestamp": "2025-05-11 19:14"
+    },
+    {
+      "rank": 12,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.20545971204084e-06,
+      "timestamp": "2025-05-11 19:14"
+    },
+    {
+      "rank": 13,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 7.426499229403699e-06,
+      "timestamp": "2025-05-11 19:14"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-11 19:14"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023977216101111096,
+      "timestamp": "2025-05-11 19:14"
+    }
   ]
 }
