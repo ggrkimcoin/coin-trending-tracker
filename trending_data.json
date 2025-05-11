@@ -67515,5 +67515,112 @@
       "price_btc": 3.4496801508537033e-06,
       "timestamp": "2025-05-11 09:19"
     }
+  ],
+  "2025-05-11 10:19": [
+    {
+      "rank": 1,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 9.159566313551944e-06,
+      "timestamp": "2025-05-11 10:19"
+    },
+    {
+      "rank": 2,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 1.056552110268893e-05,
+      "timestamp": "2025-05-11 10:19"
+    },
+    {
+      "rank": 3,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 1.2687410913261095e-09,
+      "timestamp": "2025-05-11 10:19"
+    },
+    {
+      "rank": 4,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2484404153328596e-10,
+      "timestamp": "2025-05-11 10:19"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.806929951021213e-05,
+      "timestamp": "2025-05-11 10:19"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.85065942607821e-05,
+      "timestamp": "2025-05-11 10:19"
+    },
+    {
+      "rank": 7,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.548589534138558e-06,
+      "timestamp": "2025-05-11 10:19"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0043665913894991824,
+      "timestamp": "2025-05-11 10:19"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016711755171254902,
+      "timestamp": "2025-05-11 10:19"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024111314722964242,
+      "timestamp": "2025-05-11 10:19"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.944247141113943e-06,
+      "timestamp": "2025-05-11 10:19"
+    },
+    {
+      "rank": 12,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.106182786029559e-06,
+      "timestamp": "2025-05-11 10:19"
+    },
+    {
+      "rank": 13,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.9600319796590354e-06,
+      "timestamp": "2025-05-11 10:19"
+    },
+    {
+      "rank": 14,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.242840035458961e-06,
+      "timestamp": "2025-05-11 10:19"
+    },
+    {
+      "rank": 15,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.3218148051386267e-06,
+      "timestamp": "2025-05-11 10:19"
+    }
   ]
 }
