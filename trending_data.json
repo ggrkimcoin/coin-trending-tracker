@@ -66766,5 +66766,112 @@
       "price_btc": 6.1756284312116735e-09,
       "timestamp": "2025-05-11 01:47"
     }
+  ],
+  "2025-05-11 03:14": [
+    {
+      "rank": 1,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 1.1190651247092889e-09,
+      "timestamp": "2025-05-11 03:14"
+    },
+    {
+      "rank": 2,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 1.1186011781251341e-05,
+      "timestamp": "2025-05-11 03:14"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.412853346674197e-06,
+      "timestamp": "2025-05-11 03:14"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.860448771599907e-05,
+      "timestamp": "2025-05-11 03:14"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8565596352796186e-05,
+      "timestamp": "2025-05-11 03:14"
+    },
+    {
+      "rank": 6,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.5729943607051595e-06,
+      "timestamp": "2025-05-11 03:14"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024452149799205923,
+      "timestamp": "2025-05-11 03:14"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0043692056421650366,
+      "timestamp": "2025-05-11 03:14"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2794115138638681e-05,
+      "timestamp": "2025-05-11 03:14"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2489395715464224e-10,
+      "timestamp": "2025-05-11 03:14"
+    },
+    {
+      "rank": 11,
+      "name": "tao.bot",
+      "symbol": "TAOBOT",
+      "price_btc": 4.434142395039524e-06,
+      "timestamp": "2025-05-11 03:14"
+    },
+    {
+      "rank": 12,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 8.617488390982953e-06,
+      "timestamp": "2025-05-11 03:14"
+    },
+    {
+      "rank": 13,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 4.722548751010674e-06,
+      "timestamp": "2025-05-11 03:14"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 4.003620185174377e-06,
+      "timestamp": "2025-05-11 03:14"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002164142122675596,
+      "timestamp": "2025-05-11 03:14"
+    }
   ]
 }
