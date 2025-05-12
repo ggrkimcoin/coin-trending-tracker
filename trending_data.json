@@ -69441,5 +69441,112 @@
       "price_btc": 3.977970464361486e-06,
       "timestamp": "2025-05-12 05:20"
     }
+  ],
+  "2025-05-12 06:30": [
+    {
+      "rank": 1,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.519559784945636e-06,
+      "timestamp": "2025-05-12 06:30"
+    },
+    {
+      "rank": 2,
+      "name": "Lumia",
+      "symbol": "LUMIA",
+      "price_btc": 3.975160414093909e-06,
+      "timestamp": "2025-05-12 06:30"
+    },
+    {
+      "rank": 3,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 1.105974643794921e-05,
+      "timestamp": "2025-05-12 06:30"
+    },
+    {
+      "rank": 4,
+      "name": "Metacade",
+      "symbol": "MCADE",
+      "price_btc": 1.9754817146457235e-07,
+      "timestamp": "2025-05-12 06:30"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.3085040392190822e-05,
+      "timestamp": "2025-05-12 06:30"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 4.00297871162086e-05,
+      "timestamp": "2025-05-12 06:30"
+    },
+    {
+      "rank": 7,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3480867049460277e-10,
+      "timestamp": "2025-05-12 06:30"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.90907376419919e-05,
+      "timestamp": "2025-05-12 06:30"
+    },
+    {
+      "rank": 9,
+      "name": "Peanut the Squirrel",
+      "symbol": "PNUT",
+      "price_btc": 3.985510081206984e-06,
+      "timestamp": "2025-05-12 06:30"
+    },
+    {
+      "rank": 10,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 2.2210122928755524e-10,
+      "timestamp": "2025-05-12 06:30"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024026503355420357,
+      "timestamp": "2025-05-12 06:30"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004497115626952506,
+      "timestamp": "2025-05-12 06:30"
+    },
+    {
+      "rank": 13,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.2118948806086415e-06,
+      "timestamp": "2025-05-12 06:30"
+    },
+    {
+      "rank": 14,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3682420154670436e-07,
+      "timestamp": "2025-05-12 06:30"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.301123018033457e-05,
+      "timestamp": "2025-05-12 06:30"
+    }
   ]
 }
