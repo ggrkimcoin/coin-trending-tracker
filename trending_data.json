@@ -69762,5 +69762,112 @@
       "price_btc": 1.2077461866005173e-05,
       "timestamp": "2025-05-12 08:28"
     }
+  ],
+  "2025-05-12 09:23": [
+    {
+      "rank": 1,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.4384003152591762e-05,
+      "timestamp": "2025-05-12 09:23"
+    },
+    {
+      "rank": 2,
+      "name": "Puffer",
+      "symbol": "PUFFER",
+      "price_btc": 2.9375488059118227e-06,
+      "timestamp": "2025-05-12 09:23"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 4.021007372356779e-05,
+      "timestamp": "2025-05-12 09:23"
+    },
+    {
+      "rank": 4,
+      "name": "Lumia",
+      "symbol": "LUMIA",
+      "price_btc": 3.928304102296282e-06,
+      "timestamp": "2025-05-12 09:23"
+    },
+    {
+      "rank": 5,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.5579654139886362e-06,
+      "timestamp": "2025-05-12 09:23"
+    },
+    {
+      "rank": 6,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.4473540713413677e-10,
+      "timestamp": "2025-05-12 09:23"
+    },
+    {
+      "rank": 7,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 1.2164837115855312e-05,
+      "timestamp": "2025-05-12 09:23"
+    },
+    {
+      "rank": 8,
+      "name": "Metacade",
+      "symbol": "MCADE",
+      "price_btc": 2.0034319235541753e-07,
+      "timestamp": "2025-05-12 09:23"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024615556912445297,
+      "timestamp": "2025-05-12 09:23"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.337037852978651e-05,
+      "timestamp": "2025-05-12 09:23"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016865764461830388,
+      "timestamp": "2025-05-12 09:23"
+    },
+    {
+      "rank": 12,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.363061405320993e-06,
+      "timestamp": "2025-05-12 09:23"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00024358987719434063,
+      "timestamp": "2025-05-12 09:23"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.0136716485375575e-05,
+      "timestamp": "2025-05-12 09:23"
+    },
+    {
+      "rank": 15,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 1.2795332646143448e-05,
+      "timestamp": "2025-05-12 09:23"
+    }
   ]
 }
