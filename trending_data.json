@@ -69227,5 +69227,112 @@
       "price_btc": 6.743873967664084e-08,
       "timestamp": "2025-05-12 03:14"
     }
+  ],
+  "2025-05-12 04:25": [
+    {
+      "rank": 1,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.7032674651201165e-06,
+      "timestamp": "2025-05-12 04:25"
+    },
+    {
+      "rank": 2,
+      "name": "Lumia",
+      "symbol": "LUMIA",
+      "price_btc": 3.920638400712738e-06,
+      "timestamp": "2025-05-12 04:25"
+    },
+    {
+      "rank": 3,
+      "name": "Metacade",
+      "symbol": "MCADE",
+      "price_btc": 1.9911093253916144e-07,
+      "timestamp": "2025-05-12 04:25"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.1963587158234514e-05,
+      "timestamp": "2025-05-12 04:25"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023711855359864607,
+      "timestamp": "2025-05-12 04:25"
+    },
+    {
+      "rank": 6,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 1.0586222991925763e-05,
+      "timestamp": "2025-05-12 04:25"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9785304385670712e-05,
+      "timestamp": "2025-05-12 04:25"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.390096177740114e-10,
+      "timestamp": "2025-05-12 04:25"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001681204173651357,
+      "timestamp": "2025-05-12 04:25"
+    },
+    {
+      "rank": 10,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 5.5363638472344484e-06,
+      "timestamp": "2025-05-12 04:25"
+    },
+    {
+      "rank": 11,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.4299403143266151e-07,
+      "timestamp": "2025-05-12 04:25"
+    },
+    {
+      "rank": 12,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 1.1330445743284075e-05,
+      "timestamp": "2025-05-12 04:25"
+    },
+    {
+      "rank": 13,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.621808355204809e-06,
+      "timestamp": "2025-05-12 04:25"
+    },
+    {
+      "rank": 14,
+      "name": "Just a chill guy",
+      "symbol": "CHILLGUY",
+      "price_btc": 1.0265310817742148e-06,
+      "timestamp": "2025-05-12 04:25"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.9024682059891785e-05,
+      "timestamp": "2025-05-12 04:25"
+    }
   ]
 }
