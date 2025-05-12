@@ -70511,5 +70511,112 @@
       "price_btc": 1.3483783092790544e-10,
       "timestamp": "2025-05-12 15:24"
     }
+  ],
+  "2025-05-12 16:26": [
+    {
+      "rank": 1,
+      "name": "Bertram The Pomeranian",
+      "symbol": "BERT",
+      "price_btc": 3.1486002561533925e-07,
+      "timestamp": "2025-05-12 16:26"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.1078181407628704e-05,
+      "timestamp": "2025-05-12 16:26"
+    },
+    {
+      "rank": 3,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 7.53947143977433e-05,
+      "timestamp": "2025-05-12 16:26"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001697174006445571,
+      "timestamp": "2025-05-12 16:26"
+    },
+    {
+      "rank": 5,
+      "name": "Metacade",
+      "symbol": "MCADE",
+      "price_btc": 1.9405686621267665e-07,
+      "timestamp": "2025-05-12 16:26"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8402481167834407e-05,
+      "timestamp": "2025-05-12 16:26"
+    },
+    {
+      "rank": 7,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.3439704331976472e-06,
+      "timestamp": "2025-05-12 16:26"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.343646473714917e-10,
+      "timestamp": "2025-05-12 16:26"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023702661483002098,
+      "timestamp": "2025-05-12 16:26"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-12 16:26"
+    },
+    {
+      "rank": 11,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.52418368722555e-06,
+      "timestamp": "2025-05-12 16:26"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.928487016502359e-05,
+      "timestamp": "2025-05-12 16:26"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024220890591502578,
+      "timestamp": "2025-05-12 16:26"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0033543985096657e-05,
+      "timestamp": "2025-05-12 16:26"
+    },
+    {
+      "rank": 15,
+      "name": "Toshi",
+      "symbol": "TOSHI",
+      "price_btc": 8.004559111549037e-09,
+      "timestamp": "2025-05-12 16:26"
+    }
   ]
 }
