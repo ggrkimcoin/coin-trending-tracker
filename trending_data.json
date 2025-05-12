@@ -69334,5 +69334,112 @@
       "price_btc": 3.9024682059891785e-05,
       "timestamp": "2025-05-12 04:25"
     }
+  ],
+  "2025-05-12 05:20": [
+    {
+      "rank": 1,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.680756328270772e-06,
+      "timestamp": "2025-05-12 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.228711583082729e-05,
+      "timestamp": "2025-05-12 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Metacade",
+      "symbol": "MCADE",
+      "price_btc": 1.982331224175689e-07,
+      "timestamp": "2025-05-12 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Lumia",
+      "symbol": "LUMIA",
+      "price_btc": 4.017231423553131e-06,
+      "timestamp": "2025-05-12 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 1.0889700909389643e-05,
+      "timestamp": "2025-05-12 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.970621692482102e-05,
+      "timestamp": "2025-05-12 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004557745571025876,
+      "timestamp": "2025-05-12 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.973863101763667e-05,
+      "timestamp": "2025-05-12 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003242874099544594,
+      "timestamp": "2025-05-12 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Goatseus Maximus",
+      "symbol": "GOAT",
+      "price_btc": 2.281912182970926e-06,
+      "timestamp": "2025-05-12 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024206536075486593,
+      "timestamp": "2025-05-12 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 2.3062424122528883e-10,
+      "timestamp": "2025-05-12 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023694818980234006,
+      "timestamp": "2025-05-12 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.4166564640545528e-07,
+      "timestamp": "2025-05-12 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "Peanut the Squirrel",
+      "symbol": "PNUT",
+      "price_btc": 3.977970464361486e-06,
+      "timestamp": "2025-05-12 05:20"
+    }
   ]
 }
