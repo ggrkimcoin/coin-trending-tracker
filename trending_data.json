@@ -70832,5 +70832,112 @@
       "price_btc": 1.1109357861177117e-05,
       "timestamp": "2025-05-12 18:28"
     }
+  ],
+  "2025-05-12 19:16": [
+    {
+      "rank": 1,
+      "name": "Metacade",
+      "symbol": "MCADE",
+      "price_btc": 1.942435660310475e-07,
+      "timestamp": "2025-05-12 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.663473155015812e-10,
+      "timestamp": "2025-05-12 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 7.2459832010297e-05,
+      "timestamp": "2025-05-12 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.0768098612416304e-05,
+      "timestamp": "2025-05-12 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016747100517364843,
+      "timestamp": "2025-05-12 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.83254955831988e-05,
+      "timestamp": "2025-05-12 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.854408082195356e-06,
+      "timestamp": "2025-05-12 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-12 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004382072444420222,
+      "timestamp": "2025-05-12 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012309880255576694,
+      "timestamp": "2025-05-12 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2878177213329585e-10,
+      "timestamp": "2025-05-12 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.867141200429426e-05,
+      "timestamp": "2025-05-12 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 1.2654927583177517e-05,
+      "timestamp": "2025-05-12 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.659250198545636e-06,
+      "timestamp": "2025-05-12 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 1.0939655778647112e-05,
+      "timestamp": "2025-05-12 19:16"
+    }
   ]
 }
