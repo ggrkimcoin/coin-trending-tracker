@@ -70939,5 +70939,112 @@
       "price_btc": 1.0939655778647112e-05,
       "timestamp": "2025-05-12 19:16"
     }
+  ],
+  "2025-05-12 20:23": [
+    {
+      "rank": 1,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 1.0731487796587366e-06,
+      "timestamp": "2025-05-12 20:23"
+    },
+    {
+      "rank": 2,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.304747930221948e-10,
+      "timestamp": "2025-05-12 20:23"
+    },
+    {
+      "rank": 3,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 7.257075288872993e-05,
+      "timestamp": "2025-05-12 20:23"
+    },
+    {
+      "rank": 4,
+      "name": "Metacade",
+      "symbol": "MCADE",
+      "price_btc": 1.9257024357054368e-07,
+      "timestamp": "2025-05-12 20:23"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.097147184726487e-05,
+      "timestamp": "2025-05-12 20:23"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.832999036050846e-05,
+      "timestamp": "2025-05-12 20:23"
+    },
+    {
+      "rank": 7,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012346215878905736,
+      "timestamp": "2025-05-12 20:23"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8724581791805225e-05,
+      "timestamp": "2025-05-12 20:23"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016772167438297869,
+      "timestamp": "2025-05-12 20:23"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.30240175610571e-10,
+      "timestamp": "2025-05-12 20:23"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004418430821879213,
+      "timestamp": "2025-05-12 20:23"
+    },
+    {
+      "rank": 12,
+      "name": "Bertram The Pomeranian",
+      "symbol": "BERT",
+      "price_btc": 2.9878684795171827e-07,
+      "timestamp": "2025-05-12 20:23"
+    },
+    {
+      "rank": 13,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.3831641739834907e-06,
+      "timestamp": "2025-05-12 20:23"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-12 20:23"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.459684978711064e-05,
+      "timestamp": "2025-05-12 20:23"
+    }
   ]
 }
