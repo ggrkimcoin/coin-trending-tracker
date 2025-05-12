@@ -71153,5 +71153,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-05-12 21:18"
     }
+  ],
+  "2025-05-12 22:19": [
+    {
+      "rank": 1,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.069975633794624e-10,
+      "timestamp": "2025-05-12 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 1.0660859531821818e-06,
+      "timestamp": "2025-05-12 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 7.216237582028081e-05,
+      "timestamp": "2025-05-12 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Bertram The Pomeranian",
+      "symbol": "BERT",
+      "price_btc": 2.9914331667222004e-07,
+      "timestamp": "2025-05-12 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.835055308973412e-05,
+      "timestamp": "2025-05-12 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.4290520950802955e-06,
+      "timestamp": "2025-05-12 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.130474246877494e-05,
+      "timestamp": "2025-05-12 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4710706298857846e-05,
+      "timestamp": "2025-05-12 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016827565533175136,
+      "timestamp": "2025-05-12 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02418585131257573,
+      "timestamp": "2025-05-12 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3177116726691078e-05,
+      "timestamp": "2025-05-12 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 1.1175198032971575e-05,
+      "timestamp": "2025-05-12 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 1.2155084618051747e-05,
+      "timestamp": "2025-05-12 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9052691638370873e-05,
+      "timestamp": "2025-05-12 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Just a chill guy",
+      "symbol": "CHILLGUY",
+      "price_btc": 1.0207083272431197e-06,
+      "timestamp": "2025-05-12 22:19"
+    }
   ]
 }
