@@ -70618,5 +70618,112 @@
       "price_btc": 8.004559111549037e-09,
       "timestamp": "2025-05-12 16:26"
     }
+  ],
+  "2025-05-12 17:17": [
+    {
+      "rank": 1,
+      "name": "Bertram The Pomeranian",
+      "symbol": "BERT",
+      "price_btc": 3.1382447984862403e-07,
+      "timestamp": "2025-05-12 17:17"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.1549921754359801e-05,
+      "timestamp": "2025-05-12 17:17"
+    },
+    {
+      "rank": 3,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 7.606744837063895e-05,
+      "timestamp": "2025-05-12 17:17"
+    },
+    {
+      "rank": 4,
+      "name": "Metacade",
+      "symbol": "MCADE",
+      "price_btc": 1.9461307271581433e-07,
+      "timestamp": "2025-05-12 17:17"
+    },
+    {
+      "rank": 5,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.363731047241056e-06,
+      "timestamp": "2025-05-12 17:17"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8825118164672087e-05,
+      "timestamp": "2025-05-12 17:17"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0017108718051866275,
+      "timestamp": "2025-05-12 17:17"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3509410604266792e-10,
+      "timestamp": "2025-05-12 17:17"
+    },
+    {
+      "rank": 9,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 1.1482399486182904e-05,
+      "timestamp": "2025-05-12 17:17"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024318096839709556,
+      "timestamp": "2025-05-12 17:17"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-12 17:17"
+    },
+    {
+      "rank": 12,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.903967883695812e-06,
+      "timestamp": "2025-05-12 17:17"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023910966544227975,
+      "timestamp": "2025-05-12 17:17"
+    },
+    {
+      "rank": 14,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.5505114496540474e-06,
+      "timestamp": "2025-05-12 17:17"
+    },
+    {
+      "rank": 15,
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "price_btc": 2.1717154049986098e-06,
+      "timestamp": "2025-05-12 17:17"
+    }
   ]
 }
