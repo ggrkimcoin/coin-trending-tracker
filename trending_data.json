@@ -70297,5 +70297,112 @@
       "price_btc": 2.2445041700751883e-10,
       "timestamp": "2025-05-12 13:32"
     }
+  ],
+  "2025-05-12 14:21": [
+    {
+      "rank": 1,
+      "name": "Bertram The Pomeranian",
+      "symbol": "BERT",
+      "price_btc": 3.2120746023034844e-07,
+      "timestamp": "2025-05-12 14:21"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.2753955405119008e-05,
+      "timestamp": "2025-05-12 14:21"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.931515691792924e-05,
+      "timestamp": "2025-05-12 14:21"
+    },
+    {
+      "rank": 4,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.364816274828502e-06,
+      "timestamp": "2025-05-12 14:21"
+    },
+    {
+      "rank": 5,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3812408108681285e-10,
+      "timestamp": "2025-05-12 14:21"
+    },
+    {
+      "rank": 6,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4916666836584893e-05,
+      "timestamp": "2025-05-12 14:21"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02457963891761952,
+      "timestamp": "2025-05-12 14:21"
+    },
+    {
+      "rank": 8,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 1.1318260114381276e-05,
+      "timestamp": "2025-05-12 14:21"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0017177525398217048,
+      "timestamp": "2025-05-12 14:21"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3903936609462065e-05,
+      "timestamp": "2025-05-12 14:21"
+    },
+    {
+      "rank": 11,
+      "name": "Metacade",
+      "symbol": "MCADE",
+      "price_btc": 1.819506514845685e-07,
+      "timestamp": "2025-05-12 14:21"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004446011160665922,
+      "timestamp": "2025-05-12 14:21"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-12 14:21"
+    },
+    {
+      "rank": 14,
+      "name": "Toshi",
+      "symbol": "TOSHI",
+      "price_btc": 8.52917780402905e-09,
+      "timestamp": "2025-05-12 14:21"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 4.019708475753693e-05,
+      "timestamp": "2025-05-12 14:21"
+    }
   ]
 }
