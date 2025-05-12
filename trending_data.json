@@ -71046,5 +71046,112 @@
       "price_btc": 2.459684978711064e-05,
       "timestamp": "2025-05-12 20:23"
     }
+  ],
+  "2025-05-12 21:18": [
+    {
+      "rank": 1,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 1.0744628509805907e-06,
+      "timestamp": "2025-05-12 21:18"
+    },
+    {
+      "rank": 2,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 7.271566733041716e-05,
+      "timestamp": "2025-05-12 21:18"
+    },
+    {
+      "rank": 3,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 8.968318504054826e-10,
+      "timestamp": "2025-05-12 21:18"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8527336718548056e-05,
+      "timestamp": "2025-05-12 21:18"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.1281580526298512e-05,
+      "timestamp": "2025-05-12 21:18"
+    },
+    {
+      "rank": 6,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4672029463653668e-05,
+      "timestamp": "2025-05-12 21:18"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.89954230774872e-05,
+      "timestamp": "2025-05-12 21:18"
+    },
+    {
+      "rank": 8,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.3784368041164828e-06,
+      "timestamp": "2025-05-12 21:18"
+    },
+    {
+      "rank": 9,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3000321964607208e-07,
+      "timestamp": "2025-05-12 21:18"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004403539430476874,
+      "timestamp": "2025-05-12 21:18"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016779627907050239,
+      "timestamp": "2025-05-12 21:18"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024209847125945656,
+      "timestamp": "2025-05-12 21:18"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023832579842225873,
+      "timestamp": "2025-05-12 21:18"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.323859010110186e-10,
+      "timestamp": "2025-05-12 21:18"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-12 21:18"
+    }
   ]
 }
