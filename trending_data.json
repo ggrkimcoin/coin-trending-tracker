@@ -70404,5 +70404,112 @@
       "price_btc": 4.019708475753693e-05,
       "timestamp": "2025-05-12 14:21"
     }
+  ],
+  "2025-05-12 15:24": [
+    {
+      "rank": 1,
+      "name": "Bertram The Pomeranian",
+      "symbol": "BERT",
+      "price_btc": 3.0447282118672766e-07,
+      "timestamp": "2025-05-12 15:24"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.821730242526454e-05,
+      "timestamp": "2025-05-12 15:24"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.1517904087737012e-05,
+      "timestamp": "2025-05-12 15:24"
+    },
+    {
+      "rank": 4,
+      "name": "Metacade",
+      "symbol": "MCADE",
+      "price_btc": 1.8499381091999363e-07,
+      "timestamp": "2025-05-12 15:24"
+    },
+    {
+      "rank": 5,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.2342236542932256e-06,
+      "timestamp": "2025-05-12 15:24"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024349122191164668,
+      "timestamp": "2025-05-12 15:24"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3574187267166464e-05,
+      "timestamp": "2025-05-12 15:24"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9383720062352318e-05,
+      "timestamp": "2025-05-12 15:24"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-12 15:24"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4808400407587705e-05,
+      "timestamp": "2025-05-12 15:24"
+    },
+    {
+      "rank": 11,
+      "name": "Nillion",
+      "symbol": "NIL",
+      "price_btc": 5.313532664615873e-06,
+      "timestamp": "2025-05-12 15:24"
+    },
+    {
+      "rank": 12,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 1.0911756907270326e-05,
+      "timestamp": "2025-05-12 15:24"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0017126040891175924,
+      "timestamp": "2025-05-12 15:24"
+    },
+    {
+      "rank": 14,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.518052519491937e-06,
+      "timestamp": "2025-05-12 15:24"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3483783092790544e-10,
+      "timestamp": "2025-05-12 15:24"
+    }
   ]
 }
