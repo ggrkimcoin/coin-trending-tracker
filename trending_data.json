@@ -69013,5 +69013,112 @@
       "price_btc": 3.983289735428573e-06,
       "timestamp": "2025-05-11 23:17"
     }
+  ],
+  "2025-05-12 01:46": [
+    {
+      "rank": 1,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.646843670627565e-06,
+      "timestamp": "2025-05-12 01:46"
+    },
+    {
+      "rank": 2,
+      "name": "Metacade",
+      "symbol": "MCADE",
+      "price_btc": 2.0794898384892797e-07,
+      "timestamp": "2025-05-12 01:46"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.225798198363102e-05,
+      "timestamp": "2025-05-12 01:46"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.079962456817665e-05,
+      "timestamp": "2025-05-12 01:46"
+    },
+    {
+      "rank": 5,
+      "name": "Nillion",
+      "symbol": "NIL",
+      "price_btc": 5.149337749774332e-06,
+      "timestamp": "2025-05-12 01:46"
+    },
+    {
+      "rank": 6,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 1.1063869785523149e-05,
+      "timestamp": "2025-05-12 01:46"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.913822434503648e-05,
+      "timestamp": "2025-05-12 01:46"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3428012803901723e-10,
+      "timestamp": "2025-05-12 01:46"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016706718497095964,
+      "timestamp": "2025-05-12 01:46"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.993296760091478e-06,
+      "timestamp": "2025-05-12 01:46"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023623429719906797,
+      "timestamp": "2025-05-12 01:46"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-12 01:46"
+    },
+    {
+      "rank": 13,
+      "name": "aixbt by Virtuals",
+      "symbol": "AIXBT",
+      "price_btc": 2.1424799316300146e-06,
+      "timestamp": "2025-05-12 01:46"
+    },
+    {
+      "rank": 14,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.010182367255329e-06,
+      "timestamp": "2025-05-12 01:46"
+    },
+    {
+      "rank": 15,
+      "name": "Peanut the Squirrel",
+      "symbol": "PNUT",
+      "price_btc": 4.068932951003906e-06,
+      "timestamp": "2025-05-12 01:46"
+    }
   ]
 }
