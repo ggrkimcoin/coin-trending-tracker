@@ -69120,5 +69120,112 @@
       "price_btc": 4.068932951003906e-06,
       "timestamp": "2025-05-12 01:46"
     }
+  ],
+  "2025-05-12 03:14": [
+    {
+      "rank": 1,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.6312709225347623e-06,
+      "timestamp": "2025-05-12 03:14"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.0123934231490678e-05,
+      "timestamp": "2025-05-12 03:14"
+    },
+    {
+      "rank": 3,
+      "name": "Metacade",
+      "symbol": "MCADE",
+      "price_btc": 1.990942363296465e-07,
+      "timestamp": "2025-05-12 03:14"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.2171561497776525e-05,
+      "timestamp": "2025-05-12 03:14"
+    },
+    {
+      "rank": 5,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 1.021436793649319e-05,
+      "timestamp": "2025-05-12 03:14"
+    },
+    {
+      "rank": 6,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3768479117029205e-10,
+      "timestamp": "2025-05-12 03:14"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0090163606585387e-05,
+      "timestamp": "2025-05-12 03:14"
+    },
+    {
+      "rank": 8,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.323592885058482e-06,
+      "timestamp": "2025-05-12 03:14"
+    },
+    {
+      "rank": 9,
+      "name": "Vine",
+      "symbol": "VINE",
+      "price_btc": 6.476977949725317e-07,
+      "timestamp": "2025-05-12 03:14"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02428762692059267,
+      "timestamp": "2025-05-12 03:14"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016761290688507788,
+      "timestamp": "2025-05-12 03:14"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3095124625780408e-05,
+      "timestamp": "2025-05-12 03:14"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8400712491910575e-05,
+      "timestamp": "2025-05-12 03:14"
+    },
+    {
+      "rank": 14,
+      "name": "Peanut the Squirrel",
+      "symbol": "PNUT",
+      "price_btc": 4.183314211872466e-06,
+      "timestamp": "2025-05-12 03:14"
+    },
+    {
+      "rank": 15,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 6.743873967664084e-08,
+      "timestamp": "2025-05-12 03:14"
+    }
   ]
 }
