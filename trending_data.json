@@ -72223,5 +72223,112 @@
       "price_btc": 2.181977947976609e-06,
       "timestamp": "2025-05-13 09:22"
     }
+  ],
+  "2025-05-13 10:22": [
+    {
+      "rank": 1,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 1.0525247900863677e-06,
+      "timestamp": "2025-05-13 10:22"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.079044251507204e-05,
+      "timestamp": "2025-05-13 10:22"
+    },
+    {
+      "rank": 3,
+      "name": "Redacted",
+      "symbol": "RDAC",
+      "price_btc": 6.475719710405664e-07,
+      "timestamp": "2025-05-13 10:22"
+    },
+    {
+      "rank": 4,
+      "name": "Bertram The Pomeranian",
+      "symbol": "BERT",
+      "price_btc": 3.0022091541519867e-07,
+      "timestamp": "2025-05-13 10:22"
+    },
+    {
+      "rank": 5,
+      "name": "Neiro",
+      "symbol": "NEIRO",
+      "price_btc": 5.72559155095259e-09,
+      "timestamp": "2025-05-13 10:22"
+    },
+    {
+      "rank": 6,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.8238869801462754e-06,
+      "timestamp": "2025-05-13 10:22"
+    },
+    {
+      "rank": 7,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.448731209927558e-10,
+      "timestamp": "2025-05-13 10:22"
+    },
+    {
+      "rank": 8,
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "price_btc": 6.911045227815205e-08,
+      "timestamp": "2025-05-13 10:22"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3539264443734495e-10,
+      "timestamp": "2025-05-13 10:22"
+    },
+    {
+      "rank": 10,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 6.917119947882263e-05,
+      "timestamp": "2025-05-13 10:22"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02401326136228124,
+      "timestamp": "2025-05-13 10:22"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.95535814240399e-05,
+      "timestamp": "2025-05-13 10:22"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4508097487596798e-05,
+      "timestamp": "2025-05-13 10:22"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016780870498912268,
+      "timestamp": "2025-05-13 10:22"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.852468206087603e-05,
+      "timestamp": "2025-05-13 10:22"
+    }
   ]
 }
