@@ -71902,5 +71902,112 @@
       "price_btc": 4.086711752049875e-06,
       "timestamp": "2025-05-13 06:29"
     }
+  ],
+  "2025-05-13 07:20": [
+    {
+      "rank": 1,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 9.865868024218169e-07,
+      "timestamp": "2025-05-13 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.0709911282389652e-05,
+      "timestamp": "2025-05-13 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.586203488741626e-10,
+      "timestamp": "2025-05-13 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "price_btc": 7.165413061647158e-08,
+      "timestamp": "2025-05-13 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.861375808969675e-05,
+      "timestamp": "2025-05-13 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023925445695486505,
+      "timestamp": "2025-05-13 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.8896947261954403e-05,
+      "timestamp": "2025-05-13 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.437422631452747e-05,
+      "timestamp": "2025-05-13 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016685780297451143,
+      "timestamp": "2025-05-13 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.417725702031513e-07,
+      "timestamp": "2025-05-13 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023748171428026907,
+      "timestamp": "2025-05-13 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 6.694293957074694e-05,
+      "timestamp": "2025-05-13 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.8236683940515586e-06,
+      "timestamp": "2025-05-13 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.274350806923349e-06,
+      "timestamp": "2025-05-13 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.072763658039054e-06,
+      "timestamp": "2025-05-13 07:20"
+    }
   ]
 }
