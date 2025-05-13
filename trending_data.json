@@ -72865,5 +72865,112 @@
       "price_btc": 1.956138462034312e-05,
       "timestamp": "2025-05-13 15:22"
     }
+  ],
+  "2025-05-13 16:26": [
+    {
+      "rank": 1,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.6933621900015795e-06,
+      "timestamp": "2025-05-13 16:26"
+    },
+    {
+      "rank": 2,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 1.0250076607422107e-06,
+      "timestamp": "2025-05-13 16:26"
+    },
+    {
+      "rank": 3,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 6.980745315384628e-05,
+      "timestamp": "2025-05-13 16:26"
+    },
+    {
+      "rank": 4,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.046793291910235e-10,
+      "timestamp": "2025-05-13 16:26"
+    },
+    {
+      "rank": 5,
+      "name": "Redacted",
+      "symbol": "RDAC",
+      "price_btc": 5.279714019615942e-07,
+      "timestamp": "2025-05-13 16:26"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.1392524919658054e-05,
+      "timestamp": "2025-05-13 16:26"
+    },
+    {
+      "rank": 7,
+      "name": "Eigenlayer",
+      "symbol": "EIGEN",
+      "price_btc": 1.3331369100127996e-05,
+      "timestamp": "2025-05-13 16:26"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.85412514326901e-05,
+      "timestamp": "2025-05-13 16:26"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.00011955949744e-05,
+      "timestamp": "2025-05-13 16:26"
+    },
+    {
+      "rank": 10,
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "price_btc": 7.534915096249403e-08,
+      "timestamp": "2025-05-13 16:26"
+    },
+    {
+      "rank": 11,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 3.015095694150755e-06,
+      "timestamp": "2025-05-13 16:26"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.446239072657632e-05,
+      "timestamp": "2025-05-13 16:26"
+    },
+    {
+      "rank": 13,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.5595286568674635e-05,
+      "timestamp": "2025-05-13 16:26"
+    },
+    {
+      "rank": 14,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 4.397968359360707e-07,
+      "timestamp": "2025-05-13 16:26"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02465011061644299,
+      "timestamp": "2025-05-13 16:26"
+    }
   ]
 }
