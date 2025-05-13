@@ -72116,5 +72116,112 @@
       "price_btc": 3.8687680560434034e-05,
       "timestamp": "2025-05-13 08:28"
     }
+  ],
+  "2025-05-13 09:22": [
+    {
+      "rank": 1,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 9.750346828303165e-07,
+      "timestamp": "2025-05-13 09:22"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.0862551933969801e-05,
+      "timestamp": "2025-05-13 09:22"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.84883946247139e-05,
+      "timestamp": "2025-05-13 09:22"
+    },
+    {
+      "rank": 4,
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "price_btc": 6.644519773868154e-08,
+      "timestamp": "2025-05-13 09:22"
+    },
+    {
+      "rank": 5,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 6.859027344346171e-05,
+      "timestamp": "2025-05-13 09:22"
+    },
+    {
+      "rank": 6,
+      "name": "Neiro",
+      "symbol": "NEIRO",
+      "price_btc": 5.788040425691742e-09,
+      "timestamp": "2025-05-13 09:22"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016788600055837742,
+      "timestamp": "2025-05-13 09:22"
+    },
+    {
+      "rank": 8,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.3942543219052693e-06,
+      "timestamp": "2025-05-13 09:22"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.434139237867239e-05,
+      "timestamp": "2025-05-13 09:22"
+    },
+    {
+      "rank": 10,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.497679694807131e-10,
+      "timestamp": "2025-05-13 09:22"
+    },
+    {
+      "rank": 11,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.357416942233598e-07,
+      "timestamp": "2025-05-13 09:22"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012413024733517723,
+      "timestamp": "2025-05-13 09:22"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023972149205252473,
+      "timestamp": "2025-05-13 09:22"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.954431610913996e-05,
+      "timestamp": "2025-05-13 09:22"
+    },
+    {
+      "rank": 15,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.181977947976609e-06,
+      "timestamp": "2025-05-13 09:22"
+    }
   ]
 }
