@@ -71795,5 +71795,112 @@
       "price_btc": 4.815802158197741e-05,
       "timestamp": "2025-05-13 05:20"
     }
+  ],
+  "2025-05-13 06:29": [
+    {
+      "rank": 1,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 9.849517327610967e-07,
+      "timestamp": "2025-05-13 06:29"
+    },
+    {
+      "rank": 2,
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "price_btc": 7.245029433666723e-08,
+      "timestamp": "2025-05-13 06:29"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.0693350115478685e-05,
+      "timestamp": "2025-05-13 06:29"
+    },
+    {
+      "rank": 4,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.701046153298449e-10,
+      "timestamp": "2025-05-13 06:29"
+    },
+    {
+      "rank": 5,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 6.617290458816512e-05,
+      "timestamp": "2025-05-13 06:29"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.828439835278288e-05,
+      "timestamp": "2025-05-13 06:29"
+    },
+    {
+      "rank": 7,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.9622204057000463e-05,
+      "timestamp": "2025-05-13 06:29"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-13 06:29"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2924622568295183e-10,
+      "timestamp": "2025-05-13 06:29"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0239564911294842,
+      "timestamp": "2025-05-13 06:29"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023457047526518766,
+      "timestamp": "2025-05-13 06:29"
+    },
+    {
+      "rank": 12,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.293703384299993e-06,
+      "timestamp": "2025-05-13 06:29"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004414266460155478,
+      "timestamp": "2025-05-13 06:29"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016651569001130428,
+      "timestamp": "2025-05-13 06:29"
+    },
+    {
+      "rank": 15,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.086711752049875e-06,
+      "timestamp": "2025-05-13 06:29"
+    }
   ]
 }
