@@ -72972,5 +72972,112 @@
       "price_btc": 0.02465011061644299,
       "timestamp": "2025-05-13 16:26"
     }
+  ],
+  "2025-05-13 17:18": [
+    {
+      "rank": 1,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 7.286010422738165e-05,
+      "timestamp": "2025-05-13 17:18"
+    },
+    {
+      "rank": 2,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.513602839556887e-06,
+      "timestamp": "2025-05-13 17:18"
+    },
+    {
+      "rank": 3,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 8.902543415480251e-10,
+      "timestamp": "2025-05-13 17:18"
+    },
+    {
+      "rank": 4,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 1.047786893487288e-06,
+      "timestamp": "2025-05-13 17:18"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.864962987846321e-05,
+      "timestamp": "2025-05-13 17:18"
+    },
+    {
+      "rank": 6,
+      "name": "Redacted",
+      "symbol": "RDAC",
+      "price_btc": 5.294203735708596e-07,
+      "timestamp": "2025-05-13 17:18"
+    },
+    {
+      "rank": 7,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 3.011544479519501e-06,
+      "timestamp": "2025-05-13 17:18"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.14367879213586e-05,
+      "timestamp": "2025-05-13 17:18"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.305214292230508e-05,
+      "timestamp": "2025-05-13 17:18"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3859150255576423e-10,
+      "timestamp": "2025-05-13 17:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02495114104895713,
+      "timestamp": "2025-05-13 17:18"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0017017931516216049,
+      "timestamp": "2025-05-13 17:18"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9796421824141634e-05,
+      "timestamp": "2025-05-13 17:18"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.942988150146177e-06,
+      "timestamp": "2025-05-13 17:18"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.458237333712975e-05,
+      "timestamp": "2025-05-13 17:18"
+    }
   ]
 }
