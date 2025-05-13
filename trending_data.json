@@ -72009,5 +72009,112 @@
       "price_btc": 4.072763658039054e-06,
       "timestamp": "2025-05-13 07:20"
     }
+  ],
+  "2025-05-13 08:28": [
+    {
+      "rank": 1,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 9.818164293513483e-07,
+      "timestamp": "2025-05-13 08:28"
+    },
+    {
+      "rank": 2,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 6.786385794836746e-05,
+      "timestamp": "2025-05-13 08:28"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.1006654813975882e-05,
+      "timestamp": "2025-05-13 08:28"
+    },
+    {
+      "rank": 4,
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "price_btc": 6.797644895118274e-08,
+      "timestamp": "2025-05-13 08:28"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.852563417232873e-05,
+      "timestamp": "2025-05-13 08:28"
+    },
+    {
+      "rank": 6,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.432852432634825e-10,
+      "timestamp": "2025-05-13 08:28"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023977169367040974,
+      "timestamp": "2025-05-13 08:28"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-13 08:28"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001668905134286828,
+      "timestamp": "2025-05-13 08:28"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9353481707431494e-05,
+      "timestamp": "2025-05-13 08:28"
+    },
+    {
+      "rank": 11,
+      "name": "Neiro",
+      "symbol": "NEIRO",
+      "price_btc": 5.496120690117651e-09,
+      "timestamp": "2025-05-13 08:28"
+    },
+    {
+      "rank": 12,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.3914454563858483e-06,
+      "timestamp": "2025-05-13 08:28"
+    },
+    {
+      "rank": 13,
+      "name": "SkyAI",
+      "symbol": "SKYAI",
+      "price_btc": 5.952271744236483e-07,
+      "timestamp": "2025-05-13 08:28"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002396086120779601,
+      "timestamp": "2025-05-13 08:28"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.8687680560434034e-05,
+      "timestamp": "2025-05-13 08:28"
+    }
   ]
 }
