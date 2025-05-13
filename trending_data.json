@@ -71367,5 +71367,112 @@
       "price_btc": 1.1129019373048707e-05,
       "timestamp": "2025-05-12 23:18"
     }
+  ],
+  "2025-05-13 01:43": [
+    {
+      "rank": 1,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.75769923198045e-10,
+      "timestamp": "2025-05-13 01:43"
+    },
+    {
+      "rank": 2,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 7.009223072161441e-05,
+      "timestamp": "2025-05-13 01:43"
+    },
+    {
+      "rank": 3,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 1.0560168399971714e-06,
+      "timestamp": "2025-05-13 01:43"
+    },
+    {
+      "rank": 4,
+      "name": "Bertram The Pomeranian",
+      "symbol": "BERT",
+      "price_btc": 2.999248714169283e-07,
+      "timestamp": "2025-05-13 01:43"
+    },
+    {
+      "rank": 5,
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "price_btc": 7.471642627743225e-08,
+      "timestamp": "2025-05-13 01:43"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024070725311958977,
+      "timestamp": "2025-05-13 01:43"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.0903046607920282e-05,
+      "timestamp": "2025-05-13 01:43"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-13 01:43"
+    },
+    {
+      "rank": 9,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.64797216103307e-06,
+      "timestamp": "2025-05-13 01:43"
+    },
+    {
+      "rank": 10,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 1.1015313176575305e-05,
+      "timestamp": "2025-05-13 01:43"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016736903029377095,
+      "timestamp": "2025-05-13 01:43"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.425703029519638e-05,
+      "timestamp": "2025-05-13 01:43"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9088319856639792e-05,
+      "timestamp": "2025-05-13 01:43"
+    },
+    {
+      "rank": 14,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.805753527563808e-06,
+      "timestamp": "2025-05-13 01:43"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.654097904165696e-06,
+      "timestamp": "2025-05-13 01:43"
+    }
   ]
 }
