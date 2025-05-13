@@ -71581,5 +71581,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-05-13 03:12"
     }
+  ],
+  "2025-05-13 04:25": [
+    {
+      "rank": 1,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 1.001793726719298e-06,
+      "timestamp": "2025-05-13 04:25"
+    },
+    {
+      "rank": 2,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.492629968182934e-10,
+      "timestamp": "2025-05-13 04:25"
+    },
+    {
+      "rank": 3,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 6.640561575310488e-05,
+      "timestamp": "2025-05-13 04:25"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.779912503576191e-05,
+      "timestamp": "2025-05-13 04:25"
+    },
+    {
+      "rank": 5,
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "price_btc": 6.57675428837684e-08,
+      "timestamp": "2025-05-13 04:25"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.0567754099974089e-05,
+      "timestamp": "2025-05-13 04:25"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001642715469629421,
+      "timestamp": "2025-05-13 04:25"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023819202536363947,
+      "timestamp": "2025-05-13 04:25"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2668398343733908e-10,
+      "timestamp": "2025-05-13 04:25"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3933670255071963e-05,
+      "timestamp": "2025-05-13 04:25"
+    },
+    {
+      "rank": 11,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.300520123961481e-06,
+      "timestamp": "2025-05-13 04:25"
+    },
+    {
+      "rank": 12,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0735814526215988e-06,
+      "timestamp": "2025-05-13 04:25"
+    },
+    {
+      "rank": 13,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 4.166479821866e-07,
+      "timestamp": "2025-05-13 04:25"
+    },
+    {
+      "rank": 14,
+      "name": "DigiByte",
+      "symbol": "DGB",
+      "price_btc": 1.0888855402476923e-07,
+      "timestamp": "2025-05-13 04:25"
+    },
+    {
+      "rank": 15,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.1515429002716035e-06,
+      "timestamp": "2025-05-13 04:25"
+    }
   ]
 }
