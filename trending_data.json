@@ -73400,5 +73400,112 @@
       "price_btc": 0.004435525114345119,
       "timestamp": "2025-05-13 20:22"
     }
+  ],
+  "2025-05-13 21:19": [
+    {
+      "rank": 1,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.7388603665306867e-06,
+      "timestamp": "2025-05-13 21:19"
+    },
+    {
+      "rank": 2,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 8.961385829896528e-10,
+      "timestamp": "2025-05-13 21:19"
+    },
+    {
+      "rank": 3,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 1.066999651653016e-06,
+      "timestamp": "2025-05-13 21:19"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9916701289492125e-05,
+      "timestamp": "2025-05-13 21:19"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0017452492068683724,
+      "timestamp": "2025-05-13 21:19"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.1914307313206136e-05,
+      "timestamp": "2025-05-13 21:19"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.883857111971351e-05,
+      "timestamp": "2025-05-13 21:19"
+    },
+    {
+      "rank": 8,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 4.271581654457228e-06,
+      "timestamp": "2025-05-13 21:19"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.008501653031188e-05,
+      "timestamp": "2025-05-13 21:19"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-13 21:19"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02568829705750198,
+      "timestamp": "2025-05-13 21:19"
+    },
+    {
+      "rank": 12,
+      "name": "GRIFFAIN",
+      "symbol": "GRIFFAIN",
+      "price_btc": 1.3495568589450568e-06,
+      "timestamp": "2025-05-13 21:19"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002507744204837148,
+      "timestamp": "2025-05-13 21:19"
+    },
+    {
+      "rank": 14,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 3.1402138350163826e-05,
+      "timestamp": "2025-05-13 21:19"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.408541929621904e-10,
+      "timestamp": "2025-05-13 21:19"
+    }
   ]
 }
