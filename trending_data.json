@@ -71474,5 +71474,112 @@
       "price_btc": 5.654097904165696e-06,
       "timestamp": "2025-05-13 01:43"
     }
+  ],
+  "2025-05-13 03:12": [
+    {
+      "rank": 1,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 1.0363276504403884e-06,
+      "timestamp": "2025-05-13 03:12"
+    },
+    {
+      "rank": 2,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 6.87000817336419e-05,
+      "timestamp": "2025-05-13 03:12"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.009739427825332e-05,
+      "timestamp": "2025-05-13 03:12"
+    },
+    {
+      "rank": 4,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.681026082605354e-10,
+      "timestamp": "2025-05-13 03:12"
+    },
+    {
+      "rank": 5,
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "price_btc": 6.976447570123326e-08,
+      "timestamp": "2025-05-13 03:12"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.815510023910256e-05,
+      "timestamp": "2025-05-13 03:12"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023911722210847194,
+      "timestamp": "2025-05-13 03:12"
+    },
+    {
+      "rank": 8,
+      "name": "DigiByte",
+      "symbol": "DGB",
+      "price_btc": 1.0819603910948259e-07,
+      "timestamp": "2025-05-13 03:12"
+    },
+    {
+      "rank": 9,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 1.0708607646404952e-05,
+      "timestamp": "2025-05-13 03:12"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2613519718386106e-05,
+      "timestamp": "2025-05-13 03:12"
+    },
+    {
+      "rank": 11,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.330625953394227e-06,
+      "timestamp": "2025-05-13 03:12"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2818822637786344e-10,
+      "timestamp": "2025-05-13 03:12"
+    },
+    {
+      "rank": 13,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.8177412587253193e-06,
+      "timestamp": "2025-05-13 03:12"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.5983117310516476e-06,
+      "timestamp": "2025-05-13 03:12"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-13 03:12"
+    }
   ]
 }
