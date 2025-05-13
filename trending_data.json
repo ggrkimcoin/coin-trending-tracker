@@ -71688,5 +71688,112 @@
       "price_btc": 2.1515429002716035e-06,
       "timestamp": "2025-05-13 04:25"
     }
+  ],
+  "2025-05-13 05:20": [
+    {
+      "rank": 1,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 9.949700897183284e-07,
+      "timestamp": "2025-05-13 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Bertram The Pomeranian",
+      "symbol": "BERT",
+      "price_btc": 2.971296676191762e-07,
+      "timestamp": "2025-05-13 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.0636201116931183e-05,
+      "timestamp": "2025-05-13 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8088290092212335e-05,
+      "timestamp": "2025-05-13 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "price_btc": 6.988833771415901e-08,
+      "timestamp": "2025-05-13 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 6.627182956090362e-05,
+      "timestamp": "2025-05-13 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.814212965859637e-10,
+      "timestamp": "2025-05-13 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.417468398256306e-05,
+      "timestamp": "2025-05-13 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-13 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02393501671158988,
+      "timestamp": "2025-05-13 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "GRIFFAIN",
+      "symbol": "GRIFFAIN",
+      "price_btc": 1.0204222511215498e-06,
+      "timestamp": "2025-05-13 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.722464170358423e-06,
+      "timestamp": "2025-05-13 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 1.1581925822811737e-05,
+      "timestamp": "2025-05-13 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00023412404108172138,
+      "timestamp": "2025-05-13 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 4.815802158197741e-05,
+      "timestamp": "2025-05-13 05:20"
+    }
   ]
 }
