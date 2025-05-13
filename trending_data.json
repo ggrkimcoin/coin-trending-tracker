@@ -72544,5 +72544,112 @@
       "price_btc": 0.0001240840963063569,
       "timestamp": "2025-05-13 12:42"
     }
+  ],
+  "2025-05-13 13:33": [
+    {
+      "rank": 1,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.225010459926002e-06,
+      "timestamp": "2025-05-13 13:33"
+    },
+    {
+      "rank": 2,
+      "name": "Redacted",
+      "symbol": "RDAC",
+      "price_btc": 4.057126263958125e-07,
+      "timestamp": "2025-05-13 13:33"
+    },
+    {
+      "rank": 3,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 3.10618931767145e-06,
+      "timestamp": "2025-05-13 13:33"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.0791614748467992e-05,
+      "timestamp": "2025-05-13 13:33"
+    },
+    {
+      "rank": 5,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 1.0187117752174428e-06,
+      "timestamp": "2025-05-13 13:33"
+    },
+    {
+      "rank": 6,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.654498072658535e-10,
+      "timestamp": "2025-05-13 13:33"
+    },
+    {
+      "rank": 7,
+      "name": "Bertram The Pomeranian",
+      "symbol": "BERT",
+      "price_btc": 3.3846779098524576e-07,
+      "timestamp": "2025-05-13 13:33"
+    },
+    {
+      "rank": 8,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 7.098443336284631e-05,
+      "timestamp": "2025-05-13 13:33"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.879776244825362e-05,
+      "timestamp": "2025-05-13 13:33"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024418506409614498,
+      "timestamp": "2025-05-13 13:33"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016828527685240646,
+      "timestamp": "2025-05-13 13:33"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002449938640226123,
+      "timestamp": "2025-05-13 13:33"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2903718396667361e-05,
+      "timestamp": "2025-05-13 13:33"
+    },
+    {
+      "rank": 14,
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "price_btc": 7.999681520925657e-08,
+      "timestamp": "2025-05-13 13:33"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.0256577129037666e-05,
+      "timestamp": "2025-05-13 13:33"
+    }
   ]
 }
