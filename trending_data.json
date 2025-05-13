@@ -73293,5 +73293,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-05-13 19:16"
     }
+  ],
+  "2025-05-13 20:22": [
+    {
+      "rank": 1,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.8545451147050626e-06,
+      "timestamp": "2025-05-13 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "Quai Network",
+      "symbol": "QUAI",
+      "price_btc": 1.0669865156667462e-06,
+      "timestamp": "2025-05-13 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.87621021435921e-05,
+      "timestamp": "2025-05-13 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.0099790698234865e-05,
+      "timestamp": "2025-05-13 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025675080238186196,
+      "timestamp": "2025-05-13 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 9.411534467702657e-10,
+      "timestamp": "2025-05-13 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.1359415550380131e-05,
+      "timestamp": "2025-05-13 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0017387303283376097,
+      "timestamp": "2025-05-13 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "GRIFFAIN",
+      "symbol": "GRIFFAIN",
+      "price_btc": 1.382899772961326e-06,
+      "timestamp": "2025-05-13 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.4134866464263314e-10,
+      "timestamp": "2025-05-13 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 1.0115045246130961e-05,
+      "timestamp": "2025-05-13 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 3.0186025829780004e-06,
+      "timestamp": "2025-05-13 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4578194169241785e-05,
+      "timestamp": "2025-05-13 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 4.23438477161627e-06,
+      "timestamp": "2025-05-13 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004435525114345119,
+      "timestamp": "2025-05-13 20:22"
+    }
   ]
 }
