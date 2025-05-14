@@ -74577,5 +74577,112 @@
       "price_btc": 3.4150546378400667e-06,
       "timestamp": "2025-05-14 09:22"
     }
+  ],
+  "2025-05-14 10:22": [
+    {
+      "rank": 1,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.0841592464272465e-05,
+      "timestamp": "2025-05-14 10:22"
+    },
+    {
+      "rank": 2,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.916841486077625e-06,
+      "timestamp": "2025-05-14 10:22"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.802776357202442e-05,
+      "timestamp": "2025-05-14 10:22"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.1488211536320679e-05,
+      "timestamp": "2025-05-14 10:22"
+    },
+    {
+      "rank": 5,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.520968221848959e-06,
+      "timestamp": "2025-05-14 10:22"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025182568447372936,
+      "timestamp": "2025-05-14 10:22"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.904042352090347e-05,
+      "timestamp": "2025-05-14 10:22"
+    },
+    {
+      "rank": 8,
+      "name": "sudeng",
+      "symbol": "HIPPO",
+      "price_btc": 4.727911715786048e-08,
+      "timestamp": "2025-05-14 10:22"
+    },
+    {
+      "rank": 9,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 7.135874677595522e-06,
+      "timestamp": "2025-05-14 10:22"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.5343304469615238e-05,
+      "timestamp": "2025-05-14 10:22"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3517705869234972e-10,
+      "timestamp": "2025-05-14 10:22"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0017341680139488656,
+      "timestamp": "2025-05-14 10:22"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.9539044797761766e-06,
+      "timestamp": "2025-05-14 10:22"
+    },
+    {
+      "rank": 14,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.274914671754484e-06,
+      "timestamp": "2025-05-14 10:22"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.336312509345787e-05,
+      "timestamp": "2025-05-14 10:22"
+    }
   ]
 }
