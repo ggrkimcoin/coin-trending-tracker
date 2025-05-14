@@ -74363,5 +74363,112 @@
       "price_btc": 1.0036680241684755e-05,
       "timestamp": "2025-05-14 07:20"
     }
+  ],
+  "2025-05-14 08:27": [
+    {
+      "rank": 1,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.0285902840715088e-05,
+      "timestamp": "2025-05-14 08:27"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9236543836705023e-05,
+      "timestamp": "2025-05-14 08:27"
+    },
+    {
+      "rank": 3,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.38650657994891e-06,
+      "timestamp": "2025-05-14 08:27"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025463331651833596,
+      "timestamp": "2025-05-14 08:27"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.143128093108825e-05,
+      "timestamp": "2025-05-14 08:27"
+    },
+    {
+      "rank": 6,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.943338160607253e-06,
+      "timestamp": "2025-05-14 08:27"
+    },
+    {
+      "rank": 7,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 7.2889562458660145e-06,
+      "timestamp": "2025-05-14 08:27"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.8607283078830706e-05,
+      "timestamp": "2025-05-14 08:27"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3731683789532827e-05,
+      "timestamp": "2025-05-14 08:27"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0017548881380642335,
+      "timestamp": "2025-05-14 08:27"
+    },
+    {
+      "rank": 11,
+      "name": "Bluefin",
+      "symbol": "BLUE",
+      "price_btc": 1.167565115959428e-06,
+      "timestamp": "2025-05-14 08:27"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00446300427238048,
+      "timestamp": "2025-05-14 08:27"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.713148830071156e-06,
+      "timestamp": "2025-05-14 08:27"
+    },
+    {
+      "rank": 14,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.502253209736862e-06,
+      "timestamp": "2025-05-14 08:27"
+    },
+    {
+      "rank": 15,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 3.896264152190506e-06,
+      "timestamp": "2025-05-14 08:27"
+    }
   ]
 }
