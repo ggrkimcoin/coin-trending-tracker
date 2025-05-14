@@ -74470,5 +74470,112 @@
       "price_btc": 3.896264152190506e-06,
       "timestamp": "2025-05-14 08:27"
     }
+  ],
+  "2025-05-14 09:22": [
+    {
+      "rank": 1,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.0104913855774714e-05,
+      "timestamp": "2025-05-14 09:22"
+    },
+    {
+      "rank": 2,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.0295870113225294e-06,
+      "timestamp": "2025-05-14 09:22"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.1326771636879679e-05,
+      "timestamp": "2025-05-14 09:22"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025324967050402665,
+      "timestamp": "2025-05-14 09:22"
+    },
+    {
+      "rank": 5,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 7.17399893922046e-06,
+      "timestamp": "2025-05-14 09:22"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.81968566016399e-05,
+      "timestamp": "2025-05-14 09:22"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9051315327827805e-05,
+      "timestamp": "2025-05-14 09:22"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.5028964948597082e-05,
+      "timestamp": "2025-05-14 09:22"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3553652743048722e-10,
+      "timestamp": "2025-05-14 09:22"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-14 09:22"
+    },
+    {
+      "rank": 11,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.567070742961638e-06,
+      "timestamp": "2025-05-14 09:22"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3361630787588224e-05,
+      "timestamp": "2025-05-14 09:22"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0017399588123386963,
+      "timestamp": "2025-05-14 09:22"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.9902038874490647e-06,
+      "timestamp": "2025-05-14 09:22"
+    },
+    {
+      "rank": 15,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.4150546378400667e-06,
+      "timestamp": "2025-05-14 09:22"
+    }
   ]
 }
