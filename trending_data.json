@@ -75968,5 +75968,112 @@
       "price_btc": 4.791513734840055e-07,
       "timestamp": "2025-05-14 22:16"
     }
+  ],
+  "2025-05-14 23:18": [
+    {
+      "rank": 1,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.9721067635613787e-06,
+      "timestamp": "2025-05-14 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.823322717051651e-06,
+      "timestamp": "2025-05-14 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.73396481714687e-06,
+      "timestamp": "2025-05-14 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.990014484544025e-05,
+      "timestamp": "2025-05-14 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 6.473958513892373e-07,
+      "timestamp": "2025-05-14 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.440470706790169e-07,
+      "timestamp": "2025-05-14 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.3578849147134527e-06,
+      "timestamp": "2025-05-14 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 7.3500063627640465e-06,
+      "timestamp": "2025-05-14 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 4.969878690637339e-07,
+      "timestamp": "2025-05-14 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001701276790801246,
+      "timestamp": "2025-05-14 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3392156683376355e-10,
+      "timestamp": "2025-05-14 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.939823054484606e-05,
+      "timestamp": "2025-05-14 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.4208186575831055e-06,
+      "timestamp": "2025-05-14 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4649361138992016e-05,
+      "timestamp": "2025-05-14 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.780658752647661e-05,
+      "timestamp": "2025-05-14 23:18"
+    }
   ]
 }
