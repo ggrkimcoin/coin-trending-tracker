@@ -75861,5 +75861,112 @@
       "price_btc": 0.025144266136302936,
       "timestamp": "2025-05-14 21:16"
     }
+  ],
+  "2025-05-14 22:16": [
+    {
+      "rank": 1,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.3554953829061744e-06,
+      "timestamp": "2025-05-14 22:16"
+    },
+    {
+      "rank": 2,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.764445988078999e-06,
+      "timestamp": "2025-05-14 22:16"
+    },
+    {
+      "rank": 3,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.5019202580425835e-06,
+      "timestamp": "2025-05-14 22:16"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.4999975903138857e-07,
+      "timestamp": "2025-05-14 22:16"
+    },
+    {
+      "rank": 5,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 6.455910589595769e-07,
+      "timestamp": "2025-05-14 22:16"
+    },
+    {
+      "rank": 6,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.998344065163179e-05,
+      "timestamp": "2025-05-14 22:16"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 9.393756959982928e-06,
+      "timestamp": "2025-05-14 22:16"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.797713310862127e-05,
+      "timestamp": "2025-05-14 22:16"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02505400283407386,
+      "timestamp": "2025-05-14 22:16"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0017063961372552005,
+      "timestamp": "2025-05-14 22:16"
+    },
+    {
+      "rank": 11,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.2469153060027434e-06,
+      "timestamp": "2025-05-14 22:16"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004358110916210569,
+      "timestamp": "2025-05-14 22:16"
+    },
+    {
+      "rank": 13,
+      "name": "Toshi",
+      "symbol": "TOSHI",
+      "price_btc": 7.366281431585397e-09,
+      "timestamp": "2025-05-14 22:16"
+    },
+    {
+      "rank": 14,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 3.33928171317905e-05,
+      "timestamp": "2025-05-14 22:16"
+    },
+    {
+      "rank": 15,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 4.791513734840055e-07,
+      "timestamp": "2025-05-14 22:16"
+    }
   ]
 }
