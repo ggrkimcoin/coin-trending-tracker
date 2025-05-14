@@ -74149,5 +74149,112 @@
       "price_btc": 3.513586133797855e-06,
       "timestamp": "2025-05-14 05:20"
     }
+  ],
+  "2025-05-14 06:29": [
+    {
+      "rank": 1,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.23978655619192e-06,
+      "timestamp": "2025-05-14 06:29"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.2263859421029306e-05,
+      "timestamp": "2025-05-14 06:29"
+    },
+    {
+      "rank": 3,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 3.027561255497704e-06,
+      "timestamp": "2025-05-14 06:29"
+    },
+    {
+      "rank": 4,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 7.014976786499553e-06,
+      "timestamp": "2025-05-14 06:29"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0017612566711497995,
+      "timestamp": "2025-05-14 06:29"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.88015393626427e-05,
+      "timestamp": "2025-05-14 06:29"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.968343936768095e-05,
+      "timestamp": "2025-05-14 06:29"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025745356632300428,
+      "timestamp": "2025-05-14 06:29"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4891480955583722e-05,
+      "timestamp": "2025-05-14 06:29"
+    },
+    {
+      "rank": 10,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.791649009963544e-06,
+      "timestamp": "2025-05-14 06:29"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013178039559040526,
+      "timestamp": "2025-05-14 06:29"
+    },
+    {
+      "rank": 12,
+      "name": "Mog Coin",
+      "symbol": "MOG",
+      "price_btc": 1.0660854312848106e-11,
+      "timestamp": "2025-05-14 06:29"
+    },
+    {
+      "rank": 13,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.924412808526318e-06,
+      "timestamp": "2025-05-14 06:29"
+    },
+    {
+      "rank": 14,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.5129624503216594e-06,
+      "timestamp": "2025-05-14 06:29"
+    },
+    {
+      "rank": 15,
+      "name": "Nillion",
+      "symbol": "NIL",
+      "price_btc": 5.358574513080323e-06,
+      "timestamp": "2025-05-14 06:29"
+    }
   ]
 }
