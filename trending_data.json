@@ -73935,5 +73935,112 @@
       "price_btc": 5.3189325896197236e-06,
       "timestamp": "2025-05-14 03:10"
     }
+  ],
+  "2025-05-14 04:24": [
+    {
+      "rank": 1,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.285519121122002e-06,
+      "timestamp": "2025-05-14 04:24"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00174048269020206,
+      "timestamp": "2025-05-14 04:24"
+    },
+    {
+      "rank": 3,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.9599647913722323e-06,
+      "timestamp": "2025-05-14 04:24"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02551489084234431,
+      "timestamp": "2025-05-14 04:24"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.837440689141655e-05,
+      "timestamp": "2025-05-14 04:24"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9358517842137904e-05,
+      "timestamp": "2025-05-14 04:24"
+    },
+    {
+      "rank": 7,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3505444017574705e-10,
+      "timestamp": "2025-05-14 04:24"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.2387828185324034e-05,
+      "timestamp": "2025-05-14 04:24"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-14 04:24"
+    },
+    {
+      "rank": 10,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00016591606060609144,
+      "timestamp": "2025-05-14 04:24"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001301389028992366,
+      "timestamp": "2025-05-14 04:24"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004463136616462438,
+      "timestamp": "2025-05-14 04:24"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4647545472435646e-05,
+      "timestamp": "2025-05-14 04:24"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.733610366668413e-06,
+      "timestamp": "2025-05-14 04:24"
+    },
+    {
+      "rank": 15,
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "price_btc": 8.007580167279796e-05,
+      "timestamp": "2025-05-14 04:24"
+    }
   ]
 }
