@@ -74684,5 +74684,112 @@
       "price_btc": 1.336312509345787e-05,
       "timestamp": "2025-05-14 10:22"
     }
+  ],
+  "2025-05-14 11:17": [
+    {
+      "rank": 1,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.0757911294000325e-06,
+      "timestamp": "2025-05-14 11:17"
+    },
+    {
+      "rank": 2,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.0782940579165374e-05,
+      "timestamp": "2025-05-14 11:17"
+    },
+    {
+      "rank": 3,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.6082173776830767e-06,
+      "timestamp": "2025-05-14 11:17"
+    },
+    {
+      "rank": 4,
+      "name": "sudeng",
+      "symbol": "HIPPO",
+      "price_btc": 4.6780628277776555e-08,
+      "timestamp": "2025-05-14 11:17"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025062552360099282,
+      "timestamp": "2025-05-14 11:17"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.788891986556965e-05,
+      "timestamp": "2025-05-14 11:17"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-14 11:17"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9119401165831712e-05,
+      "timestamp": "2025-05-14 11:17"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.1519042706976826e-05,
+      "timestamp": "2025-05-14 11:17"
+    },
+    {
+      "rank": 10,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 7.110610152248369e-06,
+      "timestamp": "2025-05-14 11:17"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0017349551670179223,
+      "timestamp": "2025-05-14 11:17"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013060742818984963,
+      "timestamp": "2025-05-14 11:17"
+    },
+    {
+      "rank": 13,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.3674163494109643e-06,
+      "timestamp": "2025-05-14 11:17"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.9303450266736557e-06,
+      "timestamp": "2025-05-14 11:17"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.5173266685890325e-05,
+      "timestamp": "2025-05-14 11:17"
+    }
   ]
 }
