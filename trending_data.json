@@ -73721,5 +73721,112 @@
       "price_btc": 2.9456324049287526e-06,
       "timestamp": "2025-05-13 23:19"
     }
+  ],
+  "2025-05-14 01:42": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.877357318057843e-05,
+      "timestamp": "2025-05-14 01:42"
+    },
+    {
+      "rank": 2,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.8758457531045717e-06,
+      "timestamp": "2025-05-14 01:42"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0017668449016376268,
+      "timestamp": "2025-05-14 01:42"
+    },
+    {
+      "rank": 4,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.9087997863637455e-06,
+      "timestamp": "2025-05-14 01:42"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.2395605512468478e-05,
+      "timestamp": "2025-05-14 01:42"
+    },
+    {
+      "rank": 6,
+      "name": "GRIFFAIN",
+      "symbol": "GRIFFAIN",
+      "price_btc": 1.259354807994758e-06,
+      "timestamp": "2025-05-14 01:42"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025985255047037407,
+      "timestamp": "2025-05-14 01:42"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9467505931699857e-05,
+      "timestamp": "2025-05-14 01:42"
+    },
+    {
+      "rank": 9,
+      "name": "Immutable",
+      "symbol": "IMX",
+      "price_btc": 7.2426942903094274e-06,
+      "timestamp": "2025-05-14 01:42"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-14 01:42"
+    },
+    {
+      "rank": 11,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 3.5864858082749415e-06,
+      "timestamp": "2025-05-14 01:42"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4776017932974205e-05,
+      "timestamp": "2025-05-14 01:42"
+    },
+    {
+      "rank": 13,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.14458878353068e-06,
+      "timestamp": "2025-05-14 01:42"
+    },
+    {
+      "rank": 14,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.913588993670663e-06,
+      "timestamp": "2025-05-14 01:42"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3436089497081805e-05,
+      "timestamp": "2025-05-14 01:42"
+    }
   ]
 }
