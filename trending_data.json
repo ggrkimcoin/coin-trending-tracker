@@ -77038,5 +77038,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-05-15 10:22"
     }
+  ],
+  "2025-05-15 11:17": [
+    {
+      "rank": 1,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.366760011087493e-06,
+      "timestamp": "2025-05-15 11:17"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.526739533320085e-06,
+      "timestamp": "2025-05-15 11:17"
+    },
+    {
+      "rank": 3,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.454565527811158e-06,
+      "timestamp": "2025-05-15 11:17"
+    },
+    {
+      "rank": 4,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.6918329604884567e-06,
+      "timestamp": "2025-05-15 11:17"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6406350962565925e-05,
+      "timestamp": "2025-05-15 11:17"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-15 11:17"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8566181319448257e-05,
+      "timestamp": "2025-05-15 11:17"
+    },
+    {
+      "rank": 8,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 5.188343353096662e-07,
+      "timestamp": "2025-05-15 11:17"
+    },
+    {
+      "rank": 9,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3263347740285427e-07,
+      "timestamp": "2025-05-15 11:17"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02491770506666322,
+      "timestamp": "2025-05-15 11:17"
+    },
+    {
+      "rank": 11,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.8270129095368215e-05,
+      "timestamp": "2025-05-15 11:17"
+    },
+    {
+      "rank": 12,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.8631088197638325e-05,
+      "timestamp": "2025-05-15 11:17"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2521788816373761e-05,
+      "timestamp": "2025-05-15 11:17"
+    },
+    {
+      "rank": 14,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.291566386058239e-06,
+      "timestamp": "2025-05-15 11:17"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.415542394239812e-05,
+      "timestamp": "2025-05-15 11:17"
+    }
   ]
 }
