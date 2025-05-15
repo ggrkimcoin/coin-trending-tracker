@@ -78001,5 +78001,112 @@
       "price_btc": 3.638999333033046e-06,
       "timestamp": "2025-05-15 19:16"
     }
+  ],
+  "2025-05-15 20:23": [
+    {
+      "rank": 1,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 1.00117244851489e-05,
+      "timestamp": "2025-05-15 20:23"
+    },
+    {
+      "rank": 2,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.597601989816086e-06,
+      "timestamp": "2025-05-15 20:23"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.769245325669699e-05,
+      "timestamp": "2025-05-15 20:23"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00164566832234814,
+      "timestamp": "2025-05-15 20:23"
+    },
+    {
+      "rank": 5,
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "price_btc": 1.491199608025602e-05,
+      "timestamp": "2025-05-15 20:23"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.547968040702528e-06,
+      "timestamp": "2025-05-15 20:23"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.64583826958601e-06,
+      "timestamp": "2025-05-15 20:23"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002477999225785534,
+      "timestamp": "2025-05-15 20:23"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.984253144156907e-06,
+      "timestamp": "2025-05-15 20:23"
+    },
+    {
+      "rank": 10,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 6.025845482866933e-07,
+      "timestamp": "2025-05-15 20:23"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.799820100024022e-05,
+      "timestamp": "2025-05-15 20:23"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024563124232431628,
+      "timestamp": "2025-05-15 20:23"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2789708658798519e-05,
+      "timestamp": "2025-05-15 20:23"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-15 20:23"
+    },
+    {
+      "rank": 15,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00022839989809154575,
+      "timestamp": "2025-05-15 20:23"
+    }
   ]
 }
