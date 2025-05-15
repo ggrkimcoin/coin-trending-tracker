@@ -76289,5 +76289,112 @@
       "price_btc": 1.8282507893237422e-06,
       "timestamp": "2025-05-15 03:10"
     }
+  ],
+  "2025-05-15 04:24": [
+    {
+      "rank": 1,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.201428249035898e-06,
+      "timestamp": "2025-05-15 04:24"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7555762123359114e-05,
+      "timestamp": "2025-05-15 04:24"
+    },
+    {
+      "rank": 3,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.360887954307505e-06,
+      "timestamp": "2025-05-15 04:24"
+    },
+    {
+      "rank": 4,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.746070081958624e-06,
+      "timestamp": "2025-05-15 04:24"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025086790308592,
+      "timestamp": "2025-05-15 04:24"
+    },
+    {
+      "rank": 6,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.9561805413635092e-05,
+      "timestamp": "2025-05-15 04:24"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8942883736088265e-05,
+      "timestamp": "2025-05-15 04:24"
+    },
+    {
+      "rank": 8,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00016282366463916457,
+      "timestamp": "2025-05-15 04:24"
+    },
+    {
+      "rank": 9,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.031885113626946e-06,
+      "timestamp": "2025-05-15 04:24"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3685227542757363e-07,
+      "timestamp": "2025-05-15 04:24"
+    },
+    {
+      "rank": 11,
+      "name": "Freysa AI",
+      "symbol": "FAI",
+      "price_btc": 2.8846749718684214e-07,
+      "timestamp": "2025-05-15 04:24"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4609690859984747e-05,
+      "timestamp": "2025-05-15 04:24"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-15 04:24"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00024205053367438463,
+      "timestamp": "2025-05-15 04:24"
+    },
+    {
+      "rank": 15,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.16563240229038e-06,
+      "timestamp": "2025-05-15 04:24"
+    }
   ]
 }
