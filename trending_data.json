@@ -77145,5 +77145,112 @@
       "price_btc": 2.415542394239812e-05,
       "timestamp": "2025-05-15 11:17"
     }
+  ],
+  "2025-05-15 12:41": [
+    {
+      "rank": 1,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.706982462554286e-06,
+      "timestamp": "2025-05-15 12:41"
+    },
+    {
+      "rank": 2,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.483217189355493e-06,
+      "timestamp": "2025-05-15 12:41"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.629970928395444e-05,
+      "timestamp": "2025-05-15 12:41"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-15 12:41"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.960561439717812e-06,
+      "timestamp": "2025-05-15 12:41"
+    },
+    {
+      "rank": 6,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.881651622462035e-06,
+      "timestamp": "2025-05-15 12:41"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016686730917074893,
+      "timestamp": "2025-05-15 12:41"
+    },
+    {
+      "rank": 8,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 6.101717133347563e-07,
+      "timestamp": "2025-05-15 12:41"
+    },
+    {
+      "rank": 9,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.4212788583772926e-06,
+      "timestamp": "2025-05-15 12:41"
+    },
+    {
+      "rank": 10,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00015883389394817657,
+      "timestamp": "2025-05-15 12:41"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.410353395264334e-05,
+      "timestamp": "2025-05-15 12:41"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2490562407071652e-05,
+      "timestamp": "2025-05-15 12:41"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8600471176801638e-05,
+      "timestamp": "2025-05-15 12:41"
+    },
+    {
+      "rank": 14,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.2886233120079065e-06,
+      "timestamp": "2025-05-15 12:41"
+    },
+    {
+      "rank": 15,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.8098429698903742e-05,
+      "timestamp": "2025-05-15 12:41"
+    }
   ]
 }
