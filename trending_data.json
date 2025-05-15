@@ -77359,5 +77359,112 @@
       "price_btc": 0.004219760056756449,
       "timestamp": "2025-05-15 13:30"
     }
+  ],
+  "2025-05-15 14:20": [
+    {
+      "rank": 1,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.496994743011711e-06,
+      "timestamp": "2025-05-15 14:20"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.638091753368649e-05,
+      "timestamp": "2025-05-15 14:20"
+    },
+    {
+      "rank": 3,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.538530638569212e-06,
+      "timestamp": "2025-05-15 14:20"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.66000993567188e-06,
+      "timestamp": "2025-05-15 14:20"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016648822004442572,
+      "timestamp": "2025-05-15 14:20"
+    },
+    {
+      "rank": 6,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.9121859193895578e-05,
+      "timestamp": "2025-05-15 14:20"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024827643645323767,
+      "timestamp": "2025-05-15 14:20"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8101133299469046e-05,
+      "timestamp": "2025-05-15 14:20"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-15 14:20"
+    },
+    {
+      "rank": 10,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.164078801049815e-06,
+      "timestamp": "2025-05-15 14:20"
+    },
+    {
+      "rank": 11,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.3417652979951716e-06,
+      "timestamp": "2025-05-15 14:20"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0041801709189150035,
+      "timestamp": "2025-05-15 14:20"
+    },
+    {
+      "rank": 13,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006379086522390643,
+      "timestamp": "2025-05-15 14:20"
+    },
+    {
+      "rank": 14,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.838928078226126e-06,
+      "timestamp": "2025-05-15 14:20"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.320778881178925e-10,
+      "timestamp": "2025-05-15 14:20"
+    }
   ]
 }
