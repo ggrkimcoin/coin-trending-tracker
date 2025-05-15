@@ -76396,5 +76396,112 @@
       "price_btc": 1.16563240229038e-06,
       "timestamp": "2025-05-15 04:24"
     }
+  ],
+  "2025-05-15 05:20": [
+    {
+      "rank": 1,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.594184380439755e-06,
+      "timestamp": "2025-05-15 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.3607630060632714e-06,
+      "timestamp": "2025-05-15 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.756596313736008e-06,
+      "timestamp": "2025-05-15 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.76002031431619e-05,
+      "timestamp": "2025-05-15 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.3876822584947746e-06,
+      "timestamp": "2025-05-15 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.917323703621956e-05,
+      "timestamp": "2025-05-15 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.4069467661905617e-07,
+      "timestamp": "2025-05-15 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00016305395040866675,
+      "timestamp": "2025-05-15 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016995365999601768,
+      "timestamp": "2025-05-15 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025176087283317734,
+      "timestamp": "2025-05-15 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 5.616607948833015e-05,
+      "timestamp": "2025-05-15 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "price_btc": 1.2884541809826819e-05,
+      "timestamp": "2025-05-15 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4591892052828942e-05,
+      "timestamp": "2025-05-15 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-15 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.1664270510681725e-06,
+      "timestamp": "2025-05-15 05:20"
+    }
   ]
 }
