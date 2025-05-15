@@ -77680,5 +77680,112 @@
       "price_btc": 2.148046118800674e-06,
       "timestamp": "2025-05-15 16:26"
     }
+  ],
+  "2025-05-15 17:17": [
+    {
+      "rank": 1,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 9.957708025050162e-06,
+      "timestamp": "2025-05-15 17:17"
+    },
+    {
+      "rank": 2,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 3.022813870367258e-06,
+      "timestamp": "2025-05-15 17:17"
+    },
+    {
+      "rank": 3,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.9304999023020752e-06,
+      "timestamp": "2025-05-15 17:17"
+    },
+    {
+      "rank": 4,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.639442135107533e-06,
+      "timestamp": "2025-05-15 17:17"
+    },
+    {
+      "rank": 5,
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "price_btc": 1.569665488023923e-05,
+      "timestamp": "2025-05-15 17:17"
+    },
+    {
+      "rank": 6,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.3069034766335733e-06,
+      "timestamp": "2025-05-15 17:17"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.717536317559371e-05,
+      "timestamp": "2025-05-15 17:17"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024897473841829304,
+      "timestamp": "2025-05-15 17:17"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8362365709923727e-05,
+      "timestamp": "2025-05-15 17:17"
+    },
+    {
+      "rank": 10,
+      "name": "Eigenlayer",
+      "symbol": "EIGEN",
+      "price_btc": 1.4566809866507834e-05,
+      "timestamp": "2025-05-15 17:17"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00024812824161133854,
+      "timestamp": "2025-05-15 17:17"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.35445778725118e-06,
+      "timestamp": "2025-05-15 17:17"
+    },
+    {
+      "rank": 13,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3531259357104327e-07,
+      "timestamp": "2025-05-15 17:17"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00426596592887766,
+      "timestamp": "2025-05-15 17:17"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.761261170990916e-06,
+      "timestamp": "2025-05-15 17:17"
+    }
   ]
 }
