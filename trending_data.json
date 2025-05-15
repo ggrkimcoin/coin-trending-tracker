@@ -76610,5 +76610,112 @@
       "price_btc": 1.803055308804055e-06,
       "timestamp": "2025-05-15 06:30"
     }
+  ],
+  "2025-05-15 07:20": [
+    {
+      "rank": 1,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.423308312331762e-06,
+      "timestamp": "2025-05-15 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.522956979978738e-06,
+      "timestamp": "2025-05-15 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8757900755670085e-05,
+      "timestamp": "2025-05-15 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.695185875250728e-05,
+      "timestamp": "2025-05-15 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3599890213422475e-07,
+      "timestamp": "2025-05-15 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.242586629148673e-06,
+      "timestamp": "2025-05-15 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 5.250092429072929e-07,
+      "timestamp": "2025-05-15 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.610838911873159e-06,
+      "timestamp": "2025-05-15 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.8456334230177247e-05,
+      "timestamp": "2025-05-15 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004225113609398219,
+      "timestamp": "2025-05-15 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 6.220822141913301e-07,
+      "timestamp": "2025-05-15 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016928303786151887,
+      "timestamp": "2025-05-15 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.435772092892796e-05,
+      "timestamp": "2025-05-15 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025111218868035457,
+      "timestamp": "2025-05-15 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.739968739037164e-05,
+      "timestamp": "2025-05-15 07:20"
+    }
   ]
 }
