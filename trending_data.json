@@ -77894,5 +77894,112 @@
       "price_btc": 4.7823599767770746e-05,
       "timestamp": "2025-05-15 18:29"
     }
+  ],
+  "2025-05-15 19:16": [
+    {
+      "rank": 1,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 1.0066173405014155e-05,
+      "timestamp": "2025-05-15 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "price_btc": 1.4957190032053564e-05,
+      "timestamp": "2025-05-15 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.596487749060468e-06,
+      "timestamp": "2025-05-15 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.745178200936689e-05,
+      "timestamp": "2025-05-15 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.7217339138924617e-06,
+      "timestamp": "2025-05-15 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.551465025508692e-06,
+      "timestamp": "2025-05-15 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001655667486950527,
+      "timestamp": "2025-05-15 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024634592713564846,
+      "timestamp": "2025-05-15 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3854045604447094e-05,
+      "timestamp": "2025-05-15 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.811884348466028e-05,
+      "timestamp": "2025-05-15 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3117264798449329e-10,
+      "timestamp": "2025-05-15 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 4.968147033628026e-07,
+      "timestamp": "2025-05-15 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012444464003547325,
+      "timestamp": "2025-05-15 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-15 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.638999333033046e-06,
+      "timestamp": "2025-05-15 19:16"
+    }
   ]
 }
