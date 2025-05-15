@@ -76503,5 +76503,112 @@
       "price_btc": 1.1664270510681725e-06,
       "timestamp": "2025-05-15 05:20"
     }
+  ],
+  "2025-05-15 06:30": [
+    {
+      "rank": 1,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.541663358291435e-06,
+      "timestamp": "2025-05-15 06:30"
+    },
+    {
+      "rank": 2,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.5331946319853177e-06,
+      "timestamp": "2025-05-15 06:30"
+    },
+    {
+      "rank": 3,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.645913520232955e-06,
+      "timestamp": "2025-05-15 06:30"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3636231488150845e-07,
+      "timestamp": "2025-05-15 06:30"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016944764569281874,
+      "timestamp": "2025-05-15 06:30"
+    },
+    {
+      "rank": 6,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.3146020086535587e-06,
+      "timestamp": "2025-05-15 06:30"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8845093647043587e-05,
+      "timestamp": "2025-05-15 06:30"
+    },
+    {
+      "rank": 8,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.8531683354694702e-05,
+      "timestamp": "2025-05-15 06:30"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7166451101577224e-05,
+      "timestamp": "2025-05-15 06:30"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-15 06:30"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02511482739889496,
+      "timestamp": "2025-05-15 06:30"
+    },
+    {
+      "rank": 12,
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "price_btc": 4.5646293902030996e-07,
+      "timestamp": "2025-05-15 06:30"
+    },
+    {
+      "rank": 13,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00023789168541336994,
+      "timestamp": "2025-05-15 06:30"
+    },
+    {
+      "rank": 14,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 6.282847232360124e-07,
+      "timestamp": "2025-05-15 06:30"
+    },
+    {
+      "rank": 15,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.803055308804055e-06,
+      "timestamp": "2025-05-15 06:30"
+    }
   ]
 }
