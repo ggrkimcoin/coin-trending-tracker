@@ -77573,5 +77573,112 @@
       "price_btc": 0.0016553604114544788,
       "timestamp": "2025-05-15 15:20"
     }
+  ],
+  "2025-05-15 16:26": [
+    {
+      "rank": 1,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 9.958111549390317e-06,
+      "timestamp": "2025-05-15 16:26"
+    },
+    {
+      "rank": 2,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.8503794242109685e-06,
+      "timestamp": "2025-05-15 16:26"
+    },
+    {
+      "rank": 3,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.601547770972529e-06,
+      "timestamp": "2025-05-15 16:26"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.671204572764067e-05,
+      "timestamp": "2025-05-15 16:26"
+    },
+    {
+      "rank": 5,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.823808361911697e-06,
+      "timestamp": "2025-05-15 16:26"
+    },
+    {
+      "rank": 6,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.300001675562596e-06,
+      "timestamp": "2025-05-15 16:26"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.78509241967016e-06,
+      "timestamp": "2025-05-15 16:26"
+    },
+    {
+      "rank": 8,
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "price_btc": 1.5434971844344988e-05,
+      "timestamp": "2025-05-15 16:26"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8312872283680098e-05,
+      "timestamp": "2025-05-15 16:26"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02481840394869592,
+      "timestamp": "2025-05-15 16:26"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004271023143479537,
+      "timestamp": "2025-05-15 16:26"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00024480493955786136,
+      "timestamp": "2025-05-15 16:26"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.385664646435594e-05,
+      "timestamp": "2025-05-15 16:26"
+    },
+    {
+      "rank": 14,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 5.478806651393021e-07,
+      "timestamp": "2025-05-15 16:26"
+    },
+    {
+      "rank": 15,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.148046118800674e-06,
+      "timestamp": "2025-05-15 16:26"
+    }
   ]
 }
