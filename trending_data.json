@@ -78108,5 +78108,112 @@
       "price_btc": 0.00022839989809154575,
       "timestamp": "2025-05-15 20:23"
     }
+  ],
+  "2025-05-15 21:19": [
+    {
+      "rank": 1,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 9.961467823640038e-06,
+      "timestamp": "2025-05-15 21:19"
+    },
+    {
+      "rank": 2,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 8.009002157642613e-10,
+      "timestamp": "2025-05-15 21:19"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.8338475721441415e-08,
+      "timestamp": "2025-05-15 21:19"
+    },
+    {
+      "rank": 4,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.417761885940482e-06,
+      "timestamp": "2025-05-15 21:19"
+    },
+    {
+      "rank": 5,
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "price_btc": 1.4716341254143988e-05,
+      "timestamp": "2025-05-15 21:19"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016395943291476283,
+      "timestamp": "2025-05-15 21:19"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.454696194929e-06,
+      "timestamp": "2025-05-15 21:19"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02451354796028892,
+      "timestamp": "2025-05-15 21:19"
+    },
+    {
+      "rank": 9,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.0002267168515298659,
+      "timestamp": "2025-05-15 21:19"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.578039191241938e-06,
+      "timestamp": "2025-05-15 21:19"
+    },
+    {
+      "rank": 11,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.8676248350907112e-05,
+      "timestamp": "2025-05-15 21:19"
+    },
+    {
+      "rank": 12,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.9958510807694714e-06,
+      "timestamp": "2025-05-15 21:19"
+    },
+    {
+      "rank": 13,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 4.5516771072753054e-07,
+      "timestamp": "2025-05-15 21:19"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.740151355461255e-05,
+      "timestamp": "2025-05-15 21:19"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2648875028401647e-05,
+      "timestamp": "2025-05-15 21:19"
+    }
   ]
 }
