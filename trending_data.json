@@ -77466,5 +77466,112 @@
       "price_btc": 1.320778881178925e-10,
       "timestamp": "2025-05-15 14:20"
     }
+  ],
+  "2025-05-15 15:20": [
+    {
+      "rank": 1,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.3191303721954684e-06,
+      "timestamp": "2025-05-15 15:20"
+    },
+    {
+      "rank": 2,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.4890610780228886e-06,
+      "timestamp": "2025-05-15 15:20"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.632482475188589e-05,
+      "timestamp": "2025-05-15 15:20"
+    },
+    {
+      "rank": 4,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.473233152693084e-06,
+      "timestamp": "2025-05-15 15:20"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.78524699790212e-05,
+      "timestamp": "2025-05-15 15:20"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.7683659319066673e-06,
+      "timestamp": "2025-05-15 15:20"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004197818321235881,
+      "timestamp": "2025-05-15 15:20"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.640611340292187e-06,
+      "timestamp": "2025-05-15 15:20"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-15 15:20"
+    },
+    {
+      "rank": 10,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.626703242480035e-06,
+      "timestamp": "2025-05-15 15:20"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00024241407599993918,
+      "timestamp": "2025-05-15 15:20"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.375407448144547e-05,
+      "timestamp": "2025-05-15 15:20"
+    },
+    {
+      "rank": 13,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 7.469730438726907e-06,
+      "timestamp": "2025-05-15 15:20"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.288505901450104e-10,
+      "timestamp": "2025-05-15 15:20"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016553604114544788,
+      "timestamp": "2025-05-15 15:20"
+    }
   ]
 }
