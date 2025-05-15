@@ -77787,5 +77787,112 @@
       "price_btc": 8.761261170990916e-06,
       "timestamp": "2025-05-15 17:17"
     }
+  ],
+  "2025-05-15 18:29": [
+    {
+      "rank": 1,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 9.962170301452221e-06,
+      "timestamp": "2025-05-15 18:29"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7807425738888634e-05,
+      "timestamp": "2025-05-15 18:29"
+    },
+    {
+      "rank": 3,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.7279355994362248e-06,
+      "timestamp": "2025-05-15 18:29"
+    },
+    {
+      "rank": 4,
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "price_btc": 1.547657617143363e-05,
+      "timestamp": "2025-05-15 18:29"
+    },
+    {
+      "rank": 5,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.2980676314029123e-06,
+      "timestamp": "2025-05-15 18:29"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.701039868478747e-06,
+      "timestamp": "2025-05-15 18:29"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.709513395008898e-06,
+      "timestamp": "2025-05-15 18:29"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016648954772563798,
+      "timestamp": "2025-05-15 18:29"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02478470670475387,
+      "timestamp": "2025-05-15 18:29"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3324249519973514e-10,
+      "timestamp": "2025-05-15 18:29"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2893433287473668e-05,
+      "timestamp": "2025-05-15 18:29"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.394401422520115e-05,
+      "timestamp": "2025-05-15 18:29"
+    },
+    {
+      "rank": 13,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.022866938975038e-06,
+      "timestamp": "2025-05-15 18:29"
+    },
+    {
+      "rank": 14,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.8746139990394925e-05,
+      "timestamp": "2025-05-15 18:29"
+    },
+    {
+      "rank": 15,
+      "name": "Cosmos Hub",
+      "symbol": "ATOM",
+      "price_btc": 4.7823599767770746e-05,
+      "timestamp": "2025-05-15 18:29"
+    }
   ]
 }
