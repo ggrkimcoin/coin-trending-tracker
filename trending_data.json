@@ -78215,5 +78215,112 @@
       "price_btc": 1.2648875028401647e-05,
       "timestamp": "2025-05-15 21:19"
     }
+  ],
+  "2025-05-15 22:19": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.8205533179820546e-08,
+      "timestamp": "2025-05-15 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 9.967071502407724e-06,
+      "timestamp": "2025-05-15 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "PURPLE PEPE",
+      "symbol": "PURPE",
+      "price_btc": 8.022555877366351e-10,
+      "timestamp": "2025-05-15 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.72628076813878e-05,
+      "timestamp": "2025-05-15 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.4508416185710377e-06,
+      "timestamp": "2025-05-15 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.422922240695062e-06,
+      "timestamp": "2025-05-15 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.572098944058132e-06,
+      "timestamp": "2025-05-15 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.0470340837177946e-06,
+      "timestamp": "2025-05-15 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7905794935195827e-05,
+      "timestamp": "2025-05-15 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-15 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024553402696750118,
+      "timestamp": "2025-05-15 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "price_btc": 1.4313575459325052e-05,
+      "timestamp": "2025-05-15 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.35034494158935e-05,
+      "timestamp": "2025-05-15 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016350907276352655,
+      "timestamp": "2025-05-15 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.262455004902241e-06,
+      "timestamp": "2025-05-15 22:19"
+    }
   ]
 }
