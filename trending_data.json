@@ -76075,5 +76075,112 @@
       "price_btc": 3.780658752647661e-05,
       "timestamp": "2025-05-14 23:18"
     }
+  ],
+  "2025-05-15 01:40": [
+    {
+      "rank": 1,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 3.1530801479874672e-06,
+      "timestamp": "2025-05-15 01:40"
+    },
+    {
+      "rank": 2,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.864454747776825e-06,
+      "timestamp": "2025-05-15 01:40"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.531315218115655e-06,
+      "timestamp": "2025-05-15 01:40"
+    },
+    {
+      "rank": 4,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.9719215946834862e-05,
+      "timestamp": "2025-05-15 01:40"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7808172390845476e-05,
+      "timestamp": "2025-05-15 01:40"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0017118768692490408,
+      "timestamp": "2025-05-15 01:40"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.397848775635835e-07,
+      "timestamp": "2025-05-15 01:40"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9135738747168784e-05,
+      "timestamp": "2025-05-15 01:40"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.4725074974356674e-05,
+      "timestamp": "2025-05-15 01:40"
+    },
+    {
+      "rank": 10,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 2.9883399448417643e-06,
+      "timestamp": "2025-05-15 01:40"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001303033763074915,
+      "timestamp": "2025-05-15 01:40"
+    },
+    {
+      "rank": 12,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 6.300431791149428e-07,
+      "timestamp": "2025-05-15 01:40"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00442904913878293,
+      "timestamp": "2025-05-15 01:40"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.970877987586255e-06,
+      "timestamp": "2025-05-15 01:40"
+    },
+    {
+      "rank": 15,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00016512468460250194,
+      "timestamp": "2025-05-15 01:40"
+    }
   ]
 }
