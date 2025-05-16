@@ -80355,5 +80355,112 @@
       "price_btc": 9.296995241103316e-06,
       "timestamp": "2025-05-16 19:16"
     }
+  ],
+  "2025-05-16 20:22": [
+    {
+      "rank": 1,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 6.060682490254931e-07,
+      "timestamp": "2025-05-16 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "Kendu Inu",
+      "symbol": "KENDU",
+      "price_btc": 3.310604183567164e-10,
+      "timestamp": "2025-05-16 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.7463354222861435e-08,
+      "timestamp": "2025-05-16 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002674755650524484,
+      "timestamp": "2025-05-16 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 4.805171849724663e-06,
+      "timestamp": "2025-05-16 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.8025164360747907e-06,
+      "timestamp": "2025-05-16 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016451649874842536,
+      "timestamp": "2025-05-16 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.401667963956715e-06,
+      "timestamp": "2025-05-16 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "Centrifuge",
+      "symbol": "CFG",
+      "price_btc": 2.046470045406169e-06,
+      "timestamp": "2025-05-16 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.507100595157354e-06,
+      "timestamp": "2025-05-16 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.725139530750581e-05,
+      "timestamp": "2025-05-16 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7870971529797736e-05,
+      "timestamp": "2025-05-16 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0022525224375615936,
+      "timestamp": "2025-05-16 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024904419940314962,
+      "timestamp": "2025-05-16 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.308258677139826e-06,
+      "timestamp": "2025-05-16 20:22"
+    }
   ]
 }
