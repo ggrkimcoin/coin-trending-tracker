@@ -79178,5 +79178,112 @@
       "price_btc": 1.788393700684697e-05,
       "timestamp": "2025-05-16 08:27"
     }
+  ],
+  "2025-05-16 09:21": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.8311510090597127e-08,
+      "timestamp": "2025-05-16 09:21"
+    },
+    {
+      "rank": 2,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 1.0090004251145434e-05,
+      "timestamp": "2025-05-16 09:21"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00025438175801142243,
+      "timestamp": "2025-05-16 09:21"
+    },
+    {
+      "rank": 4,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.3576679841748326e-06,
+      "timestamp": "2025-05-16 09:21"
+    },
+    {
+      "rank": 5,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.066018078697602e-06,
+      "timestamp": "2025-05-16 09:21"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.316337828285868e-06,
+      "timestamp": "2025-05-16 09:21"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.715737952190025e-05,
+      "timestamp": "2025-05-16 09:21"
+    },
+    {
+      "rank": 8,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.7752994118027588e-05,
+      "timestamp": "2025-05-16 09:21"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016456473073254367,
+      "timestamp": "2025-05-16 09:21"
+    },
+    {
+      "rank": 10,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 4.746150306384876e-07,
+      "timestamp": "2025-05-16 09:21"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024833430269988216,
+      "timestamp": "2025-05-16 09:21"
+    },
+    {
+      "rank": 12,
+      "name": "EOS",
+      "symbol": "EOS",
+      "price_btc": 8.160264761113432e-06,
+      "timestamp": "2025-05-16 09:21"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.2076034916929695e-06,
+      "timestamp": "2025-05-16 09:21"
+    },
+    {
+      "rank": 14,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.847779778247954e-06,
+      "timestamp": "2025-05-16 09:21"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7670827481116636e-05,
+      "timestamp": "2025-05-16 09:21"
+    }
   ]
 }
