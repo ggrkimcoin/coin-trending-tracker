@@ -80569,5 +80569,112 @@
       "price_btc": 3.828568067656945e-06,
       "timestamp": "2025-05-16 21:18"
     }
+  ],
+  "2025-05-16 22:19": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.716130868509033e-08,
+      "timestamp": "2025-05-16 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00026442472109416775,
+      "timestamp": "2025-05-16 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 5.091005746838118e-07,
+      "timestamp": "2025-05-16 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.6024814470292377e-06,
+      "timestamp": "2025-05-16 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.716725350020325e-05,
+      "timestamp": "2025-05-16 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Kendu Inu",
+      "symbol": "KENDU",
+      "price_btc": 3.869848213435856e-10,
+      "timestamp": "2025-05-16 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.266179502034246e-06,
+      "timestamp": "2025-05-16 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 4.649004409960305e-06,
+      "timestamp": "2025-05-16 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024805989564600853,
+      "timestamp": "2025-05-16 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016343469334483833,
+      "timestamp": "2025-05-16 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.1484967732716843e-06,
+      "timestamp": "2025-05-16 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.170198494944518e-05,
+      "timestamp": "2025-05-16 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0022385468957964983,
+      "timestamp": "2025-05-16 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.897787545297093e-05,
+      "timestamp": "2025-05-16 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7664076003274484e-05,
+      "timestamp": "2025-05-16 22:19"
+    }
   ]
 }
