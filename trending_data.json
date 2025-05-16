@@ -79499,5 +79499,112 @@
       "price_btc": 0.02527136432727518,
       "timestamp": "2025-05-16 11:17"
     }
+  ],
+  "2025-05-16 12:41": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.804496637274002e-08,
+      "timestamp": "2025-05-16 12:41"
+    },
+    {
+      "rank": 2,
+      "name": "Kendu Inu",
+      "symbol": "KENDU",
+      "price_btc": 3.054868402865117e-10,
+      "timestamp": "2025-05-16 12:41"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00025834107040595877,
+      "timestamp": "2025-05-16 12:41"
+    },
+    {
+      "rank": 4,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.0978284729863288e-06,
+      "timestamp": "2025-05-16 12:41"
+    },
+    {
+      "rank": 5,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.369015820085192e-06,
+      "timestamp": "2025-05-16 12:41"
+    },
+    {
+      "rank": 6,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 1.0046855695607958e-05,
+      "timestamp": "2025-05-16 12:41"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.777487807959536e-05,
+      "timestamp": "2025-05-16 12:41"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02525029895000338,
+      "timestamp": "2025-05-16 12:41"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016681492189553045,
+      "timestamp": "2025-05-16 12:41"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.636966556468628e-06,
+      "timestamp": "2025-05-16 12:41"
+    },
+    {
+      "rank": 11,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002328068432253418,
+      "timestamp": "2025-05-16 12:41"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.835129607849054e-05,
+      "timestamp": "2025-05-16 12:41"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.49523017725489e-06,
+      "timestamp": "2025-05-16 12:41"
+    },
+    {
+      "rank": 14,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.859797040448991e-06,
+      "timestamp": "2025-05-16 12:41"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-16 12:41"
+    }
   ]
 }
