@@ -78429,5 +78429,112 @@
       "price_btc": 0.00025119731341736795,
       "timestamp": "2025-05-15 23:19"
     }
+  ],
+  "2025-05-16 01:44": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.7611398733969047e-08,
+      "timestamp": "2025-05-16 01:44"
+    },
+    {
+      "rank": 2,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 9.919009987650436e-06,
+      "timestamp": "2025-05-16 01:44"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00024993412875382623,
+      "timestamp": "2025-05-16 01:44"
+    },
+    {
+      "rank": 4,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.011496970956317e-06,
+      "timestamp": "2025-05-16 01:44"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016374007231190171,
+      "timestamp": "2025-05-16 01:44"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.704316928931675e-05,
+      "timestamp": "2025-05-16 01:44"
+    },
+    {
+      "rank": 7,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.088390128641142e-07,
+      "timestamp": "2025-05-16 01:44"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.768766552948447e-05,
+      "timestamp": "2025-05-16 01:44"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024532176587136956,
+      "timestamp": "2025-05-16 01:44"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.365954908491873e-06,
+      "timestamp": "2025-05-16 01:44"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.18434372071059e-06,
+      "timestamp": "2025-05-16 01:44"
+    },
+    {
+      "rank": 12,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.141266461744007e-06,
+      "timestamp": "2025-05-16 01:44"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2769535715659948e-05,
+      "timestamp": "2025-05-16 01:44"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2598647297359983e-10,
+      "timestamp": "2025-05-16 01:44"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-16 01:44"
+    }
   ]
 }
