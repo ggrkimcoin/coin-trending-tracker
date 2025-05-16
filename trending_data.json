@@ -79820,5 +79820,112 @@
       "price_btc": 3.0202945265038774e-06,
       "timestamp": "2025-05-16 14:19"
     }
+  ],
+  "2025-05-16 15:19": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.769427030148962e-08,
+      "timestamp": "2025-05-16 15:19"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002611078209780762,
+      "timestamp": "2025-05-16 15:19"
+    },
+    {
+      "rank": 3,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 9.956218814075768e-06,
+      "timestamp": "2025-05-16 15:19"
+    },
+    {
+      "rank": 4,
+      "name": "Centrifuge",
+      "symbol": "CFG",
+      "price_btc": 1.8280328816721768e-06,
+      "timestamp": "2025-05-16 15:19"
+    },
+    {
+      "rank": 5,
+      "name": "Kendu Inu",
+      "symbol": "KENDU",
+      "price_btc": 3.421009271660022e-10,
+      "timestamp": "2025-05-16 15:19"
+    },
+    {
+      "rank": 6,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.7990003481739342e-06,
+      "timestamp": "2025-05-16 15:19"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016575431984145038,
+      "timestamp": "2025-05-16 15:19"
+    },
+    {
+      "rank": 8,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.874031028235581e-05,
+      "timestamp": "2025-05-16 15:19"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.217295913803935e-06,
+      "timestamp": "2025-05-16 15:19"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7281825402071234e-05,
+      "timestamp": "2025-05-16 15:19"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8193847860611706e-05,
+      "timestamp": "2025-05-16 15:19"
+    },
+    {
+      "rank": 12,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.343436913195887e-06,
+      "timestamp": "2025-05-16 15:19"
+    },
+    {
+      "rank": 13,
+      "name": "Supra",
+      "symbol": "SUPRA",
+      "price_btc": 6.049843936801375e-08,
+      "timestamp": "2025-05-16 15:19"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024956168542974323,
+      "timestamp": "2025-05-16 15:19"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.34963180360096e-06,
+      "timestamp": "2025-05-16 15:19"
+    }
   ]
 }
