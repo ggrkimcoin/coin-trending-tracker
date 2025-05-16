@@ -80141,5 +80141,112 @@
       "price_btc": 2.7727330165057393e-09,
       "timestamp": "2025-05-16 17:16"
     }
+  ],
+  "2025-05-16 18:28": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.7353339808682947e-08,
+      "timestamp": "2025-05-16 18:28"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00026533757985972153,
+      "timestamp": "2025-05-16 18:28"
+    },
+    {
+      "rank": 3,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 4.6877807737969986e-06,
+      "timestamp": "2025-05-16 18:28"
+    },
+    {
+      "rank": 4,
+      "name": "Kendu Inu",
+      "symbol": "KENDU",
+      "price_btc": 4.2746176087284126e-10,
+      "timestamp": "2025-05-16 18:28"
+    },
+    {
+      "rank": 5,
+      "name": "Centrifuge",
+      "symbol": "CFG",
+      "price_btc": 2.0397494148741562e-06,
+      "timestamp": "2025-05-16 18:28"
+    },
+    {
+      "rank": 6,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.8423442047962018e-06,
+      "timestamp": "2025-05-16 18:28"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.360595671728811e-06,
+      "timestamp": "2025-05-16 18:28"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7797189056307413e-05,
+      "timestamp": "2025-05-16 18:28"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.688730875464732e-05,
+      "timestamp": "2025-05-16 18:28"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02482111278175625,
+      "timestamp": "2025-05-16 18:28"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016415523968128529,
+      "timestamp": "2025-05-16 18:28"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.185918641520356e-06,
+      "timestamp": "2025-05-16 18:28"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.3428997106913515e-06,
+      "timestamp": "2025-05-16 18:28"
+    },
+    {
+      "rank": 14,
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "price_btc": 1.3288557044356338e-05,
+      "timestamp": "2025-05-16 18:28"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.176956509701782e-05,
+      "timestamp": "2025-05-16 18:28"
+    }
   ]
 }
