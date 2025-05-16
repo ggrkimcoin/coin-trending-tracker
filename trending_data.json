@@ -78750,5 +78750,112 @@
       "price_btc": 8.265783080509794e-06,
       "timestamp": "2025-05-16 04:25"
     }
+  ],
+  "2025-05-16 05:20": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.7761511782931417e-08,
+      "timestamp": "2025-05-16 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 9.856532488634922e-06,
+      "timestamp": "2025-05-16 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.0158908071284507e-06,
+      "timestamp": "2025-05-16 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00025609910575336914,
+      "timestamp": "2025-05-16 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.510821875484953e-06,
+      "timestamp": "2025-05-16 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "SuiNS Token",
+      "symbol": "NS",
+      "price_btc": 2.609747306282217e-06,
+      "timestamp": "2025-05-16 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.734905179322574e-05,
+      "timestamp": "2025-05-16 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2957170226790745e-10,
+      "timestamp": "2025-05-16 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.190513017699964e-06,
+      "timestamp": "2025-05-16 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016521996518668058,
+      "timestamp": "2025-05-16 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Stellar",
+      "symbol": "XLM",
+      "price_btc": 2.8390334217423882e-06,
+      "timestamp": "2025-05-16 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.0002294375464008028,
+      "timestamp": "2025-05-16 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.23434114590507e-05,
+      "timestamp": "2025-05-16 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.1161339090947027e-06,
+      "timestamp": "2025-05-16 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "price_btc": 1.3665822213227475e-05,
+      "timestamp": "2025-05-16 05:20"
+    }
   ]
 }
