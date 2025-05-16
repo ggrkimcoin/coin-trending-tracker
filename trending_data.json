@@ -80034,5 +80034,112 @@
       "price_btc": 0.00022773448498523448,
       "timestamp": "2025-05-16 16:25"
     }
+  ],
+  "2025-05-16 17:16": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.729221565518638e-08,
+      "timestamp": "2025-05-16 17:16"
+    },
+    {
+      "rank": 2,
+      "name": "Centrifuge",
+      "symbol": "CFG",
+      "price_btc": 2.0720801417554482e-06,
+      "timestamp": "2025-05-16 17:16"
+    },
+    {
+      "rank": 3,
+      "name": "Kendu Inu",
+      "symbol": "KENDU",
+      "price_btc": 3.735895313468082e-10,
+      "timestamp": "2025-05-16 17:16"
+    },
+    {
+      "rank": 4,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 4.6726357675236305e-06,
+      "timestamp": "2025-05-16 17:16"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00026700787273655456,
+      "timestamp": "2025-05-16 17:16"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02480212668290063,
+      "timestamp": "2025-05-16 17:16"
+    },
+    {
+      "rank": 7,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.8670913837291235e-06,
+      "timestamp": "2025-05-16 17:16"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.753154753393875e-06,
+      "timestamp": "2025-05-16 17:16"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016423435415620102,
+      "timestamp": "2025-05-16 17:16"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.690837794679144e-05,
+      "timestamp": "2025-05-16 17:16"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.319024571468204e-06,
+      "timestamp": "2025-05-16 17:16"
+    },
+    {
+      "rank": 12,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2890745124106123e-07,
+      "timestamp": "2025-05-16 17:16"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.330904437072787e-06,
+      "timestamp": "2025-05-16 17:16"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.292140640120394e-10,
+      "timestamp": "2025-05-16 17:16"
+    },
+    {
+      "rank": 15,
+      "name": "Apu Apustaja",
+      "symbol": "APU",
+      "price_btc": 2.7727330165057393e-09,
+      "timestamp": "2025-05-16 17:16"
+    }
   ]
 }
