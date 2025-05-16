@@ -79392,5 +79392,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-05-16 10:21"
     }
+  ],
+  "2025-05-16 11:17": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.824189608685449e-08,
+      "timestamp": "2025-05-16 11:17"
+    },
+    {
+      "rank": 2,
+      "name": "Kendu Inu",
+      "symbol": "KENDU",
+      "price_btc": 3.0476869258242895e-10,
+      "timestamp": "2025-05-16 11:17"
+    },
+    {
+      "rank": 3,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.333211940783655e-06,
+      "timestamp": "2025-05-16 11:17"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7877937859044355e-05,
+      "timestamp": "2025-05-16 11:17"
+    },
+    {
+      "rank": 5,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.093304931150301e-06,
+      "timestamp": "2025-05-16 11:17"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002581756941548498,
+      "timestamp": "2025-05-16 11:17"
+    },
+    {
+      "rank": 7,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 1.0039611776507693e-05,
+      "timestamp": "2025-05-16 11:17"
+    },
+    {
+      "rank": 8,
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "price_btc": 1.4510322386978797e-05,
+      "timestamp": "2025-05-16 11:17"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.797098363024366e-05,
+      "timestamp": "2025-05-16 11:17"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.430721996673197e-06,
+      "timestamp": "2025-05-16 11:17"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004245006863096107,
+      "timestamp": "2025-05-16 11:17"
+    },
+    {
+      "rank": 12,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002350530341014886,
+      "timestamp": "2025-05-16 11:17"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016654353802092762,
+      "timestamp": "2025-05-16 11:17"
+    },
+    {
+      "rank": 14,
+      "name": "Supra",
+      "symbol": "SUPRA",
+      "price_btc": 6.191861186697858e-08,
+      "timestamp": "2025-05-16 11:17"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02527136432727518,
+      "timestamp": "2025-05-16 11:17"
+    }
   ]
 }
