@@ -78643,5 +78643,112 @@
       "price_btc": 5.328609985517759e-06,
       "timestamp": "2025-05-16 03:12"
     }
+  ],
+  "2025-05-16 04:25": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.798054049480813e-08,
+      "timestamp": "2025-05-16 04:25"
+    },
+    {
+      "rank": 2,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 9.849724511159744e-06,
+      "timestamp": "2025-05-16 04:25"
+    },
+    {
+      "rank": 3,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.043345888735532e-06,
+      "timestamp": "2025-05-16 04:25"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00025790889729089897,
+      "timestamp": "2025-05-16 04:25"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7617723366461636e-05,
+      "timestamp": "2025-05-16 04:25"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02480368164437993,
+      "timestamp": "2025-05-16 04:25"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8023964492510984e-05,
+      "timestamp": "2025-05-16 04:25"
+    },
+    {
+      "rank": 8,
+      "name": "SuiNS Token",
+      "symbol": "NS",
+      "price_btc": 2.7500558561971513e-06,
+      "timestamp": "2025-05-16 04:25"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016606792590492456,
+      "timestamp": "2025-05-16 04:25"
+    },
+    {
+      "rank": 10,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.0783603000663844e-06,
+      "timestamp": "2025-05-16 04:25"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.566537709460728e-06,
+      "timestamp": "2025-05-16 04:25"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3186987387814832e-05,
+      "timestamp": "2025-05-16 04:25"
+    },
+    {
+      "rank": 13,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 1.91587078303047e-07,
+      "timestamp": "2025-05-16 04:25"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-16 04:25"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.265783080509794e-06,
+      "timestamp": "2025-05-16 04:25"
+    }
   ]
 }
