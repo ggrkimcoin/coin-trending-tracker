@@ -78536,5 +78536,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-05-16 01:44"
     }
+  ],
+  "2025-05-16 03:12": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.79085417785832e-08,
+      "timestamp": "2025-05-16 03:12"
+    },
+    {
+      "rank": 2,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 9.868347244153209e-06,
+      "timestamp": "2025-05-16 03:12"
+    },
+    {
+      "rank": 3,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.9089469151258882e-06,
+      "timestamp": "2025-05-16 03:12"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.774548814620989e-05,
+      "timestamp": "2025-05-16 03:12"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016582475096265622,
+      "timestamp": "2025-05-16 03:12"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00025852102168212045,
+      "timestamp": "2025-05-16 03:12"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024711619466004548,
+      "timestamp": "2025-05-16 03:12"
+    },
+    {
+      "rank": 8,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.1103697734819347e-06,
+      "timestamp": "2025-05-16 03:12"
+    },
+    {
+      "rank": 9,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 2.0032887617856473e-07,
+      "timestamp": "2025-05-16 03:12"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2875573120675708e-10,
+      "timestamp": "2025-05-16 03:12"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.311827511640214e-06,
+      "timestamp": "2025-05-16 03:12"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2676689767516733e-05,
+      "timestamp": "2025-05-16 03:12"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.516899058132143e-06,
+      "timestamp": "2025-05-16 03:12"
+    },
+    {
+      "rank": 14,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.1437756704559542e-06,
+      "timestamp": "2025-05-16 03:12"
+    },
+    {
+      "rank": 15,
+      "name": "ResearchCoin",
+      "symbol": "RSC",
+      "price_btc": 5.328609985517759e-06,
+      "timestamp": "2025-05-16 03:12"
+    }
   ]
 }
