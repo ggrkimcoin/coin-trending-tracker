@@ -78964,5 +78964,112 @@
       "price_btc": 7.539377366728964e-06,
       "timestamp": "2025-05-16 06:30"
     }
+  ],
+  "2025-05-16 07:20": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.8649625285121452e-08,
+      "timestamp": "2025-05-16 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 9.874315980768839e-06,
+      "timestamp": "2025-05-16 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "EOS",
+      "symbol": "EOS",
+      "price_btc": 8.263466623369405e-06,
+      "timestamp": "2025-05-16 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.8863856198070986e-06,
+      "timestamp": "2025-05-16 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.742950034000192e-05,
+      "timestamp": "2025-05-16 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.296984995661449e-06,
+      "timestamp": "2025-05-16 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00025730785077952145,
+      "timestamp": "2025-05-16 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.53247504732584e-06,
+      "timestamp": "2025-05-16 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024991588081007467,
+      "timestamp": "2025-05-16 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.2042531750430395e-06,
+      "timestamp": "2025-05-16 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.2546978189056995e-06,
+      "timestamp": "2025-05-16 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7866963773154628e-05,
+      "timestamp": "2025-05-16 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-16 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016621133528964944,
+      "timestamp": "2025-05-16 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002263757119569056,
+      "timestamp": "2025-05-16 07:20"
+    }
   ]
 }
