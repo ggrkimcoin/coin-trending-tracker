@@ -79927,5 +79927,112 @@
       "price_btc": 9.34963180360096e-06,
       "timestamp": "2025-05-16 15:19"
     }
+  ],
+  "2025-05-16 16:25": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.744489981608708e-08,
+      "timestamp": "2025-05-16 16:25"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00026612775383151946,
+      "timestamp": "2025-05-16 16:25"
+    },
+    {
+      "rank": 3,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 4.651050879841353e-06,
+      "timestamp": "2025-05-16 16:25"
+    },
+    {
+      "rank": 4,
+      "name": "Centrifuge",
+      "symbol": "CFG",
+      "price_btc": 1.980959830389746e-06,
+      "timestamp": "2025-05-16 16:25"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.722754673081535e-05,
+      "timestamp": "2025-05-16 16:25"
+    },
+    {
+      "rank": 6,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.757321988753029e-06,
+      "timestamp": "2025-05-16 16:25"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.36155458482561e-06,
+      "timestamp": "2025-05-16 16:25"
+    },
+    {
+      "rank": 8,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.3516602436656886e-06,
+      "timestamp": "2025-05-16 16:25"
+    },
+    {
+      "rank": 9,
+      "name": "Kendu Inu",
+      "symbol": "KENDU",
+      "price_btc": 3.7558365410676964e-10,
+      "timestamp": "2025-05-16 16:25"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016502784281363801,
+      "timestamp": "2025-05-16 16:25"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.935061108663415e-06,
+      "timestamp": "2025-05-16 16:25"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.807625009939685e-05,
+      "timestamp": "2025-05-16 16:25"
+    },
+    {
+      "rank": 13,
+      "name": "Parcl",
+      "symbol": "PRCL",
+      "price_btc": 1.3412998650147636e-06,
+      "timestamp": "2025-05-16 16:25"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3245794286816192e-05,
+      "timestamp": "2025-05-16 16:25"
+    },
+    {
+      "rank": 15,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00022773448498523448,
+      "timestamp": "2025-05-16 16:25"
+    }
   ]
 }
