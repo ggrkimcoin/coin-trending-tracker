@@ -80676,5 +80676,112 @@
       "price_btc": 1.7664076003274484e-05,
       "timestamp": "2025-05-16 22:19"
     }
+  ],
+  "2025-05-16 23:18": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.6883471415135607e-08,
+      "timestamp": "2025-05-16 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.7683048950027113e-06,
+      "timestamp": "2025-05-16 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "Kendu Inu",
+      "symbol": "KENDU",
+      "price_btc": 3.22391690673651e-10,
+      "timestamp": "2025-05-16 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.639447534444263e-05,
+      "timestamp": "2025-05-16 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.116754209853624e-06,
+      "timestamp": "2025-05-16 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00025860902468580654,
+      "timestamp": "2025-05-16 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.052875472064668e-06,
+      "timestamp": "2025-05-16 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.682599959976287e-06,
+      "timestamp": "2025-05-16 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 4.417033950587521e-06,
+      "timestamp": "2025-05-16 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.295526775824433e-05,
+      "timestamp": "2025-05-16 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.736760244431615e-05,
+      "timestamp": "2025-05-16 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 5.649606371378214e-07,
+      "timestamp": "2025-05-16 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 5.039681573431583e-06,
+      "timestamp": "2025-05-16 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001616765797268313,
+      "timestamp": "2025-05-16 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024602600023068216,
+      "timestamp": "2025-05-16 23:18"
+    }
   ]
 }
