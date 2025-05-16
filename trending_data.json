@@ -79285,5 +79285,112 @@
       "price_btc": 1.7670827481116636e-05,
       "timestamp": "2025-05-16 09:21"
     }
+  ],
+  "2025-05-16 10:21": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.8399728892929258e-08,
+      "timestamp": "2025-05-16 10:21"
+    },
+    {
+      "rank": 2,
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "price_btc": 1.0048350812451237e-05,
+      "timestamp": "2025-05-16 10:21"
+    },
+    {
+      "rank": 3,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.3766314841964014e-06,
+      "timestamp": "2025-05-16 10:21"
+    },
+    {
+      "rank": 4,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.0230417385343037e-06,
+      "timestamp": "2025-05-16 10:21"
+    },
+    {
+      "rank": 5,
+      "name": "Supra",
+      "symbol": "SUPRA",
+      "price_btc": 6.074335964094419e-08,
+      "timestamp": "2025-05-16 10:21"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02516560547427484,
+      "timestamp": "2025-05-16 10:21"
+    },
+    {
+      "rank": 7,
+      "name": "EOS",
+      "symbol": "EOS",
+      "price_btc": 8.190605730167396e-06,
+      "timestamp": "2025-05-16 10:21"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002589487524254881,
+      "timestamp": "2025-05-16 10:21"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.753037565011741e-05,
+      "timestamp": "2025-05-16 10:21"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016606752733557177,
+      "timestamp": "2025-05-16 10:21"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012501368500048048,
+      "timestamp": "2025-05-16 10:21"
+    },
+    {
+      "rank": 12,
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "price_btc": 5.0587272138321244e-08,
+      "timestamp": "2025-05-16 10:21"
+    },
+    {
+      "rank": 13,
+      "name": "Flare",
+      "symbol": "FLR",
+      "price_btc": 1.9211212340530568e-07,
+      "timestamp": "2025-05-16 10:21"
+    },
+    {
+      "rank": 14,
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "price_btc": 1.4461450199789846e-05,
+      "timestamp": "2025-05-16 10:21"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-16 10:21"
+    }
   ]
 }
