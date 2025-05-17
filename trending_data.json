@@ -80783,5 +80783,112 @@
       "price_btc": 0.024602600023068216,
       "timestamp": "2025-05-16 23:18"
     }
+  ],
+  "2025-05-17 01:40": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.6539510843066776e-08,
+      "timestamp": "2025-05-17 01:40"
+    },
+    {
+      "rank": 2,
+      "name": "Kendu Inu",
+      "symbol": "KENDU",
+      "price_btc": 3.245013925880479e-10,
+      "timestamp": "2025-05-17 01:40"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016177506343521895,
+      "timestamp": "2025-05-17 01:40"
+    },
+    {
+      "rank": 4,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 5.030870431033482e-07,
+      "timestamp": "2025-05-17 01:40"
+    },
+    {
+      "rank": 5,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2171649779249497e-10,
+      "timestamp": "2025-05-17 01:40"
+    },
+    {
+      "rank": 6,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.6887673681198791e-06,
+      "timestamp": "2025-05-17 01:40"
+    },
+    {
+      "rank": 7,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.287865807476245e-05,
+      "timestamp": "2025-05-17 01:40"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6418755100100735e-05,
+      "timestamp": "2025-05-17 01:40"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024262635333875304,
+      "timestamp": "2025-05-17 01:40"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002596584540726886,
+      "timestamp": "2025-05-17 01:40"
+    },
+    {
+      "rank": 11,
+      "name": "Centrifuge",
+      "symbol": "CFG",
+      "price_btc": 1.9572396511760533e-06,
+      "timestamp": "2025-05-17 01:40"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.996573746433286e-06,
+      "timestamp": "2025-05-17 01:40"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.903108032170206e-06,
+      "timestamp": "2025-05-17 01:40"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.1253880137201246e-06,
+      "timestamp": "2025-05-17 01:40"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-17 01:40"
+    }
   ]
 }
