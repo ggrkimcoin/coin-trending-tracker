@@ -81853,5 +81853,112 @@
       "price_btc": 2.296452488166177e-05,
       "timestamp": "2025-05-17 11:15"
     }
+  ],
+  "2025-05-17 12:37": [
+    {
+      "rank": 1,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 5.097603318185631e-07,
+      "timestamp": "2025-05-17 12:37"
+    },
+    {
+      "rank": 2,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.5037020935047807e-06,
+      "timestamp": "2025-05-17 12:37"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00026483421462615727,
+      "timestamp": "2025-05-17 12:37"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.843670542479434e-06,
+      "timestamp": "2025-05-17 12:37"
+    },
+    {
+      "rank": 5,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.008748396125506e-06,
+      "timestamp": "2025-05-17 12:37"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024113648177504363,
+      "timestamp": "2025-05-17 12:37"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.898299979384569e-06,
+      "timestamp": "2025-05-17 12:37"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016277251068504168,
+      "timestamp": "2025-05-17 12:37"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.660563683690198e-05,
+      "timestamp": "2025-05-17 12:37"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-17 12:37"
+    },
+    {
+      "rank": 11,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.579077778479915e-08,
+      "timestamp": "2025-05-17 12:37"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6705519995912515e-05,
+      "timestamp": "2025-05-17 12:37"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0040667926318617535,
+      "timestamp": "2025-05-17 12:37"
+    },
+    {
+      "rank": 14,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0032354143555105045,
+      "timestamp": "2025-05-17 12:37"
+    },
+    {
+      "rank": 15,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.700385203425536e-06,
+      "timestamp": "2025-05-17 12:37"
+    }
   ]
 }
