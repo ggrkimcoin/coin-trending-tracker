@@ -81746,5 +81746,112 @@
       "price_btc": 5.7086504825486225e-05,
       "timestamp": "2025-05-17 10:20"
     }
+  ],
+  "2025-05-17 11:15": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.5889955843625156e-08,
+      "timestamp": "2025-05-17 11:15"
+    },
+    {
+      "rank": 2,
+      "name": "Kendu Inu",
+      "symbol": "KENDU",
+      "price_btc": 3.096198261850732e-10,
+      "timestamp": "2025-05-17 11:15"
+    },
+    {
+      "rank": 3,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 5.347202623333171e-07,
+      "timestamp": "2025-05-17 11:15"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002630981220521658,
+      "timestamp": "2025-05-17 11:15"
+    },
+    {
+      "rank": 5,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.908333740553037e-06,
+      "timestamp": "2025-05-17 11:15"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.802904434504231e-06,
+      "timestamp": "2025-05-17 11:15"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016282594749388764,
+      "timestamp": "2025-05-17 11:15"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.655722353343625e-05,
+      "timestamp": "2025-05-17 11:15"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024125772370678006,
+      "timestamp": "2025-05-17 11:15"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.662402515814764e-05,
+      "timestamp": "2025-05-17 11:15"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.419409222490035e-06,
+      "timestamp": "2025-05-17 11:15"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0040774580365996365,
+      "timestamp": "2025-05-17 11:15"
+    },
+    {
+      "rank": 13,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 5.7213544662312304e-05,
+      "timestamp": "2025-05-17 11:15"
+    },
+    {
+      "rank": 14,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.8809788889947194e-06,
+      "timestamp": "2025-05-17 11:15"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.296452488166177e-05,
+      "timestamp": "2025-05-17 11:15"
+    }
   ]
 }
