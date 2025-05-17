@@ -81639,5 +81639,112 @@
       "price_btc": 1.1966706630661356e-10,
       "timestamp": "2025-05-17 09:19"
     }
+  ],
+  "2025-05-17 10:20": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.5604896159447464e-08,
+      "timestamp": "2025-05-17 10:20"
+    },
+    {
+      "rank": 2,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 5.210843207273397e-07,
+      "timestamp": "2025-05-17 10:20"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6511982252140293e-05,
+      "timestamp": "2025-05-17 10:20"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002584399766071033,
+      "timestamp": "2025-05-17 10:20"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.66879958969648e-05,
+      "timestamp": "2025-05-17 10:20"
+    },
+    {
+      "rank": 6,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.911941218601639e-06,
+      "timestamp": "2025-05-17 10:20"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.928435050995502e-06,
+      "timestamp": "2025-05-17 10:20"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02411075903417383,
+      "timestamp": "2025-05-17 10:20"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-17 10:20"
+    },
+    {
+      "rank": 10,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.006020266746041e-05,
+      "timestamp": "2025-05-17 10:20"
+    },
+    {
+      "rank": 11,
+      "name": "REVOX",
+      "symbol": "REX",
+      "price_btc": 1.8710650986817526e-07,
+      "timestamp": "2025-05-17 10:20"
+    },
+    {
+      "rank": 12,
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "price_btc": 1.3761739079301848e-10,
+      "timestamp": "2025-05-17 10:20"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.5875398377963142e-06,
+      "timestamp": "2025-05-17 10:20"
+    },
+    {
+      "rank": 14,
+      "name": "Kendu Inu",
+      "symbol": "KENDU",
+      "price_btc": 3.0917112028132723e-10,
+      "timestamp": "2025-05-17 10:20"
+    },
+    {
+      "rank": 15,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 5.7086504825486225e-05,
+      "timestamp": "2025-05-17 10:20"
+    }
   ]
 }
