@@ -82281,5 +82281,112 @@
       "price_btc": 3.7918478707177677e-05,
       "timestamp": "2025-05-17 15:18"
     }
+  ],
+  "2025-05-17 16:23": [
+    {
+      "rank": 1,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 5.234125178416847e-07,
+      "timestamp": "2025-05-17 16:23"
+    },
+    {
+      "rank": 2,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.6107896571242956e-06,
+      "timestamp": "2025-05-17 16:23"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6795518970015836e-05,
+      "timestamp": "2025-05-17 16:23"
+    },
+    {
+      "rank": 4,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.9530118326908307e-06,
+      "timestamp": "2025-05-17 16:23"
+    },
+    {
+      "rank": 5,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2069816211700262e-10,
+      "timestamp": "2025-05-17 16:23"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.671295196845609e-06,
+      "timestamp": "2025-05-17 16:23"
+    },
+    {
+      "rank": 7,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.864039026066492e-06,
+      "timestamp": "2025-05-17 16:23"
+    },
+    {
+      "rank": 8,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 1.81961588186348e-10,
+      "timestamp": "2025-05-17 16:23"
+    },
+    {
+      "rank": 9,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.496729749234127e-06,
+      "timestamp": "2025-05-17 16:23"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016279958058677676,
+      "timestamp": "2025-05-17 16:23"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.647645401828137e-05,
+      "timestamp": "2025-05-17 16:23"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.278460743512451e-05,
+      "timestamp": "2025-05-17 16:23"
+    },
+    {
+      "rank": 13,
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price_btc": 2.2595428211120213e-06,
+      "timestamp": "2025-05-17 16:23"
+    },
+    {
+      "rank": 14,
+      "name": "Maple",
+      "symbol": "MPL",
+      "price_btc": 0.00022157415189592492,
+      "timestamp": "2025-05-17 16:23"
+    },
+    {
+      "rank": 15,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012507019047201424,
+      "timestamp": "2025-05-17 16:23"
+    }
   ]
 }
