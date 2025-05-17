@@ -82388,5 +82388,112 @@
       "price_btc": 0.00012507019047201424,
       "timestamp": "2025-05-17 16:23"
     }
+  ],
+  "2025-05-17 17:16": [
+    {
+      "rank": 1,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 4.969104020335097e-07,
+      "timestamp": "2025-05-17 17:16"
+    },
+    {
+      "rank": 2,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.887712324876542e-06,
+      "timestamp": "2025-05-17 17:16"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016075525371089798,
+      "timestamp": "2025-05-17 17:16"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.48905607311951e-06,
+      "timestamp": "2025-05-17 17:16"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.863500179252557e-06,
+      "timestamp": "2025-05-17 17:16"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.625457989874404e-05,
+      "timestamp": "2025-05-17 17:16"
+    },
+    {
+      "rank": 7,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.5280234038989144e-06,
+      "timestamp": "2025-05-17 17:16"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2540052517502965e-05,
+      "timestamp": "2025-05-17 17:16"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6205333859487478e-05,
+      "timestamp": "2025-05-17 17:16"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023915409435609727,
+      "timestamp": "2025-05-17 17:16"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1814364529533677e-10,
+      "timestamp": "2025-05-17 17:16"
+    },
+    {
+      "rank": 12,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.437514729964365e-06,
+      "timestamp": "2025-05-17 17:16"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002540227569972963,
+      "timestamp": "2025-05-17 17:16"
+    },
+    {
+      "rank": 14,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.598082907592359e-06,
+      "timestamp": "2025-05-17 17:16"
+    },
+    {
+      "rank": 15,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 4.921787122233721e-05,
+      "timestamp": "2025-05-17 17:16"
+    }
   ]
 }
