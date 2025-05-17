@@ -82709,5 +82709,112 @@
       "price_btc": 1.0811416459091462e-06,
       "timestamp": "2025-05-17 19:16"
     }
+  ],
+  "2025-05-17 20:20": [
+    {
+      "rank": 1,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023972928318791657,
+      "timestamp": "2025-05-17 20:20"
+    },
+    {
+      "rank": 2,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.5259148801213597e-06,
+      "timestamp": "2025-05-17 20:20"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016036010905156458,
+      "timestamp": "2025-05-17 20:20"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.665337935351856e-05,
+      "timestamp": "2025-05-17 20:20"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6224401286365623e-05,
+      "timestamp": "2025-05-17 20:20"
+    },
+    {
+      "rank": 6,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.7174064799484988e-06,
+      "timestamp": "2025-05-17 20:20"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.845825899687088e-06,
+      "timestamp": "2025-05-17 20:20"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00025091904039272134,
+      "timestamp": "2025-05-17 20:20"
+    },
+    {
+      "rank": 9,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 4.717696721308031e-07,
+      "timestamp": "2025-05-17 20:20"
+    },
+    {
+      "rank": 10,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.141473318464213e-06,
+      "timestamp": "2025-05-17 20:20"
+    },
+    {
+      "rank": 11,
+      "name": "Eigenlayer",
+      "symbol": "EIGEN",
+      "price_btc": 1.1571814946004986e-05,
+      "timestamp": "2025-05-17 20:20"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.589773299638025e-06,
+      "timestamp": "2025-05-17 20:20"
+    },
+    {
+      "rank": 13,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.0823517098182197e-06,
+      "timestamp": "2025-05-17 20:20"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1760978499422832e-10,
+      "timestamp": "2025-05-17 20:20"
+    },
+    {
+      "rank": 15,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.6003409631319236e-05,
+      "timestamp": "2025-05-17 20:20"
+    }
   ]
 }
