@@ -82923,5 +82923,112 @@
       "price_btc": 0.0001243714965735663,
       "timestamp": "2025-05-17 21:17"
     }
+  ],
+  "2025-05-17 22:17": [
+    {
+      "rank": 1,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.9167363797689036e-06,
+      "timestamp": "2025-05-17 22:17"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024070127695965702,
+      "timestamp": "2025-05-17 22:17"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6371112449697753e-05,
+      "timestamp": "2025-05-17 22:17"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002521353726595905,
+      "timestamp": "2025-05-17 22:17"
+    },
+    {
+      "rank": 5,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.3565915878365427e-06,
+      "timestamp": "2025-05-17 22:17"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7039258844084386e-05,
+      "timestamp": "2025-05-17 22:17"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016167558440808487,
+      "timestamp": "2025-05-17 22:17"
+    },
+    {
+      "rank": 8,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.986430333329238e-05,
+      "timestamp": "2025-05-17 22:17"
+    },
+    {
+      "rank": 9,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.628354859504116e-06,
+      "timestamp": "2025-05-17 22:17"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 5.256987906743739e-06,
+      "timestamp": "2025-05-17 22:17"
+    },
+    {
+      "rank": 11,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 5.54983151401104e-05,
+      "timestamp": "2025-05-17 22:17"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.8310456977388025e-06,
+      "timestamp": "2025-05-17 22:17"
+    },
+    {
+      "rank": 13,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.63732510787926e-06,
+      "timestamp": "2025-05-17 22:17"
+    },
+    {
+      "rank": 14,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.6428472979884844e-05,
+      "timestamp": "2025-05-17 22:17"
+    },
+    {
+      "rank": 15,
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price_btc": 2.2493893642242155e-06,
+      "timestamp": "2025-05-17 22:17"
+    }
   ]
 }
