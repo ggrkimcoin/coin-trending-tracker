@@ -80997,5 +80997,112 @@
       "price_btc": 0.00011220438329594374,
       "timestamp": "2025-05-17 03:08"
     }
+  ],
+  "2025-05-17 04:23": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.6338431136280162e-08,
+      "timestamp": "2025-05-17 04:23"
+    },
+    {
+      "rank": 2,
+      "name": "Kendu Inu",
+      "symbol": "KENDU",
+      "price_btc": 3.0986028067894706e-10,
+      "timestamp": "2025-05-17 04:23"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.999701807283383e-06,
+      "timestamp": "2025-05-17 04:23"
+    },
+    {
+      "rank": 4,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.283101770364709e-06,
+      "timestamp": "2025-05-17 04:23"
+    },
+    {
+      "rank": 5,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.9340532466032305e-06,
+      "timestamp": "2025-05-17 04:23"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6516834361590236e-05,
+      "timestamp": "2025-05-17 04:23"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001617920134395412,
+      "timestamp": "2025-05-17 04:23"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002646349816694911,
+      "timestamp": "2025-05-17 04:23"
+    },
+    {
+      "rank": 9,
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price_btc": 2.253321791945282e-06,
+      "timestamp": "2025-05-17 04:23"
+    },
+    {
+      "rank": 10,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 4.626925439766674e-07,
+      "timestamp": "2025-05-17 04:23"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.92339386687763e-06,
+      "timestamp": "2025-05-17 04:23"
+    },
+    {
+      "rank": 12,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.8198453805753532e-05,
+      "timestamp": "2025-05-17 04:23"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.671988691492145e-05,
+      "timestamp": "2025-05-17 04:23"
+    },
+    {
+      "rank": 14,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.1061387568678852e-06,
+      "timestamp": "2025-05-17 04:23"
+    },
+    {
+      "rank": 15,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 5.730773862705504e-05,
+      "timestamp": "2025-05-17 04:23"
+    }
   ]
 }
