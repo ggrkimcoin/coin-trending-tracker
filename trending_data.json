@@ -81318,5 +81318,112 @@
       "price_btc": 2.2924253546070684e-05,
       "timestamp": "2025-05-17 06:27"
     }
+  ],
+  "2025-05-17 07:18": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.592644309547581e-08,
+      "timestamp": "2025-05-17 07:18"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.641442423903481e-05,
+      "timestamp": "2025-05-17 07:18"
+    },
+    {
+      "rank": 3,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 4.973584999224526e-07,
+      "timestamp": "2025-05-17 07:18"
+    },
+    {
+      "rank": 4,
+      "name": "Kendu Inu",
+      "symbol": "KENDU",
+      "price_btc": 2.938319408686898e-10,
+      "timestamp": "2025-05-17 07:18"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.699178650684328e-05,
+      "timestamp": "2025-05-17 07:18"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00026179508704716076,
+      "timestamp": "2025-05-17 07:18"
+    },
+    {
+      "rank": 7,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.9042678595433836e-06,
+      "timestamp": "2025-05-17 07:18"
+    },
+    {
+      "rank": 8,
+      "name": "REVOX",
+      "symbol": "REX",
+      "price_btc": 1.8995422882522467e-07,
+      "timestamp": "2025-05-17 07:18"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02406970563416261,
+      "timestamp": "2025-05-17 07:18"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 4.1267128851663775e-06,
+      "timestamp": "2025-05-17 07:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.6841365819470413e-06,
+      "timestamp": "2025-05-17 07:18"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004066660926189218,
+      "timestamp": "2025-05-17 07:18"
+    },
+    {
+      "rank": 13,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.1905409638839465e-06,
+      "timestamp": "2025-05-17 07:18"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.73240169662477e-06,
+      "timestamp": "2025-05-17 07:18"
+    },
+    {
+      "rank": 15,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.7358656705768033e-06,
+      "timestamp": "2025-05-17 07:18"
+    }
   ]
 }
