@@ -81960,5 +81960,112 @@
       "price_btc": 4.700385203425536e-06,
       "timestamp": "2025-05-17 12:37"
     }
+  ],
+  "2025-05-17 13:25": [
+    {
+      "rank": 1,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 5.195397074474893e-07,
+      "timestamp": "2025-05-17 13:25"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002625565185466809,
+      "timestamp": "2025-05-17 13:25"
+    },
+    {
+      "rank": 3,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.5917269976786757e-06,
+      "timestamp": "2025-05-17 13:25"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.725301080558454e-06,
+      "timestamp": "2025-05-17 13:25"
+    },
+    {
+      "rank": 5,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.9443658544959293e-06,
+      "timestamp": "2025-05-17 13:25"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016257581523496105,
+      "timestamp": "2025-05-17 13:25"
+    },
+    {
+      "rank": 7,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1974176582161655e-10,
+      "timestamp": "2025-05-17 13:25"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02404633263123613,
+      "timestamp": "2025-05-17 13:25"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.880261688199436e-06,
+      "timestamp": "2025-05-17 13:25"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.275017154948288e-05,
+      "timestamp": "2025-05-17 13:25"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-17 13:25"
+    },
+    {
+      "rank": 12,
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "price_btc": 1.2778517624811444e-05,
+      "timestamp": "2025-05-17 13:25"
+    },
+    {
+      "rank": 13,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014828145568837958,
+      "timestamp": "2025-05-17 13:25"
+    },
+    {
+      "rank": 14,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 9.319479056078889e-06,
+      "timestamp": "2025-05-17 13:25"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.670343962657638e-05,
+      "timestamp": "2025-05-17 13:25"
+    }
   ]
 }
