@@ -81104,5 +81104,112 @@
       "price_btc": 5.730773862705504e-05,
       "timestamp": "2025-05-17 04:23"
     }
+  ],
+  "2025-05-17 05:18": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.6506019178034525e-08,
+      "timestamp": "2025-05-17 05:18"
+    },
+    {
+      "rank": 2,
+      "name": "Kendu Inu",
+      "symbol": "KENDU",
+      "price_btc": 3.1320180412420137e-10,
+      "timestamp": "2025-05-17 05:18"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.675983189038004e-05,
+      "timestamp": "2025-05-17 05:18"
+    },
+    {
+      "rank": 4,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 4.4192777928813496e-07,
+      "timestamp": "2025-05-17 05:18"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6676318753141745e-05,
+      "timestamp": "2025-05-17 05:18"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.922386185237221e-06,
+      "timestamp": "2025-05-17 05:18"
+    },
+    {
+      "rank": 7,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.980979912515647e-06,
+      "timestamp": "2025-05-17 05:18"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-17 05:18"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.978982672878444e-06,
+      "timestamp": "2025-05-17 05:18"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002609629372915146,
+      "timestamp": "2025-05-17 05:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02417657799252182,
+      "timestamp": "2025-05-17 05:18"
+    },
+    {
+      "rank": 12,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.1192498871141053e-06,
+      "timestamp": "2025-05-17 05:18"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016292031317144589,
+      "timestamp": "2025-05-17 05:18"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.956518785009044e-06,
+      "timestamp": "2025-05-17 05:18"
+    },
+    {
+      "rank": 15,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00015058299332525613,
+      "timestamp": "2025-05-17 05:18"
+    }
   ]
 }
