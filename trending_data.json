@@ -82602,5 +82602,112 @@
       "price_btc": 1.1536031455962592e-05,
       "timestamp": "2025-05-17 18:26"
     }
+  ],
+  "2025-05-17 19:16": [
+    {
+      "rank": 1,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 4.849906196859192e-07,
+      "timestamp": "2025-05-17 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.643306586885683e-05,
+      "timestamp": "2025-05-17 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6225811923576936e-05,
+      "timestamp": "2025-05-17 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.727589115412392e-06,
+      "timestamp": "2025-05-17 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.579418730448988e-06,
+      "timestamp": "2025-05-17 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002535605362372266,
+      "timestamp": "2025-05-17 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.878630260958068e-06,
+      "timestamp": "2025-05-17 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "OpenServ",
+      "symbol": "SERV",
+      "price_btc": 5.109845186708453e-07,
+      "timestamp": "2025-05-17 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016122138952260397,
+      "timestamp": "2025-05-17 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1600777727647241e-05,
+      "timestamp": "2025-05-17 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 6.313393563779756e-06,
+      "timestamp": "2025-05-17 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 7.764323424925849e-07,
+      "timestamp": "2025-05-17 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1818873770439056e-10,
+      "timestamp": "2025-05-17 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.082035172757414e-06,
+      "timestamp": "2025-05-17 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0811416459091462e-06,
+      "timestamp": "2025-05-17 19:16"
+    }
   ]
 }
