@@ -82816,5 +82816,112 @@
       "price_btc": 2.6003409631319236e-05,
       "timestamp": "2025-05-17 20:20"
     }
+  ],
+  "2025-05-17 21:17": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.632619593556129e-05,
+      "timestamp": "2025-05-17 21:17"
+    },
+    {
+      "rank": 2,
+      "name": "OpenServ",
+      "symbol": "SERV",
+      "price_btc": 5.477743437623419e-07,
+      "timestamp": "2025-05-17 21:17"
+    },
+    {
+      "rank": 3,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.4059582994722875e-06,
+      "timestamp": "2025-05-17 21:17"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002503574578253191,
+      "timestamp": "2025-05-17 21:17"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02400975570741756,
+      "timestamp": "2025-05-17 21:17"
+    },
+    {
+      "rank": 6,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.8421432449501483e-06,
+      "timestamp": "2025-05-17 21:17"
+    },
+    {
+      "rank": 7,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 4.7284966177879856e-07,
+      "timestamp": "2025-05-17 21:17"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 4.923872110275263e-06,
+      "timestamp": "2025-05-17 21:17"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.665083836066549e-06,
+      "timestamp": "2025-05-17 21:17"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.669182426603292e-05,
+      "timestamp": "2025-05-17 21:17"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.795953812103018e-06,
+      "timestamp": "2025-05-17 21:17"
+    },
+    {
+      "rank": 12,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 4.1537554693392825e-06,
+      "timestamp": "2025-05-17 21:17"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016117557359416517,
+      "timestamp": "2025-05-17 21:17"
+    },
+    {
+      "rank": 14,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001485198846766538,
+      "timestamp": "2025-05-17 21:17"
+    },
+    {
+      "rank": 15,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001243714965735663,
+      "timestamp": "2025-05-17 21:17"
+    }
   ]
 }
