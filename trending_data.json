@@ -83565,5 +83565,112 @@
       "price_btc": 6.957960206273599e-06,
       "timestamp": "2025-05-18 05:19"
     }
+  ],
+  "2025-05-18 06:28": [
+    {
+      "rank": 1,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.435800183443155e-06,
+      "timestamp": "2025-05-18 06:28"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.70881133087041e-05,
+      "timestamp": "2025-05-18 06:28"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016377039643209375,
+      "timestamp": "2025-05-18 06:28"
+    },
+    {
+      "rank": 4,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.2984935610937474e-06,
+      "timestamp": "2025-05-18 06:28"
+    },
+    {
+      "rank": 5,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 4.985368915013084e-06,
+      "timestamp": "2025-05-18 06:28"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.5952618030891804e-06,
+      "timestamp": "2025-05-18 06:28"
+    },
+    {
+      "rank": 7,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.298580543471652e-05,
+      "timestamp": "2025-05-18 06:28"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002605780079561397,
+      "timestamp": "2025-05-18 06:28"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.409432653927308e-06,
+      "timestamp": "2025-05-18 06:28"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024213431481293766,
+      "timestamp": "2025-05-18 06:28"
+    },
+    {
+      "rank": 11,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 4.7419084308639193e-07,
+      "timestamp": "2025-05-18 06:28"
+    },
+    {
+      "rank": 12,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0768917026278183e-06,
+      "timestamp": "2025-05-18 06:28"
+    },
+    {
+      "rank": 13,
+      "name": "Pixels",
+      "symbol": "PIXEL",
+      "price_btc": 4.790324247057335e-07,
+      "timestamp": "2025-05-18 06:28"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-18 06:28"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6804718947319478e-05,
+      "timestamp": "2025-05-18 06:28"
+    }
   ]
 }
