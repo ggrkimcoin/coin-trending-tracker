@@ -83137,5 +83137,112 @@
       "price_btc": 8.697852996634677e-06,
       "timestamp": "2025-05-17 23:18"
     }
+  ],
+  "2025-05-18 01:49": [
+    {
+      "rank": 1,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.1637906559560537e-06,
+      "timestamp": "2025-05-18 01:49"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6605830772082806e-05,
+      "timestamp": "2025-05-18 01:49"
+    },
+    {
+      "rank": 3,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1882525447347537e-10,
+      "timestamp": "2025-05-18 01:49"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016174668283809154,
+      "timestamp": "2025-05-18 01:49"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024023375583336004,
+      "timestamp": "2025-05-18 01:49"
+    },
+    {
+      "rank": 6,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0582447210508595e-06,
+      "timestamp": "2025-05-18 01:49"
+    },
+    {
+      "rank": 7,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.6886938062228926e-06,
+      "timestamp": "2025-05-18 01:49"
+    },
+    {
+      "rank": 8,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 4.657808338587588e-07,
+      "timestamp": "2025-05-18 01:49"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.74440911975741e-06,
+      "timestamp": "2025-05-18 01:49"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002538569799836043,
+      "timestamp": "2025-05-18 01:49"
+    },
+    {
+      "rank": 11,
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "price_btc": 1.9504695397716826e-07,
+      "timestamp": "2025-05-18 01:49"
+    },
+    {
+      "rank": 12,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.982133681454641e-06,
+      "timestamp": "2025-05-18 01:49"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.910576529648708e-06,
+      "timestamp": "2025-05-18 01:49"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.357076015035607e-06,
+      "timestamp": "2025-05-18 01:49"
+    },
+    {
+      "rank": 15,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.088722168342004e-06,
+      "timestamp": "2025-05-18 01:49"
+    }
   ]
 }
