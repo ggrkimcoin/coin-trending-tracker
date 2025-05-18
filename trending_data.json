@@ -84635,5 +84635,112 @@
       "price_btc": 5.6943436376901324e-06,
       "timestamp": "2025-05-18 15:18"
     }
+  ],
+  "2025-05-18 16:22": [
+    {
+      "rank": 1,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.544734431216046e-06,
+      "timestamp": "2025-05-18 16:22"
+    },
+    {
+      "rank": 2,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 5.711860574888581e-06,
+      "timestamp": "2025-05-18 16:22"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.772293568287684e-05,
+      "timestamp": "2025-05-18 16:22"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-18 16:22"
+    },
+    {
+      "rank": 5,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.0745695464474633e-05,
+      "timestamp": "2025-05-18 16:22"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.126630731546639e-06,
+      "timestamp": "2025-05-18 16:22"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9529603849578568e-05,
+      "timestamp": "2025-05-18 16:22"
+    },
+    {
+      "rank": 8,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.631728976828735e-06,
+      "timestamp": "2025-05-18 16:22"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.19415472776131e-06,
+      "timestamp": "2025-05-18 16:22"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00025657354704155855,
+      "timestamp": "2025-05-18 16:22"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016698133477429727,
+      "timestamp": "2025-05-18 16:22"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3257050456212596e-10,
+      "timestamp": "2025-05-18 16:22"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024429171342611973,
+      "timestamp": "2025-05-18 16:22"
+    },
+    {
+      "rank": 14,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00015475380980545768,
+      "timestamp": "2025-05-18 16:22"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 3.119719869239873e-05,
+      "timestamp": "2025-05-18 16:22"
+    }
   ]
 }
