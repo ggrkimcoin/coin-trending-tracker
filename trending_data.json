@@ -83672,5 +83672,112 @@
       "price_btc": 1.6804718947319478e-05,
       "timestamp": "2025-05-18 06:28"
     }
+  ],
+  "2025-05-18 07:17": [
+    {
+      "rank": 1,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.2796768724925182e-06,
+      "timestamp": "2025-05-18 07:17"
+    },
+    {
+      "rank": 2,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.3912463259115204e-06,
+      "timestamp": "2025-05-18 07:17"
+    },
+    {
+      "rank": 3,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.5898422729931867e-06,
+      "timestamp": "2025-05-18 07:17"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.165551038745224e-06,
+      "timestamp": "2025-05-18 07:17"
+    },
+    {
+      "rank": 5,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 4.968314893417062e-06,
+      "timestamp": "2025-05-18 07:17"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024147339091195333,
+      "timestamp": "2025-05-18 07:17"
+    },
+    {
+      "rank": 7,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.0128301146505462e-05,
+      "timestamp": "2025-05-18 07:17"
+    },
+    {
+      "rank": 8,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 4.6357909436084193e-07,
+      "timestamp": "2025-05-18 07:17"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001636851801409704,
+      "timestamp": "2025-05-18 07:17"
+    },
+    {
+      "rank": 10,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.867542705116888e-06,
+      "timestamp": "2025-05-18 07:17"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002592606410880604,
+      "timestamp": "2025-05-18 07:17"
+    },
+    {
+      "rank": 12,
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "price_btc": 1.4013534194845748e-10,
+      "timestamp": "2025-05-18 07:17"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.658934484599043e-06,
+      "timestamp": "2025-05-18 07:17"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0041270377606626866,
+      "timestamp": "2025-05-18 07:17"
+    },
+    {
+      "rank": 15,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 4.54003598673633e-05,
+      "timestamp": "2025-05-18 07:17"
+    }
   ]
 }
