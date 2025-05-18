@@ -85384,5 +85384,112 @@
       "price_btc": 2.2792404870924267e-06,
       "timestamp": "2025-05-18 22:18"
     }
+  ],
+  "2025-05-18 23:18": [
+    {
+      "rank": 1,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.034583788849245e-06,
+      "timestamp": "2025-05-18 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.3072900903453368e-06,
+      "timestamp": "2025-05-18 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001599904713904021,
+      "timestamp": "2025-05-18 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003938893265571767,
+      "timestamp": "2025-05-18 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.860047607862794e-05,
+      "timestamp": "2025-05-18 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.393126623673919e-06,
+      "timestamp": "2025-05-18 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.992012260087577e-05,
+      "timestamp": "2025-05-18 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023029951692699308,
+      "timestamp": "2025-05-18 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.47364343264449e-06,
+      "timestamp": "2025-05-18 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Propy",
+      "symbol": "PRO",
+      "price_btc": 7.5729649490443455e-06,
+      "timestamp": "2025-05-18 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.828432299236185e-06,
+      "timestamp": "2025-05-18 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6269774497315085e-05,
+      "timestamp": "2025-05-18 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.793921340170207e-06,
+      "timestamp": "2025-05-18 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2554770280817983e-10,
+      "timestamp": "2025-05-18 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.269824775663902e-05,
+      "timestamp": "2025-05-18 23:18"
+    }
   ]
 }
