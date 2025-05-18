@@ -84742,5 +84742,112 @@
       "price_btc": 3.119719869239873e-05,
       "timestamp": "2025-05-18 16:22"
     }
+  ],
+  "2025-05-18 17:15": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7502607756308564e-05,
+      "timestamp": "2025-05-18 17:15"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.960641303215448e-05,
+      "timestamp": "2025-05-18 17:15"
+    },
+    {
+      "rank": 3,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.073760350644677e-06,
+      "timestamp": "2025-05-18 17:15"
+    },
+    {
+      "rank": 4,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.357876795516613e-06,
+      "timestamp": "2025-05-18 17:15"
+    },
+    {
+      "rank": 5,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.0536904946452095e-05,
+      "timestamp": "2025-05-18 17:15"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.070845588365302e-06,
+      "timestamp": "2025-05-18 17:15"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-18 17:15"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016615467156983305,
+      "timestamp": "2025-05-18 17:15"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024280763788959357,
+      "timestamp": "2025-05-18 17:15"
+    },
+    {
+      "rank": 10,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.43241804344383e-06,
+      "timestamp": "2025-05-18 17:15"
+    },
+    {
+      "rank": 11,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 4.829833862658203e-07,
+      "timestamp": "2025-05-18 17:15"
+    },
+    {
+      "rank": 12,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2614888972128754e-07,
+      "timestamp": "2025-05-18 17:15"
+    },
+    {
+      "rank": 13,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.465348839749962e-06,
+      "timestamp": "2025-05-18 17:15"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.8021836514233376e-06,
+      "timestamp": "2025-05-18 17:15"
+    },
+    {
+      "rank": 15,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 9.515360071291094e-07,
+      "timestamp": "2025-05-18 17:15"
+    }
   ]
 }
