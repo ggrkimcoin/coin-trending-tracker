@@ -83351,5 +83351,112 @@
       "price_btc": 3.4365514974826444e-06,
       "timestamp": "2025-05-18 03:17"
     }
+  ],
+  "2025-05-18 04:27": [
+    {
+      "rank": 1,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 4.820517700148923e-06,
+      "timestamp": "2025-05-18 04:27"
+    },
+    {
+      "rank": 2,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.1969193576155184e-06,
+      "timestamp": "2025-05-18 04:27"
+    },
+    {
+      "rank": 3,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 4.855950210601691e-07,
+      "timestamp": "2025-05-18 04:27"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.633267031998222e-05,
+      "timestamp": "2025-05-18 04:27"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002557658046224623,
+      "timestamp": "2025-05-18 04:27"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.631745111297588e-05,
+      "timestamp": "2025-05-18 04:27"
+    },
+    {
+      "rank": 7,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.727896742027512e-06,
+      "timestamp": "2025-05-18 04:27"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02399247731823509,
+      "timestamp": "2025-05-18 04:27"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-18 04:27"
+    },
+    {
+      "rank": 10,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.769874227154922e-05,
+      "timestamp": "2025-05-18 04:27"
+    },
+    {
+      "rank": 11,
+      "name": "TRON",
+      "symbol": "TRX",
+      "price_btc": 2.629540316562846e-06,
+      "timestamp": "2025-05-18 04:27"
+    },
+    {
+      "rank": 12,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.493595624622837e-06,
+      "timestamp": "2025-05-18 04:27"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1931828576173676e-10,
+      "timestamp": "2025-05-18 04:27"
+    },
+    {
+      "rank": 14,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.159054763182639e-06,
+      "timestamp": "2025-05-18 04:27"
+    },
+    {
+      "rank": 15,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 1.970791173101793e-06,
+      "timestamp": "2025-05-18 04:27"
+    }
   ]
 }
