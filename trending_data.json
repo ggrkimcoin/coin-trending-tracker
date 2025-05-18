@@ -83779,5 +83779,112 @@
       "price_btc": 4.54003598673633e-05,
       "timestamp": "2025-05-18 07:17"
     }
+  ],
+  "2025-05-18 08:23": [
+    {
+      "rank": 1,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.418436791622123e-06,
+      "timestamp": "2025-05-18 08:23"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.2658319621529645e-06,
+      "timestamp": "2025-05-18 08:23"
+    },
+    {
+      "rank": 3,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.4037759712695013e-06,
+      "timestamp": "2025-05-18 08:23"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016466106568219037,
+      "timestamp": "2025-05-18 08:23"
+    },
+    {
+      "rank": 5,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.0452120163970056e-05,
+      "timestamp": "2025-05-18 08:23"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.661831741765973e-06,
+      "timestamp": "2025-05-18 08:23"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.05604887661869e-06,
+      "timestamp": "2025-05-18 08:23"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02422515598539239,
+      "timestamp": "2025-05-18 08:23"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.308052439837402e-05,
+      "timestamp": "2025-05-18 08:23"
+    },
+    {
+      "rank": 10,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 4.4608238128470264e-07,
+      "timestamp": "2025-05-18 08:23"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.7079079646877976e-05,
+      "timestamp": "2025-05-18 08:23"
+    },
+    {
+      "rank": 12,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 4.946597542555208e-06,
+      "timestamp": "2025-05-18 08:23"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.910380315165355e-06,
+      "timestamp": "2025-05-18 08:23"
+    },
+    {
+      "rank": 14,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.862617097160632e-05,
+      "timestamp": "2025-05-18 08:23"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002599015706975321,
+      "timestamp": "2025-05-18 08:23"
+    }
   ]
 }
