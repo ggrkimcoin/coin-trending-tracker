@@ -83886,5 +83886,112 @@
       "price_btc": 0.0002599015706975321,
       "timestamp": "2025-05-18 08:23"
     }
+  ],
+  "2025-05-18 09:19": [
+    {
+      "rank": 1,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.6252558098259073e-06,
+      "timestamp": "2025-05-18 09:19"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.260180552340236e-06,
+      "timestamp": "2025-05-18 09:19"
+    },
+    {
+      "rank": 3,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.0263071697302923e-05,
+      "timestamp": "2025-05-18 09:19"
+    },
+    {
+      "rank": 4,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.58318886741108e-06,
+      "timestamp": "2025-05-18 09:19"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.688274678136867e-05,
+      "timestamp": "2025-05-18 09:19"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016483176468826616,
+      "timestamp": "2025-05-18 09:19"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7363440333042482e-05,
+      "timestamp": "2025-05-18 09:19"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024240859604953747,
+      "timestamp": "2025-05-18 09:19"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.072511243105039e-06,
+      "timestamp": "2025-05-18 09:19"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.3081245687444918e-05,
+      "timestamp": "2025-05-18 09:19"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00025906896543236745,
+      "timestamp": "2025-05-18 09:19"
+    },
+    {
+      "rank": 12,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.618186332464467e-06,
+      "timestamp": "2025-05-18 09:19"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004149686505183925,
+      "timestamp": "2025-05-18 09:19"
+    },
+    {
+      "rank": 14,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.174403201884715e-06,
+      "timestamp": "2025-05-18 09:19"
+    },
+    {
+      "rank": 15,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 8.488292048792612e-07,
+      "timestamp": "2025-05-18 09:19"
+    }
   ]
 }
