@@ -84849,5 +84849,112 @@
       "price_btc": 9.515360071291094e-07,
       "timestamp": "2025-05-18 17:15"
     }
+  ],
+  "2025-05-18 18:26": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.629993073203795e-05,
+      "timestamp": "2025-05-18 18:26"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.004003375911149e-06,
+      "timestamp": "2025-05-18 18:26"
+    },
+    {
+      "rank": 3,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.146464315623989e-06,
+      "timestamp": "2025-05-18 18:26"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9055576303191027e-05,
+      "timestamp": "2025-05-18 18:26"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016461662589853448,
+      "timestamp": "2025-05-18 18:26"
+    },
+    {
+      "rank": 6,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.052183933196979e-05,
+      "timestamp": "2025-05-18 18:26"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023915547498359637,
+      "timestamp": "2025-05-18 18:26"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 5.602683278822193e-06,
+      "timestamp": "2025-05-18 18:26"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-18 18:26"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.060904472055701e-06,
+      "timestamp": "2025-05-18 18:26"
+    },
+    {
+      "rank": 11,
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "price_btc": 1.8577676681099365e-06,
+      "timestamp": "2025-05-18 18:26"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2989896890247756e-10,
+      "timestamp": "2025-05-18 18:26"
+    },
+    {
+      "rank": 13,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.3910274036883524e-06,
+      "timestamp": "2025-05-18 18:26"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00025192124533027384,
+      "timestamp": "2025-05-18 18:26"
+    },
+    {
+      "rank": 15,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001251115641640134,
+      "timestamp": "2025-05-18 18:26"
+    }
   ]
 }
