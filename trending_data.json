@@ -87631,5 +87631,112 @@
       "price_btc": 0.02391067954737151,
       "timestamp": "2025-05-19 21:19"
     }
+  ],
+  "2025-05-19 22:19": [
+    {
+      "rank": 1,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.594953941001081e-06,
+      "timestamp": "2025-05-19 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.2723479601262918e-06,
+      "timestamp": "2025-05-19 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.621904199036887e-05,
+      "timestamp": "2025-05-19 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.760466199474755e-06,
+      "timestamp": "2025-05-19 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.256264832168919e-10,
+      "timestamp": "2025-05-19 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.00915543391933e-06,
+      "timestamp": "2025-05-19 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "price_btc": 1.2919414092607399e-06,
+      "timestamp": "2025-05-19 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.250014495360325e-06,
+      "timestamp": "2025-05-19 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8549357970293637e-05,
+      "timestamp": "2025-05-19 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015771317402911303,
+      "timestamp": "2025-05-19 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.9469212823905785e-05,
+      "timestamp": "2025-05-19 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038457955084446045,
+      "timestamp": "2025-05-19 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.3655302564253254e-06,
+      "timestamp": "2025-05-19 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-19 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023876883459096478,
+      "timestamp": "2025-05-19 22:19"
+    }
   ]
 }
