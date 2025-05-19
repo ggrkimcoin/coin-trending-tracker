@@ -85598,5 +85598,112 @@
       "price_btc": 8.880244310374279e-06,
       "timestamp": "2025-05-19 01:48"
     }
+  ],
+  "2025-05-19 03:18": [
+    {
+      "rank": 1,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.514413641679361e-06,
+      "timestamp": "2025-05-19 03:18"
+    },
+    {
+      "rank": 2,
+      "name": "Morphware",
+      "symbol": "XMW",
+      "price_btc": 7.266930162461205e-07,
+      "timestamp": "2025-05-19 03:18"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8336644443975023e-05,
+      "timestamp": "2025-05-19 03:18"
+    },
+    {
+      "rank": 4,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.302603183077575e-06,
+      "timestamp": "2025-05-19 03:18"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.0598806204742965e-06,
+      "timestamp": "2025-05-19 03:18"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015968754770492915,
+      "timestamp": "2025-05-19 03:18"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-19 03:18"
+    },
+    {
+      "rank": 8,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.772209630319633e-06,
+      "timestamp": "2025-05-19 03:18"
+    },
+    {
+      "rank": 9,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.538708848456157e-06,
+      "timestamp": "2025-05-19 03:18"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023005967756719134,
+      "timestamp": "2025-05-19 03:18"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.623592248071716e-05,
+      "timestamp": "2025-05-19 03:18"
+    },
+    {
+      "rank": 12,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.367993922288207e-06,
+      "timestamp": "2025-05-19 03:18"
+    },
+    {
+      "rank": 13,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 4.5733263788015793e-07,
+      "timestamp": "2025-05-19 03:18"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0039510422278031445,
+      "timestamp": "2025-05-19 03:18"
+    },
+    {
+      "rank": 15,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.659651737998492e-06,
+      "timestamp": "2025-05-19 03:18"
+    }
   ]
 }
