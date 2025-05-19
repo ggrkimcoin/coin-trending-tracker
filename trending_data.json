@@ -85705,5 +85705,112 @@
       "price_btc": 3.659651737998492e-06,
       "timestamp": "2025-05-19 03:18"
     }
+  ],
+  "2025-05-19 04:27": [
+    {
+      "rank": 1,
+      "name": "Morphware",
+      "symbol": "XMW",
+      "price_btc": 7.169570275801935e-07,
+      "timestamp": "2025-05-19 04:27"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8329440513067298e-05,
+      "timestamp": "2025-05-19 04:27"
+    },
+    {
+      "rank": 3,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.296974001359881e-06,
+      "timestamp": "2025-05-19 04:27"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-19 04:27"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6468875851372816e-05,
+      "timestamp": "2025-05-19 04:27"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001603363170900756,
+      "timestamp": "2025-05-19 04:27"
+    },
+    {
+      "rank": 7,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.258805904499441e-10,
+      "timestamp": "2025-05-19 04:27"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.079146589526993e-06,
+      "timestamp": "2025-05-19 04:27"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.805465697035555e-06,
+      "timestamp": "2025-05-19 04:27"
+    },
+    {
+      "rank": 10,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.138865317154242e-06,
+      "timestamp": "2025-05-19 04:27"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00025001305657054176,
+      "timestamp": "2025-05-19 04:27"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.283540770174204e-05,
+      "timestamp": "2025-05-19 04:27"
+    },
+    {
+      "rank": 13,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.7364255660025605e-05,
+      "timestamp": "2025-05-19 04:27"
+    },
+    {
+      "rank": 14,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 2.4867633875026735e-05,
+      "timestamp": "2025-05-19 04:27"
+    },
+    {
+      "rank": 15,
+      "name": "Propy",
+      "symbol": "PRO",
+      "price_btc": 8.567841247034235e-06,
+      "timestamp": "2025-05-19 04:27"
+    }
   ]
 }
