@@ -85919,5 +85919,112 @@
       "price_btc": 2.4710601126530608e-05,
       "timestamp": "2025-05-19 05:20"
     }
+  ],
+  "2025-05-19 06:31": [
+    {
+      "rank": 1,
+      "name": "Morphware",
+      "symbol": "XMW",
+      "price_btc": 6.869441148566745e-07,
+      "timestamp": "2025-05-19 06:31"
+    },
+    {
+      "rank": 2,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.0566021516391105e-06,
+      "timestamp": "2025-05-19 06:31"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.77097270849688e-05,
+      "timestamp": "2025-05-19 06:31"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-19 06:31"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023185149151250514,
+      "timestamp": "2025-05-19 06:31"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015831123142186912,
+      "timestamp": "2025-05-19 06:31"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.619487481745866e-05,
+      "timestamp": "2025-05-19 06:31"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.824481695191375e-06,
+      "timestamp": "2025-05-19 06:31"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2773646546985587e-05,
+      "timestamp": "2025-05-19 06:31"
+    },
+    {
+      "rank": 10,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.13703291929995e-06,
+      "timestamp": "2025-05-19 06:31"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2472511879642447e-10,
+      "timestamp": "2025-05-19 06:31"
+    },
+    {
+      "rank": 12,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 4.791044288609896e-07,
+      "timestamp": "2025-05-19 06:31"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00024917551468635265,
+      "timestamp": "2025-05-19 06:31"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003878569356596583,
+      "timestamp": "2025-05-19 06:31"
+    },
+    {
+      "rank": 15,
+      "name": "Litecoin",
+      "symbol": "LTC",
+      "price_btc": 0.0009288340540969532,
+      "timestamp": "2025-05-19 06:31"
+    }
   ]
 }
