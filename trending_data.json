@@ -86240,5 +86240,112 @@
       "price_btc": 4.742615984578868e-06,
       "timestamp": "2025-05-19 08:29"
     }
+  ],
+  "2025-05-19 09:23": [
+    {
+      "rank": 1,
+      "name": "Morphware",
+      "symbol": "XMW",
+      "price_btc": 7.095678497271867e-07,
+      "timestamp": "2025-05-19 09:23"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038359314490148152,
+      "timestamp": "2025-05-19 09:23"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.570490110500911e-05,
+      "timestamp": "2025-05-19 09:23"
+    },
+    {
+      "rank": 4,
+      "name": "Xterio",
+      "symbol": "XTER",
+      "price_btc": 2.7321935071592817e-06,
+      "timestamp": "2025-05-19 09:23"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001565053196359488,
+      "timestamp": "2025-05-19 09:23"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-19 09:23"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.722062933883111e-06,
+      "timestamp": "2025-05-19 09:23"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02329049182245181,
+      "timestamp": "2025-05-19 09:23"
+    },
+    {
+      "rank": 9,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.436380961783471e-06,
+      "timestamp": "2025-05-19 09:23"
+    },
+    {
+      "rank": 10,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.0407492274175167e-06,
+      "timestamp": "2025-05-19 09:23"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00025130480267693544,
+      "timestamp": "2025-05-19 09:23"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.085591381579404e-06,
+      "timestamp": "2025-05-19 09:23"
+    },
+    {
+      "rank": 13,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.8460355913641474e-05,
+      "timestamp": "2025-05-19 09:23"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.1410401054499043e-06,
+      "timestamp": "2025-05-19 09:23"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2367411873841354e-10,
+      "timestamp": "2025-05-19 09:23"
+    }
   ]
 }
