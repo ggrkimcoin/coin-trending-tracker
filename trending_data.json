@@ -86026,5 +86026,112 @@
       "price_btc": 0.0009288340540969532,
       "timestamp": "2025-05-19 06:31"
     }
+  ],
+  "2025-05-19 07:20": [
+    {
+      "rank": 1,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.765732747970227e-06,
+      "timestamp": "2025-05-19 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015711596187806733,
+      "timestamp": "2025-05-19 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-19 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02319356171645763,
+      "timestamp": "2025-05-19 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "Morphware",
+      "symbol": "XMW",
+      "price_btc": 6.977738441591518e-07,
+      "timestamp": "2025-05-19 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.599368629309128e-05,
+      "timestamp": "2025-05-19 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003872413940529542,
+      "timestamp": "2025-05-19 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7483503568067418e-05,
+      "timestamp": "2025-05-19 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0033463642644865157,
+      "timestamp": "2025-05-19 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.677019367834274e-06,
+      "timestamp": "2025-05-19 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 5.81174313805378e-06,
+      "timestamp": "2025-05-19 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.132623150073007e-06,
+      "timestamp": "2025-05-19 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.1051004307862355e-06,
+      "timestamp": "2025-05-19 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "aixbt by Virtuals",
+      "symbol": "AIXBT",
+      "price_btc": 1.651365865688611e-06,
+      "timestamp": "2025-05-19 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.8661319587967062e-05,
+      "timestamp": "2025-05-19 07:20"
+    }
   ]
 }
