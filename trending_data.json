@@ -87417,5 +87417,112 @@
       "price_btc": 1.1584416715576172e-05,
       "timestamp": "2025-05-19 19:16"
     }
+  ],
+  "2025-05-19 20:22": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-19 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.759172771039463e-06,
+      "timestamp": "2025-05-19 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.591570102830336e-05,
+      "timestamp": "2025-05-19 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038426338347479897,
+      "timestamp": "2025-05-19 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.253510231671605e-06,
+      "timestamp": "2025-05-19 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00025128514471169474,
+      "timestamp": "2025-05-19 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.5689591789928605e-06,
+      "timestamp": "2025-05-19 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.9039679928751945e-06,
+      "timestamp": "2025-05-19 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015762562651694275,
+      "timestamp": "2025-05-19 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023817013132454184,
+      "timestamp": "2025-05-19 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.259398241895527e-10,
+      "timestamp": "2025-05-19 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8691760977388658e-05,
+      "timestamp": "2025-05-19 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0022710515951700947,
+      "timestamp": "2025-05-19 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012229595232634262,
+      "timestamp": "2025-05-19 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 4.337256507040277e-05,
+      "timestamp": "2025-05-19 20:22"
+    }
   ]
 }
