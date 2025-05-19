@@ -86454,5 +86454,112 @@
       "price_btc": 2.5647669902976502e-06,
       "timestamp": "2025-05-19 10:23"
     }
+  ],
+  "2025-05-19 11:17": [
+    {
+      "rank": 1,
+      "name": "Morphware",
+      "symbol": "XMW",
+      "price_btc": 7.436410079345998e-07,
+      "timestamp": "2025-05-19 11:17"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5661515147461204e-05,
+      "timestamp": "2025-05-19 11:17"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023411582030347756,
+      "timestamp": "2025-05-19 11:17"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-19 11:17"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015691045166418695,
+      "timestamp": "2025-05-19 11:17"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038059013207610254,
+      "timestamp": "2025-05-19 11:17"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.673616297793697e-06,
+      "timestamp": "2025-05-19 11:17"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.760657345139015e-05,
+      "timestamp": "2025-05-19 11:17"
+    },
+    {
+      "rank": 9,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.098646590387022e-06,
+      "timestamp": "2025-05-19 11:17"
+    },
+    {
+      "rank": 10,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 9.17342954934843e-06,
+      "timestamp": "2025-05-19 11:17"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.988058315370542e-06,
+      "timestamp": "2025-05-19 11:17"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.249837545524042e-05,
+      "timestamp": "2025-05-19 11:17"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00024660785924391016,
+      "timestamp": "2025-05-19 11:17"
+    },
+    {
+      "rank": 14,
+      "name": "Collaterize",
+      "symbol": "COLLAT",
+      "price_btc": 5.057213410805751e-07,
+      "timestamp": "2025-05-19 11:17"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2375099348089506e-10,
+      "timestamp": "2025-05-19 11:17"
+    }
   ]
 }
