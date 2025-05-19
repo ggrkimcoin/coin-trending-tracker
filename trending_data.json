@@ -85812,5 +85812,112 @@
       "price_btc": 8.567841247034235e-06,
       "timestamp": "2025-05-19 04:27"
     }
+  ],
+  "2025-05-19 05:20": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7893460094195882e-05,
+      "timestamp": "2025-05-19 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 5.729262066889369e-06,
+      "timestamp": "2025-05-19 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-19 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Morphware",
+      "symbol": "XMW",
+      "price_btc": 7.26480053685701e-07,
+      "timestamp": "2025-05-19 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6319066501149215e-05,
+      "timestamp": "2025-05-19 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015964852046876918,
+      "timestamp": "2025-05-19 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.248082961896527e-10,
+      "timestamp": "2025-05-19 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023033058462473048,
+      "timestamp": "2025-05-19 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2770790158782494e-05,
+      "timestamp": "2025-05-19 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.0497044099518963e-06,
+      "timestamp": "2025-05-19 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.6390371628123085e-06,
+      "timestamp": "2025-05-19 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Collaterize",
+      "symbol": "COLLAT",
+      "price_btc": 5.357492649530544e-07,
+      "timestamp": "2025-05-19 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.119927030558344e-06,
+      "timestamp": "2025-05-19 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002087564284858407,
+      "timestamp": "2025-05-19 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 2.4710601126530608e-05,
+      "timestamp": "2025-05-19 05:20"
+    }
   ]
 }
