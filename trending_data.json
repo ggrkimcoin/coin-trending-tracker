@@ -87203,5 +87203,112 @@
       "price_btc": 1.8690118977415175e-05,
       "timestamp": "2025-05-19 17:17"
     }
+  ],
+  "2025-05-19 18:29": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6012500632605745e-05,
+      "timestamp": "2025-05-19 18:29"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003917523559383855,
+      "timestamp": "2025-05-19 18:29"
+    },
+    {
+      "rank": 3,
+      "name": "Morphware",
+      "symbol": "XMW",
+      "price_btc": 7.130418516357328e-07,
+      "timestamp": "2025-05-19 18:29"
+    },
+    {
+      "rank": 4,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.818527852030846e-06,
+      "timestamp": "2025-05-19 18:29"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-19 18:29"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.3374114374154046e-06,
+      "timestamp": "2025-05-19 18:29"
+    },
+    {
+      "rank": 7,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.2690637258166466e-06,
+      "timestamp": "2025-05-19 18:29"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8544578706446066e-05,
+      "timestamp": "2025-05-19 18:29"
+    },
+    {
+      "rank": 9,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.170692459694257e-06,
+      "timestamp": "2025-05-19 18:29"
+    },
+    {
+      "rank": 10,
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "price_btc": 1.3056696859144569e-06,
+      "timestamp": "2025-05-19 18:29"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0238720100302914,
+      "timestamp": "2025-05-19 18:29"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.850286402184932e-06,
+      "timestamp": "2025-05-19 18:29"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.4992481431322597e-06,
+      "timestamp": "2025-05-19 18:29"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002483096343042358,
+      "timestamp": "2025-05-19 18:29"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.250634983124192e-05,
+      "timestamp": "2025-05-19 18:29"
+    }
   ]
 }
