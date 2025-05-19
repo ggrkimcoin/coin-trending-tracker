@@ -87524,5 +87524,112 @@
       "price_btc": 4.337256507040277e-05,
       "timestamp": "2025-05-19 20:22"
     }
+  ],
+  "2025-05-19 21:19": [
+    {
+      "rank": 1,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.397416805142935e-06,
+      "timestamp": "2025-05-19 21:19"
+    },
+    {
+      "rank": 2,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.2561362911527378e-06,
+      "timestamp": "2025-05-19 21:19"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00025120635655179375,
+      "timestamp": "2025-05-19 21:19"
+    },
+    {
+      "rank": 4,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.78434719407526e-06,
+      "timestamp": "2025-05-19 21:19"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-19 21:19"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001575274971230522,
+      "timestamp": "2025-05-19 21:19"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8529487602277496e-05,
+      "timestamp": "2025-05-19 21:19"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.624416305836839e-05,
+      "timestamp": "2025-05-19 21:19"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2556009639829975e-10,
+      "timestamp": "2025-05-19 21:19"
+    },
+    {
+      "rank": 10,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.181934680366462e-06,
+      "timestamp": "2025-05-19 21:19"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2618119306575283e-05,
+      "timestamp": "2025-05-19 21:19"
+    },
+    {
+      "rank": 12,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0022848293017188937,
+      "timestamp": "2025-05-19 21:19"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1446020089863335e-05,
+      "timestamp": "2025-05-19 21:19"
+    },
+    {
+      "rank": 14,
+      "name": "Collaterize",
+      "symbol": "COLLAT",
+      "price_btc": 5.760079603802301e-07,
+      "timestamp": "2025-05-19 21:19"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02391067954737151,
+      "timestamp": "2025-05-19 21:19"
+    }
   ]
 }
