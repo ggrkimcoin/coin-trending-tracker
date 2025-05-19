@@ -86775,5 +86775,112 @@
       "price_btc": 1.2305087793516944e-10,
       "timestamp": "2025-05-19 13:32"
     }
+  ],
+  "2025-05-19 14:20": [
+    {
+      "rank": 1,
+      "name": "Morphware",
+      "symbol": "XMW",
+      "price_btc": 7.387949921536103e-07,
+      "timestamp": "2025-05-19 14:20"
+    },
+    {
+      "rank": 2,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.2899956602082213e-06,
+      "timestamp": "2025-05-19 14:20"
+    },
+    {
+      "rank": 3,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.983005820761576e-06,
+      "timestamp": "2025-05-19 14:20"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8570934938667643e-05,
+      "timestamp": "2025-05-19 14:20"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.546593437367231e-05,
+      "timestamp": "2025-05-19 14:20"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00024624875667692144,
+      "timestamp": "2025-05-19 14:20"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015734707809668988,
+      "timestamp": "2025-05-19 14:20"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-19 14:20"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023531957987693534,
+      "timestamp": "2025-05-19 14:20"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003877364886905431,
+      "timestamp": "2025-05-19 14:20"
+    },
+    {
+      "rank": 11,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003331134675211793,
+      "timestamp": "2025-05-19 14:20"
+    },
+    {
+      "rank": 12,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.7282357356944035e-06,
+      "timestamp": "2025-05-19 14:20"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.737359878766727e-06,
+      "timestamp": "2025-05-19 14:20"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.0969970410609422e-06,
+      "timestamp": "2025-05-19 14:20"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.435473421259832e-06,
+      "timestamp": "2025-05-19 14:20"
+    }
   ]
 }
