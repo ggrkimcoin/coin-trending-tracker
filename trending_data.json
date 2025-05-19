@@ -87310,5 +87310,112 @@
       "price_btc": 2.250634983124192e-05,
       "timestamp": "2025-05-19 18:29"
     }
+  ],
+  "2025-05-19 19:16": [
+    {
+      "rank": 1,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.761311553832529e-06,
+      "timestamp": "2025-05-19 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-19 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003857766612941281,
+      "timestamp": "2025-05-19 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5785494092327745e-05,
+      "timestamp": "2025-05-19 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Morphware",
+      "symbol": "XMW",
+      "price_btc": 6.90686380216737e-07,
+      "timestamp": "2025-05-19 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.501821691876548e-06,
+      "timestamp": "2025-05-19 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.2665847542800437e-06,
+      "timestamp": "2025-05-19 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002475427819761836,
+      "timestamp": "2025-05-19 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8351934680060594e-05,
+      "timestamp": "2025-05-19 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.712963427765551e-06,
+      "timestamp": "2025-05-19 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015710383923403575,
+      "timestamp": "2025-05-19 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.05316051796267e-06,
+      "timestamp": "2025-05-19 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.186536749915319e-06,
+      "timestamp": "2025-05-19 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.8489256200271226e-05,
+      "timestamp": "2025-05-19 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1584416715576172e-05,
+      "timestamp": "2025-05-19 19:16"
+    }
   ]
 }
