@@ -88273,5 +88273,112 @@
       "price_btc": 2.1266874025395686e-06,
       "timestamp": "2025-05-20 05:20"
     }
+  ],
+  "2025-05-20 06:30": [
+    {
+      "rank": 1,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.66799478347458e-06,
+      "timestamp": "2025-05-20 06:30"
+    },
+    {
+      "rank": 2,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002514313433228631,
+      "timestamp": "2025-05-20 06:30"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.657177331445676e-05,
+      "timestamp": "2025-05-20 06:30"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.960805312635692e-06,
+      "timestamp": "2025-05-20 06:30"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00397688419009314,
+      "timestamp": "2025-05-20 06:30"
+    },
+    {
+      "rank": 6,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2619946949682332e-10,
+      "timestamp": "2025-05-20 06:30"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-20 06:30"
+    },
+    {
+      "rank": 8,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.3500060368977696e-06,
+      "timestamp": "2025-05-20 06:30"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015976571691980678,
+      "timestamp": "2025-05-20 06:30"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8617435817940894e-05,
+      "timestamp": "2025-05-20 06:30"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.246556773257771e-05,
+      "timestamp": "2025-05-20 06:30"
+    },
+    {
+      "rank": 12,
+      "name": "Kekius Maximus",
+      "symbol": "KEKIUS",
+      "price_btc": 4.897928397804766e-07,
+      "timestamp": "2025-05-20 06:30"
+    },
+    {
+      "rank": 13,
+      "name": "Collaterize",
+      "symbol": "COLLAT",
+      "price_btc": 7.183492530913956e-07,
+      "timestamp": "2025-05-20 06:30"
+    },
+    {
+      "rank": 14,
+      "name": "Frax (prev. FXS)",
+      "symbol": "FRAX",
+      "price_btc": 3.6568383136801134e-05,
+      "timestamp": "2025-05-20 06:30"
+    },
+    {
+      "rank": 15,
+      "name": "aixbt by Virtuals",
+      "symbol": "AIXBT",
+      "price_btc": 1.8069640404047575e-06,
+      "timestamp": "2025-05-20 06:30"
+    }
   ]
 }
