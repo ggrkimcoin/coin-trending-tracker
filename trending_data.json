@@ -87845,5 +87845,112 @@
       "price_btc": 3.8438814922382654e-05,
       "timestamp": "2025-05-19 23:18"
     }
+  ],
+  "2025-05-20 01:44": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.835861500045944e-05,
+      "timestamp": "2025-05-20 01:44"
+    },
+    {
+      "rank": 2,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.512148634789854e-06,
+      "timestamp": "2025-05-20 01:44"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6390971392151106e-05,
+      "timestamp": "2025-05-20 01:44"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023788567768562127,
+      "timestamp": "2025-05-20 01:44"
+    },
+    {
+      "rank": 5,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2521264541142383e-05,
+      "timestamp": "2025-05-20 01:44"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015839146531464602,
+      "timestamp": "2025-05-20 01:44"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002511511944620322,
+      "timestamp": "2025-05-20 01:44"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.954592132130264e-06,
+      "timestamp": "2025-05-20 01:44"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2527746001109584e-10,
+      "timestamp": "2025-05-20 01:44"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-20 01:44"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.795612891051287e-06,
+      "timestamp": "2025-05-20 01:44"
+    },
+    {
+      "rank": 12,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.362349291079099e-06,
+      "timestamp": "2025-05-20 01:44"
+    },
+    {
+      "rank": 13,
+      "name": "Frax (prev. FXS)",
+      "symbol": "FRAX",
+      "price_btc": 3.8435992488388695e-05,
+      "timestamp": "2025-05-20 01:44"
+    },
+    {
+      "rank": 14,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.1290224460852803e-06,
+      "timestamp": "2025-05-20 01:44"
+    },
+    {
+      "rank": 15,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.619001095460701e-06,
+      "timestamp": "2025-05-20 01:44"
+    }
   ]
 }
