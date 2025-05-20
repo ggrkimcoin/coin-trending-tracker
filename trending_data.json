@@ -88059,5 +88059,112 @@
       "price_btc": 2.258241197238815e-05,
       "timestamp": "2025-05-20 03:12"
     }
+  ],
+  "2025-05-20 04:25": [
+    {
+      "rank": 1,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002511104196549643,
+      "timestamp": "2025-05-20 04:25"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8454137814691906e-05,
+      "timestamp": "2025-05-20 04:25"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.636092015137895e-05,
+      "timestamp": "2025-05-20 04:25"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.932089351246118e-06,
+      "timestamp": "2025-05-20 04:25"
+    },
+    {
+      "rank": 5,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 4.146325896102177e-05,
+      "timestamp": "2025-05-20 04:25"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000251269399100881,
+      "timestamp": "2025-05-20 04:25"
+    },
+    {
+      "rank": 7,
+      "name": "Frax (prev. FXS)",
+      "symbol": "FRAX",
+      "price_btc": 3.9102875715078936e-05,
+      "timestamp": "2025-05-20 04:25"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.284281239188661e-06,
+      "timestamp": "2025-05-20 04:25"
+    },
+    {
+      "rank": 9,
+      "name": "Collaterize",
+      "symbol": "COLLAT",
+      "price_btc": 6.925315318561516e-07,
+      "timestamp": "2025-05-20 04:25"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2542200202823194e-05,
+      "timestamp": "2025-05-20 04:25"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-20 04:25"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1437386577996848e-05,
+      "timestamp": "2025-05-20 04:25"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.3760972238859778e-06,
+      "timestamp": "2025-05-20 04:25"
+    },
+    {
+      "rank": 14,
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "price_btc": 6.760342072452923e-06,
+      "timestamp": "2025-05-20 04:25"
+    },
+    {
+      "rank": 15,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0312636386350034e-06,
+      "timestamp": "2025-05-20 04:25"
+    }
   ]
 }
