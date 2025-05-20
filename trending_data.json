@@ -89022,5 +89022,112 @@
       "price_btc": 7.015958979403891e-06,
       "timestamp": "2025-05-20 12:43"
     }
+  ],
+  "2025-05-20 13:32": [
+    {
+      "rank": 1,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002502828771422988,
+      "timestamp": "2025-05-20 13:32"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.637508633752907e-05,
+      "timestamp": "2025-05-20 13:32"
+    },
+    {
+      "rank": 3,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.562864247567091e-06,
+      "timestamp": "2025-05-20 13:32"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003972686899384593,
+      "timestamp": "2025-05-20 13:32"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.025153732277186e-06,
+      "timestamp": "2025-05-20 13:32"
+    },
+    {
+      "rank": 6,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 4.133326824157102e-05,
+      "timestamp": "2025-05-20 13:32"
+    },
+    {
+      "rank": 7,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.230804130107649e-05,
+      "timestamp": "2025-05-20 13:32"
+    },
+    {
+      "rank": 8,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0100139846035266e-06,
+      "timestamp": "2025-05-20 13:32"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00024720325909394957,
+      "timestamp": "2025-05-20 13:32"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015864108663828443,
+      "timestamp": "2025-05-20 13:32"
+    },
+    {
+      "rank": 11,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.1889890328558057e-06,
+      "timestamp": "2025-05-20 13:32"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023738213515864682,
+      "timestamp": "2025-05-20 13:32"
+    },
+    {
+      "rank": 13,
+      "name": "Merlin Chain",
+      "symbol": "MERL",
+      "price_btc": 8.924246342124829e-07,
+      "timestamp": "2025-05-20 13:32"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.5243581411061804e-06,
+      "timestamp": "2025-05-20 13:32"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.838690768836075e-06,
+      "timestamp": "2025-05-20 13:32"
+    }
   ]
 }
