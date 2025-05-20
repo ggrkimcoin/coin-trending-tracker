@@ -90092,5 +90092,112 @@
       "price_btc": 2.2061795458374613e-05,
       "timestamp": "2025-05-20 22:19"
     }
+  ],
+  "2025-05-20 23:18": [
+    {
+      "rank": 1,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015688500809747225,
+      "timestamp": "2025-05-20 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "SuperVerse",
+      "symbol": "SUPER",
+      "price_btc": 7.493712035086965e-06,
+      "timestamp": "2025-05-20 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-20 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002421645030250876,
+      "timestamp": "2025-05-20 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6429964869749934e-05,
+      "timestamp": "2025-05-20 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.515376997320122e-06,
+      "timestamp": "2025-05-20 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.1395505685231425e-06,
+      "timestamp": "2025-05-20 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.000129434766946861,
+      "timestamp": "2025-05-20 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.217154579912193e-10,
+      "timestamp": "2025-05-20 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.090389245789394e-06,
+      "timestamp": "2025-05-20 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023497582442594624,
+      "timestamp": "2025-05-20 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.856158717803772e-06,
+      "timestamp": "2025-05-20 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014639149991953193,
+      "timestamp": "2025-05-20 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 6.654790189373459e-06,
+      "timestamp": "2025-05-20 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.978647767429957e-05,
+      "timestamp": "2025-05-20 23:18"
+    }
   ]
 }
