@@ -89557,5 +89557,112 @@
       "price_btc": 0.023546124079896705,
       "timestamp": "2025-05-20 17:18"
     }
+  ],
+  "2025-05-20 18:29": [
+    {
+      "rank": 1,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.1641601620704269e-06,
+      "timestamp": "2025-05-20 18:29"
+    },
+    {
+      "rank": 2,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.762826728561909e-06,
+      "timestamp": "2025-05-20 18:29"
+    },
+    {
+      "rank": 3,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.560009950509074e-06,
+      "timestamp": "2025-05-20 18:29"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6627893861087206e-05,
+      "timestamp": "2025-05-20 18:29"
+    },
+    {
+      "rank": 5,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024676499477200436,
+      "timestamp": "2025-05-20 18:29"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8068210643003827e-05,
+      "timestamp": "2025-05-20 18:29"
+    },
+    {
+      "rank": 7,
+      "name": "Snek",
+      "symbol": "SNEK",
+      "price_btc": 2.9382303513091e-08,
+      "timestamp": "2025-05-20 18:29"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002439100922755051,
+      "timestamp": "2025-05-20 18:29"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.5230780018070194e-06,
+      "timestamp": "2025-05-20 18:29"
+    },
+    {
+      "rank": 10,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.5866988911717561e-06,
+      "timestamp": "2025-05-20 18:29"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0039013043030093042,
+      "timestamp": "2025-05-20 18:29"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015775046049326762,
+      "timestamp": "2025-05-20 18:29"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.879265355979597e-06,
+      "timestamp": "2025-05-20 18:29"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023537729295182067,
+      "timestamp": "2025-05-20 18:29"
+    },
+    {
+      "rank": 15,
+      "name": "Collaterize",
+      "symbol": "COLLAT",
+      "price_btc": 7.614431391349185e-07,
+      "timestamp": "2025-05-20 18:29"
+    }
   ]
 }
