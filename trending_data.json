@@ -88701,5 +88701,112 @@
       "price_btc": 1.9623719771348776e-05,
       "timestamp": "2025-05-20 09:22"
     }
+  ],
+  "2025-05-20 10:23": [
+    {
+      "rank": 1,
+      "name": "Merlin Chain",
+      "symbol": "MERL",
+      "price_btc": 8.981760710857004e-07,
+      "timestamp": "2025-05-20 10:23"
+    },
+    {
+      "rank": 2,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0025100662483488645,
+      "timestamp": "2025-05-20 10:23"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015905552191972133,
+      "timestamp": "2025-05-20 10:23"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.670038299684039e-05,
+      "timestamp": "2025-05-20 10:23"
+    },
+    {
+      "rank": 5,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.99606457092113e-06,
+      "timestamp": "2025-05-20 10:23"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02402079880213303,
+      "timestamp": "2025-05-20 10:23"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8403732004682e-05,
+      "timestamp": "2025-05-20 10:23"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.980586581097189e-06,
+      "timestamp": "2025-05-20 10:23"
+    },
+    {
+      "rank": 9,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.472996066013684e-06,
+      "timestamp": "2025-05-20 10:23"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000250987789536879,
+      "timestamp": "2025-05-20 10:23"
+    },
+    {
+      "rank": 11,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.7750422734978636e-05,
+      "timestamp": "2025-05-20 10:23"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2291345858372128e-10,
+      "timestamp": "2025-05-20 10:23"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003984570020189078,
+      "timestamp": "2025-05-20 10:23"
+    },
+    {
+      "rank": 14,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.797954088064573e-06,
+      "timestamp": "2025-05-20 10:23"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.473774890889572e-06,
+      "timestamp": "2025-05-20 10:23"
+    }
   ]
 }
