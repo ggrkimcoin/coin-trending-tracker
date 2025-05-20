@@ -88166,5 +88166,112 @@
       "price_btc": 1.0312636386350034e-06,
       "timestamp": "2025-05-20 04:25"
     }
+  ],
+  "2025-05-20 05:20": [
+    {
+      "rank": 1,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002514636039873995,
+      "timestamp": "2025-05-20 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.632514325236533e-06,
+      "timestamp": "2025-05-20 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.968999909945545e-06,
+      "timestamp": "2025-05-20 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.655620796429275e-05,
+      "timestamp": "2025-05-20 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 4.170190657905703e-05,
+      "timestamp": "2025-05-20 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00159728078158019,
+      "timestamp": "2025-05-20 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.940497346956607e-06,
+      "timestamp": "2025-05-20 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8667253408464188e-05,
+      "timestamp": "2025-05-20 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Frax (prev. FXS)",
+      "symbol": "FRAX",
+      "price_btc": 3.870458475503856e-05,
+      "timestamp": "2025-05-20 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.3255917828352404e-06,
+      "timestamp": "2025-05-20 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Collaterize",
+      "symbol": "COLLAT",
+      "price_btc": 6.869682535308343e-07,
+      "timestamp": "2025-05-20 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.6684121638684892e-06,
+      "timestamp": "2025-05-20 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003911355222992714,
+      "timestamp": "2025-05-20 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000250567804389672,
+      "timestamp": "2025-05-20 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.1266874025395686e-06,
+      "timestamp": "2025-05-20 05:20"
+    }
   ]
 }
