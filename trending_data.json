@@ -88380,5 +88380,112 @@
       "price_btc": 1.8069640404047575e-06,
       "timestamp": "2025-05-20 06:30"
     }
+  ],
+  "2025-05-20 07:20": [
+    {
+      "rank": 1,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.590546079653006e-06,
+      "timestamp": "2025-05-20 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0025331551560533482,
+      "timestamp": "2025-05-20 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.96989790656484e-06,
+      "timestamp": "2025-05-20 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Frax (prev. FXS)",
+      "symbol": "FRAX",
+      "price_btc": 3.6051247117555034e-05,
+      "timestamp": "2025-05-20 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.666409510960566e-05,
+      "timestamp": "2025-05-20 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2583503732946604e-10,
+      "timestamp": "2025-05-20 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003992477236301759,
+      "timestamp": "2025-05-20 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-20 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8664866082044525e-05,
+      "timestamp": "2025-05-20 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.356367391158391e-06,
+      "timestamp": "2025-05-20 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024083909166838814,
+      "timestamp": "2025-05-20 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Collaterize",
+      "symbol": "COLLAT",
+      "price_btc": 7.456424942322199e-07,
+      "timestamp": "2025-05-20 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015945443471625975,
+      "timestamp": "2025-05-20 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.701490786422666e-06,
+      "timestamp": "2025-05-20 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00025104163327704454,
+      "timestamp": "2025-05-20 07:20"
+    }
   ]
 }
