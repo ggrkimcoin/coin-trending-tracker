@@ -89129,5 +89129,112 @@
       "price_btc": 8.838690768836075e-06,
       "timestamp": "2025-05-20 13:32"
     }
+  ],
+  "2025-05-20 14:20": [
+    {
+      "rank": 1,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0025003548971911536,
+      "timestamp": "2025-05-20 14:20"
+    },
+    {
+      "rank": 2,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.1794794651145884e-06,
+      "timestamp": "2025-05-20 14:20"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.638981241895794e-05,
+      "timestamp": "2025-05-20 14:20"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.030716073553336e-06,
+      "timestamp": "2025-05-20 14:20"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023686212647930232,
+      "timestamp": "2025-05-20 14:20"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015793807308596226,
+      "timestamp": "2025-05-20 14:20"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.826585624021753e-06,
+      "timestamp": "2025-05-20 14:20"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002459938652331394,
+      "timestamp": "2025-05-20 14:20"
+    },
+    {
+      "rank": 9,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.521656726536367e-06,
+      "timestamp": "2025-05-20 14:20"
+    },
+    {
+      "rank": 10,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.324907854892312e-06,
+      "timestamp": "2025-05-20 14:20"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8539162179820297e-05,
+      "timestamp": "2025-05-20 14:20"
+    },
+    {
+      "rank": 12,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.614510545453064e-06,
+      "timestamp": "2025-05-20 14:20"
+    },
+    {
+      "rank": 13,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 4.144550060772989e-05,
+      "timestamp": "2025-05-20 14:20"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.22589753518596e-05,
+      "timestamp": "2025-05-20 14:20"
+    },
+    {
+      "rank": 15,
+      "name": "Snek",
+      "symbol": "SNEK",
+      "price_btc": 2.940698728842181e-08,
+      "timestamp": "2025-05-20 14:20"
+    }
   ]
 }
