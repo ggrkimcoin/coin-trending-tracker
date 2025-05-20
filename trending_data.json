@@ -89450,5 +89450,112 @@
       "price_btc": 0.023602459078722465,
       "timestamp": "2025-05-20 16:26"
     }
+  ],
+  "2025-05-20 17:18": [
+    {
+      "rank": 1,
+      "name": "Snek",
+      "symbol": "SNEK",
+      "price_btc": 2.9438402157988113e-08,
+      "timestamp": "2025-05-20 17:18"
+    },
+    {
+      "rank": 2,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024807001960785277,
+      "timestamp": "2025-05-20 17:18"
+    },
+    {
+      "rank": 3,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.1819191039977756e-06,
+      "timestamp": "2025-05-20 17:18"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.80998522681692e-05,
+      "timestamp": "2025-05-20 17:18"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002469232771343471,
+      "timestamp": "2025-05-20 17:18"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.667705916760442e-05,
+      "timestamp": "2025-05-20 17:18"
+    },
+    {
+      "rank": 7,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.4295338410909197e-06,
+      "timestamp": "2025-05-20 17:18"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.45428761042564e-06,
+      "timestamp": "2025-05-20 17:18"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.010461016379257e-06,
+      "timestamp": "2025-05-20 17:18"
+    },
+    {
+      "rank": 10,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014705437150684667,
+      "timestamp": "2025-05-20 17:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.4733765642016385e-06,
+      "timestamp": "2025-05-20 17:18"
+    },
+    {
+      "rank": 12,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.9314262158560067e-05,
+      "timestamp": "2025-05-20 17:18"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.221290526080078e-05,
+      "timestamp": "2025-05-20 17:18"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015762134187156812,
+      "timestamp": "2025-05-20 17:18"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023546124079896705,
+      "timestamp": "2025-05-20 17:18"
+    }
   ]
 }
