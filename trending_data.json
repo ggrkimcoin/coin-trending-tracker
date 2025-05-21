@@ -91697,5 +91697,112 @@
       "price_btc": 0.003887694154096132,
       "timestamp": "2025-05-21 15:23"
     }
+  ],
+  "2025-05-21 16:27": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-21 16:27"
+    },
+    {
+      "rank": 2,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.038612660738081e-06,
+      "timestamp": "2025-05-21 16:27"
+    },
+    {
+      "rank": 3,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.2764879330383357e-05,
+      "timestamp": "2025-05-21 16:27"
+    },
+    {
+      "rank": 4,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.6788458969753635e-06,
+      "timestamp": "2025-05-21 16:27"
+    },
+    {
+      "rank": 5,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2805778439827822e-10,
+      "timestamp": "2025-05-21 16:27"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6412170301732395e-05,
+      "timestamp": "2025-05-21 16:27"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001574583572591976,
+      "timestamp": "2025-05-21 16:27"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.615865899103827e-06,
+      "timestamp": "2025-05-21 16:27"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2656903905468042e-05,
+      "timestamp": "2025-05-21 16:27"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8663188312396463e-05,
+      "timestamp": "2025-05-21 16:27"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02350898598788637,
+      "timestamp": "2025-05-21 16:27"
+    },
+    {
+      "rank": 12,
+      "name": "Akash Network",
+      "symbol": "AKT",
+      "price_btc": 1.4086221110812235e-05,
+      "timestamp": "2025-05-21 16:27"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003942262284731669,
+      "timestamp": "2025-05-21 16:27"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002531546251530401,
+      "timestamp": "2025-05-21 16:27"
+    },
+    {
+      "rank": 15,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013549769910641544,
+      "timestamp": "2025-05-21 16:27"
+    }
   ]
 }
