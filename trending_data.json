@@ -91804,5 +91804,112 @@
       "price_btc": 0.00013549769910641544,
       "timestamp": "2025-05-21 16:27"
     }
+  ],
+  "2025-05-21 17:17": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-21 17:17"
+    },
+    {
+      "rank": 2,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.021999758741404e-06,
+      "timestamp": "2025-05-21 17:17"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.695483771283593e-05,
+      "timestamp": "2025-05-21 17:17"
+    },
+    {
+      "rank": 4,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.6515396101940138e-06,
+      "timestamp": "2025-05-21 17:17"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015947599765832865,
+      "timestamp": "2025-05-21 17:17"
+    },
+    {
+      "rank": 6,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3229053267504745e-10,
+      "timestamp": "2025-05-21 17:17"
+    },
+    {
+      "rank": 7,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.3153766986931252e-05,
+      "timestamp": "2025-05-21 17:17"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023717910358331176,
+      "timestamp": "2025-05-21 17:17"
+    },
+    {
+      "rank": 9,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.576107415823047e-06,
+      "timestamp": "2025-05-21 17:17"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.573833257988391e-06,
+      "timestamp": "2025-05-21 17:17"
+    },
+    {
+      "rank": 11,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 3.879141041291061e-08,
+      "timestamp": "2025-05-21 17:17"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004062871478823264,
+      "timestamp": "2025-05-21 17:17"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2159795447386584e-05,
+      "timestamp": "2025-05-21 17:17"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00025569141228497043,
+      "timestamp": "2025-05-21 17:17"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2970704689330105e-05,
+      "timestamp": "2025-05-21 17:17"
+    }
   ]
 }
