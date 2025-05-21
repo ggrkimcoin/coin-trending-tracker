@@ -91590,5 +91590,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-05-21 14:20"
     }
+  ],
+  "2025-05-21 15:23": [
+    {
+      "rank": 1,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.90825895518911e-06,
+      "timestamp": "2025-05-21 15:23"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-21 15:23"
+    },
+    {
+      "rank": 3,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.040631396053995e-06,
+      "timestamp": "2025-05-21 15:23"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.610530268743968e-05,
+      "timestamp": "2025-05-21 15:23"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.448986464749452e-06,
+      "timestamp": "2025-05-21 15:23"
+    },
+    {
+      "rank": 6,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.2199378828673792e-05,
+      "timestamp": "2025-05-21 15:23"
+    },
+    {
+      "rank": 7,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2796506118000413e-10,
+      "timestamp": "2025-05-21 15:23"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001578241247082132,
+      "timestamp": "2025-05-21 15:23"
+    },
+    {
+      "rank": 9,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.8345493518261666e-06,
+      "timestamp": "2025-05-21 15:23"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2494071365698906e-05,
+      "timestamp": "2025-05-21 15:23"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02349527570391633,
+      "timestamp": "2025-05-21 15:23"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.675778083933609e-06,
+      "timestamp": "2025-05-21 15:23"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.839061301261853e-05,
+      "timestamp": "2025-05-21 15:23"
+    },
+    {
+      "rank": 14,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 7.3469538082776314e-06,
+      "timestamp": "2025-05-21 15:23"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003887694154096132,
+      "timestamp": "2025-05-21 15:23"
+    }
   ]
 }
