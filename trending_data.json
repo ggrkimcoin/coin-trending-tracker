@@ -90413,5 +90413,112 @@
       "price_btc": 6.1068527733259235e-06,
       "timestamp": "2025-05-21 03:12"
     }
+  ],
+  "2025-05-21 04:25": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.211881174157858e-06,
+      "timestamp": "2025-05-21 04:25"
+    },
+    {
+      "rank": 2,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 2.0314348061085395e-05,
+      "timestamp": "2025-05-21 04:25"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-21 04:25"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001593512542666553,
+      "timestamp": "2025-05-21 04:25"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.758636739632404e-06,
+      "timestamp": "2025-05-21 04:25"
+    },
+    {
+      "rank": 6,
+      "name": "Immutable",
+      "symbol": "IMX",
+      "price_btc": 6.175035642328574e-06,
+      "timestamp": "2025-05-21 04:25"
+    },
+    {
+      "rank": 7,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.1466437218695505e-06,
+      "timestamp": "2025-05-21 04:25"
+    },
+    {
+      "rank": 8,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.2868714518976867e-06,
+      "timestamp": "2025-05-21 04:25"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00024792284543965673,
+      "timestamp": "2025-05-21 04:25"
+    },
+    {
+      "rank": 10,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002427716168888415,
+      "timestamp": "2025-05-21 04:25"
+    },
+    {
+      "rank": 11,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.7560850092577e-06,
+      "timestamp": "2025-05-21 04:25"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.2112825012597932e-05,
+      "timestamp": "2025-05-21 04:25"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8164438890825403e-05,
+      "timestamp": "2025-05-21 04:25"
+    },
+    {
+      "rank": 14,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.5945110910184942e-06,
+      "timestamp": "2025-05-21 04:25"
+    },
+    {
+      "rank": 15,
+      "name": "Gunz",
+      "symbol": "GUN",
+      "price_btc": 4.743113651262799e-07,
+      "timestamp": "2025-05-21 04:25"
+    }
   ]
 }
