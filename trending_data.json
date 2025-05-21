@@ -90841,5 +90841,112 @@
       "price_btc": 7.086104639177196e-06,
       "timestamp": "2025-05-21 07:19"
     }
+  ],
+  "2025-05-21 08:27": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.997655666076463e-06,
+      "timestamp": "2025-05-21 08:27"
+    },
+    {
+      "rank": 2,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 1.7491617790755963e-06,
+      "timestamp": "2025-05-21 08:27"
+    },
+    {
+      "rank": 3,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001338548867741784,
+      "timestamp": "2025-05-21 08:27"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-21 08:27"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.5134502416539064e-06,
+      "timestamp": "2025-05-21 08:27"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.60625538607761e-05,
+      "timestamp": "2025-05-21 08:27"
+    },
+    {
+      "rank": 7,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 2.0441028767401208e-05,
+      "timestamp": "2025-05-21 08:27"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00024638736367490604,
+      "timestamp": "2025-05-21 08:27"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.273121441475113e-10,
+      "timestamp": "2025-05-21 08:27"
+    },
+    {
+      "rank": 10,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 4.125700006635611e-05,
+      "timestamp": "2025-05-21 08:27"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.223409246412076e-05,
+      "timestamp": "2025-05-21 08:27"
+    },
+    {
+      "rank": 12,
+      "name": "Merlin Chain",
+      "symbol": "MERL",
+      "price_btc": 8.404691809636976e-07,
+      "timestamp": "2025-05-21 08:27"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023947907276331757,
+      "timestamp": "2025-05-21 08:27"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8027653326289412e-05,
+      "timestamp": "2025-05-21 08:27"
+    },
+    {
+      "rank": 15,
+      "name": "STP",
+      "symbol": "STPT",
+      "price_btc": 6.34058498195726e-07,
+      "timestamp": "2025-05-21 08:27"
+    }
   ]
 }
