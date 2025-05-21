@@ -90948,5 +90948,112 @@
       "price_btc": 6.34058498195726e-07,
       "timestamp": "2025-05-21 08:27"
     }
+  ],
+  "2025-05-21 09:23": [
+    {
+      "rank": 1,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 1.7729624833909338e-06,
+      "timestamp": "2025-05-21 09:23"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.597372387957889e-05,
+      "timestamp": "2025-05-21 09:23"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.4000314966988515e-06,
+      "timestamp": "2025-05-21 09:23"
+    },
+    {
+      "rank": 4,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.07814702729298e-06,
+      "timestamp": "2025-05-21 09:23"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013387258396828827,
+      "timestamp": "2025-05-21 09:23"
+    },
+    {
+      "rank": 6,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 2.042009703482276e-05,
+      "timestamp": "2025-05-21 09:23"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02391251093446559,
+      "timestamp": "2025-05-21 09:23"
+    },
+    {
+      "rank": 8,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.9137133224238e-06,
+      "timestamp": "2025-05-21 09:23"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8001913203111708e-05,
+      "timestamp": "2025-05-21 09:23"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002486396535378381,
+      "timestamp": "2025-05-21 09:23"
+    },
+    {
+      "rank": 11,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.9743984521937668e-05,
+      "timestamp": "2025-05-21 09:23"
+    },
+    {
+      "rank": 12,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.5836399168293425e-06,
+      "timestamp": "2025-05-21 09:23"
+    },
+    {
+      "rank": 13,
+      "name": "AWE Network",
+      "symbol": "AWE",
+      "price_btc": 6.342032876147376e-07,
+      "timestamp": "2025-05-21 09:23"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00392811625109276,
+      "timestamp": "2025-05-21 09:23"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-21 09:23"
+    }
   ]
 }
