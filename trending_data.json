@@ -90520,5 +90520,112 @@
       "price_btc": 4.743113651262799e-07,
       "timestamp": "2025-05-21 04:25"
     }
+  ],
+  "2025-05-21 05:20": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.192091204964766e-06,
+      "timestamp": "2025-05-21 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.677261677461964e-06,
+      "timestamp": "2025-05-21 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 2.0293081166280745e-05,
+      "timestamp": "2025-05-21 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-21 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015850991264521716,
+      "timestamp": "2025-05-21 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Immutable",
+      "symbol": "IMX",
+      "price_btc": 6.1534558295429255e-06,
+      "timestamp": "2025-05-21 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023748055356592343,
+      "timestamp": "2025-05-21 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002458599578585267,
+      "timestamp": "2025-05-21 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.61473289953645e-05,
+      "timestamp": "2025-05-21 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0033437494368009388,
+      "timestamp": "2025-05-21 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0396760747873283e-06,
+      "timestamp": "2025-05-21 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0023966585855081826,
+      "timestamp": "2025-05-21 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 5.886205435073568e-05,
+      "timestamp": "2025-05-21 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2421384110804417e-05,
+      "timestamp": "2025-05-21 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8137558278287568e-05,
+      "timestamp": "2025-05-21 05:20"
+    }
   ]
 }
