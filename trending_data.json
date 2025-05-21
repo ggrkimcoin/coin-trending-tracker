@@ -90734,5 +90734,112 @@
       "price_btc": 8.929375652798278e-06,
       "timestamp": "2025-05-21 06:30"
     }
+  ],
+  "2025-05-21 07:19": [
+    {
+      "rank": 1,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.015885340804e-06,
+      "timestamp": "2025-05-21 07:19"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.515986002129777e-06,
+      "timestamp": "2025-05-21 07:19"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-21 07:19"
+    },
+    {
+      "rank": 4,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 1.7607292001851391e-06,
+      "timestamp": "2025-05-21 07:19"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013509992042226284,
+      "timestamp": "2025-05-21 07:19"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.835609341207326e-05,
+      "timestamp": "2025-05-21 07:19"
+    },
+    {
+      "rank": 7,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2940136530351084e-10,
+      "timestamp": "2025-05-21 07:19"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6179317403048154e-05,
+      "timestamp": "2025-05-21 07:19"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000246239175555562,
+      "timestamp": "2025-05-21 07:19"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015870779350999958,
+      "timestamp": "2025-05-21 07:19"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.903403770730664e-06,
+      "timestamp": "2025-05-21 07:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024074497580059834,
+      "timestamp": "2025-05-21 07:19"
+    },
+    {
+      "rank": 13,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003385556460039401,
+      "timestamp": "2025-05-21 07:19"
+    },
+    {
+      "rank": 14,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 2.0252951724241325e-05,
+      "timestamp": "2025-05-21 07:19"
+    },
+    {
+      "rank": 15,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 7.086104639177196e-06,
+      "timestamp": "2025-05-21 07:19"
+    }
   ]
 }
