@@ -90306,5 +90306,112 @@
       "price_btc": 1.8844657617300484e-08,
       "timestamp": "2025-05-21 01:44"
     }
+  ],
+  "2025-05-21 03:12": [
+    {
+      "rank": 1,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 2.003973814166592e-05,
+      "timestamp": "2025-05-21 03:12"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-21 03:12"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5937146032443264e-05,
+      "timestamp": "2025-05-21 03:12"
+    },
+    {
+      "rank": 4,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 6.271156449436405e-06,
+      "timestamp": "2025-05-21 03:12"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00024634464118973457,
+      "timestamp": "2025-05-21 03:12"
+    },
+    {
+      "rank": 6,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 4.0430055763875353e-05,
+      "timestamp": "2025-05-21 03:12"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8073698952580565e-05,
+      "timestamp": "2025-05-21 03:12"
+    },
+    {
+      "rank": 8,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.305736446927189e-06,
+      "timestamp": "2025-05-21 03:12"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015801747933667824,
+      "timestamp": "2025-05-21 03:12"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.360697860150152e-06,
+      "timestamp": "2025-05-21 03:12"
+    },
+    {
+      "rank": 11,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 1.5603831481413065e-06,
+      "timestamp": "2025-05-21 03:12"
+    },
+    {
+      "rank": 12,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 4.310940695033126e-06,
+      "timestamp": "2025-05-21 03:12"
+    },
+    {
+      "rank": 13,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 1.9460240186797887e-08,
+      "timestamp": "2025-05-21 03:12"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013305239687602088,
+      "timestamp": "2025-05-21 03:12"
+    },
+    {
+      "rank": 15,
+      "name": "Immutable",
+      "symbol": "IMX",
+      "price_btc": 6.1068527733259235e-06,
+      "timestamp": "2025-05-21 03:12"
+    }
   ]
 }
