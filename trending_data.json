@@ -90199,5 +90199,112 @@
       "price_btc": 2.978647767429957e-05,
       "timestamp": "2025-05-20 23:18"
     }
+  ],
+  "2025-05-21 01:44": [
+    {
+      "rank": 1,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 6.318097624719384e-06,
+      "timestamp": "2025-05-21 01:44"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023738231517519536,
+      "timestamp": "2025-05-21 01:44"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002478703188762334,
+      "timestamp": "2025-05-21 01:44"
+    },
+    {
+      "rank": 4,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.992089615690974e-05,
+      "timestamp": "2025-05-21 01:44"
+    },
+    {
+      "rank": 5,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002420100125084157,
+      "timestamp": "2025-05-21 01:44"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6032832923294365e-05,
+      "timestamp": "2025-05-21 01:44"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-21 01:44"
+    },
+    {
+      "rank": 8,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.4392624390259293e-06,
+      "timestamp": "2025-05-21 01:44"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8045645222584038e-05,
+      "timestamp": "2025-05-21 01:44"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038997280984552746,
+      "timestamp": "2025-05-21 01:44"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.83698953097297e-06,
+      "timestamp": "2025-05-21 01:44"
+    },
+    {
+      "rank": 12,
+      "name": "Immutable",
+      "symbol": "IMX",
+      "price_btc": 6.1032648048198604e-06,
+      "timestamp": "2025-05-21 01:44"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015763321780412924,
+      "timestamp": "2025-05-21 01:44"
+    },
+    {
+      "rank": 14,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1931970486077378e-07,
+      "timestamp": "2025-05-21 01:44"
+    },
+    {
+      "rank": 15,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 1.8844657617300484e-08,
+      "timestamp": "2025-05-21 01:44"
+    }
   ]
 }
