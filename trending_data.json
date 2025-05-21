@@ -92125,5 +92125,112 @@
       "price_btc": 7.637966845180655e-06,
       "timestamp": "2025-05-21 19:16"
     }
+  ],
+  "2025-05-21 20:22": [
+    {
+      "rank": 1,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 1.9828599586604137e-06,
+      "timestamp": "2025-05-21 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.219834940495302e-05,
+      "timestamp": "2025-05-21 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-21 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 3.857929277842063e-08,
+      "timestamp": "2025-05-21 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.593862157353418e-05,
+      "timestamp": "2025-05-21 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002578459159097077,
+      "timestamp": "2025-05-21 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001573520958979498,
+      "timestamp": "2025-05-21 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.662470341531493e-06,
+      "timestamp": "2025-05-21 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2280585751254897e-10,
+      "timestamp": "2025-05-21 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003588927368317854,
+      "timestamp": "2025-05-21 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1962329105498036e-05,
+      "timestamp": "2025-05-21 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 9.455729218759822e-07,
+      "timestamp": "2025-05-21 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00404273943969515,
+      "timestamp": "2025-05-21 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.0761000498393792e-05,
+      "timestamp": "2025-05-21 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2267407533828017e-07,
+      "timestamp": "2025-05-21 20:22"
+    }
   ]
 }
