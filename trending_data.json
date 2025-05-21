@@ -92232,5 +92232,112 @@
       "price_btc": 1.2267407533828017e-07,
       "timestamp": "2025-05-21 20:22"
     }
+  ],
+  "2025-05-21 21:18": [
+    {
+      "rank": 1,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0036602754032029824,
+      "timestamp": "2025-05-21 21:18"
+    },
+    {
+      "rank": 2,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 1.9656942175312474e-06,
+      "timestamp": "2025-05-21 21:18"
+    },
+    {
+      "rank": 3,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.2274719340590746e-05,
+      "timestamp": "2025-05-21 21:18"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-21 21:18"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015722453198050049,
+      "timestamp": "2025-05-21 21:18"
+    },
+    {
+      "rank": 6,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 3.8446092055055165e-08,
+      "timestamp": "2025-05-21 21:18"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5951699302069256e-05,
+      "timestamp": "2025-05-21 21:18"
+    },
+    {
+      "rank": 8,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.8651772122821095e-06,
+      "timestamp": "2025-05-21 21:18"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00025592259071193505,
+      "timestamp": "2025-05-21 21:18"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0040955504131803214,
+      "timestamp": "2025-05-21 21:18"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013161766628573885,
+      "timestamp": "2025-05-21 21:18"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7936867087179867e-05,
+      "timestamp": "2025-05-21 21:18"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.698664753161915e-06,
+      "timestamp": "2025-05-21 21:18"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023131113276779396,
+      "timestamp": "2025-05-21 21:18"
+    },
+    {
+      "rank": 15,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.488566749440896e-06,
+      "timestamp": "2025-05-21 21:18"
+    }
   ]
 }
