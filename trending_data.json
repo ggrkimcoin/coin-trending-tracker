@@ -92018,5 +92018,112 @@
       "price_btc": 4.3756395418677633e-07,
       "timestamp": "2025-05-21 18:29"
     }
+  ],
+  "2025-05-21 19:16": [
+    {
+      "rank": 1,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 1.973393625244013e-06,
+      "timestamp": "2025-05-21 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 3.9053663468321316e-08,
+      "timestamp": "2025-05-21 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-21 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.238488543693289e-05,
+      "timestamp": "2025-05-21 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6204778974241374e-05,
+      "timestamp": "2025-05-21 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023145173661902003,
+      "timestamp": "2025-05-21 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002560816993632301,
+      "timestamp": "2025-05-21 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.226929962057587e-10,
+      "timestamp": "2025-05-21 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015720157719610406,
+      "timestamp": "2025-05-21 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.6344432253149937e-06,
+      "timestamp": "2025-05-21 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7985684033796434e-05,
+      "timestamp": "2025-05-21 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.923611829845131e-06,
+      "timestamp": "2025-05-21 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.0848680662508597e-05,
+      "timestamp": "2025-05-21 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0022939791617402694,
+      "timestamp": "2025-05-21 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.637966845180655e-06,
+      "timestamp": "2025-05-21 19:16"
+    }
   ]
 }
