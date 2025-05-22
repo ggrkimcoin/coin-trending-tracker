@@ -93516,5 +93516,112 @@
       "price_btc": 0.004234733265765823,
       "timestamp": "2025-05-22 10:22"
     }
+  ],
+  "2025-05-22 11:17": [
+    {
+      "rank": 1,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.9358558791450625e-06,
+      "timestamp": "2025-05-22 11:17"
+    },
+    {
+      "rank": 2,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.5124666312347885e-06,
+      "timestamp": "2025-05-22 11:17"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.719076351761036e-05,
+      "timestamp": "2025-05-22 11:17"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00028160365552424346,
+      "timestamp": "2025-05-22 11:17"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.386492791604338e-05,
+      "timestamp": "2025-05-22 11:17"
+    },
+    {
+      "rank": 6,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00022453869483290878,
+      "timestamp": "2025-05-22 11:17"
+    },
+    {
+      "rank": 7,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.14758810673072e-05,
+      "timestamp": "2025-05-22 11:17"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024000438894988218,
+      "timestamp": "2025-05-22 11:17"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-22 11:17"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001613664162129227,
+      "timestamp": "2025-05-22 11:17"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.470789789356375e-06,
+      "timestamp": "2025-05-22 11:17"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1901896952699447e-05,
+      "timestamp": "2025-05-22 11:17"
+    },
+    {
+      "rank": 13,
+      "name": "LOFI",
+      "symbol": "LOFI",
+      "price_btc": 5.102319859998913e-07,
+      "timestamp": "2025-05-22 11:17"
+    },
+    {
+      "rank": 14,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.1741194051910623e-06,
+      "timestamp": "2025-05-22 11:17"
+    },
+    {
+      "rank": 15,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 8.199051890186941e-07,
+      "timestamp": "2025-05-22 11:17"
+    }
   ]
 }
