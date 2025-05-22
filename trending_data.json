@@ -92767,5 +92767,112 @@
       "price_btc": 1.8290664367474452e-06,
       "timestamp": "2025-05-22 03:12"
     }
+  ],
+  "2025-05-22 04:26": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002731437698055846,
+      "timestamp": "2025-05-22 04:26"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-22 04:26"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.630462282623003e-05,
+      "timestamp": "2025-05-22 04:26"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0041662989972745795,
+      "timestamp": "2025-05-22 04:26"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015836738259756649,
+      "timestamp": "2025-05-22 04:26"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.5418233066946915e-06,
+      "timestamp": "2025-05-22 04:26"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.794697310380429e-05,
+      "timestamp": "2025-05-22 04:26"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3216750813333559e-05,
+      "timestamp": "2025-05-22 04:26"
+    },
+    {
+      "rank": 9,
+      "name": "Lista DAO",
+      "symbol": "LISTA",
+      "price_btc": 2.5867672097918787e-06,
+      "timestamp": "2025-05-22 04:26"
+    },
+    {
+      "rank": 10,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.067055693926158e-06,
+      "timestamp": "2025-05-22 04:26"
+    },
+    {
+      "rank": 11,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00021348581602160803,
+      "timestamp": "2025-05-22 04:26"
+    },
+    {
+      "rank": 12,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003560408750147772,
+      "timestamp": "2025-05-22 04:26"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.961081062339581e-06,
+      "timestamp": "2025-05-22 04:26"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2612985109458035e-10,
+      "timestamp": "2025-05-22 04:26"
+    },
+    {
+      "rank": 15,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.311106838922651e-05,
+      "timestamp": "2025-05-22 04:26"
+    }
   ]
 }
