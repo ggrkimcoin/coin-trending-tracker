@@ -93409,5 +93409,112 @@
       "price_btc": 2.2021289334794082e-06,
       "timestamp": "2025-05-22 09:22"
     }
+  ],
+  "2025-05-22 10:22": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00027969810944333866,
+      "timestamp": "2025-05-22 10:22"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.754088059727642e-05,
+      "timestamp": "2025-05-22 10:22"
+    },
+    {
+      "rank": 3,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.1461377724504546e-05,
+      "timestamp": "2025-05-22 10:22"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.5165214850474456e-06,
+      "timestamp": "2025-05-22 10:22"
+    },
+    {
+      "rank": 5,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.3058615793186516e-06,
+      "timestamp": "2025-05-22 10:22"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-22 10:22"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.4044612772859862e-05,
+      "timestamp": "2025-05-22 10:22"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02408189871794874,
+      "timestamp": "2025-05-22 10:22"
+    },
+    {
+      "rank": 9,
+      "name": "Bluefin",
+      "symbol": "BLUE",
+      "price_btc": 1.2904802468457106e-06,
+      "timestamp": "2025-05-22 10:22"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016216506626572104,
+      "timestamp": "2025-05-22 10:22"
+    },
+    {
+      "rank": 11,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.1773549418209994e-06,
+      "timestamp": "2025-05-22 10:22"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1983742357644438e-05,
+      "timestamp": "2025-05-22 10:22"
+    },
+    {
+      "rank": 13,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001373565463161345,
+      "timestamp": "2025-05-22 10:22"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.135473531889093e-06,
+      "timestamp": "2025-05-22 10:22"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004234733265765823,
+      "timestamp": "2025-05-22 10:22"
+    }
   ]
 }
