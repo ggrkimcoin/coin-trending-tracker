@@ -94372,5 +94372,112 @@
       "price_btc": 1.3867685187335436e-05,
       "timestamp": "2025-05-22 18:29"
     }
+  ],
+  "2025-05-22 19:16": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.485671503069534e-05,
+      "timestamp": "2025-05-22 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "Biconomy",
+      "symbol": "BICO",
+      "price_btc": 1.1835539764653933e-06,
+      "timestamp": "2025-05-22 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.4367436920407021e-05,
+      "timestamp": "2025-05-22 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00030425599402665723,
+      "timestamp": "2025-05-22 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5629958596946706e-06,
+      "timestamp": "2025-05-22 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.38779619058667e-08,
+      "timestamp": "2025-05-22 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.526515741226101e-06,
+      "timestamp": "2025-05-22 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 2.7047484696088883e-08,
+      "timestamp": "2025-05-22 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023831704439982726,
+      "timestamp": "2025-05-22 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-22 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013893630003105522,
+      "timestamp": "2025-05-22 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.3316701691228724e-06,
+      "timestamp": "2025-05-22 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7953943316012443e-05,
+      "timestamp": "2025-05-22 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2849676421032066e-10,
+      "timestamp": "2025-05-22 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.393094286798151e-05,
+      "timestamp": "2025-05-22 19:16"
+    }
   ]
 }
