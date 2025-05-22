@@ -94479,5 +94479,112 @@
       "price_btc": 1.393094286798151e-05,
       "timestamp": "2025-05-22 19:16"
     }
+  ],
+  "2025-05-22 20:22": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4775884572765905e-05,
+      "timestamp": "2025-05-22 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "Biconomy",
+      "symbol": "BICO",
+      "price_btc": 1.178873819367844e-06,
+      "timestamp": "2025-05-22 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5352447334211879e-06,
+      "timestamp": "2025-05-22 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.4194534685368065e-05,
+      "timestamp": "2025-05-22 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002949133858370159,
+      "timestamp": "2025-05-22 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-22 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3835922359814615e-05,
+      "timestamp": "2025-05-22 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.6612112319687198e-06,
+      "timestamp": "2025-05-22 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.110204160638149e-06,
+      "timestamp": "2025-05-22 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.3338553739607615e-06,
+      "timestamp": "2025-05-22 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013771297521049383,
+      "timestamp": "2025-05-22 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.4689745353779635e-06,
+      "timestamp": "2025-05-22 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.4390865286498515e-08,
+      "timestamp": "2025-05-22 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016008701249001197,
+      "timestamp": "2025-05-22 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 8.009697889543558e-06,
+      "timestamp": "2025-05-22 20:22"
+    }
   ]
 }
