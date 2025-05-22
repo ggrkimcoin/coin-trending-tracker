@@ -92553,5 +92553,112 @@
       "price_btc": 2.1972747512869053e-05,
       "timestamp": "2025-05-21 23:18"
     }
+  ],
+  "2025-05-22 01:43": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-22 01:43"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00026031196615877695,
+      "timestamp": "2025-05-22 01:43"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015901500106311,
+      "timestamp": "2025-05-22 01:43"
+    },
+    {
+      "rank": 4,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.1115950680428583e-06,
+      "timestamp": "2025-05-22 01:43"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02353524462387177,
+      "timestamp": "2025-05-22 01:43"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.681918257167207e-06,
+      "timestamp": "2025-05-22 01:43"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.607427840117496e-05,
+      "timestamp": "2025-05-22 01:43"
+    },
+    {
+      "rank": 8,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.2773646530268423e-05,
+      "timestamp": "2025-05-22 01:43"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1866019798447675e-05,
+      "timestamp": "2025-05-22 01:43"
+    },
+    {
+      "rank": 10,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003574794556080637,
+      "timestamp": "2025-05-22 01:43"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.304778678036457e-05,
+      "timestamp": "2025-05-22 01:43"
+    },
+    {
+      "rank": 12,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.035596155367731e-08,
+      "timestamp": "2025-05-22 01:43"
+    },
+    {
+      "rank": 13,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013173033699185647,
+      "timestamp": "2025-05-22 01:43"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.030125992523316e-06,
+      "timestamp": "2025-05-22 01:43"
+    },
+    {
+      "rank": 15,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.81378581975498e-06,
+      "timestamp": "2025-05-22 01:43"
+    }
   ]
 }
