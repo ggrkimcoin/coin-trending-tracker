@@ -93302,5 +93302,112 @@
       "price_btc": 2.1695805287047265e-05,
       "timestamp": "2025-05-22 08:27"
     }
+  ],
+  "2025-05-22 09:22": [
+    {
+      "rank": 1,
+      "name": "AI Companions",
+      "symbol": "AIC",
+      "price_btc": 1.332669606445835e-06,
+      "timestamp": "2025-05-22 09:22"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00028638434534050336,
+      "timestamp": "2025-05-22 09:22"
+    },
+    {
+      "rank": 3,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.1483019750574406e-06,
+      "timestamp": "2025-05-22 09:22"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.766776239443535e-05,
+      "timestamp": "2025-05-22 09:22"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-22 09:22"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016286807211950017,
+      "timestamp": "2025-05-22 09:22"
+    },
+    {
+      "rank": 7,
+      "name": "Bluefin",
+      "symbol": "BLUE",
+      "price_btc": 1.2304985014786468e-06,
+      "timestamp": "2025-05-22 09:22"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8465804957299472e-05,
+      "timestamp": "2025-05-22 09:22"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3993505466446681e-05,
+      "timestamp": "2025-05-22 09:22"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.589939887121056e-06,
+      "timestamp": "2025-05-22 09:22"
+    },
+    {
+      "rank": 11,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.149015588602626e-05,
+      "timestamp": "2025-05-22 09:22"
+    },
+    {
+      "rank": 12,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.143040121185023e-06,
+      "timestamp": "2025-05-22 09:22"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004267198082986776,
+      "timestamp": "2025-05-22 09:22"
+    },
+    {
+      "rank": 14,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.0850569906512724e-08,
+      "timestamp": "2025-05-22 09:22"
+    },
+    {
+      "rank": 15,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.2021289334794082e-06,
+      "timestamp": "2025-05-22 09:22"
+    }
   ]
 }
