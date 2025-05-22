@@ -93088,5 +93088,112 @@
       "price_btc": 1.1230869643516168e-05,
       "timestamp": "2025-05-22 06:30"
     }
+  ],
+  "2025-05-22 07:20": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002755787003398924,
+      "timestamp": "2025-05-22 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "Bluefin",
+      "symbol": "BLUE",
+      "price_btc": 1.2069510560593662e-06,
+      "timestamp": "2025-05-22 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.029246131252837e-06,
+      "timestamp": "2025-05-22 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.522304148852896e-06,
+      "timestamp": "2025-05-22 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-22 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6441299822418336e-05,
+      "timestamp": "2025-05-22 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004248662168049859,
+      "timestamp": "2025-05-22 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015910979556534861,
+      "timestamp": "2025-05-22 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "price_btc": 7.156524176326894e-06,
+      "timestamp": "2025-05-22 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003572898144725612,
+      "timestamp": "2025-05-22 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.2746680494061368e-05,
+      "timestamp": "2025-05-22 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Haedal Protocol",
+      "symbol": "HAEDAL",
+      "price_btc": 1.6047725029786952e-06,
+      "timestamp": "2025-05-22 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0236187984228617,
+      "timestamp": "2025-05-22 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "Lista DAO",
+      "symbol": "LISTA",
+      "price_btc": 2.721970643511812e-06,
+      "timestamp": "2025-05-22 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.1608489578331845e-06,
+      "timestamp": "2025-05-22 07:20"
+    }
   ]
 }
