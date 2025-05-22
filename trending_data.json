@@ -94265,5 +94265,112 @@
       "price_btc": 1.789008363619356e-05,
       "timestamp": "2025-05-22 17:18"
     }
+  ],
+  "2025-05-22 18:29": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4954374429522236e-05,
+      "timestamp": "2025-05-22 18:29"
+    },
+    {
+      "rank": 2,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5744281809627839e-06,
+      "timestamp": "2025-05-22 18:29"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002983136536989268,
+      "timestamp": "2025-05-22 18:29"
+    },
+    {
+      "rank": 4,
+      "name": "Biconomy",
+      "symbol": "BICO",
+      "price_btc": 1.1824345141525184e-06,
+      "timestamp": "2025-05-22 18:29"
+    },
+    {
+      "rank": 5,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.4130678263124947e-05,
+      "timestamp": "2025-05-22 18:29"
+    },
+    {
+      "rank": 6,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 2.746321238574509e-08,
+      "timestamp": "2025-05-22 18:29"
+    },
+    {
+      "rank": 7,
+      "name": "LOFI",
+      "symbol": "LOFI",
+      "price_btc": 4.876081873239904e-07,
+      "timestamp": "2025-05-22 18:29"
+    },
+    {
+      "rank": 8,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0035271840537576355,
+      "timestamp": "2025-05-22 18:29"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-22 18:29"
+    },
+    {
+      "rank": 10,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.487150131480666e-08,
+      "timestamp": "2025-05-22 18:29"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00014146929116103907,
+      "timestamp": "2025-05-22 18:29"
+    },
+    {
+      "rank": 12,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.729806954934433e-06,
+      "timestamp": "2025-05-22 18:29"
+    },
+    {
+      "rank": 13,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2706406857706133e-07,
+      "timestamp": "2025-05-22 18:29"
+    },
+    {
+      "rank": 14,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.529039650465164e-06,
+      "timestamp": "2025-05-22 18:29"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3867685187335436e-05,
+      "timestamp": "2025-05-22 18:29"
+    }
   ]
 }
