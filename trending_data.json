@@ -92874,5 +92874,112 @@
       "price_btc": 2.311106838922651e-05,
       "timestamp": "2025-05-22 04:26"
     }
+  ],
+  "2025-05-22 05:20": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00027412782031041865,
+      "timestamp": "2025-05-22 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004204434540048515,
+      "timestamp": "2025-05-22 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-22 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.0736977959981736e-06,
+      "timestamp": "2025-05-22 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.6360622109676115e-05,
+      "timestamp": "2025-05-22 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015858673204313123,
+      "timestamp": "2025-05-22 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.451196255005237e-06,
+      "timestamp": "2025-05-22 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.798481738187119e-05,
+      "timestamp": "2025-05-22 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Lista DAO",
+      "symbol": "LISTA",
+      "price_btc": 2.807391209873127e-06,
+      "timestamp": "2025-05-22 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02356762174155395,
+      "timestamp": "2025-05-22 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.976363598490446e-06,
+      "timestamp": "2025-05-22 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Efinity",
+      "symbol": "EFI",
+      "price_btc": 1.342299124172391e-05,
+      "timestamp": "2025-05-22 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.16255242490474e-06,
+      "timestamp": "2025-05-22 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.8256989958414096e-06,
+      "timestamp": "2025-05-22 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2580261768343567e-10,
+      "timestamp": "2025-05-22 05:20"
+    }
   ]
 }
