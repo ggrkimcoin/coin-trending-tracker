@@ -94693,5 +94693,112 @@
       "price_btc": 2.5360879608071217e-08,
       "timestamp": "2025-05-22 21:18"
     }
+  ],
+  "2025-05-22 22:19": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.443848485369395e-05,
+      "timestamp": "2025-05-22 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "Biconomy",
+      "symbol": "BICO",
+      "price_btc": 1.1784117638518915e-06,
+      "timestamp": "2025-05-22 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.3439376981914487e-05,
+      "timestamp": "2025-05-22 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.4752845828929314e-06,
+      "timestamp": "2025-05-22 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.528264618702084e-06,
+      "timestamp": "2025-05-22 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00029252088340507256,
+      "timestamp": "2025-05-22 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.795485307995827e-08,
+      "timestamp": "2025-05-22 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012955857377714022,
+      "timestamp": "2025-05-22 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3665369046847685e-05,
+      "timestamp": "2025-05-22 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016056363472191498,
+      "timestamp": "2025-05-22 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "LOFI",
+      "symbol": "LOFI",
+      "price_btc": 4.5058676570869757e-07,
+      "timestamp": "2025-05-22 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7858017786315153e-05,
+      "timestamp": "2025-05-22 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023757819225617184,
+      "timestamp": "2025-05-22 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 2.581775313132447e-08,
+      "timestamp": "2025-05-22 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004196794980923251,
+      "timestamp": "2025-05-22 22:19"
+    }
   ]
 }
