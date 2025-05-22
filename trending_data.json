@@ -94051,5 +94051,112 @@
       "price_btc": 0.0001387492904542971,
       "timestamp": "2025-05-22 15:22"
     }
+  ],
+  "2025-05-22 16:26": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.522674051934224e-05,
+      "timestamp": "2025-05-22 16:26"
+    },
+    {
+      "rank": 2,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5808467862823437e-06,
+      "timestamp": "2025-05-22 16:26"
+    },
+    {
+      "rank": 3,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.3429305512348789e-05,
+      "timestamp": "2025-05-22 16:26"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00028870060339196516,
+      "timestamp": "2025-05-22 16:26"
+    },
+    {
+      "rank": 5,
+      "name": "LOFI",
+      "symbol": "LOFI",
+      "price_btc": 5.745001593952443e-07,
+      "timestamp": "2025-05-22 16:26"
+    },
+    {
+      "rank": 6,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013878576132887887,
+      "timestamp": "2025-05-22 16:26"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016098867317297747,
+      "timestamp": "2025-05-22 16:26"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-22 16:26"
+    },
+    {
+      "rank": 9,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.5842550599880086e-06,
+      "timestamp": "2025-05-22 16:26"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023918355584007078,
+      "timestamp": "2025-05-22 16:26"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.28651451779444e-06,
+      "timestamp": "2025-05-22 16:26"
+    },
+    {
+      "rank": 12,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 5.395052277136349e-06,
+      "timestamp": "2025-05-22 16:26"
+    },
+    {
+      "rank": 13,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.2111630022174363e-05,
+      "timestamp": "2025-05-22 16:26"
+    },
+    {
+      "rank": 14,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.00358710802232948,
+      "timestamp": "2025-05-22 16:26"
+    },
+    {
+      "rank": 15,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.456519791308091e-06,
+      "timestamp": "2025-05-22 16:26"
+    }
   ]
 }
