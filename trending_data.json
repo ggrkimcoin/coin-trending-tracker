@@ -94800,5 +94800,112 @@
       "price_btc": 0.004196794980923251,
       "timestamp": "2025-05-22 22:19"
     }
+  ],
+  "2025-05-22 23:19": [
+    {
+      "rank": 1,
+      "name": "Biconomy",
+      "symbol": "BICO",
+      "price_btc": 1.1821763778719656e-06,
+      "timestamp": "2025-05-22 23:19"
+    },
+    {
+      "rank": 2,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5146515677869983e-06,
+      "timestamp": "2025-05-22 23:19"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.455969548953699e-05,
+      "timestamp": "2025-05-22 23:19"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002964930916889321,
+      "timestamp": "2025-05-22 23:19"
+    },
+    {
+      "rank": 5,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.3478447275097663e-05,
+      "timestamp": "2025-05-22 23:19"
+    },
+    {
+      "rank": 6,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.8031729336148134e-06,
+      "timestamp": "2025-05-22 23:19"
+    },
+    {
+      "rank": 7,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.925291784652761e-08,
+      "timestamp": "2025-05-22 23:19"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.395673003554436e-06,
+      "timestamp": "2025-05-22 23:19"
+    },
+    {
+      "rank": 9,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012996216481093276,
+      "timestamp": "2025-05-22 23:19"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016058302717619965,
+      "timestamp": "2025-05-22 23:19"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02376798437973692,
+      "timestamp": "2025-05-22 23:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.6998903928532106e-06,
+      "timestamp": "2025-05-22 23:19"
+    },
+    {
+      "rank": 13,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 2.5392712778232592e-05,
+      "timestamp": "2025-05-22 23:19"
+    },
+    {
+      "rank": 14,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.66396554854095e-06,
+      "timestamp": "2025-05-22 23:19"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.717742594717918e-06,
+      "timestamp": "2025-05-22 23:19"
+    }
   ]
 }
