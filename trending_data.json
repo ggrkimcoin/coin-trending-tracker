@@ -94586,5 +94586,112 @@
       "price_btc": 8.009697889543558e-06,
       "timestamp": "2025-05-22 20:22"
     }
+  ],
+  "2025-05-22 21:18": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4427591695923216e-05,
+      "timestamp": "2025-05-22 21:18"
+    },
+    {
+      "rank": 2,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.520271058887767e-06,
+      "timestamp": "2025-05-22 21:18"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002945735985135939,
+      "timestamp": "2025-05-22 21:18"
+    },
+    {
+      "rank": 4,
+      "name": "Biconomy",
+      "symbol": "BICO",
+      "price_btc": 1.1805274209521357e-06,
+      "timestamp": "2025-05-22 21:18"
+    },
+    {
+      "rank": 5,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.3781667006695916e-05,
+      "timestamp": "2025-05-22 21:18"
+    },
+    {
+      "rank": 6,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.5384154251743635e-06,
+      "timestamp": "2025-05-22 21:18"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.388620570277199e-05,
+      "timestamp": "2025-05-22 21:18"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.102937908511715e-06,
+      "timestamp": "2025-05-22 21:18"
+    },
+    {
+      "rank": 9,
+      "name": "cat in a dogs world",
+      "symbol": "MEW",
+      "price_btc": 3.696729787015058e-08,
+      "timestamp": "2025-05-22 21:18"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001607043263696972,
+      "timestamp": "2025-05-22 21:18"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-22 21:18"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02379666636868327,
+      "timestamp": "2025-05-22 21:18"
+    },
+    {
+      "rank": 13,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.1592306459232592e-06,
+      "timestamp": "2025-05-22 21:18"
+    },
+    {
+      "rank": 14,
+      "name": "LOFI",
+      "symbol": "LOFI",
+      "price_btc": 4.913172621766703e-07,
+      "timestamp": "2025-05-22 21:18"
+    },
+    {
+      "rank": 15,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 2.5360879608071217e-08,
+      "timestamp": "2025-05-22 21:18"
+    }
   ]
 }
