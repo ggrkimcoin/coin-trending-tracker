@@ -94158,5 +94158,112 @@
       "price_btc": 2.456519791308091e-06,
       "timestamp": "2025-05-22 16:26"
     }
+  ],
+  "2025-05-22 17:18": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.491763634878905e-05,
+      "timestamp": "2025-05-22 17:18"
+    },
+    {
+      "rank": 2,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.564567457910073e-06,
+      "timestamp": "2025-05-22 17:18"
+    },
+    {
+      "rank": 3,
+      "name": "Biconomy",
+      "symbol": "BICO",
+      "price_btc": 1.1826428323102394e-06,
+      "timestamp": "2025-05-22 17:18"
+    },
+    {
+      "rank": 4,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.3622802090775054e-05,
+      "timestamp": "2025-05-22 17:18"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000294164884432206,
+      "timestamp": "2025-05-22 17:18"
+    },
+    {
+      "rank": 6,
+      "name": "LOFI",
+      "symbol": "LOFI",
+      "price_btc": 5.077161538373435e-07,
+      "timestamp": "2025-05-22 17:18"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016051170467836571,
+      "timestamp": "2025-05-22 17:18"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-22 17:18"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02381020820333864,
+      "timestamp": "2025-05-22 17:18"
+    },
+    {
+      "rank": 10,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00014011203137006775,
+      "timestamp": "2025-05-22 17:18"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004266457581200741,
+      "timestamp": "2025-05-22 17:18"
+    },
+    {
+      "rank": 12,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003568315853833953,
+      "timestamp": "2025-05-22 17:18"
+    },
+    {
+      "rank": 13,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.5503167454819735e-06,
+      "timestamp": "2025-05-22 17:18"
+    },
+    {
+      "rank": 14,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.2222193761594336e-05,
+      "timestamp": "2025-05-22 17:18"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.789008363619356e-05,
+      "timestamp": "2025-05-22 17:18"
+    }
   ]
 }
