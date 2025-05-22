@@ -92660,5 +92660,112 @@
       "price_btc": 4.81378581975498e-06,
       "timestamp": "2025-05-22 01:43"
     }
+  ],
+  "2025-05-22 03:12": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-22 03:12"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002737516583941239,
+      "timestamp": "2025-05-22 03:12"
+    },
+    {
+      "rank": 3,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.0633582907076093e-06,
+      "timestamp": "2025-05-22 03:12"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001577538071808572,
+      "timestamp": "2025-05-22 03:12"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023480038041518735,
+      "timestamp": "2025-05-22 03:12"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.594507337499148e-05,
+      "timestamp": "2025-05-22 03:12"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.692040600716508e-06,
+      "timestamp": "2025-05-22 03:12"
+    },
+    {
+      "rank": 8,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.1045767742085467e-05,
+      "timestamp": "2025-05-22 03:12"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8005280790741354e-05,
+      "timestamp": "2025-05-22 03:12"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1764152522953947e-05,
+      "timestamp": "2025-05-22 03:12"
+    },
+    {
+      "rank": 11,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0035524183206209568,
+      "timestamp": "2025-05-22 03:12"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.317152313760657e-05,
+      "timestamp": "2025-05-22 03:12"
+    },
+    {
+      "rank": 13,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 2.3167680982934338e-08,
+      "timestamp": "2025-05-22 03:12"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004166017615744755,
+      "timestamp": "2025-05-22 03:12"
+    },
+    {
+      "rank": 15,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.8290664367474452e-06,
+      "timestamp": "2025-05-22 03:12"
+    }
   ]
 }
