@@ -95977,5 +95977,112 @@
       "price_btc": 1.9828377810882626e-05,
       "timestamp": "2025-05-23 11:17"
     }
+  ],
+  "2025-05-23 12:40": [
+    {
+      "rank": 1,
+      "name": "Concordium",
+      "symbol": "CCD",
+      "price_btc": 3.7594007185012217e-08,
+      "timestamp": "2025-05-23 12:40"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00032191619831949836,
+      "timestamp": "2025-05-23 12:40"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.361036508388306e-05,
+      "timestamp": "2025-05-23 12:40"
+    },
+    {
+      "rank": 4,
+      "name": "SOON",
+      "symbol": "SOON",
+      "price_btc": 5.301509985775668e-06,
+      "timestamp": "2025-05-23 12:40"
+    },
+    {
+      "rank": 5,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.490472557348162e-06,
+      "timestamp": "2025-05-23 12:40"
+    },
+    {
+      "rank": 6,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.3432562664871966e-05,
+      "timestamp": "2025-05-23 12:40"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-23 12:40"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023419221391180474,
+      "timestamp": "2025-05-23 12:40"
+    },
+    {
+      "rank": 9,
+      "name": "Biconomy",
+      "symbol": "BICO",
+      "price_btc": 1.1450144369106728e-06,
+      "timestamp": "2025-05-23 12:40"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.876882751074454e-05,
+      "timestamp": "2025-05-23 12:40"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016259382521986397,
+      "timestamp": "2025-05-23 12:40"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012330518627973652,
+      "timestamp": "2025-05-23 12:40"
+    },
+    {
+      "rank": 13,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 8.243316870505375e-06,
+      "timestamp": "2025-05-23 12:40"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.4085895154993043e-05,
+      "timestamp": "2025-05-23 12:40"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.9093462323762445e-06,
+      "timestamp": "2025-05-23 12:40"
+    }
   ]
 }
