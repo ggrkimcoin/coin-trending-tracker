@@ -95121,5 +95121,112 @@
       "price_btc": 3.956158577936485e-06,
       "timestamp": "2025-05-23 03:11"
     }
+  ],
+  "2025-05-23 04:24": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003213250980955184,
+      "timestamp": "2025-05-23 04:24"
+    },
+    {
+      "rank": 2,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.4157698295489606e-05,
+      "timestamp": "2025-05-23 04:24"
+    },
+    {
+      "rank": 3,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5577626968258854e-06,
+      "timestamp": "2025-05-23 04:24"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5319484200555585e-05,
+      "timestamp": "2025-05-23 04:24"
+    },
+    {
+      "rank": 5,
+      "name": "Biconomy",
+      "symbol": "BICO",
+      "price_btc": 1.211832728316896e-06,
+      "timestamp": "2025-05-23 04:24"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016646037379719897,
+      "timestamp": "2025-05-23 04:24"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9942542810434716e-05,
+      "timestamp": "2025-05-23 04:24"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.4381431446858462e-10,
+      "timestamp": "2025-05-23 04:24"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024501016905475816,
+      "timestamp": "2025-05-23 04:24"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004237475848629608,
+      "timestamp": "2025-05-23 04:24"
+    },
+    {
+      "rank": 11,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.887336455804985e-06,
+      "timestamp": "2025-05-23 04:24"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.4497626013272872e-05,
+      "timestamp": "2025-05-23 04:24"
+    },
+    {
+      "rank": 13,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.92663852337366e-08,
+      "timestamp": "2025-05-23 04:24"
+    },
+    {
+      "rank": 14,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.7553078755853654e-06,
+      "timestamp": "2025-05-23 04:24"
+    },
+    {
+      "rank": 15,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 2.1337730414727624e-10,
+      "timestamp": "2025-05-23 04:24"
+    }
   ]
 }
