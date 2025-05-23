@@ -95442,5 +95442,112 @@
       "price_btc": 0.00015263691433584078,
       "timestamp": "2025-05-23 06:29"
     }
+  ],
+  "2025-05-23 07:19": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.467621189035928e-05,
+      "timestamp": "2025-05-23 07:19"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031763563403113015,
+      "timestamp": "2025-05-23 07:19"
+    },
+    {
+      "rank": 3,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.536278082211046e-06,
+      "timestamp": "2025-05-23 07:19"
+    },
+    {
+      "rank": 4,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.3940663352223888e-05,
+      "timestamp": "2025-05-23 07:19"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012429914261711522,
+      "timestamp": "2025-05-23 07:19"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9508346437794156e-05,
+      "timestamp": "2025-05-23 07:19"
+    },
+    {
+      "rank": 7,
+      "name": "Biconomy",
+      "symbol": "BICO",
+      "price_btc": 1.1850733184047232e-06,
+      "timestamp": "2025-05-23 07:19"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016330422948333113,
+      "timestamp": "2025-05-23 07:19"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.200266900824056e-06,
+      "timestamp": "2025-05-23 07:19"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.196170879743616e-05,
+      "timestamp": "2025-05-23 07:19"
+    },
+    {
+      "rank": 11,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.347202491009158e-06,
+      "timestamp": "2025-05-23 07:19"
+    },
+    {
+      "rank": 12,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0035416957761867816,
+      "timestamp": "2025-05-23 07:19"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-23 07:19"
+    },
+    {
+      "rank": 14,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.182926330066183e-05,
+      "timestamp": "2025-05-23 07:19"
+    },
+    {
+      "rank": 15,
+      "name": "LOFI",
+      "symbol": "LOFI",
+      "price_btc": 4.604083581573262e-07,
+      "timestamp": "2025-05-23 07:19"
+    }
   ]
 }
