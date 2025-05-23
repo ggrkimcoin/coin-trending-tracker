@@ -95656,5 +95656,112 @@
       "price_btc": 2.6043921366971783e-06,
       "timestamp": "2025-05-23 08:27"
     }
+  ],
+  "2025-05-23 09:22": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4767045924118594e-05,
+      "timestamp": "2025-05-23 09:22"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031933196482499427,
+      "timestamp": "2025-05-23 09:22"
+    },
+    {
+      "rank": 3,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5634692861987708e-06,
+      "timestamp": "2025-05-23 09:22"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016805977678310627,
+      "timestamp": "2025-05-23 09:22"
+    },
+    {
+      "rank": 5,
+      "name": "Biconomy",
+      "symbol": "BICO",
+      "price_btc": 1.1866644942034693e-06,
+      "timestamp": "2025-05-23 09:22"
+    },
+    {
+      "rank": 6,
+      "name": "Concordium",
+      "symbol": "CCD",
+      "price_btc": 3.690099164181855e-08,
+      "timestamp": "2025-05-23 09:22"
+    },
+    {
+      "rank": 7,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.3883507246055276e-05,
+      "timestamp": "2025-05-23 09:22"
+    },
+    {
+      "rank": 8,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.5771521365058173e-06,
+      "timestamp": "2025-05-23 09:22"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9247287884802762e-05,
+      "timestamp": "2025-05-23 09:22"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.09765713238172e-06,
+      "timestamp": "2025-05-23 09:22"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012534243435828412,
+      "timestamp": "2025-05-23 09:22"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.406863987058796e-10,
+      "timestamp": "2025-05-23 09:22"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.799598138046011e-06,
+      "timestamp": "2025-05-23 09:22"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.8027446705369554e-06,
+      "timestamp": "2025-05-23 09:22"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.4570477091376192e-05,
+      "timestamp": "2025-05-23 09:22"
+    }
   ]
 }
