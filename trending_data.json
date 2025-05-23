@@ -95228,5 +95228,112 @@
       "price_btc": 2.1337730414727624e-10,
       "timestamp": "2025-05-23 04:24"
     }
+  ],
+  "2025-05-23 05:20": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.517799414119886e-05,
+      "timestamp": "2025-05-23 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5477313847195462e-06,
+      "timestamp": "2025-05-23 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003132849807556198,
+      "timestamp": "2025-05-23 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.3870848374498197e-05,
+      "timestamp": "2025-05-23 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9618235415807502e-05,
+      "timestamp": "2025-05-23 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016482823847956388,
+      "timestamp": "2025-05-23 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02432558483581502,
+      "timestamp": "2025-05-23 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Biconomy",
+      "symbol": "BICO",
+      "price_btc": 1.1998824658778819e-06,
+      "timestamp": "2025-05-23 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.7319351211424297e-06,
+      "timestamp": "2025-05-23 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "price_btc": 7.68915114213709e-06,
+      "timestamp": "2025-05-23 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 9.286442084608015e-06,
+      "timestamp": "2025-05-23 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Distribute.ai",
+      "symbol": "DIS",
+      "price_btc": 5.606077792223052e-07,
+      "timestamp": "2025-05-23 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003501834851686267,
+      "timestamp": "2025-05-23 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.305913208242444e-07,
+      "timestamp": "2025-05-23 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.7551453264131984e-06,
+      "timestamp": "2025-05-23 05:20"
+    }
   ]
 }
