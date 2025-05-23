@@ -96833,5 +96833,112 @@
       "price_btc": 1.9096777272239913e-05,
       "timestamp": "2025-05-23 19:16"
     }
+  ],
+  "2025-05-23 20:22": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003142306567814385,
+      "timestamp": "2025-05-23 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "Concordium",
+      "symbol": "CCD",
+      "price_btc": 3.739547445543972e-08,
+      "timestamp": "2025-05-23 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.425468172436173e-05,
+      "timestamp": "2025-05-23 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "SOON",
+      "symbol": "SOON",
+      "price_btc": 4.366654582550774e-06,
+      "timestamp": "2025-05-23 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001649466242494944,
+      "timestamp": "2025-05-23 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5170552108887123e-06,
+      "timestamp": "2025-05-23 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004046875826909472,
+      "timestamp": "2025-05-23 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.0945855175653925e-06,
+      "timestamp": "2025-05-23 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.735053081486992e-06,
+      "timestamp": "2025-05-23 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012118965328187973,
+      "timestamp": "2025-05-23 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1613579849281866e-05,
+      "timestamp": "2025-05-23 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.4029622777917936e-05,
+      "timestamp": "2025-05-23 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.922963890385226e-06,
+      "timestamp": "2025-05-23 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9096752930563523e-05,
+      "timestamp": "2025-05-23 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.767983540281195e-08,
+      "timestamp": "2025-05-23 20:22"
+    }
   ]
 }
