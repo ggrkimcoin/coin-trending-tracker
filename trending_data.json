@@ -97154,5 +97154,112 @@
       "price_btc": 0.003674617427827074,
       "timestamp": "2025-05-23 22:19"
     }
+  ],
+  "2025-05-23 23:19": [
+    {
+      "rank": 1,
+      "name": "Concordium",
+      "symbol": "CCD",
+      "price_btc": 3.7826617680532335e-08,
+      "timestamp": "2025-05-23 23:19"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8238141387177618e-05,
+      "timestamp": "2025-05-23 23:19"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003094563719240351,
+      "timestamp": "2025-05-23 23:19"
+    },
+    {
+      "rank": 4,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.4834189426742738e-06,
+      "timestamp": "2025-05-23 23:19"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3770488559457935e-05,
+      "timestamp": "2025-05-23 23:19"
+    },
+    {
+      "rank": 6,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.287518809828157e-05,
+      "timestamp": "2025-05-23 23:19"
+    },
+    {
+      "rank": 7,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.6901882420278966e-06,
+      "timestamp": "2025-05-23 23:19"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.039762535379608e-06,
+      "timestamp": "2025-05-23 23:19"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001632482195307793,
+      "timestamp": "2025-05-23 23:19"
+    },
+    {
+      "rank": 10,
+      "name": "SOON",
+      "symbol": "SOON",
+      "price_btc": 4.199343729407391e-06,
+      "timestamp": "2025-05-23 23:19"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011929520830473055,
+      "timestamp": "2025-05-23 23:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02356961278756386,
+      "timestamp": "2025-05-23 23:19"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3370082372372858e-10,
+      "timestamp": "2025-05-23 23:19"
+    },
+    {
+      "rank": 14,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.289377216128304e-06,
+      "timestamp": "2025-05-23 23:19"
+    },
+    {
+      "rank": 15,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.545924208156485e-06,
+      "timestamp": "2025-05-23 23:19"
+    }
   ]
 }
