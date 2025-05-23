@@ -96940,5 +96940,112 @@
       "price_btc": 4.767983540281195e-08,
       "timestamp": "2025-05-23 20:22"
     }
+  ],
+  "2025-05-23 21:16": [
+    {
+      "rank": 1,
+      "name": "Concordium",
+      "symbol": "CCD",
+      "price_btc": 3.7578121520529106e-08,
+      "timestamp": "2025-05-23 21:16"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003074978349417108,
+      "timestamp": "2025-05-23 21:16"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.396235971636745e-05,
+      "timestamp": "2025-05-23 21:16"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016386412001268493,
+      "timestamp": "2025-05-23 21:16"
+    },
+    {
+      "rank": 5,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5065619476777223e-06,
+      "timestamp": "2025-05-23 21:16"
+    },
+    {
+      "rank": 6,
+      "name": "SOON",
+      "symbol": "SOON",
+      "price_btc": 4.332140826725647e-06,
+      "timestamp": "2025-05-23 21:16"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8561474576942927e-05,
+      "timestamp": "2025-05-23 21:16"
+    },
+    {
+      "rank": 8,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.3159368440393021e-05,
+      "timestamp": "2025-05-23 21:16"
+    },
+    {
+      "rank": 9,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.1335302835403272e-06,
+      "timestamp": "2025-05-23 21:16"
+    },
+    {
+      "rank": 10,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0036563786283839617,
+      "timestamp": "2025-05-23 21:16"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.06314616116274e-06,
+      "timestamp": "2025-05-23 21:16"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.837648070273458e-06,
+      "timestamp": "2025-05-23 21:16"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004003269318958577,
+      "timestamp": "2025-05-23 21:16"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012000674909835148,
+      "timestamp": "2025-05-23 21:16"
+    },
+    {
+      "rank": 15,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.647413070958849e-08,
+      "timestamp": "2025-05-23 21:16"
+    }
   ]
 }
