@@ -95014,5 +95014,112 @@
       "price_btc": 7.18760958916613e-06,
       "timestamp": "2025-05-23 01:43"
     }
+  ],
+  "2025-05-23 03:11": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.5034955387683e-05,
+      "timestamp": "2025-05-23 03:11"
+    },
+    {
+      "rank": 2,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5224354245071828e-06,
+      "timestamp": "2025-05-23 03:11"
+    },
+    {
+      "rank": 3,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.437728136936577e-10,
+      "timestamp": "2025-05-23 03:11"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031772660994028914,
+      "timestamp": "2025-05-23 03:11"
+    },
+    {
+      "rank": 5,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.4028405830111356e-05,
+      "timestamp": "2025-05-23 03:11"
+    },
+    {
+      "rank": 6,
+      "name": "Biconomy",
+      "symbol": "BICO",
+      "price_btc": 1.202966985429705e-06,
+      "timestamp": "2025-05-23 03:11"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024410600530238358,
+      "timestamp": "2025-05-23 03:11"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.4558541148636532e-05,
+      "timestamp": "2025-05-23 03:11"
+    },
+    {
+      "rank": 9,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.883590051534613e-06,
+      "timestamp": "2025-05-23 03:11"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001656413154122115,
+      "timestamp": "2025-05-23 03:11"
+    },
+    {
+      "rank": 11,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 1.2071217928175302e-05,
+      "timestamp": "2025-05-23 03:11"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9247589936180527e-05,
+      "timestamp": "2025-05-23 03:11"
+    },
+    {
+      "rank": 13,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.9101242788708035e-06,
+      "timestamp": "2025-05-23 03:11"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00013046365522332141,
+      "timestamp": "2025-05-23 03:11"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.956158577936485e-06,
+      "timestamp": "2025-05-23 03:11"
+    }
   ]
 }
