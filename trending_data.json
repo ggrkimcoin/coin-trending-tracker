@@ -95870,5 +95870,112 @@
       "price_btc": 5.570780764219125e-06,
       "timestamp": "2025-05-23 10:21"
     }
+  ],
+  "2025-05-23 11:17": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003321109129224094,
+      "timestamp": "2025-05-23 11:17"
+    },
+    {
+      "rank": 2,
+      "name": "Concordium",
+      "symbol": "CCD",
+      "price_btc": 3.6715042410453864e-08,
+      "timestamp": "2025-05-23 11:17"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.483748663600563e-05,
+      "timestamp": "2025-05-23 11:17"
+    },
+    {
+      "rank": 4,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5551084207409812e-06,
+      "timestamp": "2025-05-23 11:17"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012542485827858453,
+      "timestamp": "2025-05-23 11:17"
+    },
+    {
+      "rank": 6,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.4075145455572883e-05,
+      "timestamp": "2025-05-23 11:17"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-23 11:17"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.4540253424554657e-05,
+      "timestamp": "2025-05-23 11:17"
+    },
+    {
+      "rank": 9,
+      "name": "Biconomy",
+      "symbol": "BICO",
+      "price_btc": 1.1934247075903667e-06,
+      "timestamp": "2025-05-23 11:17"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024026661169425277,
+      "timestamp": "2025-05-23 11:17"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.4160835124337804e-10,
+      "timestamp": "2025-05-23 11:17"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016764723581852742,
+      "timestamp": "2025-05-23 11:17"
+    },
+    {
+      "rank": 13,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.674135443080182e-06,
+      "timestamp": "2025-05-23 11:17"
+    },
+    {
+      "rank": 14,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 8.382110062286882e-06,
+      "timestamp": "2025-05-23 11:17"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9828377810882626e-05,
+      "timestamp": "2025-05-23 11:17"
+    }
   ]
 }
