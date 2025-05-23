@@ -97047,5 +97047,112 @@
       "price_btc": 4.647413070958849e-08,
       "timestamp": "2025-05-23 21:16"
     }
+  ],
+  "2025-05-23 22:19": [
+    {
+      "rank": 1,
+      "name": "Concordium",
+      "symbol": "CCD",
+      "price_btc": 3.761237072276799e-08,
+      "timestamp": "2025-05-23 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003105255692648139,
+      "timestamp": "2025-05-23 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3678092488361776e-05,
+      "timestamp": "2025-05-23 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8377514135866744e-05,
+      "timestamp": "2025-05-23 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-23 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.4858426093396773e-06,
+      "timestamp": "2025-05-23 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.307723761219216e-06,
+      "timestamp": "2025-05-23 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0052696396802998e-06,
+      "timestamp": "2025-05-23 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016343291742648325,
+      "timestamp": "2025-05-23 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "SOON",
+      "symbol": "SOON",
+      "price_btc": 4.3085804900282484e-06,
+      "timestamp": "2025-05-23 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3855602608322836e-05,
+      "timestamp": "2025-05-23 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003972081463831831,
+      "timestamp": "2025-05-23 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001459942129649383,
+      "timestamp": "2025-05-23 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 5.6577314770098025e-06,
+      "timestamp": "2025-05-23 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003674617427827074,
+      "timestamp": "2025-05-23 22:19"
+    }
   ]
 }
