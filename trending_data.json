@@ -96191,5 +96191,112 @@
       "price_btc": 1.897700327372662e-05,
       "timestamp": "2025-05-23 13:30"
     }
+  ],
+  "2025-05-23 14:19": [
+    {
+      "rank": 1,
+      "name": "Concordium",
+      "symbol": "CCD",
+      "price_btc": 3.711726596834301e-08,
+      "timestamp": "2025-05-23 14:19"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003310046054872089,
+      "timestamp": "2025-05-23 14:19"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.36606122739421e-05,
+      "timestamp": "2025-05-23 14:19"
+    },
+    {
+      "rank": 4,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.3459766270886222e-05,
+      "timestamp": "2025-05-23 14:19"
+    },
+    {
+      "rank": 5,
+      "name": "SOON",
+      "symbol": "SOON",
+      "price_btc": 5.126537966342434e-06,
+      "timestamp": "2025-05-23 14:19"
+    },
+    {
+      "rank": 6,
+      "name": "Biconomy",
+      "symbol": "BICO",
+      "price_btc": 1.1575233377659765e-06,
+      "timestamp": "2025-05-23 14:19"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-23 14:19"
+    },
+    {
+      "rank": 8,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.4813273628086372e-06,
+      "timestamp": "2025-05-23 14:19"
+    },
+    {
+      "rank": 9,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 8.395512851962885e-06,
+      "timestamp": "2025-05-23 14:19"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023511947154754662,
+      "timestamp": "2025-05-23 14:19"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9569983592890504e-05,
+      "timestamp": "2025-05-23 14:19"
+    },
+    {
+      "rank": 12,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.842207191104851e-06,
+      "timestamp": "2025-05-23 14:19"
+    },
+    {
+      "rank": 13,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00012299194960877882,
+      "timestamp": "2025-05-23 14:19"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1552764481439463e-05,
+      "timestamp": "2025-05-23 14:19"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.970040404357475e-06,
+      "timestamp": "2025-05-23 14:19"
+    }
   ]
 }
