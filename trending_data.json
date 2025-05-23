@@ -95763,5 +95763,112 @@
       "price_btc": 1.4570477091376192e-05,
       "timestamp": "2025-05-23 09:22"
     }
+  ],
+  "2025-05-23 10:21": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4993698802331805e-05,
+      "timestamp": "2025-05-23 10:21"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033208951975570016,
+      "timestamp": "2025-05-23 10:21"
+    },
+    {
+      "rank": 3,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5597119883224728e-06,
+      "timestamp": "2025-05-23 10:21"
+    },
+    {
+      "rank": 4,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.4065899321973794e-05,
+      "timestamp": "2025-05-23 10:21"
+    },
+    {
+      "rank": 5,
+      "name": "Biconomy",
+      "symbol": "BICO",
+      "price_btc": 1.1942579023566603e-06,
+      "timestamp": "2025-05-23 10:21"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016817478078071436,
+      "timestamp": "2025-05-23 10:21"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02411144849177695,
+      "timestamp": "2025-05-23 10:21"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.4236034456577516e-10,
+      "timestamp": "2025-05-23 10:21"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.4720120785385184e-05,
+      "timestamp": "2025-05-23 10:21"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.991673481790242e-05,
+      "timestamp": "2025-05-23 10:21"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-23 10:21"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001259824190508414,
+      "timestamp": "2025-05-23 10:21"
+    },
+    {
+      "rank": 13,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00023256778236523828,
+      "timestamp": "2025-05-23 10:21"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004212432297588192,
+      "timestamp": "2025-05-23 10:21"
+    },
+    {
+      "rank": 15,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.570780764219125e-06,
+      "timestamp": "2025-05-23 10:21"
+    }
   ]
 }
