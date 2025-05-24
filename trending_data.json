@@ -99401,5 +99401,112 @@
       "price_btc": 8.72252340849767e-06,
       "timestamp": "2025-05-24 21:17"
     }
+  ],
+  "2025-05-24 22:18": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00032721767272655603,
+      "timestamp": "2025-05-24 22:18"
+    },
+    {
+      "rank": 2,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.8796946953194004e-08,
+      "timestamp": "2025-05-24 22:18"
+    },
+    {
+      "rank": 3,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.935426550083094e-06,
+      "timestamp": "2025-05-24 22:18"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.195267238090125e-06,
+      "timestamp": "2025-05-24 22:18"
+    },
+    {
+      "rank": 5,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 4.104019812611476e-05,
+      "timestamp": "2025-05-24 22:18"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016293054629994972,
+      "timestamp": "2025-05-24 22:18"
+    },
+    {
+      "rank": 7,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0037112778639010256,
+      "timestamp": "2025-05-24 22:18"
+    },
+    {
+      "rank": 8,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011942831790909058,
+      "timestamp": "2025-05-24 22:18"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004005673329043772,
+      "timestamp": "2025-05-24 22:18"
+    },
+    {
+      "rank": 10,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024183875378940892,
+      "timestamp": "2025-05-24 22:18"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3355385764151825e-05,
+      "timestamp": "2025-05-24 22:18"
+    },
+    {
+      "rank": 12,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.949988221979922e-07,
+      "timestamp": "2025-05-24 22:18"
+    },
+    {
+      "rank": 13,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.6875125087945493e-06,
+      "timestamp": "2025-05-24 22:18"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023347779556137364,
+      "timestamp": "2025-05-24 22:18"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1540469524270843e-05,
+      "timestamp": "2025-05-24 22:18"
+    }
   ]
 }
