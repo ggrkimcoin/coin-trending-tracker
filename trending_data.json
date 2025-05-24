@@ -97689,5 +97689,112 @@
       "price_btc": 1.304368501090136e-10,
       "timestamp": "2025-05-24 05:19"
     }
+  ],
+  "2025-05-24 06:26": [
+    {
+      "rank": 1,
+      "name": "Concordium",
+      "symbol": "CCD",
+      "price_btc": 3.762822579374479e-08,
+      "timestamp": "2025-05-24 06:26"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.397262048674365e-05,
+      "timestamp": "2025-05-24 06:26"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00030536137721756353,
+      "timestamp": "2025-05-24 06:26"
+    },
+    {
+      "rank": 4,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.3673551803760855e-06,
+      "timestamp": "2025-05-24 06:26"
+    },
+    {
+      "rank": 5,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 2.9083151152817706e-08,
+      "timestamp": "2025-05-24 06:26"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016165288125259173,
+      "timestamp": "2025-05-24 06:26"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-24 06:26"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.241868607106431e-06,
+      "timestamp": "2025-05-24 06:26"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.160375308118665e-05,
+      "timestamp": "2025-05-24 06:26"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023556041749698907,
+      "timestamp": "2025-05-24 06:26"
+    },
+    {
+      "rank": 11,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.4734594033242717e-06,
+      "timestamp": "2025-05-24 06:26"
+    },
+    {
+      "rank": 12,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 3.7058519675460918e-06,
+      "timestamp": "2025-05-24 06:26"
+    },
+    {
+      "rank": 13,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5174817170424844e-06,
+      "timestamp": "2025-05-24 06:26"
+    },
+    {
+      "rank": 14,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2147286244153712e-07,
+      "timestamp": "2025-05-24 06:26"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8272715686816377e-05,
+      "timestamp": "2025-05-24 06:26"
+    }
   ]
 }
