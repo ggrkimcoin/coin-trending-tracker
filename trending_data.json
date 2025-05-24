@@ -97261,5 +97261,112 @@
       "price_btc": 2.545924208156485e-06,
       "timestamp": "2025-05-23 23:19"
     }
+  ],
+  "2025-05-24 01:39": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3675084171437966e-05,
+      "timestamp": "2025-05-24 01:39"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-24 01:39"
+    },
+    {
+      "rank": 3,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2733183789758967e-10,
+      "timestamp": "2025-05-24 01:39"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00030616043828055674,
+      "timestamp": "2025-05-24 01:39"
+    },
+    {
+      "rank": 5,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 2.842267453811517e-08,
+      "timestamp": "2025-05-24 01:39"
+    },
+    {
+      "rank": 6,
+      "name": "SOON",
+      "symbol": "SOON",
+      "price_btc": 4.082712979253977e-06,
+      "timestamp": "2025-05-24 01:39"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.308644784890776e-06,
+      "timestamp": "2025-05-24 01:39"
+    },
+    {
+      "rank": 8,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.4993815321964857e-06,
+      "timestamp": "2025-05-24 01:39"
+    },
+    {
+      "rank": 9,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.642732494842347e-06,
+      "timestamp": "2025-05-24 01:39"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8046729353438813e-05,
+      "timestamp": "2025-05-24 01:39"
+    },
+    {
+      "rank": 11,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0036197215635559387,
+      "timestamp": "2025-05-24 01:39"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02343303416834257,
+      "timestamp": "2025-05-24 01:39"
+    },
+    {
+      "rank": 13,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.505086594444484e-06,
+      "timestamp": "2025-05-24 01:39"
+    },
+    {
+      "rank": 14,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 5.6058933153521095e-06,
+      "timestamp": "2025-05-24 01:39"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3713979771046464e-05,
+      "timestamp": "2025-05-24 01:39"
+    }
   ]
 }
