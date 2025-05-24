@@ -97368,5 +97368,112 @@
       "price_btc": 1.3713979771046464e-05,
       "timestamp": "2025-05-24 01:39"
     }
+  ],
+  "2025-05-24 03:06": [
+    {
+      "rank": 1,
+      "name": "Concordium",
+      "symbol": "CCD",
+      "price_btc": 3.781496083265571e-08,
+      "timestamp": "2025-05-24 03:06"
+    },
+    {
+      "rank": 2,
+      "name": "SOON",
+      "symbol": "SOON",
+      "price_btc": 4.1982604855524245e-06,
+      "timestamp": "2025-05-24 03:06"
+    },
+    {
+      "rank": 3,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 2.9366472974242858e-08,
+      "timestamp": "2025-05-24 03:06"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00030166098642021654,
+      "timestamp": "2025-05-24 03:06"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.377469053198655e-05,
+      "timestamp": "2025-05-24 03:06"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016212251310645295,
+      "timestamp": "2025-05-24 03:06"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.287508913628392e-06,
+      "timestamp": "2025-05-24 03:06"
+    },
+    {
+      "rank": 8,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.1016008520086038e-05,
+      "timestamp": "2025-05-24 03:06"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023554105949393105,
+      "timestamp": "2025-05-24 03:06"
+    },
+    {
+      "rank": 10,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5005645389327364e-06,
+      "timestamp": "2025-05-24 03:06"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.732870912144394e-06,
+      "timestamp": "2025-05-24 03:06"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.15690591674701e-05,
+      "timestamp": "2025-05-24 03:06"
+    },
+    {
+      "rank": 13,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2136651497754803e-07,
+      "timestamp": "2025-05-24 03:06"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011784161933569183,
+      "timestamp": "2025-05-24 03:06"
+    },
+    {
+      "rank": 15,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 1.039157784712937e-05,
+      "timestamp": "2025-05-24 03:06"
+    }
   ]
 }
