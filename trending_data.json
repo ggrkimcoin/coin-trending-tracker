@@ -98010,5 +98010,112 @@
       "price_btc": 1.543711317747647e-07,
       "timestamp": "2025-05-24 08:23"
     }
+  ],
+  "2025-05-24 09:19": [
+    {
+      "rank": 1,
+      "name": "Orbiter Finance",
+      "symbol": "OBT",
+      "price_btc": 1.1219456822146332e-07,
+      "timestamp": "2025-05-24 09:19"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003175974120382628,
+      "timestamp": "2025-05-24 09:19"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3704983730614025e-05,
+      "timestamp": "2025-05-24 09:19"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-24 09:19"
+    },
+    {
+      "rank": 5,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.304757744863599e-06,
+      "timestamp": "2025-05-24 09:19"
+    },
+    {
+      "rank": 6,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.7614850051852765e-06,
+      "timestamp": "2025-05-24 09:19"
+    },
+    {
+      "rank": 7,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.1068291264614192e-05,
+      "timestamp": "2025-05-24 09:19"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016091578402759096,
+      "timestamp": "2025-05-24 09:19"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2798175425838938e-10,
+      "timestamp": "2025-05-24 09:19"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8084762756408034e-05,
+      "timestamp": "2025-05-24 09:19"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023578677422347424,
+      "timestamp": "2025-05-24 09:19"
+    },
+    {
+      "rank": 12,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 7.531771244778665e-07,
+      "timestamp": "2025-05-24 09:19"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.188868401584344e-06,
+      "timestamp": "2025-05-24 09:19"
+    },
+    {
+      "rank": 14,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 7.804689834079064e-06,
+      "timestamp": "2025-05-24 09:19"
+    },
+    {
+      "rank": 15,
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "price_btc": 4.8477223855975345e-05,
+      "timestamp": "2025-05-24 09:19"
+    }
   ]
 }
