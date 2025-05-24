@@ -98759,5 +98759,112 @@
       "price_btc": 2.819511366691529e-05,
       "timestamp": "2025-05-24 15:18"
     }
+  ],
+  "2025-05-24 16:23": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031680954839644125,
+      "timestamp": "2025-05-24 16:23"
+    },
+    {
+      "rank": 2,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.3328063744334215e-08,
+      "timestamp": "2025-05-24 16:23"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.331561936290082e-05,
+      "timestamp": "2025-05-24 16:23"
+    },
+    {
+      "rank": 4,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011973033793897743,
+      "timestamp": "2025-05-24 16:23"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016169120026617114,
+      "timestamp": "2025-05-24 16:23"
+    },
+    {
+      "rank": 6,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.845781415144285e-06,
+      "timestamp": "2025-05-24 16:23"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023446213022826696,
+      "timestamp": "2025-05-24 16:23"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.075672443653026e-06,
+      "timestamp": "2025-05-24 16:23"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.907943552904638e-06,
+      "timestamp": "2025-05-24 16:23"
+    },
+    {
+      "rank": 10,
+      "name": "ZIGChain",
+      "symbol": "ZIG",
+      "price_btc": 9.145750704191776e-07,
+      "timestamp": "2025-05-24 16:23"
+    },
+    {
+      "rank": 11,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2087967375138007e-07,
+      "timestamp": "2025-05-24 16:23"
+    },
+    {
+      "rank": 12,
+      "name": "tao.bot",
+      "symbol": "TAOBOT",
+      "price_btc": 4.946763774825138e-06,
+      "timestamp": "2025-05-24 16:23"
+    },
+    {
+      "rank": 13,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001435817408046563,
+      "timestamp": "2025-05-24 16:23"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.77571110315275e-06,
+      "timestamp": "2025-05-24 16:23"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-24 16:23"
+    }
   ]
 }
