@@ -98117,5 +98117,112 @@
       "price_btc": 4.8477223855975345e-05,
       "timestamp": "2025-05-24 09:19"
     }
+  ],
+  "2025-05-24 10:19": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.365831477134414e-05,
+      "timestamp": "2025-05-24 10:19"
+    },
+    {
+      "rank": 2,
+      "name": "Orbiter Finance",
+      "symbol": "OBT",
+      "price_btc": 1.0845071914540347e-07,
+      "timestamp": "2025-05-24 10:19"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016210753046589825,
+      "timestamp": "2025-05-24 10:19"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031885895591931846,
+      "timestamp": "2025-05-24 10:19"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011888260037024274,
+      "timestamp": "2025-05-24 10:19"
+    },
+    {
+      "rank": 6,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5171245921780183e-06,
+      "timestamp": "2025-05-24 10:19"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3448006688633187e-05,
+      "timestamp": "2025-05-24 10:19"
+    },
+    {
+      "rank": 8,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.7755426487738007e-06,
+      "timestamp": "2025-05-24 10:19"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.399676299273408e-06,
+      "timestamp": "2025-05-24 10:19"
+    },
+    {
+      "rank": 10,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.111732207696237e-05,
+      "timestamp": "2025-05-24 10:19"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2837045251037278e-10,
+      "timestamp": "2025-05-24 10:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.4332687883876155e-06,
+      "timestamp": "2025-05-24 10:19"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-24 10:19"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.819252645364959e-05,
+      "timestamp": "2025-05-24 10:19"
+    },
+    {
+      "rank": 15,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 8.022600030454001e-07,
+      "timestamp": "2025-05-24 10:19"
+    }
   ]
 }
