@@ -99187,5 +99187,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-05-24 19:15"
     }
+  ],
+  "2025-05-24 20:20": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003222476048862117,
+      "timestamp": "2025-05-24 20:20"
+    },
+    {
+      "rank": 2,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.6655106843120436e-08,
+      "timestamp": "2025-05-24 20:20"
+    },
+    {
+      "rank": 3,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.92523414677046e-06,
+      "timestamp": "2025-05-24 20:20"
+    },
+    {
+      "rank": 4,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 4.110725924829569e-05,
+      "timestamp": "2025-05-24 20:20"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3304113832072185e-05,
+      "timestamp": "2025-05-24 20:20"
+    },
+    {
+      "rank": 6,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024430274822661953,
+      "timestamp": "2025-05-24 20:20"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.707163203928326e-06,
+      "timestamp": "2025-05-24 20:20"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02344323947091702,
+      "timestamp": "2025-05-24 20:20"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.094799724767816e-06,
+      "timestamp": "2025-05-24 20:20"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004016503936167801,
+      "timestamp": "2025-05-24 20:20"
+    },
+    {
+      "rank": 11,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003662274585016026,
+      "timestamp": "2025-05-24 20:20"
+    },
+    {
+      "rank": 12,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2982403826014044e-05,
+      "timestamp": "2025-05-24 20:20"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.861796953227547e-05,
+      "timestamp": "2025-05-24 20:20"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3501154983059833e-05,
+      "timestamp": "2025-05-24 20:20"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.3839856199744277e-06,
+      "timestamp": "2025-05-24 20:20"
+    }
   ]
 }
