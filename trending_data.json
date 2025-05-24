@@ -97796,5 +97796,112 @@
       "price_btc": 1.8272715686816377e-05,
       "timestamp": "2025-05-24 06:26"
     }
+  ],
+  "2025-05-24 07:17": [
+    {
+      "rank": 1,
+      "name": "Concordium",
+      "symbol": "CCD",
+      "price_btc": 3.7718807451126263e-08,
+      "timestamp": "2025-05-24 07:17"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3886153275384464e-05,
+      "timestamp": "2025-05-24 07:17"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-24 07:17"
+    },
+    {
+      "rank": 4,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.0046025107611e-06,
+      "timestamp": "2025-05-24 07:17"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003060662937843911,
+      "timestamp": "2025-05-24 07:17"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0235636807974643,
+      "timestamp": "2025-05-24 07:17"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016143414905618176,
+      "timestamp": "2025-05-24 07:17"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.224303395680129e-06,
+      "timestamp": "2025-05-24 07:17"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003931681025250336,
+      "timestamp": "2025-05-24 07:17"
+    },
+    {
+      "rank": 10,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 2.9575575219459368e-08,
+      "timestamp": "2025-05-24 07:17"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.818692580708833e-05,
+      "timestamp": "2025-05-24 07:17"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2872825389319534e-10,
+      "timestamp": "2025-05-24 07:17"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1625585680915113e-05,
+      "timestamp": "2025-05-24 07:17"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.793230237846414e-06,
+      "timestamp": "2025-05-24 07:17"
+    },
+    {
+      "rank": 15,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.1008810987717478e-05,
+      "timestamp": "2025-05-24 07:17"
+    }
   ]
 }
