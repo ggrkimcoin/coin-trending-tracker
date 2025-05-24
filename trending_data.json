@@ -99294,5 +99294,112 @@
       "price_btc": 3.3839856199744277e-06,
       "timestamp": "2025-05-24 20:20"
     }
+  ],
+  "2025-05-24 21:17": [
+    {
+      "rank": 1,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.953121674462259e-08,
+      "timestamp": "2025-05-24 21:17"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003289698075535006,
+      "timestamp": "2025-05-24 21:17"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2214206912376514e-07,
+      "timestamp": "2025-05-24 21:17"
+    },
+    {
+      "rank": 4,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.93391892850947e-06,
+      "timestamp": "2025-05-24 21:17"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.33958047341823e-05,
+      "timestamp": "2025-05-24 21:17"
+    },
+    {
+      "rank": 6,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 4.098038133735782e-05,
+      "timestamp": "2025-05-24 21:17"
+    },
+    {
+      "rank": 7,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0036909435684079877,
+      "timestamp": "2025-05-24 21:17"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001632107713395529,
+      "timestamp": "2025-05-24 21:17"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023459376648743528,
+      "timestamp": "2025-05-24 21:17"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0040082954040764375,
+      "timestamp": "2025-05-24 21:17"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 1.004738848662471e-06,
+      "timestamp": "2025-05-24 21:17"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.1575222177229935e-06,
+      "timestamp": "2025-05-24 21:17"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3468233015096614e-05,
+      "timestamp": "2025-05-24 21:17"
+    },
+    {
+      "rank": 14,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2962032218304626e-05,
+      "timestamp": "2025-05-24 21:17"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.72252340849767e-06,
+      "timestamp": "2025-05-24 21:17"
+    }
   ]
 }
