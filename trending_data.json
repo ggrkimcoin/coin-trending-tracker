@@ -98652,5 +98652,112 @@
       "price_btc": 1.8235188898196097e-05,
       "timestamp": "2025-05-24 14:16"
     }
+  ],
+  "2025-05-24 15:18": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.349830960081495e-05,
+      "timestamp": "2025-05-24 15:18"
+    },
+    {
+      "rank": 2,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011960581393740556,
+      "timestamp": "2025-05-24 15:18"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003152725740373867,
+      "timestamp": "2025-05-24 15:18"
+    },
+    {
+      "rank": 4,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.890720731033877e-06,
+      "timestamp": "2025-05-24 15:18"
+    },
+    {
+      "rank": 5,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.3321300293249133e-08,
+      "timestamp": "2025-05-24 15:18"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.078756947879087e-06,
+      "timestamp": "2025-05-24 15:18"
+    },
+    {
+      "rank": 7,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.4923491967871177e-06,
+      "timestamp": "2025-05-24 15:18"
+    },
+    {
+      "rank": 8,
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "price_btc": 2.1735132337527163e-06,
+      "timestamp": "2025-05-24 15:18"
+    },
+    {
+      "rank": 9,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002451751832521532,
+      "timestamp": "2025-05-24 15:18"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.22145775337051e-07,
+      "timestamp": "2025-05-24 15:18"
+    },
+    {
+      "rank": 11,
+      "name": "ZIGChain",
+      "symbol": "ZIG",
+      "price_btc": 9.151906394616847e-07,
+      "timestamp": "2025-05-24 15:18"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8618922169735762e-05,
+      "timestamp": "2025-05-24 15:18"
+    },
+    {
+      "rank": 13,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.3686403487963714e-05,
+      "timestamp": "2025-05-24 15:18"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016221323229023469,
+      "timestamp": "2025-05-24 15:18"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.819511366691529e-05,
+      "timestamp": "2025-05-24 15:18"
+    }
   ]
 }
