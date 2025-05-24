@@ -97582,5 +97582,112 @@
       "price_btc": 3.4479919332918864e-06,
       "timestamp": "2025-05-24 04:23"
     }
+  ],
+  "2025-05-24 05:19": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.390168939967537e-05,
+      "timestamp": "2025-05-24 05:19"
+    },
+    {
+      "rank": 2,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.0014500000497235e-08,
+      "timestamp": "2025-05-24 05:19"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003109428545891568,
+      "timestamp": "2025-05-24 05:19"
+    },
+    {
+      "rank": 4,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.37134063229342e-06,
+      "timestamp": "2025-05-24 05:19"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-24 05:19"
+    },
+    {
+      "rank": 6,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.3135229388292758e-05,
+      "timestamp": "2025-05-24 05:19"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023587415674479705,
+      "timestamp": "2025-05-24 05:19"
+    },
+    {
+      "rank": 8,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.4882430131112915e-06,
+      "timestamp": "2025-05-24 05:19"
+    },
+    {
+      "rank": 9,
+      "name": "SOON",
+      "symbol": "SOON",
+      "price_btc": 4.029969023170429e-06,
+      "timestamp": "2025-05-24 05:19"
+    },
+    {
+      "rank": 10,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.1226104951383026e-05,
+      "timestamp": "2025-05-24 05:19"
+    },
+    {
+      "rank": 11,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5207288089529375e-06,
+      "timestamp": "2025-05-24 05:19"
+    },
+    {
+      "rank": 12,
+      "name": "Concordium",
+      "symbol": "CCD",
+      "price_btc": 3.756127570739007e-08,
+      "timestamp": "2025-05-24 05:19"
+    },
+    {
+      "rank": 13,
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "price_btc": 2.5022383248218693e-06,
+      "timestamp": "2025-05-24 05:19"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.233013777859337e-06,
+      "timestamp": "2025-05-24 05:19"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.304368501090136e-10,
+      "timestamp": "2025-05-24 05:19"
+    }
   ]
 }
