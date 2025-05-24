@@ -98331,5 +98331,112 @@
       "price_btc": 1.8281326244974653e-05,
       "timestamp": "2025-05-24 11:15"
     }
+  ],
+  "2025-05-24 12:37": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003187856683746735,
+      "timestamp": "2025-05-24 12:37"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.355065166383994e-05,
+      "timestamp": "2025-05-24 12:37"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016227274100701079,
+      "timestamp": "2025-05-24 12:37"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.124657708781678e-06,
+      "timestamp": "2025-05-24 12:37"
+    },
+    {
+      "rank": 5,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.859086170040893e-06,
+      "timestamp": "2025-05-24 12:37"
+    },
+    {
+      "rank": 6,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011869136610596261,
+      "timestamp": "2025-05-24 12:37"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02351921034605126,
+      "timestamp": "2025-05-24 12:37"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3533357642861712e-05,
+      "timestamp": "2025-05-24 12:37"
+    },
+    {
+      "rank": 9,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.4906572869541217e-06,
+      "timestamp": "2025-05-24 12:37"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.824438851356307e-05,
+      "timestamp": "2025-05-24 12:37"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0039942271790798945,
+      "timestamp": "2025-05-24 12:37"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.286233593346431e-10,
+      "timestamp": "2025-05-24 12:37"
+    },
+    {
+      "rank": 13,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.1178815058685594e-08,
+      "timestamp": "2025-05-24 12:37"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-24 12:37"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002425047550973903,
+      "timestamp": "2025-05-24 12:37"
+    }
   ]
 }
