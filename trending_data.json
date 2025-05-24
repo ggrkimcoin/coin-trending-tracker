@@ -97475,5 +97475,112 @@
       "price_btc": 1.039157784712937e-05,
       "timestamp": "2025-05-24 03:06"
     }
+  ],
+  "2025-05-24 04:23": [
+    {
+      "rank": 1,
+      "name": "Concordium",
+      "symbol": "CCD",
+      "price_btc": 3.761138781174889e-08,
+      "timestamp": "2025-05-24 04:23"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.38301548171483e-05,
+      "timestamp": "2025-05-24 04:23"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003093201277255053,
+      "timestamp": "2025-05-24 04:23"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-24 04:23"
+    },
+    {
+      "rank": 5,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.050223471560718e-08,
+      "timestamp": "2025-05-24 04:23"
+    },
+    {
+      "rank": 6,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.3148722221644904e-05,
+      "timestamp": "2025-05-24 04:23"
+    },
+    {
+      "rank": 7,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.358751739652744e-06,
+      "timestamp": "2025-05-24 04:23"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023526205871075845,
+      "timestamp": "2025-05-24 04:23"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001613812073032667,
+      "timestamp": "2025-05-24 04:23"
+    },
+    {
+      "rank": 10,
+      "name": "SOON",
+      "symbol": "SOON",
+      "price_btc": 4.036294570388111e-06,
+      "timestamp": "2025-05-24 04:23"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2974283050166036e-10,
+      "timestamp": "2025-05-24 04:23"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 7.961679900722127e-06,
+      "timestamp": "2025-05-24 04:23"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1558717991008027e-05,
+      "timestamp": "2025-05-24 04:23"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8392139773403324e-05,
+      "timestamp": "2025-05-24 04:23"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.4479919332918864e-06,
+      "timestamp": "2025-05-24 04:23"
+    }
   ]
 }
