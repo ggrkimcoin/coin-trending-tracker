@@ -98973,5 +98973,112 @@
       "price_btc": 7.394914571848228e-06,
       "timestamp": "2025-05-24 17:16"
     }
+  ],
+  "2025-05-24 18:26": [
+    {
+      "rank": 1,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.110477045027641e-08,
+      "timestamp": "2025-05-24 18:26"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003226600765275925,
+      "timestamp": "2025-05-24 18:26"
+    },
+    {
+      "rank": 3,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.924126361541281e-06,
+      "timestamp": "2025-05-24 18:26"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3372285335461535e-05,
+      "timestamp": "2025-05-24 18:26"
+    },
+    {
+      "rank": 5,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024763035671620122,
+      "timestamp": "2025-05-24 18:26"
+    },
+    {
+      "rank": 6,
+      "name": "Fluid",
+      "symbol": "FLUID",
+      "price_btc": 3.8580870666083325e-05,
+      "timestamp": "2025-05-24 18:26"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-24 18:26"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.071546117142978e-06,
+      "timestamp": "2025-05-24 18:26"
+    },
+    {
+      "rank": 9,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 4.111219275631476e-05,
+      "timestamp": "2025-05-24 18:26"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.281190586671017e-10,
+      "timestamp": "2025-05-24 18:26"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016240427297158685,
+      "timestamp": "2025-05-24 18:26"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1552834932909404e-05,
+      "timestamp": "2025-05-24 18:26"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.4040217267083023e-06,
+      "timestamp": "2025-05-24 18:26"
+    },
+    {
+      "rank": 14,
+      "name": "Spectre AI",
+      "symbol": "SPECTRE",
+      "price_btc": 2.719124486893213e-05,
+      "timestamp": "2025-05-24 18:26"
+    },
+    {
+      "rank": 15,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003696143385740325,
+      "timestamp": "2025-05-24 18:26"
+    }
   ]
 }
