@@ -100043,5 +100043,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-05-25 05:19"
     }
+  ],
+  "2025-05-25 06:27": [
+    {
+      "rank": 1,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.671190786275188e-08,
+      "timestamp": "2025-05-25 06:27"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003989270157484388,
+      "timestamp": "2025-05-25 06:27"
+    },
+    {
+      "rank": 3,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.148588469395846e-06,
+      "timestamp": "2025-05-25 06:27"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003199072213656176,
+      "timestamp": "2025-05-25 06:27"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023248214992907534,
+      "timestamp": "2025-05-25 06:27"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3692128346075963e-05,
+      "timestamp": "2025-05-25 06:27"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8150296891974324e-05,
+      "timestamp": "2025-05-25 06:27"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2047757865094292e-07,
+      "timestamp": "2025-05-25 06:27"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-25 06:27"
+    },
+    {
+      "rank": 10,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002485029856871924,
+      "timestamp": "2025-05-25 06:27"
+    },
+    {
+      "rank": 11,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2926994773425103e-05,
+      "timestamp": "2025-05-25 06:27"
+    },
+    {
+      "rank": 12,
+      "name": "tao.bot",
+      "symbol": "TAOBOT",
+      "price_btc": 5.031989809889236e-06,
+      "timestamp": "2025-05-25 06:27"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.0596400794202896e-06,
+      "timestamp": "2025-05-25 06:27"
+    },
+    {
+      "rank": 14,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.6305925026314004e-06,
+      "timestamp": "2025-05-25 06:27"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016104846633534563,
+      "timestamp": "2025-05-25 06:27"
+    }
   ]
 }
