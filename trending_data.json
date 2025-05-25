@@ -101327,5 +101327,112 @@
       "price_btc": 0.003885904926106429,
       "timestamp": "2025-05-25 17:15"
     }
+  ],
+  "2025-05-25 18:26": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003524442429783959,
+      "timestamp": "2025-05-25 18:26"
+    },
+    {
+      "rank": 2,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.206615906575968e-06,
+      "timestamp": "2025-05-25 18:26"
+    },
+    {
+      "rank": 3,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.837327289653074e-08,
+      "timestamp": "2025-05-25 18:26"
+    },
+    {
+      "rank": 4,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.513176129345912e-06,
+      "timestamp": "2025-05-25 18:26"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.270047965919573e-05,
+      "timestamp": "2025-05-25 18:26"
+    },
+    {
+      "rank": 6,
+      "name": "Purr",
+      "symbol": "PURR",
+      "price_btc": 3.0538671575558923e-06,
+      "timestamp": "2025-05-25 18:26"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023415985441212754,
+      "timestamp": "2025-05-25 18:26"
+    },
+    {
+      "rank": 8,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024499249163526518,
+      "timestamp": "2025-05-25 18:26"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.170899658253294e-06,
+      "timestamp": "2025-05-25 18:26"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015927639162038347,
+      "timestamp": "2025-05-25 18:26"
+    },
+    {
+      "rank": 11,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0038294499985549973,
+      "timestamp": "2025-05-25 18:26"
+    },
+    {
+      "rank": 12,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.101773494884372e-06,
+      "timestamp": "2025-05-25 18:26"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2059422555668004e-10,
+      "timestamp": "2025-05-25 18:26"
+    },
+    {
+      "rank": 14,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.9088272248197145e-05,
+      "timestamp": "2025-05-25 18:26"
+    },
+    {
+      "rank": 15,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00013982180755308085,
+      "timestamp": "2025-05-25 18:26"
+    }
   ]
 }
