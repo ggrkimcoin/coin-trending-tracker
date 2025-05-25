@@ -99722,5 +99722,112 @@
       "price_btc": 2.143510063813817e-05,
       "timestamp": "2025-05-25 01:51"
     }
+  ],
+  "2025-05-25 03:20": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031470222268399834,
+      "timestamp": "2025-05-25 03:20"
+    },
+    {
+      "rank": 2,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.5350280600152435e-08,
+      "timestamp": "2025-05-25 03:20"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015951313502699162,
+      "timestamp": "2025-05-25 03:20"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2149017419286348e-07,
+      "timestamp": "2025-05-25 03:20"
+    },
+    {
+      "rank": 5,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.00094465718465e-06,
+      "timestamp": "2025-05-25 03:20"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.221501840584167e-06,
+      "timestamp": "2025-05-25 03:20"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.339470281117846e-05,
+      "timestamp": "2025-05-25 03:20"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02320608175182483,
+      "timestamp": "2025-05-25 03:20"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003998462863631638,
+      "timestamp": "2025-05-25 03:20"
+    },
+    {
+      "rank": 10,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002401437453874943,
+      "timestamp": "2025-05-25 03:20"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8191173701928176e-05,
+      "timestamp": "2025-05-25 03:20"
+    },
+    {
+      "rank": 12,
+      "name": "SOON",
+      "symbol": "SOON",
+      "price_btc": 3.747917007471497e-06,
+      "timestamp": "2025-05-25 03:20"
+    },
+    {
+      "rank": 13,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001417835821538807,
+      "timestamp": "2025-05-25 03:20"
+    },
+    {
+      "rank": 14,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.494025272664762e-06,
+      "timestamp": "2025-05-25 03:20"
+    },
+    {
+      "rank": 15,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 1.0090561372117174e-05,
+      "timestamp": "2025-05-25 03:20"
+    }
   ]
 }
