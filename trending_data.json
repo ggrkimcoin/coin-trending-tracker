@@ -99829,5 +99829,112 @@
       "price_btc": 1.0090561372117174e-05,
       "timestamp": "2025-05-25 03:20"
     }
+  ],
+  "2025-05-25 04:26": [
+    {
+      "rank": 1,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001605838319926479,
+      "timestamp": "2025-05-25 04:26"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2116266959735728e-07,
+      "timestamp": "2025-05-25 04:26"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8314357463830147e-05,
+      "timestamp": "2025-05-25 04:26"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031955233465362986,
+      "timestamp": "2025-05-25 04:26"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2786531158474623e-05,
+      "timestamp": "2025-05-25 04:26"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02326093814017121,
+      "timestamp": "2025-05-25 04:26"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.354606668256768e-05,
+      "timestamp": "2025-05-25 04:26"
+    },
+    {
+      "rank": 8,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.694080678120776e-08,
+      "timestamp": "2025-05-25 04:26"
+    },
+    {
+      "rank": 9,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00021197325249162842,
+      "timestamp": "2025-05-25 04:26"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-25 04:26"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.700866625265915e-06,
+      "timestamp": "2025-05-25 04:26"
+    },
+    {
+      "rank": 12,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.4259741446823046e-06,
+      "timestamp": "2025-05-25 04:26"
+    },
+    {
+      "rank": 13,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.936313974531634e-07,
+      "timestamp": "2025-05-25 04:26"
+    },
+    {
+      "rank": 14,
+      "name": "Ronin",
+      "symbol": "RON",
+      "price_btc": 6.106643917828696e-06,
+      "timestamp": "2025-05-25 04:26"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.7556760806123378e-05,
+      "timestamp": "2025-05-25 04:26"
+    }
   ]
 }
