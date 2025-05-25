@@ -101113,5 +101113,112 @@
       "price_btc": 1.2747948073155149e-05,
       "timestamp": "2025-05-25 15:18"
     }
+  ],
+  "2025-05-25 16:23": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035492374081324917,
+      "timestamp": "2025-05-25 16:23"
+    },
+    {
+      "rank": 2,
+      "name": "Purr",
+      "symbol": "PURR",
+      "price_btc": 3.0181493133580557e-06,
+      "timestamp": "2025-05-25 16:23"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7591900668389623e-05,
+      "timestamp": "2025-05-25 16:23"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.265654457941463e-05,
+      "timestamp": "2025-05-25 16:23"
+    },
+    {
+      "rank": 5,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.878812057520242e-08,
+      "timestamp": "2025-05-25 16:23"
+    },
+    {
+      "rank": 6,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.2641431104759995e-06,
+      "timestamp": "2025-05-25 16:23"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02343758266880872,
+      "timestamp": "2025-05-25 16:23"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-25 16:23"
+    },
+    {
+      "rank": 9,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003826813929841041,
+      "timestamp": "2025-05-25 16:23"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.271616516584155e-05,
+      "timestamp": "2025-05-25 16:23"
+    },
+    {
+      "rank": 11,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024696287379432154,
+      "timestamp": "2025-05-25 16:23"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.544229252735283e-06,
+      "timestamp": "2025-05-25 16:23"
+    },
+    {
+      "rank": 13,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2506350570934617e-05,
+      "timestamp": "2025-05-25 16:23"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.20071391381999e-10,
+      "timestamp": "2025-05-25 16:23"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.15915017418587e-06,
+      "timestamp": "2025-05-25 16:23"
+    }
   ]
 }
