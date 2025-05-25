@@ -101434,5 +101434,112 @@
       "price_btc": 0.00013982180755308085,
       "timestamp": "2025-05-25 18:26"
     }
+  ],
+  "2025-05-25 19:14": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003580196062583389,
+      "timestamp": "2025-05-25 19:14"
+    },
+    {
+      "rank": 2,
+      "name": "Purr",
+      "symbol": "PURR",
+      "price_btc": 3.1575895858032814e-06,
+      "timestamp": "2025-05-25 19:14"
+    },
+    {
+      "rank": 3,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.22300491442148e-06,
+      "timestamp": "2025-05-25 19:14"
+    },
+    {
+      "rank": 4,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.90632935390394e-08,
+      "timestamp": "2025-05-25 19:14"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.279802959653317e-05,
+      "timestamp": "2025-05-25 19:14"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.176941505370981e-06,
+      "timestamp": "2025-05-25 19:14"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.542999819178474e-06,
+      "timestamp": "2025-05-25 19:14"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.181032163787884e-06,
+      "timestamp": "2025-05-25 19:14"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.742930049753504e-05,
+      "timestamp": "2025-05-25 19:14"
+    },
+    {
+      "rank": 10,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 5.614220651450483e-05,
+      "timestamp": "2025-05-25 19:14"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023423907194704476,
+      "timestamp": "2025-05-25 19:14"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015990304343143024,
+      "timestamp": "2025-05-25 19:14"
+    },
+    {
+      "rank": 13,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.680551929847738e-06,
+      "timestamp": "2025-05-25 19:14"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.104157508187905e-06,
+      "timestamp": "2025-05-25 19:14"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-25 19:14"
+    }
   ]
 }
