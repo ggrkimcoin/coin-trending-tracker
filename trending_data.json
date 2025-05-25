@@ -99936,5 +99936,112 @@
       "price_btc": 2.7556760806123378e-05,
       "timestamp": "2025-05-25 04:26"
     }
+  ],
+  "2025-05-25 05:19": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.205149239966901e-07,
+      "timestamp": "2025-05-25 05:19"
+    },
+    {
+      "rank": 2,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.110678825383628e-06,
+      "timestamp": "2025-05-25 05:19"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003210546273546523,
+      "timestamp": "2025-05-25 05:19"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3478989550364156e-05,
+      "timestamp": "2025-05-25 05:19"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.288571945538281e-05,
+      "timestamp": "2025-05-25 05:19"
+    },
+    {
+      "rank": 6,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.566907596070185e-08,
+      "timestamp": "2025-05-25 05:19"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016022085143583523,
+      "timestamp": "2025-05-25 05:19"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023231041938789585,
+      "timestamp": "2025-05-25 05:19"
+    },
+    {
+      "rank": 9,
+      "name": "SOON",
+      "symbol": "SOON",
+      "price_btc": 3.8138987564240532e-06,
+      "timestamp": "2025-05-25 05:19"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8227701238311013e-05,
+      "timestamp": "2025-05-25 05:19"
+    },
+    {
+      "rank": 11,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 6.796596685067204e-07,
+      "timestamp": "2025-05-25 05:19"
+    },
+    {
+      "rank": 12,
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "price_btc": 4.792270269376038e-05,
+      "timestamp": "2025-05-25 05:19"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.145884277452247e-05,
+      "timestamp": "2025-05-25 05:19"
+    },
+    {
+      "rank": 14,
+      "name": "XDC Network",
+      "symbol": "XDC",
+      "price_btc": 6.330698249544872e-07,
+      "timestamp": "2025-05-25 05:19"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-25 05:19"
+    }
   ]
 }
