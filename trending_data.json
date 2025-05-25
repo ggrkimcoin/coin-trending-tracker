@@ -100899,5 +100899,112 @@
       "price_btc": 2.666322075953001e-05,
       "timestamp": "2025-05-25 13:26"
     }
+  ],
+  "2025-05-25 14:17": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035529514327866063,
+      "timestamp": "2025-05-25 14:17"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003914140828367625,
+      "timestamp": "2025-05-25 14:17"
+    },
+    {
+      "rank": 3,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.555915823246228e-06,
+      "timestamp": "2025-05-25 14:17"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7728242851295782e-05,
+      "timestamp": "2025-05-25 14:17"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023395919342916637,
+      "timestamp": "2025-05-25 14:17"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016009506762677667,
+      "timestamp": "2025-05-25 14:17"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-25 14:17"
+    },
+    {
+      "rank": 8,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.980280143398551e-08,
+      "timestamp": "2025-05-25 14:17"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1428303969080154e-05,
+      "timestamp": "2025-05-25 14:17"
+    },
+    {
+      "rank": 10,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0037854210312792008,
+      "timestamp": "2025-05-25 14:17"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.185571064135419e-06,
+      "timestamp": "2025-05-25 14:17"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.273202122315814e-05,
+      "timestamp": "2025-05-25 14:17"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002462518125915915,
+      "timestamp": "2025-05-25 14:17"
+    },
+    {
+      "rank": 14,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.729804940550582e-07,
+      "timestamp": "2025-05-25 14:17"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.142367514111972e-06,
+      "timestamp": "2025-05-25 14:17"
+    }
   ]
 }
