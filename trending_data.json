@@ -100364,5 +100364,112 @@
       "price_btc": 2.1444277594894825e-05,
       "timestamp": "2025-05-25 08:24"
     }
+  ],
+  "2025-05-25 09:19": [
+    {
+      "rank": 1,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.6760219524749835e-08,
+      "timestamp": "2025-05-25 09:19"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.312663758354265e-05,
+      "timestamp": "2025-05-25 09:19"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00032138595678386577,
+      "timestamp": "2025-05-25 09:19"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.773432210803837e-05,
+      "timestamp": "2025-05-25 09:19"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.61830899140069e-06,
+      "timestamp": "2025-05-25 09:19"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-25 09:19"
+    },
+    {
+      "rank": 7,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.14868786089828e-06,
+      "timestamp": "2025-05-25 09:19"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2789486730642636e-05,
+      "timestamp": "2025-05-25 09:19"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015986662635635405,
+      "timestamp": "2025-05-25 09:19"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02317698369351945,
+      "timestamp": "2025-05-25 09:19"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2398715939442347e-10,
+      "timestamp": "2025-05-25 09:19"
+    },
+    {
+      "rank": 12,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 4.020441455130732e-05,
+      "timestamp": "2025-05-25 09:19"
+    },
+    {
+      "rank": 13,
+      "name": "tao.bot",
+      "symbol": "TAOBOT",
+      "price_btc": 4.879003694277895e-06,
+      "timestamp": "2025-05-25 09:19"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.140776229982494e-06,
+      "timestamp": "2025-05-25 09:19"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024675015926510185,
+      "timestamp": "2025-05-25 09:19"
+    }
   ]
 }
