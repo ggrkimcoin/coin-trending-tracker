@@ -101755,5 +101755,112 @@
       "price_btc": 4.969921953812074e-07,
       "timestamp": "2025-05-25 21:17"
     }
+  ],
+  "2025-05-25 22:18": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035221702211899456,
+      "timestamp": "2025-05-25 22:18"
+    },
+    {
+      "rank": 2,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.8548175203965046e-08,
+      "timestamp": "2025-05-25 22:18"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.274860090675837e-05,
+      "timestamp": "2025-05-25 22:18"
+    },
+    {
+      "rank": 4,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.390771298146729e-06,
+      "timestamp": "2025-05-25 22:18"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7754344422906614e-05,
+      "timestamp": "2025-05-25 22:18"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.049339655701809e-06,
+      "timestamp": "2025-05-25 22:18"
+    },
+    {
+      "rank": 7,
+      "name": "Purr",
+      "symbol": "PURR",
+      "price_btc": 3.0108764914939615e-06,
+      "timestamp": "2025-05-25 22:18"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015968443309957506,
+      "timestamp": "2025-05-25 22:18"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003942846155384823,
+      "timestamp": "2025-05-25 22:18"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.300196630393494e-06,
+      "timestamp": "2025-05-25 22:18"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1435862915857896e-05,
+      "timestamp": "2025-05-25 22:18"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.189343846149048e-06,
+      "timestamp": "2025-05-25 22:18"
+    },
+    {
+      "rank": 13,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.833580466389447e-08,
+      "timestamp": "2025-05-25 22:18"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.297918589532981e-05,
+      "timestamp": "2025-05-25 22:18"
+    },
+    {
+      "rank": 15,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.572922873548167e-06,
+      "timestamp": "2025-05-25 22:18"
+    }
   ]
 }
