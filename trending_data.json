@@ -101862,5 +101862,112 @@
       "price_btc": 2.572922873548167e-06,
       "timestamp": "2025-05-25 22:18"
     }
+  ],
+  "2025-05-25 23:18": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003580938216124018,
+      "timestamp": "2025-05-25 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.299073900652316e-05,
+      "timestamp": "2025-05-25 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.901793273214271e-08,
+      "timestamp": "2025-05-25 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.98982016857041e-08,
+      "timestamp": "2025-05-25 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.00381043728412446,
+      "timestamp": "2025-05-25 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.226804290703063e-06,
+      "timestamp": "2025-05-25 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8648988960242842e-05,
+      "timestamp": "2025-05-25 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016006182967938268,
+      "timestamp": "2025-05-25 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.141472459733388e-05,
+      "timestamp": "2025-05-25 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.111497445677146e-06,
+      "timestamp": "2025-05-25 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.109583477897857e-06,
+      "timestamp": "2025-05-25 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 4.065588755614574e-05,
+      "timestamp": "2025-05-25 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2471255809540145e-10,
+      "timestamp": "2025-05-25 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.0004884236982729828,
+      "timestamp": "2025-05-25 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.6839402189678963e-06,
+      "timestamp": "2025-05-25 23:18"
+    }
   ]
 }
