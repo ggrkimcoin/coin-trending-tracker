@@ -101648,5 +101648,112 @@
       "price_btc": 0.00245834609572074,
       "timestamp": "2025-05-25 20:20"
     }
+  ],
+  "2025-05-25 21:17": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003577660040804786,
+      "timestamp": "2025-05-25 21:17"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02343050145947697,
+      "timestamp": "2025-05-25 21:17"
+    },
+    {
+      "rank": 3,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.400817276394892e-06,
+      "timestamp": "2025-05-25 21:17"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.277661572301591e-05,
+      "timestamp": "2025-05-25 21:17"
+    },
+    {
+      "rank": 5,
+      "name": "Purr",
+      "symbol": "PURR",
+      "price_btc": 3.0334061559305017e-06,
+      "timestamp": "2025-05-25 21:17"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.605825349732175e-06,
+      "timestamp": "2025-05-25 21:17"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.778721006618418e-05,
+      "timestamp": "2025-05-25 21:17"
+    },
+    {
+      "rank": 8,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2566252048699911e-05,
+      "timestamp": "2025-05-25 21:17"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.112212050890586e-06,
+      "timestamp": "2025-05-25 21:17"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001598834561355505,
+      "timestamp": "2025-05-25 21:17"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0039464822692710354,
+      "timestamp": "2025-05-25 21:17"
+    },
+    {
+      "rank": 12,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 4.07288116418208e-05,
+      "timestamp": "2025-05-25 21:17"
+    },
+    {
+      "rank": 13,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.8678706684877255e-08,
+      "timestamp": "2025-05-25 21:17"
+    },
+    {
+      "rank": 14,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024392008906028947,
+      "timestamp": "2025-05-25 21:17"
+    },
+    {
+      "rank": 15,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 4.969921953812074e-07,
+      "timestamp": "2025-05-25 21:17"
+    }
   ]
 }
