@@ -99615,5 +99615,112 @@
       "price_btc": 2.1612549031714168e-05,
       "timestamp": "2025-05-24 23:18"
     }
+  ],
+  "2025-05-25 01:51": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000321877917024167,
+      "timestamp": "2025-05-25 01:51"
+    },
+    {
+      "rank": 2,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.246059162807911e-08,
+      "timestamp": "2025-05-25 01:51"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.218418908063519e-07,
+      "timestamp": "2025-05-25 01:51"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02315756954852823,
+      "timestamp": "2025-05-25 01:51"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015972802368456188,
+      "timestamp": "2025-05-25 01:51"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.834816654823511e-05,
+      "timestamp": "2025-05-25 01:51"
+    },
+    {
+      "rank": 7,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.473900309341075e-06,
+      "timestamp": "2025-05-25 01:51"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.633795600160848e-06,
+      "timestamp": "2025-05-25 01:51"
+    },
+    {
+      "rank": 9,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024084125578074773,
+      "timestamp": "2025-05-25 01:51"
+    },
+    {
+      "rank": 10,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014121228293893358,
+      "timestamp": "2025-05-25 01:51"
+    },
+    {
+      "rank": 11,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 4.019069807794613e-05,
+      "timestamp": "2025-05-25 01:51"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-25 01:51"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3262236133664374e-05,
+      "timestamp": "2025-05-25 01:51"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011826041222610177,
+      "timestamp": "2025-05-25 01:51"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.143510063813817e-05,
+      "timestamp": "2025-05-25 01:51"
+    }
   ]
 }
