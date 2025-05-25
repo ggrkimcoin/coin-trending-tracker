@@ -100792,5 +100792,112 @@
       "price_btc": 9.672110155491656e-07,
       "timestamp": "2025-05-25 12:37"
     }
+  ],
+  "2025-05-25 13:26": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003423983765920774,
+      "timestamp": "2025-05-25 13:26"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.2881288379349045e-05,
+      "timestamp": "2025-05-25 13:26"
+    },
+    {
+      "rank": 3,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.216745215015462e-06,
+      "timestamp": "2025-05-25 13:26"
+    },
+    {
+      "rank": 4,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.593082154677892e-06,
+      "timestamp": "2025-05-25 13:26"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023417083373883565,
+      "timestamp": "2025-05-25 13:26"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-25 13:26"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.208457630579441e-06,
+      "timestamp": "2025-05-25 13:26"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2820868347853813e-05,
+      "timestamp": "2025-05-25 13:26"
+    },
+    {
+      "rank": 9,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.578483933024695e-08,
+      "timestamp": "2025-05-25 13:26"
+    },
+    {
+      "rank": 10,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.052535524816731e-06,
+      "timestamp": "2025-05-25 13:26"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016050590761087873,
+      "timestamp": "2025-05-25 13:26"
+    },
+    {
+      "rank": 12,
+      "name": "Purr",
+      "symbol": "PURR",
+      "price_btc": 2.6599026920881018e-06,
+      "timestamp": "2025-05-25 13:26"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.790900546059191e-05,
+      "timestamp": "2025-05-25 13:26"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.61714491806305e-06,
+      "timestamp": "2025-05-25 13:26"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.666322075953001e-05,
+      "timestamp": "2025-05-25 13:26"
+    }
   ]
 }
