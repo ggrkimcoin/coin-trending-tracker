@@ -100578,5 +100578,112 @@
       "price_btc": 0.003779141105017267,
       "timestamp": "2025-05-25 10:19"
     }
+  ],
+  "2025-05-25 11:15": [
+    {
+      "rank": 1,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.6623241404267065e-08,
+      "timestamp": "2025-05-25 11:15"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003354114273691929,
+      "timestamp": "2025-05-25 11:15"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.273387857532021e-05,
+      "timestamp": "2025-05-25 11:15"
+    },
+    {
+      "rank": 4,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.333682960846786e-06,
+      "timestamp": "2025-05-25 11:15"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016042420024429671,
+      "timestamp": "2025-05-25 11:15"
+    },
+    {
+      "rank": 6,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.156511743033411e-06,
+      "timestamp": "2025-05-25 11:15"
+    },
+    {
+      "rank": 7,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.341736906063274e-06,
+      "timestamp": "2025-05-25 11:15"
+    },
+    {
+      "rank": 8,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002476161919837556,
+      "timestamp": "2025-05-25 11:15"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023323355863589728,
+      "timestamp": "2025-05-25 11:15"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.140040898030267e-05,
+      "timestamp": "2025-05-25 11:15"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.204780966054946e-06,
+      "timestamp": "2025-05-25 11:15"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-25 11:15"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003930047432337205,
+      "timestamp": "2025-05-25 11:15"
+    },
+    {
+      "rank": 14,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0037932929884324476,
+      "timestamp": "2025-05-25 11:15"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7737682422447727e-05,
+      "timestamp": "2025-05-25 11:15"
+    }
   ]
 }
