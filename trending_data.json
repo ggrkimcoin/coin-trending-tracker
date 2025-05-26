@@ -102825,5 +102825,112 @@
       "price_btc": 0.02339709757044632,
       "timestamp": "2025-05-26 09:46"
     }
+  ],
+  "2025-05-26 10:24": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003453136663341684,
+      "timestamp": "2025-05-26 10:24"
+    },
+    {
+      "rank": 2,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 6.866081258616663e-07,
+      "timestamp": "2025-05-26 10:24"
+    },
+    {
+      "rank": 3,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.630863616373219e-08,
+      "timestamp": "2025-05-26 10:24"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016124119164595146,
+      "timestamp": "2025-05-26 10:24"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004081851069787616,
+      "timestamp": "2025-05-26 10:24"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.2722926887394524e-05,
+      "timestamp": "2025-05-26 10:24"
+    },
+    {
+      "rank": 7,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.7319490443264762e-06,
+      "timestamp": "2025-05-26 10:24"
+    },
+    {
+      "rank": 8,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003753011210974267,
+      "timestamp": "2025-05-26 10:24"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.06874844962904e-06,
+      "timestamp": "2025-05-26 10:24"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02336460147810487,
+      "timestamp": "2025-05-26 10:24"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.0879930434327076e-06,
+      "timestamp": "2025-05-26 10:24"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-26 10:24"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024245618828009985,
+      "timestamp": "2025-05-26 10:24"
+    },
+    {
+      "rank": 14,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.574271842274138e-06,
+      "timestamp": "2025-05-26 10:24"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.278904048502667e-10,
+      "timestamp": "2025-05-26 10:24"
+    }
   ]
 }
