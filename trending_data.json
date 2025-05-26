@@ -102183,5 +102183,112 @@
       "price_btc": 5.287730551369839e-07,
       "timestamp": "2025-05-26 03:16"
     }
+  ],
+  "2025-05-26 04:26": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034948000997635264,
+      "timestamp": "2025-05-26 04:26"
+    },
+    {
+      "rank": 2,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.3039100408497174e-08,
+      "timestamp": "2025-05-26 04:26"
+    },
+    {
+      "rank": 3,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 3.297531134891725e-06,
+      "timestamp": "2025-05-26 04:26"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.970763944986442e-05,
+      "timestamp": "2025-05-26 04:26"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.2979517497623865e-05,
+      "timestamp": "2025-05-26 04:26"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-26 04:26"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.705622306900205e-06,
+      "timestamp": "2025-05-26 04:26"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.851140298334665e-06,
+      "timestamp": "2025-05-26 04:26"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016145093984936863,
+      "timestamp": "2025-05-26 04:26"
+    },
+    {
+      "rank": 10,
+      "name": "Zora",
+      "symbol": "ZORA",
+      "price_btc": 1.185295446825214e-07,
+      "timestamp": "2025-05-26 04:26"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.275899323654309e-10,
+      "timestamp": "2025-05-26 04:26"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.202701280181535e-06,
+      "timestamp": "2025-05-26 04:26"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.112821278127438e-06,
+      "timestamp": "2025-05-26 04:26"
+    },
+    {
+      "rank": 14,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.789415860179372e-05,
+      "timestamp": "2025-05-26 04:26"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1365301025552344e-05,
+      "timestamp": "2025-05-26 04:26"
+    }
   ]
 }
