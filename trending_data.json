@@ -104216,5 +104216,112 @@
       "price_btc": 2.1095614170947478e-05,
       "timestamp": "2025-05-26 22:18"
     }
+  ],
+  "2025-05-26 23:18": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.385120060142095e-08,
+      "timestamp": "2025-05-26 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "Telos",
+      "symbol": "TLOS",
+      "price_btc": 6.442863685246353e-07,
+      "timestamp": "2025-05-26 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 6.076364423951002e-07,
+      "timestamp": "2025-05-26 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003417107663685287,
+      "timestamp": "2025-05-26 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.5980266359915977e-08,
+      "timestamp": "2025-05-26 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.5534059395413532e-06,
+      "timestamp": "2025-05-26 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.180176647841189e-05,
+      "timestamp": "2025-05-26 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9367454118179292e-05,
+      "timestamp": "2025-05-26 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 6.981089881833746e-07,
+      "timestamp": "2025-05-26 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.112209212658416e-05,
+      "timestamp": "2025-05-26 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015960742766915773,
+      "timestamp": "2025-05-26 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2650045723113153e-10,
+      "timestamp": "2025-05-26 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price_btc": 2.106019858206233e-06,
+      "timestamp": "2025-05-26 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.000959736796402788,
+      "timestamp": "2025-05-26 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.57409449532754e-06,
+      "timestamp": "2025-05-26 23:18"
+    }
   ]
 }
