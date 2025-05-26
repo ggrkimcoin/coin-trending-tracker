@@ -104109,5 +104109,112 @@
       "price_btc": 1.4791477953589905e-08,
       "timestamp": "2025-05-26 21:18"
     }
+  ],
+  "2025-05-26 22:18": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.3918799329228627e-08,
+      "timestamp": "2025-05-26 22:18"
+    },
+    {
+      "rank": 2,
+      "name": "Telos",
+      "symbol": "TLOS",
+      "price_btc": 6.441755121603742e-07,
+      "timestamp": "2025-05-26 22:18"
+    },
+    {
+      "rank": 3,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 6.010570293553561e-07,
+      "timestamp": "2025-05-26 22:18"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003433505759927372,
+      "timestamp": "2025-05-26 22:18"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1822573162480396e-05,
+      "timestamp": "2025-05-26 22:18"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015956219694875495,
+      "timestamp": "2025-05-26 22:18"
+    },
+    {
+      "rank": 7,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.5535094489711817e-06,
+      "timestamp": "2025-05-26 22:18"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9296282489883613e-05,
+      "timestamp": "2025-05-26 22:18"
+    },
+    {
+      "rank": 9,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.887416742851352e-05,
+      "timestamp": "2025-05-26 22:18"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023367629111158486,
+      "timestamp": "2025-05-26 22:18"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.5466256376341954e-08,
+      "timestamp": "2025-05-26 22:18"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.052673256709506e-06,
+      "timestamp": "2025-05-26 22:18"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-26 22:18"
+    },
+    {
+      "rank": 14,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.1771192844747423e-06,
+      "timestamp": "2025-05-26 22:18"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1095614170947478e-05,
+      "timestamp": "2025-05-26 22:18"
+    }
   ]
 }
