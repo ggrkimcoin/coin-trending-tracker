@@ -102076,5 +102076,112 @@
       "price_btc": 1.0591788452669995e-05,
       "timestamp": "2025-05-26 01:46"
     }
+  ],
+  "2025-05-26 03:16": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035556706379201756,
+      "timestamp": "2025-05-26 03:16"
+    },
+    {
+      "rank": 2,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 3.239791723494173e-06,
+      "timestamp": "2025-05-26 03:16"
+    },
+    {
+      "rank": 3,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.847716460201089e-08,
+      "timestamp": "2025-05-26 03:16"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.973421211999475e-05,
+      "timestamp": "2025-05-26 03:16"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.2967312087812676e-05,
+      "timestamp": "2025-05-26 03:16"
+    },
+    {
+      "rank": 6,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.084391811366411e-08,
+      "timestamp": "2025-05-26 03:16"
+    },
+    {
+      "rank": 7,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.938679981163953e-06,
+      "timestamp": "2025-05-26 03:16"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1397164132902777e-05,
+      "timestamp": "2025-05-26 03:16"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.128903827491738e-06,
+      "timestamp": "2025-05-26 03:16"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.2083274167484455e-06,
+      "timestamp": "2025-05-26 03:16"
+    },
+    {
+      "rank": 11,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.17191813883609e-05,
+      "timestamp": "2025-05-26 03:16"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.690078323908316e-06,
+      "timestamp": "2025-05-26 03:16"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023337834859985845,
+      "timestamp": "2025-05-26 03:16"
+    },
+    {
+      "rank": 14,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 5.490576776673231e-06,
+      "timestamp": "2025-05-26 03:16"
+    },
+    {
+      "rank": 15,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 5.287730551369839e-07,
+      "timestamp": "2025-05-26 03:16"
+    }
   ]
 }
