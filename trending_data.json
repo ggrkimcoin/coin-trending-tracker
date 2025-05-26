@@ -102504,5 +102504,112 @@
       "price_btc": 3.5222167970727624e-06,
       "timestamp": "2025-05-26 06:31"
     }
+  ],
+  "2025-05-26 07:28": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003561966497345643,
+      "timestamp": "2025-05-26 07:28"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.319495298173094e-05,
+      "timestamp": "2025-05-26 07:28"
+    },
+    {
+      "rank": 3,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 3.299925848253585e-06,
+      "timestamp": "2025-05-26 07:28"
+    },
+    {
+      "rank": 4,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.6991085795441915e-08,
+      "timestamp": "2025-05-26 07:28"
+    },
+    {
+      "rank": 5,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3054562159200916e-10,
+      "timestamp": "2025-05-26 07:28"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004156405169630256,
+      "timestamp": "2025-05-26 07:28"
+    },
+    {
+      "rank": 7,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 7.250395767426782e-07,
+      "timestamp": "2025-05-26 07:28"
+    },
+    {
+      "rank": 8,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.05698178700729e-06,
+      "timestamp": "2025-05-26 07:28"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0235323680193237,
+      "timestamp": "2025-05-26 07:28"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-26 07:28"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016225010058563574,
+      "timestamp": "2025-05-26 07:28"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.024865743874343e-05,
+      "timestamp": "2025-05-26 07:28"
+    },
+    {
+      "rank": 13,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.9523624925218846e-06,
+      "timestamp": "2025-05-26 07:28"
+    },
+    {
+      "rank": 14,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002477329110391061,
+      "timestamp": "2025-05-26 07:28"
+    },
+    {
+      "rank": 15,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 1.1355790459371825e-06,
+      "timestamp": "2025-05-26 07:28"
+    }
   ]
 }
