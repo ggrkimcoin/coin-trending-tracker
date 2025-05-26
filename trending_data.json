@@ -103146,5 +103146,112 @@
       "price_btc": 0.003764155304762922,
       "timestamp": "2025-05-26 12:40"
     }
+  ],
+  "2025-05-26 13:29": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003454521755791637,
+      "timestamp": "2025-05-26 13:29"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.2667451005356756e-05,
+      "timestamp": "2025-05-26 13:29"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.026481693597635e-05,
+      "timestamp": "2025-05-26 13:29"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016201524933815747,
+      "timestamp": "2025-05-26 13:29"
+    },
+    {
+      "rank": 5,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.5612585126280294e-06,
+      "timestamp": "2025-05-26 13:29"
+    },
+    {
+      "rank": 6,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 7.04152748618315e-07,
+      "timestamp": "2025-05-26 13:29"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0040747116544468925,
+      "timestamp": "2025-05-26 13:29"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.031805383256629e-06,
+      "timestamp": "2025-05-26 13:29"
+    },
+    {
+      "rank": 9,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.482467944303359e-08,
+      "timestamp": "2025-05-26 13:29"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2764457092194434e-10,
+      "timestamp": "2025-05-26 13:29"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.129650891208393e-05,
+      "timestamp": "2025-05-26 13:29"
+    },
+    {
+      "rank": 12,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 1.0378135341330519e-05,
+      "timestamp": "2025-05-26 13:29"
+    },
+    {
+      "rank": 13,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1573820770404399e-07,
+      "timestamp": "2025-05-26 13:29"
+    },
+    {
+      "rank": 14,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.1808346062068503e-06,
+      "timestamp": "2025-05-26 13:29"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.684912651020123e-06,
+      "timestamp": "2025-05-26 13:29"
+    }
   ]
 }
