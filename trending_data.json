@@ -103788,5 +103788,112 @@
       "price_btc": 2.113450943246366e-05,
       "timestamp": "2025-05-26 18:27"
     }
+  ],
+  "2025-05-26 19:15": [
+    {
+      "rank": 1,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.52471074227872e-06,
+      "timestamp": "2025-05-26 19:15"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.4008614565233337e-08,
+      "timestamp": "2025-05-26 19:15"
+    },
+    {
+      "rank": 3,
+      "name": "Telos",
+      "symbol": "TLOS",
+      "price_btc": 6.397628906123205e-07,
+      "timestamp": "2025-05-26 19:15"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003394920427198316,
+      "timestamp": "2025-05-26 19:15"
+    },
+    {
+      "rank": 5,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 6.158126928245155e-07,
+      "timestamp": "2025-05-26 19:15"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.179609392740812e-05,
+      "timestamp": "2025-05-26 19:15"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001598481892520301,
+      "timestamp": "2025-05-26 19:15"
+    },
+    {
+      "rank": 8,
+      "name": "Frax (prev. FXS)",
+      "symbol": "FRAX",
+      "price_btc": 3.074423997249903e-05,
+      "timestamp": "2025-05-26 19:15"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9401463434070276e-05,
+      "timestamp": "2025-05-26 19:15"
+    },
+    {
+      "rank": 10,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 6.741166559196766e-07,
+      "timestamp": "2025-05-26 19:15"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.617564774370775e-08,
+      "timestamp": "2025-05-26 19:15"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.058869080732062e-06,
+      "timestamp": "2025-05-26 19:15"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-26 19:15"
+    },
+    {
+      "rank": 14,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.1400755343756515e-06,
+      "timestamp": "2025-05-26 19:15"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.0783008133868975e-06,
+      "timestamp": "2025-05-26 19:15"
+    }
   ]
 }
