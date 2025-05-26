@@ -102932,5 +102932,112 @@
       "price_btc": 1.278904048502667e-10,
       "timestamp": "2025-05-26 10:24"
     }
+  ],
+  "2025-05-26 11:16": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034742645056511616,
+      "timestamp": "2025-05-26 11:16"
+    },
+    {
+      "rank": 2,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.6170971593205864e-08,
+      "timestamp": "2025-05-26 11:16"
+    },
+    {
+      "rank": 3,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 6.948566621293151e-07,
+      "timestamp": "2025-05-26 11:16"
+    },
+    {
+      "rank": 4,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.7110507733138984e-06,
+      "timestamp": "2025-05-26 11:16"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004059566411385642,
+      "timestamp": "2025-05-26 11:16"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023352388312028693,
+      "timestamp": "2025-05-26 11:16"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.072007663808941e-06,
+      "timestamp": "2025-05-26 11:16"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.270481251948203e-05,
+      "timestamp": "2025-05-26 11:16"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.056433347213278e-05,
+      "timestamp": "2025-05-26 11:16"
+    },
+    {
+      "rank": 10,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00011677314227664138,
+      "timestamp": "2025-05-26 11:16"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.039209385095599e-06,
+      "timestamp": "2025-05-26 11:16"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-26 11:16"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016138325024927307,
+      "timestamp": "2025-05-26 11:16"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2734247572830568e-10,
+      "timestamp": "2025-05-26 11:16"
+    },
+    {
+      "rank": 15,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.2002562626828465e-05,
+      "timestamp": "2025-05-26 11:16"
+    }
   ]
 }
