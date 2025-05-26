@@ -102397,5 +102397,112 @@
       "price_btc": 2.8720293970666255e-06,
       "timestamp": "2025-05-26 05:21"
     }
+  ],
+  "2025-05-26 06:31": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003510420350056115,
+      "timestamp": "2025-05-26 06:31"
+    },
+    {
+      "rank": 2,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 3.288317713270328e-06,
+      "timestamp": "2025-05-26 06:31"
+    },
+    {
+      "rank": 3,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 7.899867070249176e-07,
+      "timestamp": "2025-05-26 06:31"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3084086744925726e-05,
+      "timestamp": "2025-05-26 06:31"
+    },
+    {
+      "rank": 5,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.422700817608206e-08,
+      "timestamp": "2025-05-26 06:31"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.0418299341205035e-06,
+      "timestamp": "2025-05-26 06:31"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.737162367472348e-06,
+      "timestamp": "2025-05-26 06:31"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.296994092576789e-10,
+      "timestamp": "2025-05-26 06:31"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001621476275590421,
+      "timestamp": "2025-05-26 06:31"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02344474533635355,
+      "timestamp": "2025-05-26 06:31"
+    },
+    {
+      "rank": 11,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.0004731379381025025,
+      "timestamp": "2025-05-26 06:31"
+    },
+    {
+      "rank": 12,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.0812665194278767e-06,
+      "timestamp": "2025-05-26 06:31"
+    },
+    {
+      "rank": 13,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.836324164847887e-08,
+      "timestamp": "2025-05-26 06:31"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-26 06:31"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.5222167970727624e-06,
+      "timestamp": "2025-05-26 06:31"
+    }
   ]
 }
