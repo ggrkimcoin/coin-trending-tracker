@@ -103574,5 +103574,112 @@
       "price_btc": 2.4611812015379347e-06,
       "timestamp": "2025-05-26 16:24"
     }
+  ],
+  "2025-05-26 17:17": [
+    {
+      "rank": 1,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 6.510119579059876e-07,
+      "timestamp": "2025-05-26 17:17"
+    },
+    {
+      "rank": 2,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 7.541475324112604e-07,
+      "timestamp": "2025-05-26 17:17"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003491827097159307,
+      "timestamp": "2025-05-26 17:17"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9605896087081493e-05,
+      "timestamp": "2025-05-26 17:17"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.202451584799405e-05,
+      "timestamp": "2025-05-26 17:17"
+    },
+    {
+      "rank": 6,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2466045382431382e-10,
+      "timestamp": "2025-05-26 17:17"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02326883474083275,
+      "timestamp": "2025-05-26 17:17"
+    },
+    {
+      "rank": 8,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.483313642982901e-08,
+      "timestamp": "2025-05-26 17:17"
+    },
+    {
+      "rank": 9,
+      "name": "Frax (prev. FXS)",
+      "symbol": "FRAX",
+      "price_btc": 2.9108374242252642e-05,
+      "timestamp": "2025-05-26 17:17"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016092144019200663,
+      "timestamp": "2025-05-26 17:17"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2862753033465092e-05,
+      "timestamp": "2025-05-26 17:17"
+    },
+    {
+      "rank": 12,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.049101364569487e-06,
+      "timestamp": "2025-05-26 17:17"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.103861736600591e-06,
+      "timestamp": "2025-05-26 17:17"
+    },
+    {
+      "rank": 14,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0037307455274848754,
+      "timestamp": "2025-05-26 17:17"
+    },
+    {
+      "rank": 15,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.2168849912419914e-05,
+      "timestamp": "2025-05-26 17:17"
+    }
   ]
 }
