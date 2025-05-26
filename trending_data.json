@@ -103895,5 +103895,112 @@
       "price_btc": 7.0783008133868975e-06,
       "timestamp": "2025-05-26 19:15"
     }
+  ],
+  "2025-05-26 20:22": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.3858752861468393e-08,
+      "timestamp": "2025-05-26 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "Telos",
+      "symbol": "TLOS",
+      "price_btc": 6.551130360864841e-07,
+      "timestamp": "2025-05-26 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 6.170201341035285e-07,
+      "timestamp": "2025-05-26 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003378488488818722,
+      "timestamp": "2025-05-26 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.5293755949858527e-06,
+      "timestamp": "2025-05-26 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.176873145779121e-05,
+      "timestamp": "2025-05-26 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.3501303727449565e-08,
+      "timestamp": "2025-05-26 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015935166853415555,
+      "timestamp": "2025-05-26 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.3974011469905896e-06,
+      "timestamp": "2025-05-26 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 6.821565537133356e-07,
+      "timestamp": "2025-05-26 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.049183225617816e-06,
+      "timestamp": "2025-05-26 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.0058009904731292e-06,
+      "timestamp": "2025-05-26 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02326425448232512,
+      "timestamp": "2025-05-26 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1303216180828272e-07,
+      "timestamp": "2025-05-26 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.927103251656247e-05,
+      "timestamp": "2025-05-26 20:22"
+    }
   ]
 }
