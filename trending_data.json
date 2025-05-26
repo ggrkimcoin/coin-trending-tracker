@@ -103681,5 +103681,112 @@
       "price_btc": 2.2168849912419914e-05,
       "timestamp": "2025-05-26 17:17"
     }
+  ],
+  "2025-05-26 18:27": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003404426702511788,
+      "timestamp": "2025-05-26 18:27"
+    },
+    {
+      "rank": 2,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 6.272364525574081e-07,
+      "timestamp": "2025-05-26 18:27"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.4031924522864623e-08,
+      "timestamp": "2025-05-26 18:27"
+    },
+    {
+      "rank": 4,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 7.053045841924477e-07,
+      "timestamp": "2025-05-26 18:27"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1843084334025033e-05,
+      "timestamp": "2025-05-26 18:27"
+    },
+    {
+      "rank": 6,
+      "name": "Telos",
+      "symbol": "TLOS",
+      "price_btc": 6.409235923769127e-07,
+      "timestamp": "2025-05-26 18:27"
+    },
+    {
+      "rank": 7,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.720148185492445e-08,
+      "timestamp": "2025-05-26 18:27"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9531770830077045e-05,
+      "timestamp": "2025-05-26 18:27"
+    },
+    {
+      "rank": 9,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.544914273551597e-06,
+      "timestamp": "2025-05-26 18:27"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2527756598964006e-10,
+      "timestamp": "2025-05-26 18:27"
+    },
+    {
+      "rank": 11,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.606467577535152e-06,
+      "timestamp": "2025-05-26 18:27"
+    },
+    {
+      "rank": 12,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0037108762698150246,
+      "timestamp": "2025-05-26 18:27"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.058085925260981e-06,
+      "timestamp": "2025-05-26 18:27"
+    },
+    {
+      "rank": 14,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.1278993937786224e-06,
+      "timestamp": "2025-05-26 18:27"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.113450943246366e-05,
+      "timestamp": "2025-05-26 18:27"
+    }
   ]
 }
