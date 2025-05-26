@@ -103253,5 +103253,112 @@
       "price_btc": 8.684912651020123e-06,
       "timestamp": "2025-05-26 13:29"
     }
+  ],
+  "2025-05-26 14:20": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034426868270754296,
+      "timestamp": "2025-05-26 14:20"
+    },
+    {
+      "rank": 2,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 6.721120017715806e-07,
+      "timestamp": "2025-05-26 14:20"
+    },
+    {
+      "rank": 3,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 6.723126744744249e-07,
+      "timestamp": "2025-05-26 14:20"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.996645616985621e-05,
+      "timestamp": "2025-05-26 14:20"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.2324926729232535e-05,
+      "timestamp": "2025-05-26 14:20"
+    },
+    {
+      "rank": 6,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.552901876246891e-06,
+      "timestamp": "2025-05-26 14:20"
+    },
+    {
+      "rank": 7,
+      "name": "Avalon",
+      "symbol": "AVL",
+      "price_btc": 2.5910590132126247e-06,
+      "timestamp": "2025-05-26 14:20"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023329675821187452,
+      "timestamp": "2025-05-26 14:20"
+    },
+    {
+      "rank": 9,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.318043662689797e-08,
+      "timestamp": "2025-05-26 14:20"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2682448272349897e-10,
+      "timestamp": "2025-05-26 14:20"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004049898199400326,
+      "timestamp": "2025-05-26 14:20"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016168930072967798,
+      "timestamp": "2025-05-26 14:20"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.0112024748504365e-06,
+      "timestamp": "2025-05-26 14:20"
+    },
+    {
+      "rank": 14,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.1348738413140735e-06,
+      "timestamp": "2025-05-26 14:20"
+    },
+    {
+      "rank": 15,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2437396373630554e-05,
+      "timestamp": "2025-05-26 14:20"
+    }
   ]
 }
