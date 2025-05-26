@@ -102611,5 +102611,112 @@
       "price_btc": 1.1355790459371825e-06,
       "timestamp": "2025-05-26 07:28"
     }
+  ],
+  "2025-05-26 08:40": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003515460493853229,
+      "timestamp": "2025-05-26 08:40"
+    },
+    {
+      "rank": 2,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.966046170288855e-06,
+      "timestamp": "2025-05-26 08:40"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02347594373667205,
+      "timestamp": "2025-05-26 08:40"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.310378408817283e-05,
+      "timestamp": "2025-05-26 08:40"
+    },
+    {
+      "rank": 5,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3015462196095116e-10,
+      "timestamp": "2025-05-26 08:40"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004098777878293005,
+      "timestamp": "2025-05-26 08:40"
+    },
+    {
+      "rank": 7,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.697756319049249e-08,
+      "timestamp": "2025-05-26 08:40"
+    },
+    {
+      "rank": 8,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.3033048404559597e-05,
+      "timestamp": "2025-05-26 08:40"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.017108809313517e-05,
+      "timestamp": "2025-05-26 08:40"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-26 08:40"
+    },
+    {
+      "rank": 11,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.1916037434145964e-05,
+      "timestamp": "2025-05-26 08:40"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016200261277702253,
+      "timestamp": "2025-05-26 08:40"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 7.109550925347874e-06,
+      "timestamp": "2025-05-26 08:40"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3111199131159707e-05,
+      "timestamp": "2025-05-26 08:40"
+    },
+    {
+      "rank": 15,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.198152838013653e-07,
+      "timestamp": "2025-05-26 08:40"
+    }
   ]
 }
