@@ -105500,5 +105500,112 @@
       "price_btc": 2.1173656473615298e-05,
       "timestamp": "2025-05-27 12:42"
     }
+  ],
+  "2025-05-27 13:32": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003478554702117698,
+      "timestamp": "2025-05-27 13:32"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.2979045472006454e-05,
+      "timestamp": "2025-05-27 13:32"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024086504897402633,
+      "timestamp": "2025-05-27 13:32"
+    },
+    {
+      "rank": 4,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.644171816617629e-07,
+      "timestamp": "2025-05-27 13:32"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.2269785301834116e-05,
+      "timestamp": "2025-05-27 13:32"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016119511955687248,
+      "timestamp": "2025-05-27 13:32"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.725309874848109e-06,
+      "timestamp": "2025-05-27 13:32"
+    },
+    {
+      "rank": 8,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002546593659177491,
+      "timestamp": "2025-05-27 13:32"
+    },
+    {
+      "rank": 9,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.697783347545417e-06,
+      "timestamp": "2025-05-27 13:32"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-27 13:32"
+    },
+    {
+      "rank": 11,
+      "name": "Resolv USR",
+      "symbol": "USR",
+      "price_btc": 9.04214638618569e-06,
+      "timestamp": "2025-05-27 13:32"
+    },
+    {
+      "rank": 12,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.867729152975472e-08,
+      "timestamp": "2025-05-27 13:32"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.286382794452865e-10,
+      "timestamp": "2025-05-27 13:32"
+    },
+    {
+      "rank": 14,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.831614775466446e-06,
+      "timestamp": "2025-05-27 13:32"
+    },
+    {
+      "rank": 15,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.5233415147255545e-06,
+      "timestamp": "2025-05-27 13:32"
+    }
   ]
 }
