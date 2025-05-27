@@ -106463,5 +106463,112 @@
       "price_btc": 5.24777188341097e-07,
       "timestamp": "2025-05-27 21:19"
     }
+  ],
+  "2025-05-27 22:19": [
+    {
+      "rank": 1,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.3988513026481526e-06,
+      "timestamp": "2025-05-27 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 8.525520161638784e-06,
+      "timestamp": "2025-05-27 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 2.1480012012840786e-05,
+      "timestamp": "2025-05-27 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3759213038257763e-05,
+      "timestamp": "2025-05-27 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033267177898717835,
+      "timestamp": "2025-05-27 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.261672140034085e-05,
+      "timestamp": "2025-05-27 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001620146150389858,
+      "timestamp": "2025-05-27 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0244555483687345,
+      "timestamp": "2025-05-27 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.767186129250878e-06,
+      "timestamp": "2025-05-27 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Bluefin",
+      "symbol": "BLUE",
+      "price_btc": 1.1969203822590989e-06,
+      "timestamp": "2025-05-27 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.6653263719642393e-08,
+      "timestamp": "2025-05-27 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.359618245029884e-07,
+      "timestamp": "2025-05-27 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Gunz",
+      "symbol": "GUN",
+      "price_btc": 4.5164505151980077e-07,
+      "timestamp": "2025-05-27 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2902160898447548e-05,
+      "timestamp": "2025-05-27 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.5673028704400154e-06,
+      "timestamp": "2025-05-27 22:19"
+    }
   ]
 }
