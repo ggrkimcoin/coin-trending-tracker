@@ -105821,5 +105821,112 @@
       "price_btc": 7.248779280487438e-06,
       "timestamp": "2025-05-27 15:22"
     }
+  ],
+  "2025-05-27 16:26": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003416542122791682,
+      "timestamp": "2025-05-27 16:26"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.343375344652666e-05,
+      "timestamp": "2025-05-27 16:26"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.256626878861134e-05,
+      "timestamp": "2025-05-27 16:26"
+    },
+    {
+      "rank": 4,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.032538567525402e-08,
+      "timestamp": "2025-05-27 16:26"
+    },
+    {
+      "rank": 5,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.344496546341746e-07,
+      "timestamp": "2025-05-27 16:26"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001616772669259119,
+      "timestamp": "2025-05-27 16:26"
+    },
+    {
+      "rank": 7,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 7.217192878534391e-06,
+      "timestamp": "2025-05-27 16:26"
+    },
+    {
+      "rank": 8,
+      "name": "SQD",
+      "symbol": "SQD",
+      "price_btc": 2.3387488389192227e-06,
+      "timestamp": "2025-05-27 16:26"
+    },
+    {
+      "rank": 9,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.6633141478421264e-06,
+      "timestamp": "2025-05-27 16:26"
+    },
+    {
+      "rank": 10,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 8.344310615571496e-06,
+      "timestamp": "2025-05-27 16:26"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004044888355037504,
+      "timestamp": "2025-05-27 16:26"
+    },
+    {
+      "rank": 12,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 6.621863413355744e-07,
+      "timestamp": "2025-05-27 16:26"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1223821782141024e-05,
+      "timestamp": "2025-05-27 16:26"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2671800831267597e-10,
+      "timestamp": "2025-05-27 16:26"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.69626527673911e-06,
+      "timestamp": "2025-05-27 16:26"
+    }
   ]
 }
