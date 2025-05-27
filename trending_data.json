@@ -106570,5 +106570,112 @@
       "price_btc": 2.5673028704400154e-06,
       "timestamp": "2025-05-27 22:19"
     }
+  ],
+  "2025-05-27 23:18": [
+    {
+      "rank": 1,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 8.574511949306054e-06,
+      "timestamp": "2025-05-27 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.4893938633834831e-06,
+      "timestamp": "2025-05-27 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 2.1224353526893797e-05,
+      "timestamp": "2025-05-27 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.2444533936301724e-05,
+      "timestamp": "2025-05-27 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.573293389907747e-08,
+      "timestamp": "2025-05-27 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3634987687664054e-05,
+      "timestamp": "2025-05-27 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.6403215385195536e-06,
+      "timestamp": "2025-05-27 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016192968746161437,
+      "timestamp": "2025-05-27 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00032978512741590685,
+      "timestamp": "2025-05-27 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003446318938281992,
+      "timestamp": "2025-05-27 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2905041117962887e-05,
+      "timestamp": "2025-05-27 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "Gunz",
+      "symbol": "GUN",
+      "price_btc": 4.4767212975545246e-07,
+      "timestamp": "2025-05-27 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "Bluefin",
+      "symbol": "BLUE",
+      "price_btc": 1.1819453984737464e-06,
+      "timestamp": "2025-05-27 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2541548604542275e-05,
+      "timestamp": "2025-05-27 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.6639243257703338e-06,
+      "timestamp": "2025-05-27 23:18"
+    }
   ]
 }
