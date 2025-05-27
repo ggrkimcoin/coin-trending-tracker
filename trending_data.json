@@ -106035,5 +106035,112 @@
       "price_btc": 4.115913122389192e-06,
       "timestamp": "2025-05-27 17:18"
     }
+  ],
+  "2025-05-27 18:28": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.737464227085141e-05,
+      "timestamp": "2025-05-27 18:28"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003426497746252011,
+      "timestamp": "2025-05-27 18:28"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.283599307937997e-05,
+      "timestamp": "2025-05-27 18:28"
+    },
+    {
+      "rank": 4,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 8.215042236451751e-06,
+      "timestamp": "2025-05-27 18:28"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3387465228057146e-05,
+      "timestamp": "2025-05-27 18:28"
+    },
+    {
+      "rank": 6,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.188390396436664e-07,
+      "timestamp": "2025-05-27 18:28"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-27 18:28"
+    },
+    {
+      "rank": 8,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.725256768424085e-06,
+      "timestamp": "2025-05-27 18:28"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016205574418736495,
+      "timestamp": "2025-05-27 18:28"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024466886003489233,
+      "timestamp": "2025-05-27 18:28"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 8.530159186889842e-06,
+      "timestamp": "2025-05-27 18:28"
+    },
+    {
+      "rank": 12,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.608845710095276e-08,
+      "timestamp": "2025-05-27 18:28"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002525245140930176,
+      "timestamp": "2025-05-27 18:28"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.125453444139223e-05,
+      "timestamp": "2025-05-27 18:28"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0040488762876265605,
+      "timestamp": "2025-05-27 18:28"
+    }
   ]
 }
