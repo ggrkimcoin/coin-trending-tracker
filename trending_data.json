@@ -104644,5 +104644,112 @@
       "price_btc": 6.926330704760374e-06,
       "timestamp": "2025-05-27 04:27"
     }
+  ],
+  "2025-05-27 05:20": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.417064789494865e-08,
+      "timestamp": "2025-05-27 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1601409306961816e-05,
+      "timestamp": "2025-05-27 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.608387076812952e-07,
+      "timestamp": "2025-05-27 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.5422381108539638e-06,
+      "timestamp": "2025-05-27 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003427316330367178,
+      "timestamp": "2025-05-27 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 5.504160966602681e-07,
+      "timestamp": "2025-05-27 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015919843293818088,
+      "timestamp": "2025-05-27 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.522193406722518e-05,
+      "timestamp": "2025-05-27 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.5796358903283793e-08,
+      "timestamp": "2025-05-27 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023503122936211495,
+      "timestamp": "2025-05-27 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.549008486305404e-06,
+      "timestamp": "2025-05-27 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.8529891380443545e-06,
+      "timestamp": "2025-05-27 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002451494671038674,
+      "timestamp": "2025-05-27 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.260020805334866e-10,
+      "timestamp": "2025-05-27 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.4742450932205738e-05,
+      "timestamp": "2025-05-27 05:20"
+    }
   ]
 }
