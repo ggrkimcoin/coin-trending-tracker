@@ -104858,5 +104858,112 @@
       "price_btc": 6.824850546585816e-06,
       "timestamp": "2025-05-27 06:29"
     }
+  ],
+  "2025-05-27 07:20": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.4797814610387157e-08,
+      "timestamp": "2025-05-27 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.768482620783599e-07,
+      "timestamp": "2025-05-27 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1632879237432316e-05,
+      "timestamp": "2025-05-27 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034422771145040695,
+      "timestamp": "2025-05-27 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 5.969272296629535e-07,
+      "timestamp": "2025-05-27 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.5627160200992938e-06,
+      "timestamp": "2025-05-27 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.104023108603311e-06,
+      "timestamp": "2025-05-27 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015978993716321607,
+      "timestamp": "2025-05-27 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.0254104790938394e-05,
+      "timestamp": "2025-05-27 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 6.676917187763238e-06,
+      "timestamp": "2025-05-27 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.563691882789761e-08,
+      "timestamp": "2025-05-27 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.0694492724976573e-06,
+      "timestamp": "2025-05-27 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004049871988990548,
+      "timestamp": "2025-05-27 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.1687100606479912e-06,
+      "timestamp": "2025-05-27 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2774347536198485e-10,
+      "timestamp": "2025-05-27 07:20"
+    }
   ]
 }
