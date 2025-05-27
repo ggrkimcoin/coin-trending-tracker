@@ -106142,5 +106142,112 @@
       "price_btc": 0.0040488762876265605,
       "timestamp": "2025-05-27 18:28"
     }
+  ],
+  "2025-05-27 19:16": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.731491351558638e-05,
+      "timestamp": "2025-05-27 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 8.386329599683725e-06,
+      "timestamp": "2025-05-27 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034117063753090753,
+      "timestamp": "2025-05-27 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "Siren",
+      "symbol": "SIREN",
+      "price_btc": 1.390249150577229e-06,
+      "timestamp": "2025-05-27 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.2907079497056903e-05,
+      "timestamp": "2025-05-27 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.38272583837815e-06,
+      "timestamp": "2025-05-27 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3607931192504194e-05,
+      "timestamp": "2025-05-27 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "Gunz",
+      "symbol": "GUN",
+      "price_btc": 4.4880135836373977e-07,
+      "timestamp": "2025-05-27 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016258437256583198,
+      "timestamp": "2025-05-27 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.184776438991105e-07,
+      "timestamp": "2025-05-27 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.667489544601458e-08,
+      "timestamp": "2025-05-27 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Bluefin",
+      "symbol": "BLUE",
+      "price_btc": 1.2037385022314203e-06,
+      "timestamp": "2025-05-27 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004082190033900843,
+      "timestamp": "2025-05-27 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2888939621810154e-05,
+      "timestamp": "2025-05-27 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002508135935608162,
+      "timestamp": "2025-05-27 19:16"
+    }
   ]
 }
