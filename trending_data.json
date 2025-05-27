@@ -105072,5 +105072,112 @@
       "price_btc": 1.2941479960796796e-05,
       "timestamp": "2025-05-27 08:27"
     }
+  ],
+  "2025-05-27 09:22": [
+    {
+      "rank": 1,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.766451676084623e-07,
+      "timestamp": "2025-05-27 09:22"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003374554601993376,
+      "timestamp": "2025-05-27 09:22"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.196416052015033e-05,
+      "timestamp": "2025-05-27 09:22"
+    },
+    {
+      "rank": 4,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.6175375040461627e-05,
+      "timestamp": "2025-05-27 09:22"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.1472089092056158e-05,
+      "timestamp": "2025-05-27 09:22"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperlane",
+      "symbol": "HYPER",
+      "price_btc": 1.583553646468627e-06,
+      "timestamp": "2025-05-27 09:22"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024018220322299114,
+      "timestamp": "2025-05-27 09:22"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016021722239198007,
+      "timestamp": "2025-05-27 09:22"
+    },
+    {
+      "rank": 9,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1678478546895854e-07,
+      "timestamp": "2025-05-27 09:22"
+    },
+    {
+      "rank": 10,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 6.056114410282713e-07,
+      "timestamp": "2025-05-27 09:22"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.790008420531545e-06,
+      "timestamp": "2025-05-27 09:22"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-27 09:22"
+    },
+    {
+      "rank": 13,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 6.10145159614332e-05,
+      "timestamp": "2025-05-27 09:22"
+    },
+    {
+      "rank": 14,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.310850539558262e-08,
+      "timestamp": "2025-05-27 09:22"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.650002970002277e-06,
+      "timestamp": "2025-05-27 09:22"
+    }
   ]
 }
