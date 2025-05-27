@@ -104537,5 +104537,112 @@
       "price_btc": 2.558178315697342e-06,
       "timestamp": "2025-05-27 03:11"
     }
+  ],
+  "2025-05-27 04:27": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.425297709744128e-08,
+      "timestamp": "2025-05-27 04:27"
+    },
+    {
+      "rank": 2,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.735538392271257e-07,
+      "timestamp": "2025-05-27 04:27"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003385581852510153,
+      "timestamp": "2025-05-27 04:27"
+    },
+    {
+      "rank": 4,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.5399371272855327e-06,
+      "timestamp": "2025-05-27 04:27"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.181514721511904e-05,
+      "timestamp": "2025-05-27 04:27"
+    },
+    {
+      "rank": 6,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.574001464971959e-08,
+      "timestamp": "2025-05-27 04:27"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023416233132063823,
+      "timestamp": "2025-05-27 04:27"
+    },
+    {
+      "rank": 8,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.3874610820055518e-05,
+      "timestamp": "2025-05-27 04:27"
+    },
+    {
+      "rank": 9,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.5242313844270444e-05,
+      "timestamp": "2025-05-27 04:27"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.263249344707367e-10,
+      "timestamp": "2025-05-27 04:27"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9703814905300714e-05,
+      "timestamp": "2025-05-27 04:27"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-27 04:27"
+    },
+    {
+      "rank": 13,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.937927139869547e-08,
+      "timestamp": "2025-05-27 04:27"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2914121061114162e-05,
+      "timestamp": "2025-05-27 04:27"
+    },
+    {
+      "rank": 15,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.926330704760374e-06,
+      "timestamp": "2025-05-27 04:27"
+    }
   ]
 }
