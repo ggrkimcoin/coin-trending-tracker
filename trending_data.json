@@ -105393,5 +105393,112 @@
       "price_btc": 6.938612550525816e-06,
       "timestamp": "2025-05-27 11:17"
     }
+  ],
+  "2025-05-27 12:42": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034412233541630534,
+      "timestamp": "2025-05-27 12:42"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024094603537534072,
+      "timestamp": "2025-05-27 12:42"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.241634701947865e-05,
+      "timestamp": "2025-05-27 12:42"
+    },
+    {
+      "rank": 4,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.685253041143393e-07,
+      "timestamp": "2025-05-27 12:42"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.2665686827570044e-05,
+      "timestamp": "2025-05-27 12:42"
+    },
+    {
+      "rank": 6,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.838600185990882e-06,
+      "timestamp": "2025-05-27 12:42"
+    },
+    {
+      "rank": 7,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.00255547504474532,
+      "timestamp": "2025-05-27 12:42"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00161084554729001,
+      "timestamp": "2025-05-27 12:42"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.683503259738509e-06,
+      "timestamp": "2025-05-27 12:42"
+    },
+    {
+      "rank": 10,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.136449726361883e-06,
+      "timestamp": "2025-05-27 12:42"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-27 12:42"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2876636833799857e-10,
+      "timestamp": "2025-05-27 12:42"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004070474753493624,
+      "timestamp": "2025-05-27 12:42"
+    },
+    {
+      "rank": 14,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.5643523396003606e-05,
+      "timestamp": "2025-05-27 12:42"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1173656473615298e-05,
+      "timestamp": "2025-05-27 12:42"
+    }
   ]
 }
