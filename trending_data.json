@@ -106356,5 +106356,112 @@
       "price_btc": 4.104763318724261e-06,
       "timestamp": "2025-05-27 20:22"
     }
+  ],
+  "2025-05-27 21:19": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.270256704906841e-05,
+      "timestamp": "2025-05-27 21:19"
+    },
+    {
+      "rank": 2,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.3913249601310386e-06,
+      "timestamp": "2025-05-27 21:19"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 8.631795680454036e-06,
+      "timestamp": "2025-05-27 21:19"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001626038024402867,
+      "timestamp": "2025-05-27 21:19"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033556150361733204,
+      "timestamp": "2025-05-27 21:19"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.38326534594243e-05,
+      "timestamp": "2025-05-27 21:19"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024390838026790786,
+      "timestamp": "2025-05-27 21:19"
+    },
+    {
+      "rank": 8,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.721691495500515e-06,
+      "timestamp": "2025-05-27 21:19"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2809276193770854e-10,
+      "timestamp": "2025-05-27 21:19"
+    },
+    {
+      "rank": 10,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 4.325811426274766e-05,
+      "timestamp": "2025-05-27 21:19"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0041702010740616744,
+      "timestamp": "2025-05-27 21:19"
+    },
+    {
+      "rank": 12,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0034728748096262718,
+      "timestamp": "2025-05-27 21:19"
+    },
+    {
+      "rank": 13,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 3.722602175381374e-06,
+      "timestamp": "2025-05-27 21:19"
+    },
+    {
+      "rank": 14,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.755748734246317e-08,
+      "timestamp": "2025-05-27 21:19"
+    },
+    {
+      "rank": 15,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.24777188341097e-07,
+      "timestamp": "2025-05-27 21:19"
+    }
   ]
 }
