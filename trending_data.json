@@ -104965,5 +104965,112 @@
       "price_btc": 1.2774347536198485e-10,
       "timestamp": "2025-05-27 07:20"
     }
+  ],
+  "2025-05-27 08:27": [
+    {
+      "rank": 1,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.817810884517515e-07,
+      "timestamp": "2025-05-27 08:27"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034454868910404723,
+      "timestamp": "2025-05-27 08:27"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.184389040377872e-05,
+      "timestamp": "2025-05-27 08:27"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperlane",
+      "symbol": "HYPER",
+      "price_btc": 1.5937112449186456e-06,
+      "timestamp": "2025-05-27 08:27"
+    },
+    {
+      "rank": 5,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 6.149875663440166e-07,
+      "timestamp": "2025-05-27 08:27"
+    },
+    {
+      "rank": 6,
+      "name": "RedStone",
+      "symbol": "RED",
+      "price_btc": 4.040172642811359e-06,
+      "timestamp": "2025-05-27 08:27"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-27 08:27"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.117974819926266e-05,
+      "timestamp": "2025-05-27 08:27"
+    },
+    {
+      "rank": 9,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.5601200249734273e-06,
+      "timestamp": "2025-05-27 08:27"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016027028603035017,
+      "timestamp": "2025-05-27 08:27"
+    },
+    {
+      "rank": 11,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.5077166333325305e-05,
+      "timestamp": "2025-05-27 08:27"
+    },
+    {
+      "rank": 12,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.1712175375020984e-06,
+      "timestamp": "2025-05-27 08:27"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02380963440853621,
+      "timestamp": "2025-05-27 08:27"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2772061704204677e-10,
+      "timestamp": "2025-05-27 08:27"
+    },
+    {
+      "rank": 15,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2941479960796796e-05,
+      "timestamp": "2025-05-27 08:27"
+    }
   ]
 }
