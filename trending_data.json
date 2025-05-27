@@ -106249,5 +106249,112 @@
       "price_btc": 0.002508135935608162,
       "timestamp": "2025-05-27 19:16"
     }
+  ],
+  "2025-05-27 20:22": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.293928490583269e-05,
+      "timestamp": "2025-05-27 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033814558811638896,
+      "timestamp": "2025-05-27 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.3666374394067386e-06,
+      "timestamp": "2025-05-27 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3762875595780274e-05,
+      "timestamp": "2025-05-27 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 8.385955914206064e-06,
+      "timestamp": "2025-05-27 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016193416849326144,
+      "timestamp": "2025-05-27 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "Siren",
+      "symbol": "SIREN",
+      "price_btc": 1.392806292045017e-06,
+      "timestamp": "2025-05-27 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004127193039682871,
+      "timestamp": "2025-05-27 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 2.148385627044859e-05,
+      "timestamp": "2025-05-27 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2602696039136354e-05,
+      "timestamp": "2025-05-27 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.329914649957854e-07,
+      "timestamp": "2025-05-27 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 4.304479523457368e-05,
+      "timestamp": "2025-05-27 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "Gunz",
+      "symbol": "GUN",
+      "price_btc": 4.501472197796698e-07,
+      "timestamp": "2025-05-27 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0010327631363403408,
+      "timestamp": "2025-05-27 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.104763318724261e-06,
+      "timestamp": "2025-05-27 20:22"
+    }
   ]
 }
