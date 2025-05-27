@@ -105286,5 +105286,112 @@
       "price_btc": 0.001600687033500439,
       "timestamp": "2025-05-27 10:23"
     }
+  ],
+  "2025-05-27 11:17": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033837643638332877,
+      "timestamp": "2025-05-27 11:17"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.218373480488023e-05,
+      "timestamp": "2025-05-27 11:17"
+    },
+    {
+      "rank": 3,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.752949918282552e-07,
+      "timestamp": "2025-05-27 11:17"
+    },
+    {
+      "rank": 4,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.5616922004259968e-05,
+      "timestamp": "2025-05-27 11:17"
+    },
+    {
+      "rank": 5,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.966139193991776e-08,
+      "timestamp": "2025-05-27 11:17"
+    },
+    {
+      "rank": 6,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0009907170987113517,
+      "timestamp": "2025-05-27 11:17"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016054884826911988,
+      "timestamp": "2025-05-27 11:17"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.2442059990636684e-05,
+      "timestamp": "2025-05-27 11:17"
+    },
+    {
+      "rank": 9,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.5133428227853226e-06,
+      "timestamp": "2025-05-27 11:17"
+    },
+    {
+      "rank": 10,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.911399454575036e-06,
+      "timestamp": "2025-05-27 11:17"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02404602572534786,
+      "timestamp": "2025-05-27 11:17"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2896461102046653e-10,
+      "timestamp": "2025-05-27 11:17"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002542945181514004,
+      "timestamp": "2025-05-27 11:17"
+    },
+    {
+      "rank": 14,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 6.851759844142133e-07,
+      "timestamp": "2025-05-27 11:17"
+    },
+    {
+      "rank": 15,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 6.938612550525816e-06,
+      "timestamp": "2025-05-27 11:17"
+    }
   ]
 }
