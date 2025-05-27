@@ -105179,5 +105179,112 @@
       "price_btc": 8.650002970002277e-06,
       "timestamp": "2025-05-27 09:22"
     }
+  ],
+  "2025-05-27 10:23": [
+    {
+      "rank": 1,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.6056700387689884e-05,
+      "timestamp": "2025-05-27 10:23"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033709275775973207,
+      "timestamp": "2025-05-27 10:23"
+    },
+    {
+      "rank": 3,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.732059694961587e-07,
+      "timestamp": "2025-05-27 10:23"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.2044888887898398e-05,
+      "timestamp": "2025-05-27 10:23"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023998208012757868,
+      "timestamp": "2025-05-27 10:23"
+    },
+    {
+      "rank": 6,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2907816576699283e-10,
+      "timestamp": "2025-05-27 10:23"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.2112540138902755e-05,
+      "timestamp": "2025-05-27 10:23"
+    },
+    {
+      "rank": 8,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.8624768741700986e-06,
+      "timestamp": "2025-05-27 10:23"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00403850430808293,
+      "timestamp": "2025-05-27 10:23"
+    },
+    {
+      "rank": 10,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.050485942024306e-08,
+      "timestamp": "2025-05-27 10:23"
+    },
+    {
+      "rank": 11,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.523005802695911e-06,
+      "timestamp": "2025-05-27 10:23"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-27 10:23"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.65570623320614e-06,
+      "timestamp": "2025-05-27 10:23"
+    },
+    {
+      "rank": 14,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.16873939254828e-05,
+      "timestamp": "2025-05-27 10:23"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001600687033500439,
+      "timestamp": "2025-05-27 10:23"
+    }
   ]
 }
