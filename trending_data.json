@@ -105928,5 +105928,112 @@
       "price_btc": 8.69626527673911e-06,
       "timestamp": "2025-05-27 16:26"
     }
+  ],
+  "2025-05-27 17:18": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7310409911149784e-05,
+      "timestamp": "2025-05-27 17:18"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003456924989262879,
+      "timestamp": "2025-05-27 17:18"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3328811187410914e-05,
+      "timestamp": "2025-05-27 17:18"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.2738635582560694e-05,
+      "timestamp": "2025-05-27 17:18"
+    },
+    {
+      "rank": 5,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.5129796471433593e-08,
+      "timestamp": "2025-05-27 17:18"
+    },
+    {
+      "rank": 6,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.14475753545682e-07,
+      "timestamp": "2025-05-27 17:18"
+    },
+    {
+      "rank": 7,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 7.831316151366097e-06,
+      "timestamp": "2025-05-27 17:18"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02423194542171423,
+      "timestamp": "2025-05-27 17:18"
+    },
+    {
+      "rank": 9,
+      "name": "Tellor Tributes",
+      "symbol": "TRB",
+      "price_btc": 0.0004914662028921384,
+      "timestamp": "2025-05-27 17:18"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-27 17:18"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016161481223763584,
+      "timestamp": "2025-05-27 17:18"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004040368476040951,
+      "timestamp": "2025-05-27 17:18"
+    },
+    {
+      "rank": 13,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 4.36107158959726e-05,
+      "timestamp": "2025-05-27 17:18"
+    },
+    {
+      "rank": 14,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0010172967558090054,
+      "timestamp": "2025-05-27 17:18"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.115913122389192e-06,
+      "timestamp": "2025-05-27 17:18"
+    }
   ]
 }
