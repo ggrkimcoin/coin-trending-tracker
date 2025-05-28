@@ -108496,5 +108496,112 @@
       "price_btc": 8.918098647569083e-06,
       "timestamp": "2025-05-28 18:28"
     }
+  ],
+  "2025-05-28 19:16": [
+    {
+      "rank": 1,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.980458683258788e-07,
+      "timestamp": "2025-05-28 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.348392206067968e-11,
+      "timestamp": "2025-05-28 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003179991044861279,
+      "timestamp": "2025-05-28 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.165329262475243e-05,
+      "timestamp": "2025-05-28 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.60990885640875e-06,
+      "timestamp": "2025-05-28 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0032024127066226904,
+      "timestamp": "2025-05-28 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0921833135473413e-05,
+      "timestamp": "2025-05-28 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.1559652137377785e-05,
+      "timestamp": "2025-05-28 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.30003507875611e-05,
+      "timestamp": "2025-05-28 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015843991575367298,
+      "timestamp": "2025-05-28 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02457795147175706,
+      "timestamp": "2025-05-28 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.039498018938897e-06,
+      "timestamp": "2025-05-28 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 3.394991577348957e-07,
+      "timestamp": "2025-05-28 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-28 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2683576837479723e-10,
+      "timestamp": "2025-05-28 19:16"
+    }
   ]
 }
