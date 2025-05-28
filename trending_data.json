@@ -106891,5 +106891,112 @@
       "price_btc": 1.2801628243610109e-05,
       "timestamp": "2025-05-28 03:13"
     }
+  ],
+  "2025-05-28 04:26": [
+    {
+      "rank": 1,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 8.697337539827221e-06,
+      "timestamp": "2025-05-28 04:26"
+    },
+    {
+      "rank": 2,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.4831368417005017e-06,
+      "timestamp": "2025-05-28 04:26"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4087938322519294e-05,
+      "timestamp": "2025-05-28 04:26"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000326391422734196,
+      "timestamp": "2025-05-28 04:26"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.224567530678278e-05,
+      "timestamp": "2025-05-28 04:26"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024311236591277412,
+      "timestamp": "2025-05-28 04:26"
+    },
+    {
+      "rank": 7,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 8.864761646892835e-06,
+      "timestamp": "2025-05-28 04:26"
+    },
+    {
+      "rank": 8,
+      "name": "Bluefin",
+      "symbol": "BLUE",
+      "price_btc": 1.1988114740289058e-06,
+      "timestamp": "2025-05-28 04:26"
+    },
+    {
+      "rank": 9,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.338918889073454e-07,
+      "timestamp": "2025-05-28 04:26"
+    },
+    {
+      "rank": 10,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2891361174221856e-05,
+      "timestamp": "2025-05-28 04:26"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.0958068259218805e-06,
+      "timestamp": "2025-05-28 04:26"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.276809413715234e-10,
+      "timestamp": "2025-05-28 04:26"
+    },
+    {
+      "rank": 13,
+      "name": "Collaterize",
+      "symbol": "COLLAT",
+      "price_btc": 5.343299573794799e-07,
+      "timestamp": "2025-05-28 04:26"
+    },
+    {
+      "rank": 14,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 4.09046361324091e-05,
+      "timestamp": "2025-05-28 04:26"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.6831614837618116e-06,
+      "timestamp": "2025-05-28 04:26"
+    }
   ]
 }
