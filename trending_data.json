@@ -108817,5 +108817,112 @@
       "price_btc": 0.0040209209675057655,
       "timestamp": "2025-05-28 21:18"
     }
+  ],
+  "2025-05-28 22:19": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3681459659497162e-11,
+      "timestamp": "2025-05-28 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 6.225460332065066e-07,
+      "timestamp": "2025-05-28 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.418640762309721e-06,
+      "timestamp": "2025-05-28 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031378219967689316,
+      "timestamp": "2025-05-28 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.048122879728922e-05,
+      "timestamp": "2025-05-28 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0246637436350624,
+      "timestamp": "2025-05-28 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.1746701831039768e-05,
+      "timestamp": "2025-05-28 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015951080972552746,
+      "timestamp": "2025-05-28 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.7802662626184405e-08,
+      "timestamp": "2025-05-28 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 4.109670575496883e-05,
+      "timestamp": "2025-05-28 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3256940964842734e-05,
+      "timestamp": "2025-05-28 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.6103792218852582e-05,
+      "timestamp": "2025-05-28 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-28 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003215255207531976,
+      "timestamp": "2025-05-28 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1039354275832757e-05,
+      "timestamp": "2025-05-28 22:19"
+    }
   ]
 }
