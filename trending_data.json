@@ -108175,5 +108175,112 @@
       "price_btc": 4.010648667736127e-08,
       "timestamp": "2025-05-28 15:21"
     }
+  ],
+  "2025-05-28 16:25": [
+    {
+      "rank": 1,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 6.363919438107084e-07,
+      "timestamp": "2025-05-28 16:25"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3658442833117669e-11,
+      "timestamp": "2025-05-28 16:25"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003179705239459338,
+      "timestamp": "2025-05-28 16:25"
+    },
+    {
+      "rank": 4,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.206467332886272e-05,
+      "timestamp": "2025-05-28 16:25"
+    },
+    {
+      "rank": 5,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003228757565216947,
+      "timestamp": "2025-05-28 16:25"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.1577148092490955e-05,
+      "timestamp": "2025-05-28 16:25"
+    },
+    {
+      "rank": 7,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.00747644272958e-06,
+      "timestamp": "2025-05-28 16:25"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024548285545519553,
+      "timestamp": "2025-05-28 16:25"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004002514069500263,
+      "timestamp": "2025-05-28 16:25"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.106449044655332e-05,
+      "timestamp": "2025-05-28 16:25"
+    },
+    {
+      "rank": 11,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 5.538383059225421e-06,
+      "timestamp": "2025-05-28 16:25"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.325920152191489e-05,
+      "timestamp": "2025-05-28 16:25"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-28 16:25"
+    },
+    {
+      "rank": 14,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 8.61557542573386e-06,
+      "timestamp": "2025-05-28 16:25"
+    },
+    {
+      "rank": 15,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.1091847658347414e-08,
+      "timestamp": "2025-05-28 16:25"
+    }
   ]
 }
