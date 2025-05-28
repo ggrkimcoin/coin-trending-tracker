@@ -106677,5 +106677,112 @@
       "price_btc": 1.6639243257703338e-06,
       "timestamp": "2025-05-27 23:18"
     }
+  ],
+  "2025-05-28 01:44": [
+    {
+      "rank": 1,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.4798790091689437e-06,
+      "timestamp": "2025-05-28 01:44"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.258772788308694e-05,
+      "timestamp": "2025-05-28 01:44"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 8.425731005498893e-06,
+      "timestamp": "2025-05-28 01:44"
+    },
+    {
+      "rank": 4,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.933936275770338e-08,
+      "timestamp": "2025-05-28 01:44"
+    },
+    {
+      "rank": 5,
+      "name": "Gunz",
+      "symbol": "GUN",
+      "price_btc": 4.588383180314226e-07,
+      "timestamp": "2025-05-28 01:44"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00032855382870833853,
+      "timestamp": "2025-05-28 01:44"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016225440597397581,
+      "timestamp": "2025-05-28 01:44"
+    },
+    {
+      "rank": 8,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 2.084194882914751e-05,
+      "timestamp": "2025-05-28 01:44"
+    },
+    {
+      "rank": 9,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 4.10355069005713e-05,
+      "timestamp": "2025-05-28 01:44"
+    },
+    {
+      "rank": 10,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003316515720823289,
+      "timestamp": "2025-05-28 01:44"
+    },
+    {
+      "rank": 11,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.6838320821127003e-06,
+      "timestamp": "2025-05-28 01:44"
+    },
+    {
+      "rank": 12,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00013949660965222125,
+      "timestamp": "2025-05-28 01:44"
+    },
+    {
+      "rank": 13,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.662212933984412e-05,
+      "timestamp": "2025-05-28 01:44"
+    },
+    {
+      "rank": 14,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002481183020202563,
+      "timestamp": "2025-05-28 01:44"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3675059397958054e-05,
+      "timestamp": "2025-05-28 01:44"
+    }
   ]
 }
