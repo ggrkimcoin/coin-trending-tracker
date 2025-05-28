@@ -107426,5 +107426,112 @@
       "price_btc": 1.4586626613667486e-06,
       "timestamp": "2025-05-28 08:28"
     }
+  ],
+  "2025-05-28 09:22": [
+    {
+      "rank": 1,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 8.190931409665995e-06,
+      "timestamp": "2025-05-28 09:22"
+    },
+    {
+      "rank": 2,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.00316888302739438,
+      "timestamp": "2025-05-28 09:22"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4142842339487576e-05,
+      "timestamp": "2025-05-28 09:22"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00032794688454568065,
+      "timestamp": "2025-05-28 09:22"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.24904288769163e-05,
+      "timestamp": "2025-05-28 09:22"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.048059264603044e-06,
+      "timestamp": "2025-05-28 09:22"
+    },
+    {
+      "rank": 7,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 2.112978951206954e-05,
+      "timestamp": "2025-05-28 09:22"
+    },
+    {
+      "rank": 8,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5262231833558428e-06,
+      "timestamp": "2025-05-28 09:22"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024241191905504625,
+      "timestamp": "2025-05-28 09:22"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.679503542615625e-06,
+      "timestamp": "2025-05-28 09:22"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1112398465043652e-05,
+      "timestamp": "2025-05-28 09:22"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.262033055391471e-10,
+      "timestamp": "2025-05-28 09:22"
+    },
+    {
+      "rank": 13,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.2529254955688856e-05,
+      "timestamp": "2025-05-28 09:22"
+    },
+    {
+      "rank": 14,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0010840897000366685,
+      "timestamp": "2025-05-28 09:22"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-28 09:22"
+    }
   ]
 }
