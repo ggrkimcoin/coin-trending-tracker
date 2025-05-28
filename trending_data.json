@@ -107212,5 +107212,112 @@
       "price_btc": 2.117555602674916e-05,
       "timestamp": "2025-05-28 06:30"
     }
+  ],
+  "2025-05-28 07:20": [
+    {
+      "rank": 1,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 8.712475618700547e-06,
+      "timestamp": "2025-05-28 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.14830687849008e-06,
+      "timestamp": "2025-05-28 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.384747788346034e-05,
+      "timestamp": "2025-05-28 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.4400204792333555e-06,
+      "timestamp": "2025-05-28 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00032578908348747376,
+      "timestamp": "2025-05-28 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.2609878146922054e-05,
+      "timestamp": "2025-05-28 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024166557497093115,
+      "timestamp": "2025-05-28 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.108812078702575e-07,
+      "timestamp": "2025-05-28 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 4.0925192111601365e-05,
+      "timestamp": "2025-05-28 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-28 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015999887878092385,
+      "timestamp": "2025-05-28 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004096450266655555,
+      "timestamp": "2025-05-28 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1036835499298852e-05,
+      "timestamp": "2025-05-28 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.5067625021025532e-06,
+      "timestamp": "2025-05-28 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.002992755984761871,
+      "timestamp": "2025-05-28 07:20"
+    }
   ]
 }
