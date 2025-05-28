@@ -106998,5 +106998,112 @@
       "price_btc": 3.6831614837618116e-06,
       "timestamp": "2025-05-28 04:26"
     }
+  ],
+  "2025-05-28 05:20": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3926289280754875e-05,
+      "timestamp": "2025-05-28 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5137036031916682e-06,
+      "timestamp": "2025-05-28 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 8.631693275444426e-06,
+      "timestamp": "2025-05-28 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003255964544178393,
+      "timestamp": "2025-05-28 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.2415343778358297e-05,
+      "timestamp": "2025-05-28 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 8.934009541648973e-06,
+      "timestamp": "2025-05-28 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.872851827751376e-06,
+      "timestamp": "2025-05-28 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024263901146227018,
+      "timestamp": "2025-05-28 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.308060883610923e-08,
+      "timestamp": "2025-05-28 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-28 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016061395473551403,
+      "timestamp": "2025-05-28 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2747080150885364e-10,
+      "timestamp": "2025-05-28 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "Bluefin",
+      "symbol": "BLUE",
+      "price_btc": 1.198238567785324e-06,
+      "timestamp": "2025-05-28 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 1.2571929298867153e-06,
+      "timestamp": "2025-05-28 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002505020721497455,
+      "timestamp": "2025-05-28 05:20"
+    }
   ]
 }
