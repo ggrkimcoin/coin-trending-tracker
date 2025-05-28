@@ -107105,5 +107105,112 @@
       "price_btc": 0.002505020721497455,
       "timestamp": "2025-05-28 05:20"
     }
+  ],
+  "2025-05-28 06:30": [
+    {
+      "rank": 1,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.263020533351775e-06,
+      "timestamp": "2025-05-28 06:30"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003282463300430729,
+      "timestamp": "2025-05-28 06:30"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 8.741472586492646e-06,
+      "timestamp": "2025-05-28 06:30"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.2565337403883907e-05,
+      "timestamp": "2025-05-28 06:30"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.4151717388111696e-05,
+      "timestamp": "2025-05-28 06:30"
+    },
+    {
+      "rank": 6,
+      "name": "Gunz",
+      "symbol": "GUN",
+      "price_btc": 4.5444096343990067e-07,
+      "timestamp": "2025-05-28 06:30"
+    },
+    {
+      "rank": 7,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.467000351735582e-06,
+      "timestamp": "2025-05-28 06:30"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016051299950558798,
+      "timestamp": "2025-05-28 06:30"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.852446994646986e-06,
+      "timestamp": "2025-05-28 06:30"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024236025421521507,
+      "timestamp": "2025-05-28 06:30"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2608131614346675e-05,
+      "timestamp": "2025-05-28 06:30"
+    },
+    {
+      "rank": 12,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.580209736351515e-05,
+      "timestamp": "2025-05-28 06:30"
+    },
+    {
+      "rank": 13,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 5.392148684500899e-07,
+      "timestamp": "2025-05-28 06:30"
+    },
+    {
+      "rank": 14,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.248882326467151e-08,
+      "timestamp": "2025-05-28 06:30"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.117555602674916e-05,
+      "timestamp": "2025-05-28 06:30"
+    }
   ]
 }
