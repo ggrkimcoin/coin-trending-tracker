@@ -107533,5 +107533,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-05-28 09:22"
     }
+  ],
+  "2025-05-28 10:23": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003258492335248277,
+      "timestamp": "2025-05-28 10:23"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 8.233318020600745e-06,
+      "timestamp": "2025-05-28 10:23"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.237639364374495e-05,
+      "timestamp": "2025-05-28 10:23"
+    },
+    {
+      "rank": 4,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 8.963287822391623e-06,
+      "timestamp": "2025-05-28 10:23"
+    },
+    {
+      "rank": 5,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8215419526968212e-05,
+      "timestamp": "2025-05-28 10:23"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.408333167082281e-05,
+      "timestamp": "2025-05-28 10:23"
+    },
+    {
+      "rank": 7,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.5497284676641877e-06,
+      "timestamp": "2025-05-28 10:23"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.796229089129718e-06,
+      "timestamp": "2025-05-28 10:23"
+    },
+    {
+      "rank": 9,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0031661073027333276,
+      "timestamp": "2025-05-28 10:23"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02421798862119641,
+      "timestamp": "2025-05-28 10:23"
+    },
+    {
+      "rank": 11,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.618597039414843e-05,
+      "timestamp": "2025-05-28 10:23"
+    },
+    {
+      "rank": 12,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024774301076755482,
+      "timestamp": "2025-05-28 10:23"
+    },
+    {
+      "rank": 13,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 5.33911389170164e-06,
+      "timestamp": "2025-05-28 10:23"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2429087805605713e-05,
+      "timestamp": "2025-05-28 10:23"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015983197175090664,
+      "timestamp": "2025-05-28 10:23"
+    }
   ]
 }
