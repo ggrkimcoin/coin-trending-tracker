@@ -107319,5 +107319,112 @@
       "price_btc": 0.002992755984761871,
       "timestamp": "2025-05-28 07:20"
     }
+  ],
+  "2025-05-28 08:28": [
+    {
+      "rank": 1,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 8.619167686429041e-06,
+      "timestamp": "2025-05-28 08:28"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.2557927828155202e-05,
+      "timestamp": "2025-05-28 08:28"
+    },
+    {
+      "rank": 3,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0030821652516020586,
+      "timestamp": "2025-05-28 08:28"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.416254932578941e-05,
+      "timestamp": "2025-05-28 08:28"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00032623340001055424,
+      "timestamp": "2025-05-28 08:28"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.041754213089527e-06,
+      "timestamp": "2025-05-28 08:28"
+    },
+    {
+      "rank": 7,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 2.138821021536719e-05,
+      "timestamp": "2025-05-28 08:28"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024222426027149486,
+      "timestamp": "2025-05-28 08:28"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-28 08:28"
+    },
+    {
+      "rank": 10,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 4.127737769881803e-05,
+      "timestamp": "2025-05-28 08:28"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2629926820859875e-10,
+      "timestamp": "2025-05-28 08:28"
+    },
+    {
+      "rank": 12,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002474460917955379,
+      "timestamp": "2025-05-28 08:28"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.667497367395164e-06,
+      "timestamp": "2025-05-28 08:28"
+    },
+    {
+      "rank": 14,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 5.168010056967715e-07,
+      "timestamp": "2025-05-28 08:28"
+    },
+    {
+      "rank": 15,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.4586626613667486e-06,
+      "timestamp": "2025-05-28 08:28"
+    }
   ]
 }
