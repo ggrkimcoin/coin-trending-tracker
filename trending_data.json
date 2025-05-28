@@ -108603,5 +108603,112 @@
       "price_btc": 1.2683576837479723e-10,
       "timestamp": "2025-05-28 19:16"
     }
+  ],
+  "2025-05-28 20:22": [
+    {
+      "rank": 1,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 6.033818310433056e-07,
+      "timestamp": "2025-05-28 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003052654255533091,
+      "timestamp": "2025-05-28 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3442651562904347e-11,
+      "timestamp": "2025-05-28 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.1431761010999225e-05,
+      "timestamp": "2025-05-28 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.17426701423675e-05,
+      "timestamp": "2025-05-28 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.45624863599989e-06,
+      "timestamp": "2025-05-28 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015847918339175796,
+      "timestamp": "2025-05-28 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.30115776560665e-05,
+      "timestamp": "2025-05-28 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 9.069731284447498e-06,
+      "timestamp": "2025-05-28 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "Sonic (prev. FTM)",
+      "symbol": "S",
+      "price_btc": 4.03325851393836e-06,
+      "timestamp": "2025-05-28 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02451382531280892,
+      "timestamp": "2025-05-28 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.501723439052353e-06,
+      "timestamp": "2025-05-28 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-28 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.734258754204495e-06,
+      "timestamp": "2025-05-28 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 2.0419886963595664e-05,
+      "timestamp": "2025-05-28 20:22"
+    }
   ]
 }
