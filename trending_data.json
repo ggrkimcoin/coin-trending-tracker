@@ -107747,5 +107747,112 @@
       "price_btc": 5.090244684324959e-07,
       "timestamp": "2025-05-28 11:18"
     }
+  ],
+  "2025-05-28 12:42": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3794529217761315e-11,
+      "timestamp": "2025-05-28 12:42"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003269362009321866,
+      "timestamp": "2025-05-28 12:42"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.210187989185635e-05,
+      "timestamp": "2025-05-28 12:42"
+    },
+    {
+      "rank": 4,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.513865172392294e-06,
+      "timestamp": "2025-05-28 12:42"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.2000299114589664e-05,
+      "timestamp": "2025-05-28 12:42"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.362610006019228e-06,
+      "timestamp": "2025-05-28 12:42"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.385580775723992e-05,
+      "timestamp": "2025-05-28 12:42"
+    },
+    {
+      "rank": 8,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 8.469655262121523e-06,
+      "timestamp": "2025-05-28 12:42"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.273069724824056e-10,
+      "timestamp": "2025-05-28 12:42"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.774138335996092e-06,
+      "timestamp": "2025-05-28 12:42"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-28 12:42"
+    },
+    {
+      "rank": 12,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 4.149073310648612e-05,
+      "timestamp": "2025-05-28 12:42"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016019697255442334,
+      "timestamp": "2025-05-28 12:42"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024459049750876972,
+      "timestamp": "2025-05-28 12:42"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.012953472167442e-06,
+      "timestamp": "2025-05-28 12:42"
+    }
   ]
 }
