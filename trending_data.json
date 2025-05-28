@@ -107640,5 +107640,112 @@
       "price_btc": 0.0015983197175090664,
       "timestamp": "2025-05-28 10:23"
     }
+  ],
+  "2025-05-28 11:18": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3636735146856912e-11,
+      "timestamp": "2025-05-28 11:18"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003274265794493609,
+      "timestamp": "2025-05-28 11:18"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 8.324652359843032e-06,
+      "timestamp": "2025-05-28 11:18"
+    },
+    {
+      "rank": 4,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.521441541178881e-06,
+      "timestamp": "2025-05-28 11:18"
+    },
+    {
+      "rank": 5,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.073891921534286e-06,
+      "timestamp": "2025-05-28 11:18"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3991193973870495e-05,
+      "timestamp": "2025-05-28 11:18"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.2137380844199176e-05,
+      "timestamp": "2025-05-28 11:18"
+    },
+    {
+      "rank": 8,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.913988903518064e-05,
+      "timestamp": "2025-05-28 11:18"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02423803441054897,
+      "timestamp": "2025-05-28 11:18"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001599295350618528,
+      "timestamp": "2025-05-28 11:18"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.8040049566451056e-06,
+      "timestamp": "2025-05-28 11:18"
+    },
+    {
+      "rank": 12,
+      "name": "Merlin Chain",
+      "symbol": "MERL",
+      "price_btc": 1.2084479901746507e-06,
+      "timestamp": "2025-05-28 11:18"
+    },
+    {
+      "rank": 13,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 4.911389350136731e-07,
+      "timestamp": "2025-05-28 11:18"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2562961585656507e-10,
+      "timestamp": "2025-05-28 11:18"
+    },
+    {
+      "rank": 15,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 5.090244684324959e-07,
+      "timestamp": "2025-05-28 11:18"
+    }
   ]
 }
