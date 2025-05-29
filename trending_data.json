@@ -110957,5 +110957,112 @@
       "price_btc": 2.0495750363847757e-05,
       "timestamp": "2025-05-29 19:14"
     }
+  ],
+  "2025-05-29 20:23": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.715157275863022e-08,
+      "timestamp": "2025-05-29 20:23"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003015626299659932,
+      "timestamp": "2025-05-29 20:23"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3868789832552304e-11,
+      "timestamp": "2025-05-29 20:23"
+    },
+    {
+      "rank": 4,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 1.1356336095089767e-05,
+      "timestamp": "2025-05-29 20:23"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015729681974020273,
+      "timestamp": "2025-05-29 20:23"
+    },
+    {
+      "rank": 6,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.881161171205625e-08,
+      "timestamp": "2025-05-29 20:23"
+    },
+    {
+      "rank": 7,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.337087553330357e-07,
+      "timestamp": "2025-05-29 20:23"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.099037939460566e-05,
+      "timestamp": "2025-05-29 20:23"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02501273844873879,
+      "timestamp": "2025-05-29 20:23"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.339889194822577e-05,
+      "timestamp": "2025-05-29 20:23"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2912921661103866e-10,
+      "timestamp": "2025-05-29 20:23"
+    },
+    {
+      "rank": 12,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 2.0476466409846765e-06,
+      "timestamp": "2025-05-29 20:23"
+    },
+    {
+      "rank": 13,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 9.223348203497852e-07,
+      "timestamp": "2025-05-29 20:23"
+    },
+    {
+      "rank": 14,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0116619044251741e-05,
+      "timestamp": "2025-05-29 20:23"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1640687187355117e-05,
+      "timestamp": "2025-05-29 20:23"
+    }
   ]
 }
