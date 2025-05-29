@@ -111171,5 +111171,112 @@
       "price_btc": 0.003960857203465241,
       "timestamp": "2025-05-29 21:19"
     }
+  ],
+  "2025-05-29 22:19": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3741686545364422e-11,
+      "timestamp": "2025-05-29 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.7154438832877104e-08,
+      "timestamp": "2025-05-29 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 6.344786898180309e-08,
+      "timestamp": "2025-05-29 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 5.857039881542907e-07,
+      "timestamp": "2025-05-29 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 1.1554039815859673e-05,
+      "timestamp": "2025-05-29 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.363980566459314e-07,
+      "timestamp": "2025-05-29 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.1276261431974906e-05,
+      "timestamp": "2025-05-29 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.300201363319252e-10,
+      "timestamp": "2025-05-29 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00158164418951825,
+      "timestamp": "2025-05-29 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003038055299747558,
+      "timestamp": "2025-05-29 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 2.1065131697383043e-05,
+      "timestamp": "2025-05-29 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.4044606599254436e-06,
+      "timestamp": "2025-05-29 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1425359486471155e-05,
+      "timestamp": "2025-05-29 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.374635610212674e-05,
+      "timestamp": "2025-05-29 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0912250461460918e-05,
+      "timestamp": "2025-05-29 22:19"
+    }
   ]
 }
