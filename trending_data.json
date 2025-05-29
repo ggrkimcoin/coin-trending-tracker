@@ -110529,5 +110529,112 @@
       "price_btc": 3.336100234052596e-05,
       "timestamp": "2025-05-29 15:21"
     }
+  ],
+  "2025-05-29 16:26": [
+    {
+      "rank": 1,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.614688355223571e-07,
+      "timestamp": "2025-05-29 16:26"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3719254034937508e-11,
+      "timestamp": "2025-05-29 16:26"
+    },
+    {
+      "rank": 3,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.6438717718241583e-08,
+      "timestamp": "2025-05-29 16:26"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00029740639283828524,
+      "timestamp": "2025-05-29 16:26"
+    },
+    {
+      "rank": 5,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.2616067582852216e-08,
+      "timestamp": "2025-05-29 16:26"
+    },
+    {
+      "rank": 6,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 1.0856855878417644e-05,
+      "timestamp": "2025-05-29 16:26"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015876193638756214,
+      "timestamp": "2025-05-29 16:26"
+    },
+    {
+      "rank": 8,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 5.856418644059946e-07,
+      "timestamp": "2025-05-29 16:26"
+    },
+    {
+      "rank": 9,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0336935692649832e-05,
+      "timestamp": "2025-05-29 16:26"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2860405161509126e-10,
+      "timestamp": "2025-05-29 16:26"
+    },
+    {
+      "rank": 11,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.189603609905416e-05,
+      "timestamp": "2025-05-29 16:26"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024763205737204478,
+      "timestamp": "2025-05-29 16:26"
+    },
+    {
+      "rank": 13,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 2.0893339344444988e-05,
+      "timestamp": "2025-05-29 16:26"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.1047095556311955e-05,
+      "timestamp": "2025-05-29 16:26"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003961282984834368,
+      "timestamp": "2025-05-29 16:26"
+    }
   ]
 }
