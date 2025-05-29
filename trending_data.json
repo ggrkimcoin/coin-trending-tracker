@@ -109245,5 +109245,112 @@
       "price_btc": 2.397635854521109e-06,
       "timestamp": "2025-05-29 03:14"
     }
+  ],
+  "2025-05-29 04:26": [
+    {
+      "rank": 1,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.930280562521987e-07,
+      "timestamp": "2025-05-29 04:26"
+    },
+    {
+      "rank": 2,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3630595199905477e-10,
+      "timestamp": "2025-05-29 04:26"
+    },
+    {
+      "rank": 3,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.859067457347927e-06,
+      "timestamp": "2025-05-29 04:26"
+    },
+    {
+      "rank": 4,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 6.923146441192697e-05,
+      "timestamp": "2025-05-29 04:26"
+    },
+    {
+      "rank": 5,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.1248121574873385e-08,
+      "timestamp": "2025-05-29 04:26"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025565434666884473,
+      "timestamp": "2025-05-29 04:26"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016089763392972806,
+      "timestamp": "2025-05-29 04:26"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3736994308923564e-05,
+      "timestamp": "2025-05-29 04:26"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.203639962654169e-05,
+      "timestamp": "2025-05-29 04:26"
+    },
+    {
+      "rank": 10,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 9.323002525772492e-06,
+      "timestamp": "2025-05-29 04:26"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.7141159908248537e-06,
+      "timestamp": "2025-05-29 04:26"
+    },
+    {
+      "rank": 12,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.104427146286669e-05,
+      "timestamp": "2025-05-29 04:26"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.742556276612371e-06,
+      "timestamp": "2025-05-29 04:26"
+    },
+    {
+      "rank": 14,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 3.5393402130015075e-07,
+      "timestamp": "2025-05-29 04:26"
+    },
+    {
+      "rank": 15,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 4.974931468677082e-07,
+      "timestamp": "2025-05-29 04:26"
+    }
   ]
 }
