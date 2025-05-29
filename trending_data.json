@@ -109566,5 +109566,112 @@
       "price_btc": 0.003990241583109135,
       "timestamp": "2025-05-29 06:30"
     }
+  ],
+  "2025-05-29 07:20": [
+    {
+      "rank": 1,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.895695445842324e-07,
+      "timestamp": "2025-05-29 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.035750058860388e-05,
+      "timestamp": "2025-05-29 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 9.79511215513894e-06,
+      "timestamp": "2025-05-29 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.201505621606105e-05,
+      "timestamp": "2025-05-29 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003172403701084246,
+      "timestamp": "2025-05-29 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 6.64044779280256e-05,
+      "timestamp": "2025-05-29 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3452283283625326e-10,
+      "timestamp": "2025-05-29 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0032285701320025942,
+      "timestamp": "2025-05-29 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.0614603774679906e-05,
+      "timestamp": "2025-05-29 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0016005850390921387,
+      "timestamp": "2025-05-29 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003994956720495925,
+      "timestamp": "2025-05-29 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02529037876340483,
+      "timestamp": "2025-05-29 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.5994250530965193e-06,
+      "timestamp": "2025-05-29 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.378721692965819e-05,
+      "timestamp": "2025-05-29 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.684311134556465e-06,
+      "timestamp": "2025-05-29 07:20"
+    }
   ]
 }
