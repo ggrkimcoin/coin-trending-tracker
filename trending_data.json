@@ -109673,5 +109673,112 @@
       "price_btc": 8.684311134556465e-06,
       "timestamp": "2025-05-29 07:20"
     }
+  ],
+  "2025-05-29 08:28": [
+    {
+      "rank": 1,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.929546236489121e-07,
+      "timestamp": "2025-05-29 08:28"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 9.812584055906701e-06,
+      "timestamp": "2025-05-29 08:28"
+    },
+    {
+      "rank": 3,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.073719136471046e-05,
+      "timestamp": "2025-05-29 08:28"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031955771693075396,
+      "timestamp": "2025-05-29 08:28"
+    },
+    {
+      "rank": 5,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3371250999882286e-10,
+      "timestamp": "2025-05-29 08:28"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015955166326223015,
+      "timestamp": "2025-05-29 08:28"
+    },
+    {
+      "rank": 7,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.074100681828637e-05,
+      "timestamp": "2025-05-29 08:28"
+    },
+    {
+      "rank": 8,
+      "name": "Nobody Sausage",
+      "symbol": "NOBODY",
+      "price_btc": 3.196524832802706e-07,
+      "timestamp": "2025-05-29 08:28"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.1754233827393773e-05,
+      "timestamp": "2025-05-29 08:28"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.364363924931001e-05,
+      "timestamp": "2025-05-29 08:28"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.60936666411617e-06,
+      "timestamp": "2025-05-29 08:28"
+    },
+    {
+      "rank": 12,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 6.644578011076554e-05,
+      "timestamp": "2025-05-29 08:28"
+    },
+    {
+      "rank": 13,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.7215852993933265e-05,
+      "timestamp": "2025-05-29 08:28"
+    },
+    {
+      "rank": 14,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.945115430958958e-08,
+      "timestamp": "2025-05-29 08:28"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-29 08:28"
+    }
   ]
 }
