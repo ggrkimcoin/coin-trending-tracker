@@ -110636,5 +110636,112 @@
       "price_btc": 0.003961282984834368,
       "timestamp": "2025-05-29 16:26"
     }
+  ],
+  "2025-05-29 17:18": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.6606995197466914e-08,
+      "timestamp": "2025-05-29 17:18"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00029918522003136367,
+      "timestamp": "2025-05-29 17:18"
+    },
+    {
+      "rank": 3,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.458544146594037e-07,
+      "timestamp": "2025-05-29 17:18"
+    },
+    {
+      "rank": 4,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3933005024822173e-11,
+      "timestamp": "2025-05-29 17:18"
+    },
+    {
+      "rank": 5,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 1.049939089040359e-05,
+      "timestamp": "2025-05-29 17:18"
+    },
+    {
+      "rank": 6,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.673225655453388e-08,
+      "timestamp": "2025-05-29 17:18"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.0961142043937547e-05,
+      "timestamp": "2025-05-29 17:18"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015803316120674355,
+      "timestamp": "2025-05-29 17:18"
+    },
+    {
+      "rank": 9,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0132832068470938e-05,
+      "timestamp": "2025-05-29 17:18"
+    },
+    {
+      "rank": 10,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 5.819744597644665e-07,
+      "timestamp": "2025-05-29 17:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024768368204458602,
+      "timestamp": "2025-05-29 17:18"
+    },
+    {
+      "rank": 12,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.1825170002683576e-05,
+      "timestamp": "2025-05-29 17:18"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.63392899174158e-06,
+      "timestamp": "2025-05-29 17:18"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-29 17:18"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3359076195147655e-05,
+      "timestamp": "2025-05-29 17:18"
+    }
   ]
 }
