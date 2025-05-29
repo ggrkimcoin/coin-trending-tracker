@@ -109031,5 +109031,112 @@
       "price_btc": 0.006379320471087334,
       "timestamp": "2025-05-28 23:19"
     }
+  ],
+  "2025-05-29 01:44": [
+    {
+      "rank": 1,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.824559776796145e-07,
+      "timestamp": "2025-05-29 01:44"
+    },
+    {
+      "rank": 2,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 6.639764087923894e-05,
+      "timestamp": "2025-05-29 01:44"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003178051357476758,
+      "timestamp": "2025-05-29 01:44"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.2501153198878527e-05,
+      "timestamp": "2025-05-29 01:44"
+    },
+    {
+      "rank": 5,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.895660741525398e-06,
+      "timestamp": "2025-05-29 01:44"
+    },
+    {
+      "rank": 6,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.822739330784192e-08,
+      "timestamp": "2025-05-29 01:44"
+    },
+    {
+      "rank": 7,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.918792419216632e-06,
+      "timestamp": "2025-05-29 01:44"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02510914405892853,
+      "timestamp": "2025-05-29 01:44"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.361094849249245e-05,
+      "timestamp": "2025-05-29 01:44"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-29 01:44"
+    },
+    {
+      "rank": 11,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 8.471903828540042e-06,
+      "timestamp": "2025-05-29 01:44"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1194395434995018e-05,
+      "timestamp": "2025-05-29 01:44"
+    },
+    {
+      "rank": 13,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.129442243967683e-05,
+      "timestamp": "2025-05-29 01:44"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.803040319844649e-06,
+      "timestamp": "2025-05-29 01:44"
+    },
+    {
+      "rank": 15,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.702132062508484e-05,
+      "timestamp": "2025-05-29 01:44"
+    }
   ]
 }
