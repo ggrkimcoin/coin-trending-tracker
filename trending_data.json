@@ -110101,5 +110101,112 @@
       "price_btc": 2.1154853097906452e-05,
       "timestamp": "2025-05-29 11:17"
     }
+  ],
+  "2025-05-29 12:41": [
+    {
+      "rank": 1,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.678198002608864e-07,
+      "timestamp": "2025-05-29 12:41"
+    },
+    {
+      "rank": 2,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.485429777572749e-08,
+      "timestamp": "2025-05-29 12:41"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 1.0158008716522606e-05,
+      "timestamp": "2025-05-29 12:41"
+    },
+    {
+      "rank": 4,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0604994734909183e-05,
+      "timestamp": "2025-05-29 12:41"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003114340017876465,
+      "timestamp": "2025-05-29 12:41"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.1310842314701804e-05,
+      "timestamp": "2025-05-29 12:41"
+    },
+    {
+      "rank": 7,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3754109310760179e-11,
+      "timestamp": "2025-05-29 12:41"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02495417471334784,
+      "timestamp": "2025-05-29 12:41"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.530805819563594e-06,
+      "timestamp": "2025-05-29 12:41"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3921946265731966e-05,
+      "timestamp": "2025-05-29 12:41"
+    },
+    {
+      "rank": 11,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 2.1121386417499645e-05,
+      "timestamp": "2025-05-29 12:41"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015877719305769002,
+      "timestamp": "2025-05-29 12:41"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003966354442505284,
+      "timestamp": "2025-05-29 12:41"
+    },
+    {
+      "rank": 14,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.9742732541517512e-05,
+      "timestamp": "2025-05-29 12:41"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.5870294908620434e-06,
+      "timestamp": "2025-05-29 12:41"
+    }
   ]
 }
