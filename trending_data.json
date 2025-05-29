@@ -109352,5 +109352,112 @@
       "price_btc": 4.974931468677082e-07,
       "timestamp": "2025-05-29 04:26"
     }
+  ],
+  "2025-05-29 05:21": [
+    {
+      "rank": 1,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.911853966906931e-07,
+      "timestamp": "2025-05-29 05:21"
+    },
+    {
+      "rank": 2,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.930015962563851e-06,
+      "timestamp": "2025-05-29 05:21"
+    },
+    {
+      "rank": 3,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 6.772918607095192e-05,
+      "timestamp": "2025-05-29 05:21"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015975368458473393,
+      "timestamp": "2025-05-29 05:21"
+    },
+    {
+      "rank": 5,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.351198887887204e-08,
+      "timestamp": "2025-05-29 05:21"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.347626960720844e-05,
+      "timestamp": "2025-05-29 05:21"
+    },
+    {
+      "rank": 7,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 9.83056266299573e-06,
+      "timestamp": "2025-05-29 05:21"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.349988534229542e-10,
+      "timestamp": "2025-05-29 05:21"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031311015455419726,
+      "timestamp": "2025-05-29 05:21"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.1716921962029497e-05,
+      "timestamp": "2025-05-29 05:21"
+    },
+    {
+      "rank": 11,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.0337353645086723e-05,
+      "timestamp": "2025-05-29 05:21"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02533748164406468,
+      "timestamp": "2025-05-29 05:21"
+    },
+    {
+      "rank": 13,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 8.379620016090898e-06,
+      "timestamp": "2025-05-29 05:21"
+    },
+    {
+      "rank": 14,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 4.876642374807911e-07,
+      "timestamp": "2025-05-29 05:21"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1209998315064116e-05,
+      "timestamp": "2025-05-29 05:21"
+    }
   ]
 }
