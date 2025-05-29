@@ -109887,5 +109887,112 @@
       "price_btc": 6.550164490067042e-05,
       "timestamp": "2025-05-29 09:22"
     }
+  ],
+  "2025-05-29 10:23": [
+    {
+      "rank": 1,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.877942409163968e-07,
+      "timestamp": "2025-05-29 10:23"
+    },
+    {
+      "rank": 2,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1086612129186171e-05,
+      "timestamp": "2025-05-29 10:23"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 9.766499134461067e-06,
+      "timestamp": "2025-05-29 10:23"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003180953745302604,
+      "timestamp": "2025-05-29 10:23"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.522440863398962e-06,
+      "timestamp": "2025-05-29 10:23"
+    },
+    {
+      "rank": 6,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.1850209923140454e-08,
+      "timestamp": "2025-05-29 10:23"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02517206584642356,
+      "timestamp": "2025-05-29 10:23"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3690995669464646e-05,
+      "timestamp": "2025-05-29 10:23"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.3334440205043925e-10,
+      "timestamp": "2025-05-29 10:23"
+    },
+    {
+      "rank": 10,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.34029857689866e-06,
+      "timestamp": "2025-05-29 10:23"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001590435237949605,
+      "timestamp": "2025-05-29 10:23"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.1734764679416662e-05,
+      "timestamp": "2025-05-29 10:23"
+    },
+    {
+      "rank": 13,
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price_btc": 2.126790816429661e-06,
+      "timestamp": "2025-05-29 10:23"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003983961040331554,
+      "timestamp": "2025-05-29 10:23"
+    },
+    {
+      "rank": 15,
+      "name": "Nobody Sausage",
+      "symbol": "NOBODY",
+      "price_btc": 3.0949578585602396e-07,
+      "timestamp": "2025-05-29 10:23"
+    }
   ]
 }
