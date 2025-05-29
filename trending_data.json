@@ -109138,5 +109138,112 @@
       "price_btc": 2.702132062508484e-05,
       "timestamp": "2025-05-29 01:44"
     }
+  ],
+  "2025-05-29 03:14": [
+    {
+      "rank": 1,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.864627673176653e-07,
+      "timestamp": "2025-05-29 03:14"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025552216164683235,
+      "timestamp": "2025-05-29 03:14"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.120495562822187e-05,
+      "timestamp": "2025-05-29 03:14"
+    },
+    {
+      "rank": 4,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.360956305392333e-10,
+      "timestamp": "2025-05-29 03:14"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001611072400822758,
+      "timestamp": "2025-05-29 03:14"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0279659578232756e-05,
+      "timestamp": "2025-05-29 03:14"
+    },
+    {
+      "rank": 7,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 9.023715161176413e-06,
+      "timestamp": "2025-05-29 03:14"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00032083237040041326,
+      "timestamp": "2025-05-29 03:14"
+    },
+    {
+      "rank": 9,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0032240527581188358,
+      "timestamp": "2025-05-29 03:14"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.2189122289598316e-05,
+      "timestamp": "2025-05-29 03:14"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.7745916177785e-06,
+      "timestamp": "2025-05-29 03:14"
+    },
+    {
+      "rank": 12,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.9521249941521035e-08,
+      "timestamp": "2025-05-29 03:14"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.7766351609208748e-06,
+      "timestamp": "2025-05-29 03:14"
+    },
+    {
+      "rank": 14,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 4.042769375822228e-06,
+      "timestamp": "2025-05-29 03:14"
+    },
+    {
+      "rank": 15,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.397635854521109e-06,
+      "timestamp": "2025-05-29 03:14"
+    }
   ]
 }
