@@ -112027,5 +112027,112 @@
       "price_btc": 0.00030282440828701074,
       "timestamp": "2025-05-30 07:19"
     }
+  ],
+  "2025-05-30 08:27": [
+    {
+      "rank": 1,
+      "name": "Pocket Network",
+      "symbol": "POKT",
+      "price_btc": 4.5743133712766096e-07,
+      "timestamp": "2025-05-30 08:27"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003110080799454866,
+      "timestamp": "2025-05-30 08:27"
+    },
+    {
+      "rank": 3,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.7085379355129014e-08,
+      "timestamp": "2025-05-30 08:27"
+    },
+    {
+      "rank": 4,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 4.989262387272518e-07,
+      "timestamp": "2025-05-30 08:27"
+    },
+    {
+      "rank": 5,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 1.0938623060051102e-05,
+      "timestamp": "2025-05-30 08:27"
+    },
+    {
+      "rank": 6,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.982295380745031e-05,
+      "timestamp": "2025-05-30 08:27"
+    },
+    {
+      "rank": 7,
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "price_btc": 7.695675161035101e-05,
+      "timestamp": "2025-05-30 08:27"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024947066228839222,
+      "timestamp": "2025-05-30 08:27"
+    },
+    {
+      "rank": 9,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.931762610280012e-08,
+      "timestamp": "2025-05-30 08:27"
+    },
+    {
+      "rank": 10,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.8796042613173855e-05,
+      "timestamp": "2025-05-30 08:27"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001549987883147095,
+      "timestamp": "2025-05-30 08:27"
+    },
+    {
+      "rank": 12,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 5.644639305247232e-07,
+      "timestamp": "2025-05-30 08:27"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-30 08:27"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.3276214382664616e-06,
+      "timestamp": "2025-05-30 08:27"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.275489392684518e-05,
+      "timestamp": "2025-05-30 08:27"
+    }
   ]
 }
