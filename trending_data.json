@@ -112990,5 +112990,112 @@
       "price_btc": 1.0278964131631747e-05,
       "timestamp": "2025-05-30 16:26"
     }
+  ],
+  "2025-05-30 17:17": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3686449739602878e-11,
+      "timestamp": "2025-05-30 17:17"
+    },
+    {
+      "rank": 2,
+      "name": "Pocket Network",
+      "symbol": "POKT",
+      "price_btc": 6.006543193639074e-07,
+      "timestamp": "2025-05-30 17:17"
+    },
+    {
+      "rank": 3,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.6909921613209775e-08,
+      "timestamp": "2025-05-30 17:17"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.177038526962986e-05,
+      "timestamp": "2025-05-30 17:17"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003107175156805611,
+      "timestamp": "2025-05-30 17:17"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024492432780534843,
+      "timestamp": "2025-05-30 17:17"
+    },
+    {
+      "rank": 7,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 2.820096572745893e-07,
+      "timestamp": "2025-05-30 17:17"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015196877321737982,
+      "timestamp": "2025-05-30 17:17"
+    },
+    {
+      "rank": 9,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.659652734889837e-07,
+      "timestamp": "2025-05-30 17:17"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0212406880749375e-05,
+      "timestamp": "2025-05-30 17:17"
+    },
+    {
+      "rank": 11,
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "price_btc": 0.00010220637016239073,
+      "timestamp": "2025-05-30 17:17"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.968946122199792e-06,
+      "timestamp": "2025-05-30 17:17"
+    },
+    {
+      "rank": 13,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.939230732321351e-05,
+      "timestamp": "2025-05-30 17:17"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-30 17:17"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9303918109764783e-05,
+      "timestamp": "2025-05-30 17:17"
+    }
   ]
 }
