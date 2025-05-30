@@ -113097,5 +113097,112 @@
       "price_btc": 1.9303918109764783e-05,
       "timestamp": "2025-05-30 17:17"
     }
+  ],
+  "2025-05-30 18:28": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.341647583099008e-11,
+      "timestamp": "2025-05-30 18:28"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003193708419725521,
+      "timestamp": "2025-05-30 18:28"
+    },
+    {
+      "rank": 3,
+      "name": "Pocket Network",
+      "symbol": "POKT",
+      "price_btc": 5.709883031518836e-07,
+      "timestamp": "2025-05-30 18:28"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.160785038827196e-05,
+      "timestamp": "2025-05-30 18:28"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-30 18:28"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015244755783003269,
+      "timestamp": "2025-05-30 18:28"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9591220323349997e-05,
+      "timestamp": "2025-05-30 18:28"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037473474252397877,
+      "timestamp": "2025-05-30 18:28"
+    },
+    {
+      "rank": 9,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 2.924828962856194e-07,
+      "timestamp": "2025-05-30 18:28"
+    },
+    {
+      "rank": 10,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.5420077210721303e-08,
+      "timestamp": "2025-05-30 18:28"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.397466509176183e-08,
+      "timestamp": "2025-05-30 18:28"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024461978086794026,
+      "timestamp": "2025-05-30 18:28"
+    },
+    {
+      "rank": 13,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.200805017782464e-06,
+      "timestamp": "2025-05-30 18:28"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2059095832530048e-10,
+      "timestamp": "2025-05-30 18:28"
+    },
+    {
+      "rank": 15,
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "price_btc": 0.00010878834258472295,
+      "timestamp": "2025-05-30 18:28"
+    }
   ]
 }
