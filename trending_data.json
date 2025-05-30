@@ -112134,5 +112134,112 @@
       "price_btc": 3.275489392684518e-05,
       "timestamp": "2025-05-30 08:27"
     }
+  ],
+  "2025-05-30 09:21": [
+    {
+      "rank": 1,
+      "name": "Pocket Network",
+      "symbol": "POKT",
+      "price_btc": 5.58569218533706e-07,
+      "timestamp": "2025-05-30 09:21"
+    },
+    {
+      "rank": 2,
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "price_btc": 0.0001007103451569045,
+      "timestamp": "2025-05-30 09:21"
+    },
+    {
+      "rank": 3,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.728618506544077e-08,
+      "timestamp": "2025-05-30 09:21"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031594109469552294,
+      "timestamp": "2025-05-30 09:21"
+    },
+    {
+      "rank": 5,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 1.0744988665437073e-05,
+      "timestamp": "2025-05-30 09:21"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001556053510492804,
+      "timestamp": "2025-05-30 09:21"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-30 09:21"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.29020738980541e-05,
+      "timestamp": "2025-05-30 09:21"
+    },
+    {
+      "rank": 9,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 4.946507569636949e-07,
+      "timestamp": "2025-05-30 09:21"
+    },
+    {
+      "rank": 10,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.88188572598161e-05,
+      "timestamp": "2025-05-30 09:21"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.842555423215857e-08,
+      "timestamp": "2025-05-30 09:21"
+    },
+    {
+      "rank": 12,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.9647086939786455e-05,
+      "timestamp": "2025-05-30 09:21"
+    },
+    {
+      "rank": 13,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.309186763545485e-05,
+      "timestamp": "2025-05-30 09:21"
+    },
+    {
+      "rank": 14,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0555580189304467e-05,
+      "timestamp": "2025-05-30 09:21"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.3054564828519054e-06,
+      "timestamp": "2025-05-30 09:21"
+    }
   ]
 }
