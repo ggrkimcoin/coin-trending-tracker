@@ -113632,5 +113632,112 @@
       "price_btc": 3.178876383489344e-05,
       "timestamp": "2025-05-30 22:19"
     }
+  ],
+  "2025-05-30 23:18": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.630391300910599e-08,
+      "timestamp": "2025-05-30 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.34045787878777e-11,
+      "timestamp": "2025-05-30 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.889882686927114e-05,
+      "timestamp": "2025-05-30 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "price_btc": 0.00012514441992532828,
+      "timestamp": "2025-05-30 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031028612273183517,
+      "timestamp": "2025-05-30 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.659721166475206e-06,
+      "timestamp": "2025-05-30 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Pocket Network",
+      "symbol": "POKT",
+      "price_btc": 7.512523966763852e-07,
+      "timestamp": "2025-05-30 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 5.256556438363554e-07,
+      "timestamp": "2025-05-30 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.008689007836322e-05,
+      "timestamp": "2025-05-30 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001517091864618492,
+      "timestamp": "2025-05-30 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0666357670692653e-05,
+      "timestamp": "2025-05-30 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.8731792521447042e-05,
+      "timestamp": "2025-05-30 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 2.8618394405962593e-07,
+      "timestamp": "2025-05-30 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.100075457821826e-05,
+      "timestamp": "2025-05-30 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.1859948010330815e-05,
+      "timestamp": "2025-05-30 23:18"
+    }
   ]
 }
