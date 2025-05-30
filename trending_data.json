@@ -113311,5 +113311,112 @@
       "price_btc": 1.2234408401734372e-10,
       "timestamp": "2025-05-30 19:16"
     }
+  ],
+  "2025-05-30 20:22": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3436514506514337e-11,
+      "timestamp": "2025-05-30 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.537447565832496e-08,
+      "timestamp": "2025-05-30 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "Pocket Network",
+      "symbol": "POKT",
+      "price_btc": 5.741113663269438e-07,
+      "timestamp": "2025-05-30 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "price_btc": 0.00010688948067944952,
+      "timestamp": "2025-05-30 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 6.15543209483774e-08,
+      "timestamp": "2025-05-30 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.2051774693471064e-05,
+      "timestamp": "2025-05-30 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003216544069108175,
+      "timestamp": "2025-05-30 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9913116909872632e-05,
+      "timestamp": "2025-05-30 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0352670974076215e-05,
+      "timestamp": "2025-05-30 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.622068114976694e-07,
+      "timestamp": "2025-05-30 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-30 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 3.160838372527831e-07,
+      "timestamp": "2025-05-30 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02464737715737827,
+      "timestamp": "2025-05-30 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.222661210235563e-10,
+      "timestamp": "2025-05-30 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0973095695216346e-05,
+      "timestamp": "2025-05-30 20:22"
+    }
   ]
 }
