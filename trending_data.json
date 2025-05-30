@@ -111385,5 +111385,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-05-29 23:19"
     }
+  ],
+  "2025-05-30 01:42": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0002986345404149242,
+      "timestamp": "2025-05-30 01:42"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 1.1588486975435955e-05,
+      "timestamp": "2025-05-30 01:42"
+    },
+    {
+      "rank": 3,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.8390321395894786e-08,
+      "timestamp": "2025-05-30 01:42"
+    },
+    {
+      "rank": 4,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 6.471285591498564e-08,
+      "timestamp": "2025-05-30 01:42"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.2589681178888695e-05,
+      "timestamp": "2025-05-30 01:42"
+    },
+    {
+      "rank": 6,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2761754941940836e-06,
+      "timestamp": "2025-05-30 01:42"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-30 01:42"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02458879449415041,
+      "timestamp": "2025-05-30 01:42"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015469908539150726,
+      "timestamp": "2025-05-30 01:42"
+    },
+    {
+      "rank": 10,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.185600502814756e-07,
+      "timestamp": "2025-05-30 01:42"
+    },
+    {
+      "rank": 11,
+      "name": "Velo",
+      "symbol": "VELO",
+      "price_btc": 1.308410770211689e-07,
+      "timestamp": "2025-05-30 01:42"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.049144615784205e-05,
+      "timestamp": "2025-05-30 01:42"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2396710353223817e-10,
+      "timestamp": "2025-05-30 01:42"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0971969320326127e-05,
+      "timestamp": "2025-05-30 01:42"
+    },
+    {
+      "rank": 15,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.1804797731583316e-06,
+      "timestamp": "2025-05-30 01:42"
+    }
   ]
 }
