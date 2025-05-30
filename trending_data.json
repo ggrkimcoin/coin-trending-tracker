@@ -111920,5 +111920,112 @@
       "price_btc": 2.0832360447680377e-05,
       "timestamp": "2025-05-30 06:29"
     }
+  ],
+  "2025-05-30 07:19": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.742260561117513e-08,
+      "timestamp": "2025-05-30 07:19"
+    },
+    {
+      "rank": 2,
+      "name": "Pocket Network",
+      "symbol": "POKT",
+      "price_btc": 4.561801364174069e-07,
+      "timestamp": "2025-05-30 07:19"
+    },
+    {
+      "rank": 3,
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "price_btc": 7.004292714885712e-05,
+      "timestamp": "2025-05-30 07:19"
+    },
+    {
+      "rank": 4,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 1.0654081055742112e-05,
+      "timestamp": "2025-05-30 07:19"
+    },
+    {
+      "rank": 5,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.9133962349842335e-08,
+      "timestamp": "2025-05-30 07:19"
+    },
+    {
+      "rank": 6,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 4.974900489660372e-07,
+      "timestamp": "2025-05-30 07:19"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024780417297654612,
+      "timestamp": "2025-05-30 07:19"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.0945751779070003e-05,
+      "timestamp": "2025-05-30 07:19"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0633718257508369e-05,
+      "timestamp": "2025-05-30 07:19"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.336555853983945e-06,
+      "timestamp": "2025-05-30 07:19"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.2420433958571414e-05,
+      "timestamp": "2025-05-30 07:19"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-30 07:19"
+    },
+    {
+      "rank": 13,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.62713000020619e-06,
+      "timestamp": "2025-05-30 07:19"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038476270457479646,
+      "timestamp": "2025-05-30 07:19"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00030282440828701074,
+      "timestamp": "2025-05-30 07:19"
+    }
   ]
 }
