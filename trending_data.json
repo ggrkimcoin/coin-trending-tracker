@@ -111492,5 +111492,112 @@
       "price_btc": 1.1804797731583316e-06,
       "timestamp": "2025-05-30 01:42"
     }
+  ],
+  "2025-05-30 03:11": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.8630202780503092e-08,
+      "timestamp": "2025-05-30 03:11"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 1.2595833557939541e-05,
+      "timestamp": "2025-05-30 03:11"
+    },
+    {
+      "rank": 3,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 6.60129525648344e-08,
+      "timestamp": "2025-05-30 03:11"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003069513704557859,
+      "timestamp": "2025-05-30 03:11"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-30 03:11"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.462706460042271e-06,
+      "timestamp": "2025-05-30 03:11"
+    },
+    {
+      "rank": 7,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.149593626480208e-07,
+      "timestamp": "2025-05-30 03:11"
+    },
+    {
+      "rank": 8,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 6.255841955640037e-07,
+      "timestamp": "2025-05-30 03:11"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1020673632979734e-05,
+      "timestamp": "2025-05-30 03:11"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.1098891822852983e-05,
+      "timestamp": "2025-05-30 03:11"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015564707168489447,
+      "timestamp": "2025-05-30 03:11"
+    },
+    {
+      "rank": 12,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.3887105751745817e-05,
+      "timestamp": "2025-05-30 03:11"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.3119145002734164e-05,
+      "timestamp": "2025-05-30 03:11"
+    },
+    {
+      "rank": 14,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.1796102090346344e-05,
+      "timestamp": "2025-05-30 03:11"
+    },
+    {
+      "rank": 15,
+      "name": "Velo",
+      "symbol": "VELO",
+      "price_btc": 1.318382220616404e-07,
+      "timestamp": "2025-05-30 03:11"
+    }
   ]
 }
