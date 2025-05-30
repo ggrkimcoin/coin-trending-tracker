@@ -112348,5 +112348,112 @@
       "price_btc": 1.0702764035509658e-05,
       "timestamp": "2025-05-30 10:21"
     }
+  ],
+  "2025-05-30 11:16": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3581621721305444e-11,
+      "timestamp": "2025-05-30 11:16"
+    },
+    {
+      "rank": 2,
+      "name": "Pocket Network",
+      "symbol": "POKT",
+      "price_btc": 4.422744641768216e-07,
+      "timestamp": "2025-05-30 11:16"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003166389607987791,
+      "timestamp": "2025-05-30 11:16"
+    },
+    {
+      "rank": 4,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.689587908528153e-08,
+      "timestamp": "2025-05-30 11:16"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024747728369266253,
+      "timestamp": "2025-05-30 11:16"
+    },
+    {
+      "rank": 6,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 9.77321677050707e-06,
+      "timestamp": "2025-05-30 11:16"
+    },
+    {
+      "rank": 7,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.225998030285181e-10,
+      "timestamp": "2025-05-30 11:16"
+    },
+    {
+      "rank": 8,
+      "name": "MultiversX",
+      "symbol": "EGLD",
+      "price_btc": 0.00015264049141424285,
+      "timestamp": "2025-05-30 11:16"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001544639509911735,
+      "timestamp": "2025-05-30 11:16"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.0746382922671383e-05,
+      "timestamp": "2025-05-30 11:16"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.095760648332325e-05,
+      "timestamp": "2025-05-30 11:16"
+    },
+    {
+      "rank": 12,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 4.870203431610163e-07,
+      "timestamp": "2025-05-30 11:16"
+    },
+    {
+      "rank": 13,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 6.183478147953951e-08,
+      "timestamp": "2025-05-30 11:16"
+    },
+    {
+      "rank": 14,
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "price_btc": 9.759450458959907e-05,
+      "timestamp": "2025-05-30 11:16"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038650754333013583,
+      "timestamp": "2025-05-30 11:16"
+    }
   ]
 }
