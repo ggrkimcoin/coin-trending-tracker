@@ -112562,5 +112562,112 @@
       "price_btc": 3.286554586073233e-05,
       "timestamp": "2025-05-30 12:41"
     }
+  ],
+  "2025-05-30 13:30": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.365837735942431e-11,
+      "timestamp": "2025-05-30 13:30"
+    },
+    {
+      "rank": 2,
+      "name": "Pocket Network",
+      "symbol": "POKT",
+      "price_btc": 8.106611273129166e-07,
+      "timestamp": "2025-05-30 13:30"
+    },
+    {
+      "rank": 3,
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "price_btc": 0.0001180620019486619,
+      "timestamp": "2025-05-30 13:30"
+    },
+    {
+      "rank": 4,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 3.3492311238629885e-07,
+      "timestamp": "2025-05-30 13:30"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003162459578409368,
+      "timestamp": "2025-05-30 13:30"
+    },
+    {
+      "rank": 6,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.70397108905998e-08,
+      "timestamp": "2025-05-30 13:30"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024697471543725542,
+      "timestamp": "2025-05-30 13:30"
+    },
+    {
+      "rank": 8,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 6.330579366073827e-08,
+      "timestamp": "2025-05-30 13:30"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003866617961485979,
+      "timestamp": "2025-05-30 13:30"
+    },
+    {
+      "rank": 10,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 5.108130625103528e-07,
+      "timestamp": "2025-05-30 13:30"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.2817441750998975e-05,
+      "timestamp": "2025-05-30 13:30"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.0115940827290325e-05,
+      "timestamp": "2025-05-30 13:30"
+    },
+    {
+      "rank": 13,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.8312969288903285e-05,
+      "timestamp": "2025-05-30 13:30"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015417284794561384,
+      "timestamp": "2025-05-30 13:30"
+    },
+    {
+      "rank": 15,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.911317160562652e-05,
+      "timestamp": "2025-05-30 13:30"
+    }
   ]
 }
