@@ -113953,5 +113953,112 @@
       "price_btc": 3.7729397010347604e-06,
       "timestamp": "2025-05-31 03:10"
     }
+  ],
+  "2025-05-31 04:24": [
+    {
+      "rank": 1,
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "price_btc": 0.00010952636373026887,
+      "timestamp": "2025-05-31 04:24"
+    },
+    {
+      "rank": 2,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.590834059556353e-08,
+      "timestamp": "2025-05-31 04:24"
+    },
+    {
+      "rank": 3,
+      "name": "Pocket Network",
+      "symbol": "POKT",
+      "price_btc": 7.50432095697792e-07,
+      "timestamp": "2025-05-31 04:24"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00030559520753642303,
+      "timestamp": "2025-05-31 04:24"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-31 04:24"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014852979439014071,
+      "timestamp": "2025-05-31 04:24"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7881246849945582e-05,
+      "timestamp": "2025-05-31 04:24"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024237828006938415,
+      "timestamp": "2025-05-31 04:24"
+    },
+    {
+      "rank": 9,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.055672873546903e-05,
+      "timestamp": "2025-05-31 04:24"
+    },
+    {
+      "rank": 10,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.706684418371895e-08,
+      "timestamp": "2025-05-31 04:24"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 7.952704556887484e-07,
+      "timestamp": "2025-05-31 04:24"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.9957977598840676e-05,
+      "timestamp": "2025-05-31 04:24"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.0817861696443868e-10,
+      "timestamp": "2025-05-31 04:24"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.8553962745204417e-06,
+      "timestamp": "2025-05-31 04:24"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.825078901956361e-06,
+      "timestamp": "2025-05-31 04:24"
+    }
   ]
 }
