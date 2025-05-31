@@ -114916,5 +114916,112 @@
       "price_btc": 0.02430559473246856,
       "timestamp": "2025-05-31 12:38"
     }
+  ],
+  "2025-05-31 13:28": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.355825112783297e-11,
+      "timestamp": "2025-05-31 13:28"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.969209440040052e-05,
+      "timestamp": "2025-05-31 13:28"
+    },
+    {
+      "rank": 3,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.5551148448761773e-08,
+      "timestamp": "2025-05-31 13:28"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.059583259654151e-05,
+      "timestamp": "2025-05-31 13:28"
+    },
+    {
+      "rank": 5,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 6.696444454458089e-06,
+      "timestamp": "2025-05-31 13:28"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031111823641227353,
+      "timestamp": "2025-05-31 13:28"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.0461143433263724e-06,
+      "timestamp": "2025-05-31 13:28"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014886993171879207,
+      "timestamp": "2025-05-31 13:28"
+    },
+    {
+      "rank": 9,
+      "name": "Taiko",
+      "symbol": "TAIKO",
+      "price_btc": 5.956015665669372e-06,
+      "timestamp": "2025-05-31 13:28"
+    },
+    {
+      "rank": 10,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.7342328951768586e-05,
+      "timestamp": "2025-05-31 13:28"
+    },
+    {
+      "rank": 11,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.16375390888829e-05,
+      "timestamp": "2025-05-31 13:28"
+    },
+    {
+      "rank": 12,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.808137430775071e-08,
+      "timestamp": "2025-05-31 13:28"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024356716227645746,
+      "timestamp": "2025-05-31 13:28"
+    },
+    {
+      "rank": 14,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003131210912511768,
+      "timestamp": "2025-05-31 13:28"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-31 13:28"
+    }
   ]
 }
