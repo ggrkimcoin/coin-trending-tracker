@@ -115558,5 +115558,112 @@
       "price_btc": 0.004030590010544573,
       "timestamp": "2025-05-31 18:26"
     }
+  ],
+  "2025-05-31 19:14": [
+    {
+      "rank": 1,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.125894000447572e-06,
+      "timestamp": "2025-05-31 19:14"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3488968713167876e-11,
+      "timestamp": "2025-05-31 19:14"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.0044060996818453e-05,
+      "timestamp": "2025-05-31 19:14"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031406793253294167,
+      "timestamp": "2025-05-31 19:14"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.110433485100976e-05,
+      "timestamp": "2025-05-31 19:14"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004098647680051384,
+      "timestamp": "2025-05-31 19:14"
+    },
+    {
+      "rank": 7,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 4.794455380750898e-07,
+      "timestamp": "2025-05-31 19:14"
+    },
+    {
+      "rank": 8,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 5.967185258743243e-07,
+      "timestamp": "2025-05-31 19:14"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0938369821885418e-05,
+      "timestamp": "2025-05-31 19:14"
+    },
+    {
+      "rank": 10,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.945890601832513e-08,
+      "timestamp": "2025-05-31 19:14"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.796152211406627e-06,
+      "timestamp": "2025-05-31 19:14"
+    },
+    {
+      "rank": 12,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00013483210980672677,
+      "timestamp": "2025-05-31 19:14"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.122773266769153e-10,
+      "timestamp": "2025-05-31 19:14"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001497546374697093,
+      "timestamp": "2025-05-31 19:14"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-31 19:14"
+    }
   ]
 }
