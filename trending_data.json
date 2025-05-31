@@ -114488,5 +114488,112 @@
       "price_btc": 4.036381379062692e-07,
       "timestamp": "2025-05-31 08:25"
     }
+  ],
+  "2025-05-31 09:19": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003008234096082918,
+      "timestamp": "2025-05-31 09:19"
+    },
+    {
+      "rank": 2,
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "price_btc": 0.00010889602831013879,
+      "timestamp": "2025-05-31 09:19"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 9.997754837320146e-06,
+      "timestamp": "2025-05-31 09:19"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.931592239640389e-05,
+      "timestamp": "2025-05-31 09:19"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02434545695789753,
+      "timestamp": "2025-05-31 09:19"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0516449478130904e-05,
+      "timestamp": "2025-05-31 09:19"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014944724452049907,
+      "timestamp": "2025-05-31 09:19"
+    },
+    {
+      "rank": 8,
+      "name": "Taiko",
+      "symbol": "TAIKO",
+      "price_btc": 6.1358297481305605e-06,
+      "timestamp": "2025-05-31 09:19"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-31 09:19"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.821602748255174e-06,
+      "timestamp": "2025-05-31 09:19"
+    },
+    {
+      "rank": 11,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.570229381405741e-08,
+      "timestamp": "2025-05-31 09:19"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.9657941897720524e-06,
+      "timestamp": "2025-05-31 09:19"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038739702951772694,
+      "timestamp": "2025-05-31 09:19"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0585234949298403e-05,
+      "timestamp": "2025-05-31 09:19"
+    },
+    {
+      "rank": 15,
+      "name": "Cronos",
+      "symbol": "CRO",
+      "price_btc": 9.963005216834315e-07,
+      "timestamp": "2025-05-31 09:19"
+    }
   ]
 }
