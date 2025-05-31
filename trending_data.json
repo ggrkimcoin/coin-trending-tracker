@@ -115344,5 +115344,112 @@
       "price_btc": 4.826368366399622e-07,
       "timestamp": "2025-05-31 16:23"
     }
+  ],
+  "2025-05-31 17:16": [
+    {
+      "rank": 1,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.379638787125533e-06,
+      "timestamp": "2025-05-31 17:16"
+    },
+    {
+      "rank": 2,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 4.775813756592287e-07,
+      "timestamp": "2025-05-31 17:16"
+    },
+    {
+      "rank": 3,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.5314134804083616e-08,
+      "timestamp": "2025-05-31 17:16"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003143521959275789,
+      "timestamp": "2025-05-31 17:16"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003960317575439144,
+      "timestamp": "2025-05-31 17:16"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1363386633786704e-05,
+      "timestamp": "2025-05-31 17:16"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014948239445935353,
+      "timestamp": "2025-05-31 17:16"
+    },
+    {
+      "rank": 8,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3446428554971531e-11,
+      "timestamp": "2025-05-31 17:16"
+    },
+    {
+      "rank": 9,
+      "name": "Pocket Network",
+      "symbol": "POKT",
+      "price_btc": 5.562203632310931e-07,
+      "timestamp": "2025-05-31 17:16"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.931257921714479e-06,
+      "timestamp": "2025-05-31 17:16"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.604701496057689e-08,
+      "timestamp": "2025-05-31 17:16"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.750325643058801e-06,
+      "timestamp": "2025-05-31 17:16"
+    },
+    {
+      "rank": 13,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 3.537055167559486e-07,
+      "timestamp": "2025-05-31 17:16"
+    },
+    {
+      "rank": 14,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 5.12953084699138e-07,
+      "timestamp": "2025-05-31 17:16"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024289684207719917,
+      "timestamp": "2025-05-31 17:16"
+    }
   ]
 }
