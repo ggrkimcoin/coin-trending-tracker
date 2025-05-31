@@ -115879,5 +115879,112 @@
       "price_btc": 0.0030544564198785773,
       "timestamp": "2025-05-31 21:17"
     }
+  ],
+  "2025-05-31 22:18": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3868253396501257e-11,
+      "timestamp": "2025-05-31 22:18"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00411935284276081,
+      "timestamp": "2025-05-31 22:18"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9686686533210717e-05,
+      "timestamp": "2025-05-31 22:18"
+    },
+    {
+      "rank": 4,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.574758692579922e-06,
+      "timestamp": "2025-05-31 22:18"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031697130083306325,
+      "timestamp": "2025-05-31 22:18"
+    },
+    {
+      "rank": 6,
+      "name": "Keyboard Cat (Base)",
+      "symbol": "KEYCAT",
+      "price_btc": 4.75593798581002e-08,
+      "timestamp": "2025-05-31 22:18"
+    },
+    {
+      "rank": 7,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.095283495146634e-05,
+      "timestamp": "2025-05-31 22:18"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.787459606299689e-06,
+      "timestamp": "2025-05-31 22:18"
+    },
+    {
+      "rank": 9,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.977284580078743e-08,
+      "timestamp": "2025-05-31 22:18"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1302307503876975e-05,
+      "timestamp": "2025-05-31 22:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02426289035720501,
+      "timestamp": "2025-05-31 22:18"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-05-31 22:18"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.001487625577522e-06,
+      "timestamp": "2025-05-31 22:18"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015053626152613407,
+      "timestamp": "2025-05-31 22:18"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.040663708030118e-05,
+      "timestamp": "2025-05-31 22:18"
+    }
   ]
 }
