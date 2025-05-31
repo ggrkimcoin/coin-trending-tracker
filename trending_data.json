@@ -115130,5 +115130,112 @@
       "price_btc": 2.898851125102525e-06,
       "timestamp": "2025-05-31 14:17"
     }
+  ],
+  "2025-05-31 15:19": [
+    {
+      "rank": 1,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 6.355264440452293e-06,
+      "timestamp": "2025-05-31 15:19"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031328491940345765,
+      "timestamp": "2025-05-31 15:19"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9698627320297766e-05,
+      "timestamp": "2025-05-31 15:19"
+    },
+    {
+      "rank": 4,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.5087225662932034e-08,
+      "timestamp": "2025-05-31 15:19"
+    },
+    {
+      "rank": 5,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.169992688583145e-05,
+      "timestamp": "2025-05-31 15:19"
+    },
+    {
+      "rank": 6,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.867017080922143e-05,
+      "timestamp": "2025-05-31 15:19"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1047818735415486e-05,
+      "timestamp": "2025-05-31 15:19"
+    },
+    {
+      "rank": 8,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.556488178317182e-08,
+      "timestamp": "2025-05-31 15:19"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.016665599288372e-06,
+      "timestamp": "2025-05-31 15:19"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003927890801933028,
+      "timestamp": "2025-05-31 15:19"
+    },
+    {
+      "rank": 11,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 4.850253489667313e-07,
+      "timestamp": "2025-05-31 15:19"
+    },
+    {
+      "rank": 12,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.29430431272396e-06,
+      "timestamp": "2025-05-31 15:19"
+    },
+    {
+      "rank": 13,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.357815028361036e-11,
+      "timestamp": "2025-05-31 15:19"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014889502378276304,
+      "timestamp": "2025-05-31 15:19"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1120010170856926e-10,
+      "timestamp": "2025-05-31 15:19"
+    }
   ]
 }
