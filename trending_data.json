@@ -113739,5 +113739,112 @@
       "price_btc": 2.1859948010330815e-05,
       "timestamp": "2025-05-30 23:18"
     }
+  ],
+  "2025-05-31 01:41": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.6226688569304132e-08,
+      "timestamp": "2025-05-31 01:41"
+    },
+    {
+      "rank": 2,
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "price_btc": 0.000115451492758309,
+      "timestamp": "2025-05-31 01:41"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014991582602973572,
+      "timestamp": "2025-05-31 01:41"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7904757538895288e-05,
+      "timestamp": "2025-05-31 01:41"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031327525817470813,
+      "timestamp": "2025-05-31 01:41"
+    },
+    {
+      "rank": 6,
+      "name": "Pocket Network",
+      "symbol": "POKT",
+      "price_btc": 7.842140881842513e-07,
+      "timestamp": "2025-05-31 01:41"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024201645447181605,
+      "timestamp": "2025-05-31 01:41"
+    },
+    {
+      "rank": 8,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.799081272360655e-08,
+      "timestamp": "2025-05-31 01:41"
+    },
+    {
+      "rank": 9,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.419704905357191e-08,
+      "timestamp": "2025-05-31 01:41"
+    },
+    {
+      "rank": 10,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.885476749354804e-06,
+      "timestamp": "2025-05-31 01:41"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.723457979910779e-06,
+      "timestamp": "2025-05-31 01:41"
+    },
+    {
+      "rank": 12,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 7.877193155234603e-07,
+      "timestamp": "2025-05-31 01:41"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.841378389760832e-06,
+      "timestamp": "2025-05-31 01:41"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.1413834875670617e-05,
+      "timestamp": "2025-05-31 01:41"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003584750307477176,
+      "timestamp": "2025-05-31 01:41"
+    }
   ]
 }
