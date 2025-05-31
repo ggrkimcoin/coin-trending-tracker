@@ -113846,5 +113846,112 @@
       "price_btc": 0.003584750307477176,
       "timestamp": "2025-05-31 01:41"
     }
+  ],
+  "2025-05-31 03:10": [
+    {
+      "rank": 1,
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "price_btc": 0.00011810551125142177,
+      "timestamp": "2025-05-31 03:10"
+    },
+    {
+      "rank": 2,
+      "name": "Pocket Network",
+      "symbol": "POKT",
+      "price_btc": 7.68210292838627e-07,
+      "timestamp": "2025-05-31 03:10"
+    },
+    {
+      "rank": 3,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.5780470703001202e-08,
+      "timestamp": "2025-05-31 03:10"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003046112756928346,
+      "timestamp": "2025-05-31 03:10"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.770788652827406e-05,
+      "timestamp": "2025-05-31 03:10"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024183691744511147,
+      "timestamp": "2025-05-31 03:10"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014857347557128348,
+      "timestamp": "2025-05-31 03:10"
+    },
+    {
+      "rank": 8,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 1.107285502000786e-05,
+      "timestamp": "2025-05-31 03:10"
+    },
+    {
+      "rank": 9,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.818921391398229e-08,
+      "timestamp": "2025-05-31 03:10"
+    },
+    {
+      "rank": 10,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.776587936714114e-05,
+      "timestamp": "2025-05-31 03:10"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0146862581783333e-05,
+      "timestamp": "2025-05-31 03:10"
+    },
+    {
+      "rank": 12,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.521039458245603e-08,
+      "timestamp": "2025-05-31 03:10"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.8209783184104274e-06,
+      "timestamp": "2025-05-31 03:10"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.145776448387091e-05,
+      "timestamp": "2025-05-31 03:10"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.7729397010347604e-06,
+      "timestamp": "2025-05-31 03:10"
+    }
   ]
 }
