@@ -115665,5 +115665,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-05-31 19:14"
     }
+  ],
+  "2025-05-31 20:20": [
+    {
+      "rank": 1,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.260877615530527e-06,
+      "timestamp": "2025-05-31 20:20"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.363614797405413e-11,
+      "timestamp": "2025-05-31 20:20"
+    },
+    {
+      "rank": 3,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.707428722988126e-06,
+      "timestamp": "2025-05-31 20:20"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.986007871004204e-05,
+      "timestamp": "2025-05-31 20:20"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001506316306022418,
+      "timestamp": "2025-05-31 20:20"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004078337886321954,
+      "timestamp": "2025-05-31 20:20"
+    },
+    {
+      "rank": 7,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 6.105195293389622e-08,
+      "timestamp": "2025-05-31 20:20"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.005138110443533e-06,
+      "timestamp": "2025-05-31 20:20"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.112491167532931e-05,
+      "timestamp": "2025-05-31 20:20"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003149818335558552,
+      "timestamp": "2025-05-31 20:20"
+    },
+    {
+      "rank": 11,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.9330396487741554e-05,
+      "timestamp": "2025-05-31 20:20"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.098647069170981e-05,
+      "timestamp": "2025-05-31 20:20"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024268208882828397,
+      "timestamp": "2025-05-31 20:20"
+    },
+    {
+      "rank": 14,
+      "name": "Pocket Network",
+      "symbol": "POKT",
+      "price_btc": 5.156140361460393e-07,
+      "timestamp": "2025-05-31 20:20"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1264879043339716e-10,
+      "timestamp": "2025-05-31 20:20"
+    }
   ]
 }
