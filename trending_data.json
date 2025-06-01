@@ -117805,5 +117805,112 @@
       "price_btc": 9.417897339357601e-06,
       "timestamp": "2025-06-01 17:17"
     }
+  ],
+  "2025-06-01 18:26": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.37558153971308e-11,
+      "timestamp": "2025-06-01 18:26"
+    },
+    {
+      "rank": 2,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.848257031943947e-06,
+      "timestamp": "2025-06-01 18:26"
+    },
+    {
+      "rank": 3,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.570761118898626e-08,
+      "timestamp": "2025-06-01 18:26"
+    },
+    {
+      "rank": 4,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.470681363140696e-06,
+      "timestamp": "2025-06-01 18:26"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001486763204415862,
+      "timestamp": "2025-06-01 18:26"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.133486801231569e-05,
+      "timestamp": "2025-06-01 18:26"
+    },
+    {
+      "rank": 7,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.3844517042111065e-05,
+      "timestamp": "2025-06-01 18:26"
+    },
+    {
+      "rank": 8,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.8821535635339776e-08,
+      "timestamp": "2025-06-01 18:26"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9661950837218413e-05,
+      "timestamp": "2025-06-01 18:26"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031487699897289986,
+      "timestamp": "2025-06-01 18:26"
+    },
+    {
+      "rank": 11,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.500060839929827e-06,
+      "timestamp": "2025-06-01 18:26"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003988071816202034,
+      "timestamp": "2025-06-01 18:26"
+    },
+    {
+      "rank": 13,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.9554274141360684e-05,
+      "timestamp": "2025-06-01 18:26"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-01 18:26"
+    },
+    {
+      "rank": 15,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.070182174955244e-07,
+      "timestamp": "2025-06-01 18:26"
+    }
   ]
 }
