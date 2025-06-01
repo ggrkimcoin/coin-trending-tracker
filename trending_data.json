@@ -117912,5 +117912,112 @@
       "price_btc": 5.070182174955244e-07,
       "timestamp": "2025-06-01 18:26"
     }
+  ],
+  "2025-06-01 19:15": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.580993125504124e-08,
+      "timestamp": "2025-06-01 19:15"
+    },
+    {
+      "rank": 2,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.606024620788212e-06,
+      "timestamp": "2025-06-01 19:15"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3687631813132245e-11,
+      "timestamp": "2025-06-01 19:15"
+    },
+    {
+      "rank": 4,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.3705498560326176e-05,
+      "timestamp": "2025-06-01 19:15"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1174209397869775e-05,
+      "timestamp": "2025-06-01 19:15"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.40064781012419e-06,
+      "timestamp": "2025-06-01 19:15"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014738654862853577,
+      "timestamp": "2025-06-01 19:15"
+    },
+    {
+      "rank": 8,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.5297954596272335e-06,
+      "timestamp": "2025-06-01 19:15"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023983402516828328,
+      "timestamp": "2025-06-01 19:15"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031282696392787647,
+      "timestamp": "2025-06-01 19:15"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003933071771448337,
+      "timestamp": "2025-06-01 19:15"
+    },
+    {
+      "rank": 12,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 3.072250671722216e-07,
+      "timestamp": "2025-06-01 19:15"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.911455066857475e-06,
+      "timestamp": "2025-06-01 19:15"
+    },
+    {
+      "rank": 14,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.80081167881932e-08,
+      "timestamp": "2025-06-01 19:15"
+    },
+    {
+      "rank": 15,
+      "name": "Fluid",
+      "symbol": "FLUID",
+      "price_btc": 3.796982048237068e-05,
+      "timestamp": "2025-06-01 19:15"
+    }
   ]
 }
