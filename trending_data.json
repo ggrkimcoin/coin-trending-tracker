@@ -116628,5 +116628,112 @@
       "price_btc": 1.821401974560375e-05,
       "timestamp": "2025-06-01 06:28"
     }
+  ],
+  "2025-06-01 07:19": [
+    {
+      "rank": 1,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.842525831640899e-06,
+      "timestamp": "2025-06-01 07:19"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031297280378516344,
+      "timestamp": "2025-06-01 07:19"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004092835302551903,
+      "timestamp": "2025-06-01 07:19"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014856242153750668,
+      "timestamp": "2025-06-01 07:19"
+    },
+    {
+      "rank": 5,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1094054791579593e-10,
+      "timestamp": "2025-06-01 07:19"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.123074709350434e-05,
+      "timestamp": "2025-06-01 07:19"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8952222991186945e-05,
+      "timestamp": "2025-06-01 07:19"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024111891595789005,
+      "timestamp": "2025-06-01 07:19"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.025640757185901e-05,
+      "timestamp": "2025-06-01 07:19"
+    },
+    {
+      "rank": 10,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006275924949455478,
+      "timestamp": "2025-06-01 07:19"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-01 07:19"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.0850466037765614e-06,
+      "timestamp": "2025-06-01 07:19"
+    },
+    {
+      "rank": 13,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.000198560899257107,
+      "timestamp": "2025-06-01 07:19"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.1889266605880503e-05,
+      "timestamp": "2025-06-01 07:19"
+    },
+    {
+      "rank": 15,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 2.1080358563784107e-05,
+      "timestamp": "2025-06-01 07:19"
+    }
   ]
 }
