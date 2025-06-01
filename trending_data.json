@@ -117484,5 +117484,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-06-01 14:17"
     }
+  ],
+  "2025-06-01 15:19": [
+    {
+      "rank": 1,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003962125584636678,
+      "timestamp": "2025-06-01 15:19"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00030674091662402333,
+      "timestamp": "2025-06-01 15:19"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1458708565714406e-05,
+      "timestamp": "2025-06-01 15:19"
+    },
+    {
+      "rank": 4,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.022978273728091e-06,
+      "timestamp": "2025-06-01 15:19"
+    },
+    {
+      "rank": 5,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.778158108531444e-08,
+      "timestamp": "2025-06-01 15:19"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00146584518234808,
+      "timestamp": "2025-06-01 15:19"
+    },
+    {
+      "rank": 7,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0031265292429185952,
+      "timestamp": "2025-06-01 15:19"
+    },
+    {
+      "rank": 8,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.7548810334928893e-06,
+      "timestamp": "2025-06-01 15:19"
+    },
+    {
+      "rank": 9,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.2360142976945776e-05,
+      "timestamp": "2025-06-01 15:19"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0541844277539362e-05,
+      "timestamp": "2025-06-01 15:19"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-01 15:19"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.281590163017593e-06,
+      "timestamp": "2025-06-01 15:19"
+    },
+    {
+      "rank": 13,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.426759031133106e-06,
+      "timestamp": "2025-06-01 15:19"
+    },
+    {
+      "rank": 14,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3661658831884534e-11,
+      "timestamp": "2025-06-01 15:19"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02399276822568065,
+      "timestamp": "2025-06-01 15:19"
+    }
   ]
 }
