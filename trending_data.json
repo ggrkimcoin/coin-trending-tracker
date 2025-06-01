@@ -118126,5 +118126,112 @@
       "price_btc": 3.760679687631199e-06,
       "timestamp": "2025-06-01 20:21"
     }
+  ],
+  "2025-06-01 21:18": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.5535598326265466e-08,
+      "timestamp": "2025-06-01 21:18"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031808009771988843,
+      "timestamp": "2025-06-01 21:18"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003927631408750736,
+      "timestamp": "2025-06-01 21:18"
+    },
+    {
+      "rank": 4,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.70510169800681e-06,
+      "timestamp": "2025-06-01 21:18"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02409159870473736,
+      "timestamp": "2025-06-01 21:18"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.938730455706727e-06,
+      "timestamp": "2025-06-01 21:18"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.123390812675956e-05,
+      "timestamp": "2025-06-01 21:18"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.13664859757431e-06,
+      "timestamp": "2025-06-01 21:18"
+    },
+    {
+      "rank": 9,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4159431884373257e-11,
+      "timestamp": "2025-06-01 21:18"
+    },
+    {
+      "rank": 10,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.910386200105465e-05,
+      "timestamp": "2025-06-01 21:18"
+    },
+    {
+      "rank": 11,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 3.232494310261078e-07,
+      "timestamp": "2025-06-01 21:18"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0575558710298128e-05,
+      "timestamp": "2025-06-01 21:18"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.970691411541376e-05,
+      "timestamp": "2025-06-01 21:18"
+    },
+    {
+      "rank": 14,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 6.163119156577282e-08,
+      "timestamp": "2025-06-01 21:18"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001484613944749621,
+      "timestamp": "2025-06-01 21:18"
+    }
   ]
 }
