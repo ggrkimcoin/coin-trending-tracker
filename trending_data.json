@@ -116735,5 +116735,112 @@
       "price_btc": 2.1080358563784107e-05,
       "timestamp": "2025-06-01 07:19"
     }
+  ],
+  "2025-06-01 08:25": [
+    {
+      "rank": 1,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.77146436594729e-06,
+      "timestamp": "2025-06-01 08:25"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014781745019648988,
+      "timestamp": "2025-06-01 08:25"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.11725190733854e-05,
+      "timestamp": "2025-06-01 08:25"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004093260812834603,
+      "timestamp": "2025-06-01 08:25"
+    },
+    {
+      "rank": 5,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.771685348346084e-08,
+      "timestamp": "2025-06-01 08:25"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.895985672312212e-05,
+      "timestamp": "2025-06-01 08:25"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000310420014116599,
+      "timestamp": "2025-06-01 08:25"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.10964245636933e-06,
+      "timestamp": "2025-06-01 08:25"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024036029987760617,
+      "timestamp": "2025-06-01 08:25"
+    },
+    {
+      "rank": 10,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.1863301315671237e-05,
+      "timestamp": "2025-06-01 08:25"
+    },
+    {
+      "rank": 11,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.0770692824345071e-05,
+      "timestamp": "2025-06-01 08:25"
+    },
+    {
+      "rank": 12,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.249577017041708e-07,
+      "timestamp": "2025-06-01 08:25"
+    },
+    {
+      "rank": 13,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 3.8517389445878104e-07,
+      "timestamp": "2025-06-01 08:25"
+    },
+    {
+      "rank": 14,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.8191930328738826e-06,
+      "timestamp": "2025-06-01 08:25"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.743226643521443e-06,
+      "timestamp": "2025-06-01 08:25"
+    }
   ]
 }
