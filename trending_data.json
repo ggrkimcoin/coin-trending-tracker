@@ -116949,5 +116949,112 @@
       "price_btc": 1.1054548708393779e-10,
       "timestamp": "2025-06-01 09:19"
     }
+  ],
+  "2025-06-01 10:20": [
+    {
+      "rank": 1,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.2834961021859415e-06,
+      "timestamp": "2025-06-01 10:20"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003080135405768758,
+      "timestamp": "2025-06-01 10:20"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004025203414610153,
+      "timestamp": "2025-06-01 10:20"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.007990938467476e-05,
+      "timestamp": "2025-06-01 10:20"
+    },
+    {
+      "rank": 5,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 3.8415757401338996e-07,
+      "timestamp": "2025-06-01 10:20"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.092493503648817e-05,
+      "timestamp": "2025-06-01 10:20"
+    },
+    {
+      "rank": 7,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.048999151380368e-07,
+      "timestamp": "2025-06-01 10:20"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014599754790505719,
+      "timestamp": "2025-06-01 10:20"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8422237006907563e-05,
+      "timestamp": "2025-06-01 10:20"
+    },
+    {
+      "rank": 10,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 2.940511764097305e-06,
+      "timestamp": "2025-06-01 10:20"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.6190276735849455e-08,
+      "timestamp": "2025-06-01 10:20"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.6912923376301825e-06,
+      "timestamp": "2025-06-01 10:20"
+    },
+    {
+      "rank": 13,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.7752315959337953e-05,
+      "timestamp": "2025-06-01 10:20"
+    },
+    {
+      "rank": 14,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.045560601080234e-06,
+      "timestamp": "2025-06-01 10:20"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.0954979282194737e-10,
+      "timestamp": "2025-06-01 10:20"
+    }
   ]
 }
