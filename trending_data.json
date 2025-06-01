@@ -117163,5 +117163,112 @@
       "price_btc": 0.002314804794962884,
       "timestamp": "2025-06-01 11:16"
     }
+  ],
+  "2025-06-01 12:39": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3571870719724765e-11,
+      "timestamp": "2025-06-01 12:39"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8752314774713984e-05,
+      "timestamp": "2025-06-01 12:39"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00030601495764942104,
+      "timestamp": "2025-06-01 12:39"
+    },
+    {
+      "rank": 4,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.589543664534978e-06,
+      "timestamp": "2025-06-01 12:39"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1287734914636654e-05,
+      "timestamp": "2025-06-01 12:39"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001460598081180779,
+      "timestamp": "2025-06-01 12:39"
+    },
+    {
+      "rank": 7,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.6995841054451316e-08,
+      "timestamp": "2025-06-01 12:39"
+    },
+    {
+      "rank": 8,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 4.94705123324717e-07,
+      "timestamp": "2025-06-01 12:39"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0239932501457477,
+      "timestamp": "2025-06-01 12:39"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.56274518032746e-06,
+      "timestamp": "2025-06-01 12:39"
+    },
+    {
+      "rank": 11,
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "price_btc": 1.595462606769169e-06,
+      "timestamp": "2025-06-01 12:39"
+    },
+    {
+      "rank": 12,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.8219545235825242e-05,
+      "timestamp": "2025-06-01 12:39"
+    },
+    {
+      "rank": 13,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0031444632820096384,
+      "timestamp": "2025-06-01 12:39"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004003069937274978,
+      "timestamp": "2025-06-01 12:39"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0539393058038944e-05,
+      "timestamp": "2025-06-01 12:39"
+    }
   ]
 }
