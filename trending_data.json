@@ -116521,5 +116521,112 @@
       "price_btc": 0.00627328384304087,
       "timestamp": "2025-06-01 05:20"
     }
+  ],
+  "2025-06-01 06:28": [
+    {
+      "rank": 1,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.806584632198945e-06,
+      "timestamp": "2025-06-01 06:28"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004136260153561118,
+      "timestamp": "2025-06-01 06:28"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1305263428731464e-05,
+      "timestamp": "2025-06-01 06:28"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014864416776082144,
+      "timestamp": "2025-06-01 06:28"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-01 06:28"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024116054838860198,
+      "timestamp": "2025-06-01 06:28"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.902360425008636e-05,
+      "timestamp": "2025-06-01 06:28"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003171336321781818,
+      "timestamp": "2025-06-01 06:28"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.7620624546645832e-06,
+      "timestamp": "2025-06-01 06:28"
+    },
+    {
+      "rank": 10,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 4.160665033079814e-07,
+      "timestamp": "2025-06-01 06:28"
+    },
+    {
+      "rank": 11,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00019902924161091732,
+      "timestamp": "2025-06-01 06:28"
+    },
+    {
+      "rank": 12,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.719624385606297e-05,
+      "timestamp": "2025-06-01 06:28"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0773304847044166e-05,
+      "timestamp": "2025-06-01 06:28"
+    },
+    {
+      "rank": 14,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.52466722748759e-08,
+      "timestamp": "2025-06-01 06:28"
+    },
+    {
+      "rank": 15,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.821401974560375e-05,
+      "timestamp": "2025-06-01 06:28"
+    }
   ]
 }
