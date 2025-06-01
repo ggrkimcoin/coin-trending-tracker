@@ -117056,5 +117056,112 @@
       "price_btc": 1.0954979282194737e-10,
       "timestamp": "2025-06-01 10:20"
     }
+  ],
+  "2025-06-01 11:16": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3434124705974429e-11,
+      "timestamp": "2025-06-01 11:16"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.10106913776585e-05,
+      "timestamp": "2025-06-01 11:16"
+    },
+    {
+      "rank": 3,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.418161086111154e-06,
+      "timestamp": "2025-06-01 11:16"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003057376158702965,
+      "timestamp": "2025-06-01 11:16"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.852167885142529e-05,
+      "timestamp": "2025-06-01 11:16"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0092651139980228e-05,
+      "timestamp": "2025-06-01 11:16"
+    },
+    {
+      "rank": 7,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.5944578503253535e-08,
+      "timestamp": "2025-06-01 11:16"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004023008993435875,
+      "timestamp": "2025-06-01 11:16"
+    },
+    {
+      "rank": 9,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 2.055721761647419e-06,
+      "timestamp": "2025-06-01 11:16"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023982696443701233,
+      "timestamp": "2025-06-01 11:16"
+    },
+    {
+      "rank": 11,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.011315100350691e-07,
+      "timestamp": "2025-06-01 11:16"
+    },
+    {
+      "rank": 12,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 5.915542437505774e-05,
+      "timestamp": "2025-06-01 11:16"
+    },
+    {
+      "rank": 13,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.5721703793199094e-06,
+      "timestamp": "2025-06-01 11:16"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014564091262285821,
+      "timestamp": "2025-06-01 11:16"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002314804794962884,
+      "timestamp": "2025-06-01 11:16"
+    }
   ]
 }
