@@ -118019,5 +118019,112 @@
       "price_btc": 3.796982048237068e-05,
       "timestamp": "2025-06-01 19:15"
     }
+  ],
+  "2025-06-01 20:21": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3899646938145823e-11,
+      "timestamp": "2025-06-01 20:21"
+    },
+    {
+      "rank": 2,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.009143766360575e-06,
+      "timestamp": "2025-06-01 20:21"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.120892248721067e-05,
+      "timestamp": "2025-06-01 20:21"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00393364169253309,
+      "timestamp": "2025-06-01 20:21"
+    },
+    {
+      "rank": 5,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.5623951504952252e-08,
+      "timestamp": "2025-06-01 20:21"
+    },
+    {
+      "rank": 6,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.554746273717898e-06,
+      "timestamp": "2025-06-01 20:21"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003172248111093097,
+      "timestamp": "2025-06-01 20:21"
+    },
+    {
+      "rank": 8,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 3.182374137944549e-07,
+      "timestamp": "2025-06-01 20:21"
+    },
+    {
+      "rank": 9,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.3846799080418193e-05,
+      "timestamp": "2025-06-01 20:21"
+    },
+    {
+      "rank": 10,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.885553714757267e-08,
+      "timestamp": "2025-06-01 20:21"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024020359802190652,
+      "timestamp": "2025-06-01 20:21"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-01 20:21"
+    },
+    {
+      "rank": 13,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00013308028079106671,
+      "timestamp": "2025-06-01 20:21"
+    },
+    {
+      "rank": 14,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 5.9086168762470676e-05,
+      "timestamp": "2025-06-01 20:21"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.760679687631199e-06,
+      "timestamp": "2025-06-01 20:21"
+    }
   ]
 }
