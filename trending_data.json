@@ -116093,5 +116093,112 @@
       "price_btc": 2.2026181065187717e-05,
       "timestamp": "2025-05-31 23:19"
     }
+  ],
+  "2025-06-01 02:01": [
+    {
+      "rank": 1,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0041242280295482586,
+      "timestamp": "2025-06-01 02:01"
+    },
+    {
+      "rank": 2,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.195131846386174e-05,
+      "timestamp": "2025-06-01 02:01"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014923927715395425,
+      "timestamp": "2025-06-01 02:01"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1032880825964315e-05,
+      "timestamp": "2025-06-01 02:01"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031089455915114214,
+      "timestamp": "2025-06-01 02:01"
+    },
+    {
+      "rank": 6,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.932520446979221e-06,
+      "timestamp": "2025-06-01 02:01"
+    },
+    {
+      "rank": 7,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.709890138580495e-08,
+      "timestamp": "2025-06-01 02:01"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.174145575815702e-06,
+      "timestamp": "2025-06-01 02:01"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-01 02:01"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0352245382097318e-05,
+      "timestamp": "2025-06-01 02:01"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.7503828027191663e-06,
+      "timestamp": "2025-06-01 02:01"
+    },
+    {
+      "rank": 12,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.00231202467121549,
+      "timestamp": "2025-06-01 02:01"
+    },
+    {
+      "rank": 13,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 3.6872863156172737e-07,
+      "timestamp": "2025-06-01 02:01"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9171681933793847e-05,
+      "timestamp": "2025-06-01 02:01"
+    },
+    {
+      "rank": 15,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.0001083000201377615,
+      "timestamp": "2025-06-01 02:01"
+    }
   ]
 }
