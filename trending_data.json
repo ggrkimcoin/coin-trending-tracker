@@ -119410,5 +119410,112 @@
       "price_btc": 1.6682969489803274e-05,
       "timestamp": "2025-06-02 10:23"
     }
+  ],
+  "2025-06-02 11:18": [
+    {
+      "rank": 1,
+      "name": "Beercoin 2",
+      "symbol": "BEER2",
+      "price_btc": 5.090916178913998e-10,
+      "timestamp": "2025-06-02 11:18"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023795912897788495,
+      "timestamp": "2025-06-02 11:18"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-02 11:18"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001475077140859551,
+      "timestamp": "2025-06-02 11:18"
+    },
+    {
+      "rank": 5,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.057353959213432e-05,
+      "timestamp": "2025-06-02 11:18"
+    },
+    {
+      "rank": 6,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3977653405963025e-11,
+      "timestamp": "2025-06-02 11:18"
+    },
+    {
+      "rank": 7,
+      "name": "USDC",
+      "symbol": "USDC",
+      "price_btc": 9.579980753229901e-06,
+      "timestamp": "2025-06-02 11:18"
+    },
+    {
+      "rank": 8,
+      "name": "Tether",
+      "symbol": "USDT",
+      "price_btc": 9.584994189318022e-06,
+      "timestamp": "2025-06-02 11:18"
+    },
+    {
+      "rank": 9,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006251614062448826,
+      "timestamp": "2025-06-02 11:18"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.350582651722748e-06,
+      "timestamp": "2025-06-02 11:18"
+    },
+    {
+      "rank": 11,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.6191334904431334e-08,
+      "timestamp": "2025-06-02 11:18"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003127086065711332,
+      "timestamp": "2025-06-02 11:18"
+    },
+    {
+      "rank": 13,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.505037886490738e-07,
+      "timestamp": "2025-06-02 11:18"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0372758420656194e-05,
+      "timestamp": "2025-06-02 11:18"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.875811615377033e-06,
+      "timestamp": "2025-06-02 11:18"
+    }
   ]
 }
