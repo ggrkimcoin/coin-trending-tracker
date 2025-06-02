@@ -119303,5 +119303,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-06-02 09:23"
     }
+  ],
+  "2025-06-02 10:23": [
+    {
+      "rank": 1,
+      "name": "Beercoin 2",
+      "symbol": "BEER2",
+      "price_btc": 4.860317896189837e-10,
+      "timestamp": "2025-06-02 10:23"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-02 10:23"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014687662806320092,
+      "timestamp": "2025-06-02 10:23"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023735793360766075,
+      "timestamp": "2025-06-02 10:23"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003133867256905014,
+      "timestamp": "2025-06-02 10:23"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.182716073211827e-06,
+      "timestamp": "2025-06-02 10:23"
+    },
+    {
+      "rank": 7,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.717517158514189e-07,
+      "timestamp": "2025-06-02 10:23"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1279570271133284e-05,
+      "timestamp": "2025-06-02 10:23"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.865651592551777e-05,
+      "timestamp": "2025-06-02 10:23"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0039039311744526557,
+      "timestamp": "2025-06-02 10:23"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.543266308982842e-06,
+      "timestamp": "2025-06-02 10:23"
+    },
+    {
+      "rank": 12,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.757579295435443e-08,
+      "timestamp": "2025-06-02 10:23"
+    },
+    {
+      "rank": 13,
+      "name": "Mask Network",
+      "symbol": "MASK",
+      "price_btc": 2.4687914206437653e-05,
+      "timestamp": "2025-06-02 10:23"
+    },
+    {
+      "rank": 14,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.6242589275217317e-08,
+      "timestamp": "2025-06-02 10:23"
+    },
+    {
+      "rank": 15,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.6682969489803274e-05,
+      "timestamp": "2025-06-02 10:23"
+    }
   ]
 }
