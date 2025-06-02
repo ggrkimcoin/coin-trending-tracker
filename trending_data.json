@@ -120052,5 +120052,112 @@
       "price_btc": 5.6561150885922686e-08,
       "timestamp": "2025-06-02 16:27"
     }
+  ],
+  "2025-06-02 17:18": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.590590745945238e-08,
+      "timestamp": "2025-06-02 17:18"
+    },
+    {
+      "rank": 2,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 6.055040737052596e-07,
+      "timestamp": "2025-06-02 17:18"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003195353765382223,
+      "timestamp": "2025-06-02 17:18"
+    },
+    {
+      "rank": 4,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.251504696598798e-06,
+      "timestamp": "2025-06-02 17:18"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024360744183516796,
+      "timestamp": "2025-06-02 17:18"
+    },
+    {
+      "rank": 6,
+      "name": "Maker",
+      "symbol": "MKR",
+      "price_btc": 0.016714985892676868,
+      "timestamp": "2025-06-02 17:18"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014634077321024543,
+      "timestamp": "2025-06-02 17:18"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-02 17:18"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.12867173940657e-05,
+      "timestamp": "2025-06-02 17:18"
+    },
+    {
+      "rank": 10,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.952194259155433e-06,
+      "timestamp": "2025-06-02 17:18"
+    },
+    {
+      "rank": 11,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3879252084574504e-11,
+      "timestamp": "2025-06-02 17:18"
+    },
+    {
+      "rank": 12,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 3.32801421546206e-07,
+      "timestamp": "2025-06-02 17:18"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0682040141470012e-05,
+      "timestamp": "2025-06-02 17:18"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1261696183049055e-10,
+      "timestamp": "2025-06-02 17:18"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.1429744383148634e-06,
+      "timestamp": "2025-06-02 17:18"
+    }
   ]
 }
