@@ -118768,5 +118768,112 @@
       "price_btc": 2.5908209878062134e-05,
       "timestamp": "2025-06-02 04:30"
     }
+  ],
+  "2025-06-02 05:21": [
+    {
+      "rank": 1,
+      "name": "FLOCK",
+      "symbol": "FLOCK",
+      "price_btc": 2.7305742956330616e-06,
+      "timestamp": "2025-06-02 05:21"
+    },
+    {
+      "rank": 2,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.649618150891943e-08,
+      "timestamp": "2025-06-02 05:21"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.132066501806841e-05,
+      "timestamp": "2025-06-02 05:21"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031727699662275374,
+      "timestamp": "2025-06-02 05:21"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001485082507548323,
+      "timestamp": "2025-06-02 05:21"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.666700402778357e-06,
+      "timestamp": "2025-06-02 05:21"
+    },
+    {
+      "rank": 7,
+      "name": "SOON",
+      "symbol": "SOON",
+      "price_btc": 3.0941921497543245e-06,
+      "timestamp": "2025-06-02 05:21"
+    },
+    {
+      "rank": 8,
+      "name": "Layer3",
+      "symbol": "L3",
+      "price_btc": 6.172647799227432e-07,
+      "timestamp": "2025-06-02 05:21"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02377633152276582,
+      "timestamp": "2025-06-02 05:21"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038706637796043154,
+      "timestamp": "2025-06-02 05:21"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.972053413080192e-08,
+      "timestamp": "2025-06-02 05:21"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0707261169815863e-05,
+      "timestamp": "2025-06-02 05:21"
+    },
+    {
+      "rank": 13,
+      "name": "Wormhole",
+      "symbol": "W",
+      "price_btc": 7.634541238146953e-07,
+      "timestamp": "2025-06-02 05:21"
+    },
+    {
+      "rank": 14,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 3.57594125352223e-07,
+      "timestamp": "2025-06-02 05:21"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8920684261692418e-05,
+      "timestamp": "2025-06-02 05:21"
+    }
   ]
 }
