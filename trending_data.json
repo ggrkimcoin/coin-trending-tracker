@@ -120373,5 +120373,112 @@
       "price_btc": 0.016276731844442047,
       "timestamp": "2025-06-02 19:16"
     }
+  ],
+  "2025-06-02 20:22": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.5527518181198198e-08,
+      "timestamp": "2025-06-02 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003345444013467072,
+      "timestamp": "2025-06-02 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.769315457984766e-07,
+      "timestamp": "2025-06-02 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.14345129242902e-05,
+      "timestamp": "2025-06-02 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.887049052345883e-06,
+      "timestamp": "2025-06-02 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0242529144545806,
+      "timestamp": "2025-06-02 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014615097091639777,
+      "timestamp": "2025-06-02 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7971540788756333e-05,
+      "timestamp": "2025-06-02 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "DeXe",
+      "symbol": "DEXE",
+      "price_btc": 9.299717705232857e-05,
+      "timestamp": "2025-06-02 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.711204808492645e-06,
+      "timestamp": "2025-06-02 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "Layer3",
+      "symbol": "L3",
+      "price_btc": 9.361022385724449e-07,
+      "timestamp": "2025-06-02 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3983457826589759e-11,
+      "timestamp": "2025-06-02 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.072247104137568e-05,
+      "timestamp": "2025-06-02 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.303192689069032e-05,
+      "timestamp": "2025-06-02 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 3.268035622903283e-06,
+      "timestamp": "2025-06-02 20:22"
+    }
   ]
 }
