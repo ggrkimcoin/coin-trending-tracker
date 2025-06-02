@@ -118661,5 +118661,112 @@
       "price_btc": 2.8561902800408504e-07,
       "timestamp": "2025-06-02 03:21"
     }
+  ],
+  "2025-06-02 04:30": [
+    {
+      "rank": 1,
+      "name": "FLOCK",
+      "symbol": "FLOCK",
+      "price_btc": 2.8540153497173007e-06,
+      "timestamp": "2025-06-02 04:30"
+    },
+    {
+      "rank": 2,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.191660981090137e-06,
+      "timestamp": "2025-06-02 04:30"
+    },
+    {
+      "rank": 3,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.671672248095767e-08,
+      "timestamp": "2025-06-02 04:30"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001483498464281896,
+      "timestamp": "2025-06-02 04:30"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1238578888270105e-05,
+      "timestamp": "2025-06-02 04:30"
+    },
+    {
+      "rank": 6,
+      "name": "Layer3",
+      "symbol": "L3",
+      "price_btc": 6.169167154808127e-07,
+      "timestamp": "2025-06-02 04:30"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023796730086288007,
+      "timestamp": "2025-06-02 04:30"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0594301299244787e-05,
+      "timestamp": "2025-06-02 04:30"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031963107263354275,
+      "timestamp": "2025-06-02 04:30"
+    },
+    {
+      "rank": 10,
+      "name": "SOON",
+      "symbol": "SOON",
+      "price_btc": 3.090478526649609e-06,
+      "timestamp": "2025-06-02 04:30"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 6.071051312190267e-08,
+      "timestamp": "2025-06-02 04:30"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.910636277263112e-06,
+      "timestamp": "2025-06-02 04:30"
+    },
+    {
+      "rank": 13,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.337925563159564e-05,
+      "timestamp": "2025-06-02 04:30"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.9118830265679035e-06,
+      "timestamp": "2025-06-02 04:30"
+    },
+    {
+      "rank": 15,
+      "name": "Mask Network",
+      "symbol": "MASK",
+      "price_btc": 2.5908209878062134e-05,
+      "timestamp": "2025-06-02 04:30"
+    }
   ]
 }
