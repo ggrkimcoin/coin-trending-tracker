@@ -119838,5 +119838,112 @@
       "price_btc": 1.2315044583402024e-06,
       "timestamp": "2025-06-02 14:21"
     }
+  ],
+  "2025-06-02 15:23": [
+    {
+      "rank": 1,
+      "name": "Beercoin 2",
+      "symbol": "BEER2",
+      "price_btc": 4.226548453791212e-10,
+      "timestamp": "2025-06-02 15:23"
+    },
+    {
+      "rank": 2,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.603156290147782e-08,
+      "timestamp": "2025-06-02 15:23"
+    },
+    {
+      "rank": 3,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.728868964738313e-07,
+      "timestamp": "2025-06-02 15:23"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001471201698972795,
+      "timestamp": "2025-06-02 15:23"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031829749436288563,
+      "timestamp": "2025-06-02 15:23"
+    },
+    {
+      "rank": 6,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3904377198315831e-11,
+      "timestamp": "2025-06-02 15:23"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.994909264913745e-06,
+      "timestamp": "2025-06-02 15:23"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.168940208356322e-06,
+      "timestamp": "2025-06-02 15:23"
+    },
+    {
+      "rank": 9,
+      "name": "SQD",
+      "symbol": "SQD",
+      "price_btc": 2.0335659968458643e-06,
+      "timestamp": "2025-06-02 15:23"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0667662021519432e-05,
+      "timestamp": "2025-06-02 15:23"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8781512159972058e-05,
+      "timestamp": "2025-06-02 15:23"
+    },
+    {
+      "rank": 12,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.7996370850627035e-06,
+      "timestamp": "2025-06-02 15:23"
+    },
+    {
+      "rank": 13,
+      "name": "Maker",
+      "symbol": "MKR",
+      "price_btc": 0.016057861194710393,
+      "timestamp": "2025-06-02 15:23"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0405827897842024e-05,
+      "timestamp": "2025-06-02 15:23"
+    },
+    {
+      "rank": 15,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.7262459586711106e-08,
+      "timestamp": "2025-06-02 15:23"
+    }
   ]
 }
