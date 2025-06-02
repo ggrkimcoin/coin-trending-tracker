@@ -119089,5 +119089,112 @@
       "price_btc": 2.359220813880373e-05,
       "timestamp": "2025-06-02 07:21"
     }
+  ],
+  "2025-06-02 08:29": [
+    {
+      "rank": 1,
+      "name": "FLOCK",
+      "symbol": "FLOCK",
+      "price_btc": 2.4222465854563362e-06,
+      "timestamp": "2025-06-02 08:29"
+    },
+    {
+      "rank": 2,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 3.1551098232404597e-07,
+      "timestamp": "2025-06-02 08:29"
+    },
+    {
+      "rank": 3,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.3548171408517787e-05,
+      "timestamp": "2025-06-02 08:29"
+    },
+    {
+      "rank": 4,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.6412991042732733e-08,
+      "timestamp": "2025-06-02 08:29"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014753580664882526,
+      "timestamp": "2025-06-02 08:29"
+    },
+    {
+      "rank": 6,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.596140170016654e-07,
+      "timestamp": "2025-06-02 08:29"
+    },
+    {
+      "rank": 7,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.26458270145597e-06,
+      "timestamp": "2025-06-02 08:29"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023768784318007854,
+      "timestamp": "2025-06-02 08:29"
+    },
+    {
+      "rank": 9,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 5.348986659933635e-07,
+      "timestamp": "2025-06-02 08:29"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-02 08:29"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003190890509657379,
+      "timestamp": "2025-06-02 08:29"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.067498321081764e-06,
+      "timestamp": "2025-06-02 08:29"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1306132164693186e-05,
+      "timestamp": "2025-06-02 08:29"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9018467785764294e-05,
+      "timestamp": "2025-06-02 08:29"
+    },
+    {
+      "rank": 15,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.43522259402629e-06,
+      "timestamp": "2025-06-02 08:29"
+    }
   ]
 }
