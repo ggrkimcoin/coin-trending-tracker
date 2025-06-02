@@ -120480,5 +120480,112 @@
       "price_btc": 3.268035622903283e-06,
       "timestamp": "2025-06-02 20:22"
     }
+  ],
+  "2025-06-02 21:20": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4223114460617246e-11,
+      "timestamp": "2025-06-02 21:20"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034104500389898394,
+      "timestamp": "2025-06-02 21:20"
+    },
+    {
+      "rank": 3,
+      "name": "Layer3",
+      "symbol": "L3",
+      "price_btc": 8.053051398569019e-07,
+      "timestamp": "2025-06-02 21:20"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-02 21:20"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024188485161240843,
+      "timestamp": "2025-06-02 21:20"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.177191484353365e-05,
+      "timestamp": "2025-06-02 21:20"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.828173889979819e-05,
+      "timestamp": "2025-06-02 21:20"
+    },
+    {
+      "rank": 8,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.795139956887549e-07,
+      "timestamp": "2025-06-02 21:20"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014692239811828175,
+      "timestamp": "2025-06-02 21:20"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038423064356418995,
+      "timestamp": "2025-06-02 21:20"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.123925978636664e-06,
+      "timestamp": "2025-06-02 21:20"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0736925869957545e-05,
+      "timestamp": "2025-06-02 21:20"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.983160932351748e-06,
+      "timestamp": "2025-06-02 21:20"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0709571452187132e-05,
+      "timestamp": "2025-06-02 21:20"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1427555123837097e-10,
+      "timestamp": "2025-06-02 21:20"
+    }
   ]
 }
