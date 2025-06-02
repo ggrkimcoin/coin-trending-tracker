@@ -119624,5 +119624,112 @@
       "price_btc": 2.0578381463283285e-05,
       "timestamp": "2025-06-02 12:42"
     }
+  ],
+  "2025-06-02 13:33": [
+    {
+      "rank": 1,
+      "name": "Beercoin 2",
+      "symbol": "BEER2",
+      "price_btc": 4.694048404033845e-10,
+      "timestamp": "2025-06-02 13:33"
+    },
+    {
+      "rank": 2,
+      "name": "SQD",
+      "symbol": "SQD",
+      "price_btc": 1.9049020840045e-06,
+      "timestamp": "2025-06-02 13:33"
+    },
+    {
+      "rank": 3,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.583577919341196e-07,
+      "timestamp": "2025-06-02 13:33"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003159607380238298,
+      "timestamp": "2025-06-02 13:33"
+    },
+    {
+      "rank": 5,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.6052619999931982e-08,
+      "timestamp": "2025-06-02 13:33"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.168224147652515e-06,
+      "timestamp": "2025-06-02 13:33"
+    },
+    {
+      "rank": 7,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.881638470843852e-08,
+      "timestamp": "2025-06-02 13:33"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-02 13:33"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.6914393509201647e-06,
+      "timestamp": "2025-06-02 13:33"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.1541345036488564e-06,
+      "timestamp": "2025-06-02 13:33"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.813349762812057e-06,
+      "timestamp": "2025-06-02 13:33"
+    },
+    {
+      "rank": 12,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 3.7350139993362136e-07,
+      "timestamp": "2025-06-02 13:33"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1336981855006254e-05,
+      "timestamp": "2025-06-02 13:33"
+    },
+    {
+      "rank": 14,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.8649552340571525e-05,
+      "timestamp": "2025-06-02 13:33"
+    },
+    {
+      "rank": 15,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 3.854186279586584e-05,
+      "timestamp": "2025-06-02 13:33"
+    }
   ]
 }
