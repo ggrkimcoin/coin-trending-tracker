@@ -118447,5 +118447,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-06-01 23:19"
     }
+  ],
+  "2025-06-02 01:49": [
+    {
+      "rank": 1,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.188235692493458e-06,
+      "timestamp": "2025-06-02 01:49"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.944697312291937e-05,
+      "timestamp": "2025-06-02 01:49"
+    },
+    {
+      "rank": 3,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.5996611004933417e-08,
+      "timestamp": "2025-06-02 01:49"
+    },
+    {
+      "rank": 4,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 6.566903234640204e-08,
+      "timestamp": "2025-06-02 01:49"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001502850136355556,
+      "timestamp": "2025-06-02 01:49"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00032094008869212675,
+      "timestamp": "2025-06-02 01:49"
+    },
+    {
+      "rank": 7,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.402574125735213e-06,
+      "timestamp": "2025-06-02 01:49"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024034713999095868,
+      "timestamp": "2025-06-02 01:49"
+    },
+    {
+      "rank": 9,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.4848240380227607e-06,
+      "timestamp": "2025-06-02 01:49"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.197484405552183e-06,
+      "timestamp": "2025-06-02 01:49"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003930081621732676,
+      "timestamp": "2025-06-02 01:49"
+    },
+    {
+      "rank": 12,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2575186668088256e-06,
+      "timestamp": "2025-06-02 01:49"
+    },
+    {
+      "rank": 13,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.705182202502166e-05,
+      "timestamp": "2025-06-02 01:49"
+    },
+    {
+      "rank": 14,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.912760235179482e-05,
+      "timestamp": "2025-06-02 01:49"
+    },
+    {
+      "rank": 15,
+      "name": "FLOCK",
+      "symbol": "FLOCK",
+      "price_btc": 2.9185904203489495e-06,
+      "timestamp": "2025-06-02 01:49"
+    }
   ]
 }
