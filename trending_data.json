@@ -120587,5 +120587,112 @@
       "price_btc": 1.1427555123837097e-10,
       "timestamp": "2025-06-02 21:20"
     }
+  ],
+  "2025-06-02 22:19": [
+    {
+      "rank": 1,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.0719756617125005e-06,
+      "timestamp": "2025-06-02 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "Layer3",
+      "symbol": "L3",
+      "price_btc": 8.179066287586372e-07,
+      "timestamp": "2025-06-02 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003437369877847333,
+      "timestamp": "2025-06-02 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-02 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8432333761697312e-05,
+      "timestamp": "2025-06-02 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0352223819982509e-07,
+      "timestamp": "2025-06-02 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.938846639937981e-06,
+      "timestamp": "2025-06-02 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4069111898753175e-11,
+      "timestamp": "2025-06-02 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014792441334083807,
+      "timestamp": "2025-06-02 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.4362559957530384e-06,
+      "timestamp": "2025-06-02 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.640563816652358e-08,
+      "timestamp": "2025-06-02 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.762810258635949e-07,
+      "timestamp": "2025-06-02 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 1.117731282318832e-06,
+      "timestamp": "2025-06-02 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.2309103535521366e-05,
+      "timestamp": "2025-06-02 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Jito",
+      "symbol": "JTO",
+      "price_btc": 1.6404123110074483e-05,
+      "timestamp": "2025-06-02 22:19"
+    }
   ]
 }
