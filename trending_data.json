@@ -118982,5 +118982,112 @@
       "price_btc": 0.002298467052998487,
       "timestamp": "2025-06-02 06:32"
     }
+  ],
+  "2025-06-02 07:21": [
+    {
+      "rank": 1,
+      "name": "FLOCK",
+      "symbol": "FLOCK",
+      "price_btc": 2.5697273625589304e-06,
+      "timestamp": "2025-06-02 07:21"
+    },
+    {
+      "rank": 2,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.641283849452159e-08,
+      "timestamp": "2025-06-02 07:21"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031654500369633057,
+      "timestamp": "2025-06-02 07:21"
+    },
+    {
+      "rank": 4,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.210481276687875e-06,
+      "timestamp": "2025-06-02 07:21"
+    },
+    {
+      "rank": 5,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.147380556387772e-06,
+      "timestamp": "2025-06-02 07:21"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.130029540742001e-05,
+      "timestamp": "2025-06-02 07:21"
+    },
+    {
+      "rank": 7,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 3.138225987744796e-07,
+      "timestamp": "2025-06-02 07:21"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023711274205092146,
+      "timestamp": "2025-06-02 07:21"
+    },
+    {
+      "rank": 9,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 8.278183386661662e-07,
+      "timestamp": "2025-06-02 07:21"
+    },
+    {
+      "rank": 10,
+      "name": "Xterio",
+      "symbol": "XTER",
+      "price_btc": 2.6136464047338965e-06,
+      "timestamp": "2025-06-02 07:21"
+    },
+    {
+      "rank": 11,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 5.08688120017464e-07,
+      "timestamp": "2025-06-02 07:21"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014812710085016006,
+      "timestamp": "2025-06-02 07:21"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.899695244406821e-05,
+      "timestamp": "2025-06-02 07:21"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0686288580712204e-05,
+      "timestamp": "2025-06-02 07:21"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.359220813880373e-05,
+      "timestamp": "2025-06-02 07:21"
+    }
   ]
 }
