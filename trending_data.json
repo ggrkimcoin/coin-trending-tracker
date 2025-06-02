@@ -119731,5 +119731,112 @@
       "price_btc": 3.854186279586584e-05,
       "timestamp": "2025-06-02 13:33"
     }
+  ],
+  "2025-06-02 14:21": [
+    {
+      "rank": 1,
+      "name": "Beercoin 2",
+      "symbol": "BEER2",
+      "price_btc": 4.6185389216566635e-10,
+      "timestamp": "2025-06-02 14:21"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3805745841935133e-11,
+      "timestamp": "2025-06-02 14:21"
+    },
+    {
+      "rank": 3,
+      "name": "SQD",
+      "symbol": "SQD",
+      "price_btc": 2.179723794445705e-06,
+      "timestamp": "2025-06-02 14:21"
+    },
+    {
+      "rank": 4,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.806052789702588e-07,
+      "timestamp": "2025-06-02 14:21"
+    },
+    {
+      "rank": 5,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.598933675264711e-08,
+      "timestamp": "2025-06-02 14:21"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.186448394892581e-06,
+      "timestamp": "2025-06-02 14:21"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02409470045577265,
+      "timestamp": "2025-06-02 14:21"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-02 14:21"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.884768685826993e-05,
+      "timestamp": "2025-06-02 14:21"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031356483713036146,
+      "timestamp": "2025-06-02 14:21"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014697400021867158,
+      "timestamp": "2025-06-02 14:21"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.124012855972151e-05,
+      "timestamp": "2025-06-02 14:21"
+    },
+    {
+      "rank": 13,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.768936242799939e-08,
+      "timestamp": "2025-06-02 14:21"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1153908064896582e-10,
+      "timestamp": "2025-06-02 14:21"
+    },
+    {
+      "rank": 15,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2315044583402024e-06,
+      "timestamp": "2025-06-02 14:21"
+    }
   ]
 }
