@@ -118875,5 +118875,112 @@
       "price_btc": 1.8920684261692418e-05,
       "timestamp": "2025-06-02 05:21"
     }
+  ],
+  "2025-06-02 06:32": [
+    {
+      "rank": 1,
+      "name": "FLOCK",
+      "symbol": "FLOCK",
+      "price_btc": 2.575030781759228e-06,
+      "timestamp": "2025-06-02 06:32"
+    },
+    {
+      "rank": 2,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.6514590719413915e-08,
+      "timestamp": "2025-06-02 06:32"
+    },
+    {
+      "rank": 3,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.819871223073478e-06,
+      "timestamp": "2025-06-02 06:32"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.127501592571709e-05,
+      "timestamp": "2025-06-02 06:32"
+    },
+    {
+      "rank": 5,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.13120350275143e-06,
+      "timestamp": "2025-06-02 06:32"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.108459275841057e-06,
+      "timestamp": "2025-06-02 06:32"
+    },
+    {
+      "rank": 7,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.3173013924788643e-05,
+      "timestamp": "2025-06-02 06:32"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003143444687388808,
+      "timestamp": "2025-06-02 06:32"
+    },
+    {
+      "rank": 9,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 6.028588120739565e-08,
+      "timestamp": "2025-06-02 06:32"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014822702548401134,
+      "timestamp": "2025-06-02 06:32"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02378371125294222,
+      "timestamp": "2025-06-02 06:32"
+    },
+    {
+      "rank": 12,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 8.191514884028479e-07,
+      "timestamp": "2025-06-02 06:32"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038902238041493577,
+      "timestamp": "2025-06-02 06:32"
+    },
+    {
+      "rank": 14,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.8213579822419241e-06,
+      "timestamp": "2025-06-02 06:32"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002298467052998487,
+      "timestamp": "2025-06-02 06:32"
+    }
   ]
 }
