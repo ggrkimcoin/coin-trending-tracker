@@ -122406,5 +122406,112 @@
       "price_btc": 1.0509215581635475e-05,
       "timestamp": "2025-06-03 16:28"
     }
+  ],
+  "2025-06-03 17:19": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003504708644106409,
+      "timestamp": "2025-06-03 17:19"
+    },
+    {
+      "rank": 2,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.5779557585663653e-07,
+      "timestamp": "2025-06-03 17:19"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8709963799323418e-05,
+      "timestamp": "2025-06-03 17:19"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.114084848888753e-05,
+      "timestamp": "2025-06-03 17:19"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00010953208856934609,
+      "timestamp": "2025-06-03 17:19"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015213492313656408,
+      "timestamp": "2025-06-03 17:19"
+    },
+    {
+      "rank": 7,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0269893305495889e-05,
+      "timestamp": "2025-06-03 17:19"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.048967420094129e-05,
+      "timestamp": "2025-06-03 17:19"
+    },
+    {
+      "rank": 9,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.026112811953591e-06,
+      "timestamp": "2025-06-03 17:19"
+    },
+    {
+      "rank": 10,
+      "name": "Magic Eden",
+      "symbol": "ME",
+      "price_btc": 9.83041897814912e-06,
+      "timestamp": "2025-06-03 17:19"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.1900265075201588e-06,
+      "timestamp": "2025-06-03 17:19"
+    },
+    {
+      "rank": 12,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.1472821083949067e-05,
+      "timestamp": "2025-06-03 17:19"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1921522668553674e-10,
+      "timestamp": "2025-06-03 17:19"
+    },
+    {
+      "rank": 14,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 5.1569461736621775e-06,
+      "timestamp": "2025-06-03 17:19"
+    },
+    {
+      "rank": 15,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.976324379576953e-07,
+      "timestamp": "2025-06-03 17:19"
+    }
   ]
 }
