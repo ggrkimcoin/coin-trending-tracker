@@ -121229,5 +121229,112 @@
       "price_btc": 4.8102322925332864e-08,
       "timestamp": "2025-06-03 05:21"
     }
+  ],
+  "2025-06-03 06:32": [
+    {
+      "rank": 1,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 6.770302874319736e-07,
+      "timestamp": "2025-06-03 06:32"
+    },
+    {
+      "rank": 2,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0339287315654313e-05,
+      "timestamp": "2025-06-03 06:32"
+    },
+    {
+      "rank": 3,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.1707261699890375e-06,
+      "timestamp": "2025-06-03 06:32"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034248256695984996,
+      "timestamp": "2025-06-03 06:32"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037227190134441254,
+      "timestamp": "2025-06-03 06:32"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015133714574061608,
+      "timestamp": "2025-06-03 06:32"
+    },
+    {
+      "rank": 7,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.998764091972883e-06,
+      "timestamp": "2025-06-03 06:32"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8507226694774593e-05,
+      "timestamp": "2025-06-03 06:32"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024776602699103,
+      "timestamp": "2025-06-03 06:32"
+    },
+    {
+      "rank": 10,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.8421987922401874e-08,
+      "timestamp": "2025-06-03 06:32"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-03 06:32"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.150125053265064e-05,
+      "timestamp": "2025-06-03 06:32"
+    },
+    {
+      "rank": 13,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0495998885543022e-07,
+      "timestamp": "2025-06-03 06:32"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0905459138864654e-05,
+      "timestamp": "2025-06-03 06:32"
+    },
+    {
+      "rank": 15,
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "price_btc": 1.2539980632598328e-10,
+      "timestamp": "2025-06-03 06:32"
+    }
   ]
 }
