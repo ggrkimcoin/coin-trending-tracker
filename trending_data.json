@@ -121015,5 +121015,112 @@
       "price_btc": 5.112871375252858e-07,
       "timestamp": "2025-06-03 03:16"
     }
+  ],
+  "2025-06-03 04:27": [
+    {
+      "rank": 1,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 6.849791380211337e-07,
+      "timestamp": "2025-06-03 04:27"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003395213488544078,
+      "timestamp": "2025-06-03 04:27"
+    },
+    {
+      "rank": 3,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0372625450253848e-05,
+      "timestamp": "2025-06-03 04:27"
+    },
+    {
+      "rank": 4,
+      "name": "Layer3",
+      "symbol": "L3",
+      "price_btc": 7.310459026931073e-07,
+      "timestamp": "2025-06-03 04:27"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.132344309721257e-05,
+      "timestamp": "2025-06-03 04:27"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024677273967053538,
+      "timestamp": "2025-06-03 04:27"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015106881347690902,
+      "timestamp": "2025-06-03 04:27"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8565820423596023e-05,
+      "timestamp": "2025-06-03 04:27"
+    },
+    {
+      "rank": 9,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.1045649388449475e-06,
+      "timestamp": "2025-06-03 04:27"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.140414685398499e-06,
+      "timestamp": "2025-06-03 04:27"
+    },
+    {
+      "rank": 11,
+      "name": "USDC",
+      "symbol": "USDC",
+      "price_btc": 9.48656088132796e-06,
+      "timestamp": "2025-06-03 04:27"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-03 04:27"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.910106333144853e-06,
+      "timestamp": "2025-06-03 04:27"
+    },
+    {
+      "rank": 14,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0526739954986482e-07,
+      "timestamp": "2025-06-03 04:27"
+    },
+    {
+      "rank": 15,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2164309157639148e-06,
+      "timestamp": "2025-06-03 04:27"
+    }
   ]
 }
