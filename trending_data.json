@@ -121764,5 +121764,112 @@
       "price_btc": 6.138539944088297e-06,
       "timestamp": "2025-06-03 10:23"
     }
+  ],
+  "2025-06-03 11:18": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035740652395523315,
+      "timestamp": "2025-06-03 11:18"
+    },
+    {
+      "rank": 2,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0130360891255813e-05,
+      "timestamp": "2025-06-03 11:18"
+    },
+    {
+      "rank": 3,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.2814066419637345e-06,
+      "timestamp": "2025-06-03 11:18"
+    },
+    {
+      "rank": 4,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.4786818241438106e-05,
+      "timestamp": "2025-06-03 11:18"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02480061651578831,
+      "timestamp": "2025-06-03 11:18"
+    },
+    {
+      "rank": 6,
+      "name": "Zircuit",
+      "symbol": "ZRC",
+      "price_btc": 2.7806869541227934e-07,
+      "timestamp": "2025-06-03 11:18"
+    },
+    {
+      "rank": 7,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 6.541710454248464e-07,
+      "timestamp": "2025-06-03 11:18"
+    },
+    {
+      "rank": 8,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.410378816132929e-11,
+      "timestamp": "2025-06-03 11:18"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.0553603641763785e-06,
+      "timestamp": "2025-06-03 11:18"
+    },
+    {
+      "rank": 10,
+      "name": "Build On BNB",
+      "symbol": "BOB",
+      "price_btc": 1.271769949895904e-12,
+      "timestamp": "2025-06-03 11:18"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015287391840553275,
+      "timestamp": "2025-06-03 11:18"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1972056744517297e-10,
+      "timestamp": "2025-06-03 11:18"
+    },
+    {
+      "rank": 13,
+      "name": "moonpig",
+      "symbol": "MOONPIG",
+      "price_btc": 3.596203341794632e-07,
+      "timestamp": "2025-06-03 11:18"
+    },
+    {
+      "rank": 14,
+      "name": "Maker",
+      "symbol": "MKR",
+      "price_btc": 0.01753102166346278,
+      "timestamp": "2025-06-03 11:18"
+    },
+    {
+      "rank": 15,
+      "name": "Bluefin",
+      "symbol": "BLUE",
+      "price_btc": 1.159996387085972e-06,
+      "timestamp": "2025-06-03 11:18"
+    }
   ]
 }
