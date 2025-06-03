@@ -122834,5 +122834,112 @@
       "price_btc": 1.1979932995328658e-10,
       "timestamp": "2025-06-03 20:23"
     }
+  ],
+  "2025-06-03 21:18": [
+    {
+      "rank": 1,
+      "name": "Magic Eden",
+      "symbol": "ME",
+      "price_btc": 9.633705722069725e-06,
+      "timestamp": "2025-06-03 21:18"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3894964949399186e-11,
+      "timestamp": "2025-06-03 21:18"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003479246534874339,
+      "timestamp": "2025-06-03 21:18"
+    },
+    {
+      "rank": 4,
+      "name": "Ethena USDe",
+      "symbol": "USDE",
+      "price_btc": 9.46217978711808e-06,
+      "timestamp": "2025-06-03 21:18"
+    },
+    {
+      "rank": 5,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.584673183659382e-07,
+      "timestamp": "2025-06-03 21:18"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.1299201467265223e-05,
+      "timestamp": "2025-06-03 21:18"
+    },
+    {
+      "rank": 7,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.1949340567154553e-06,
+      "timestamp": "2025-06-03 21:18"
+    },
+    {
+      "rank": 8,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.866680685444005e-06,
+      "timestamp": "2025-06-03 21:18"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024711952667475664,
+      "timestamp": "2025-06-03 21:18"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014921644692161065,
+      "timestamp": "2025-06-03 21:18"
+    },
+    {
+      "rank": 11,
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "price_btc": 1.138415235675054e-06,
+      "timestamp": "2025-06-03 21:18"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1328699756781087e-05,
+      "timestamp": "2025-06-03 21:18"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8595694161045062e-05,
+      "timestamp": "2025-06-03 21:18"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0270285083728136e-05,
+      "timestamp": "2025-06-03 21:18"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.062344198978729e-05,
+      "timestamp": "2025-06-03 21:18"
+    }
   ]
 }
