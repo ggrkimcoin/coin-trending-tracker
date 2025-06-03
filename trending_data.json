@@ -122620,5 +122620,112 @@
       "price_btc": 3.1561812217931476e-06,
       "timestamp": "2025-06-03 18:30"
     }
+  ],
+  "2025-06-03 19:16": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.7206480316168775e-07,
+      "timestamp": "2025-06-03 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "Magic Eden",
+      "symbol": "ME",
+      "price_btc": 9.67933917588246e-06,
+      "timestamp": "2025-06-03 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003472844836827275,
+      "timestamp": "2025-06-03 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3949075879558012e-11,
+      "timestamp": "2025-06-03 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00010794297192081492,
+      "timestamp": "2025-06-03 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0914790382133246e-05,
+      "timestamp": "2025-06-03 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024689546446248958,
+      "timestamp": "2025-06-03 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.1921458541536132e-06,
+      "timestamp": "2025-06-03 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.870478129164535e-05,
+      "timestamp": "2025-06-03 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015130737941634487,
+      "timestamp": "2025-06-03 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.077669658867141e-08,
+      "timestamp": "2025-06-03 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0996554385318915e-05,
+      "timestamp": "2025-06-03 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.891126054279134e-06,
+      "timestamp": "2025-06-03 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Maker",
+      "symbol": "MKR",
+      "price_btc": 0.017954593788005253,
+      "timestamp": "2025-06-03 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.4490351466647254e-05,
+      "timestamp": "2025-06-03 19:16"
+    }
   ]
 }
