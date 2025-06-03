@@ -122941,5 +122941,112 @@
       "price_btc": 1.062344198978729e-05,
       "timestamp": "2025-06-03 21:18"
     }
+  ],
+  "2025-06-03 22:20": [
+    {
+      "rank": 1,
+      "name": "Magic Eden",
+      "symbol": "ME",
+      "price_btc": 9.551827976295196e-06,
+      "timestamp": "2025-06-03 22:20"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3873107123346575e-11,
+      "timestamp": "2025-06-03 22:20"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003410814931011976,
+      "timestamp": "2025-06-03 22:20"
+    },
+    {
+      "rank": 4,
+      "name": "Ethena USDe",
+      "symbol": "USDE",
+      "price_btc": 9.492304289169552e-06,
+      "timestamp": "2025-06-03 22:20"
+    },
+    {
+      "rank": 5,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.4630970253522706e-07,
+      "timestamp": "2025-06-03 22:20"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.433698125023686e-06,
+      "timestamp": "2025-06-03 22:20"
+    },
+    {
+      "rank": 7,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0313619007048562e-05,
+      "timestamp": "2025-06-03 22:20"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02466993808177689,
+      "timestamp": "2025-06-03 22:20"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0806053553614535e-05,
+      "timestamp": "2025-06-03 22:20"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.031921571915825e-06,
+      "timestamp": "2025-06-03 22:20"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1666260090885502e-10,
+      "timestamp": "2025-06-03 22:20"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014764471922822865,
+      "timestamp": "2025-06-03 22:20"
+    },
+    {
+      "rank": 13,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00010627602339442814,
+      "timestamp": "2025-06-03 22:20"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003673532953259288,
+      "timestamp": "2025-06-03 22:20"
+    },
+    {
+      "rank": 15,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.3054524637441266e-08,
+      "timestamp": "2025-06-03 22:20"
+    }
   ]
 }
