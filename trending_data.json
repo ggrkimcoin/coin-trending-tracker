@@ -121443,5 +121443,112 @@
       "price_btc": 1.0926885917977684e-05,
       "timestamp": "2025-06-03 07:21"
     }
+  ],
+  "2025-06-03 08:29": [
+    {
+      "rank": 1,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 6.352833002329896e-07,
+      "timestamp": "2025-06-03 08:29"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034318359346027923,
+      "timestamp": "2025-06-03 08:29"
+    },
+    {
+      "rank": 3,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0330985618033633e-05,
+      "timestamp": "2025-06-03 08:29"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02480833957285594,
+      "timestamp": "2025-06-03 08:29"
+    },
+    {
+      "rank": 5,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.050622987710647e-06,
+      "timestamp": "2025-06-03 08:29"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015189413050211945,
+      "timestamp": "2025-06-03 08:29"
+    },
+    {
+      "rank": 7,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.2164170109228067e-06,
+      "timestamp": "2025-06-03 08:29"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0358709744430382e-05,
+      "timestamp": "2025-06-03 08:29"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.862228569298302e-05,
+      "timestamp": "2025-06-03 08:29"
+    },
+    {
+      "rank": 10,
+      "name": "Maker",
+      "symbol": "MKR",
+      "price_btc": 0.01699354060431174,
+      "timestamp": "2025-06-03 08:29"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0833268521721502e-05,
+      "timestamp": "2025-06-03 08:29"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.076468173528935e-06,
+      "timestamp": "2025-06-03 08:29"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.115973628469683e-06,
+      "timestamp": "2025-06-03 08:29"
+    },
+    {
+      "rank": 14,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 4.1119330262327405e-05,
+      "timestamp": "2025-06-03 08:29"
+    },
+    {
+      "rank": 15,
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "price_btc": 1.6389149345547903e-06,
+      "timestamp": "2025-06-03 08:29"
+    }
   ]
 }
