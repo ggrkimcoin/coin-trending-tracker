@@ -120801,5 +120801,112 @@
       "price_btc": 3.163650100681648e-05,
       "timestamp": "2025-06-02 23:19"
     }
+  ],
+  "2025-06-03 01:46": [
+    {
+      "rank": 1,
+      "name": "Layer3",
+      "symbol": "L3",
+      "price_btc": 7.507715049829503e-07,
+      "timestamp": "2025-06-03 01:46"
+    },
+    {
+      "rank": 2,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.89004173459568e-06,
+      "timestamp": "2025-06-03 01:46"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003417663787071466,
+      "timestamp": "2025-06-03 01:46"
+    },
+    {
+      "rank": 4,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.079866084548641e-05,
+      "timestamp": "2025-06-03 01:46"
+    },
+    {
+      "rank": 5,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.1589415339348e-08,
+      "timestamp": "2025-06-03 01:46"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015031041627266697,
+      "timestamp": "2025-06-03 01:46"
+    },
+    {
+      "rank": 7,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.147348609167351e-06,
+      "timestamp": "2025-06-03 01:46"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003804467948922228,
+      "timestamp": "2025-06-03 01:46"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.110758470347677e-06,
+      "timestamp": "2025-06-03 01:46"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.918594528911464e-05,
+      "timestamp": "2025-06-03 01:46"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024705706338541755,
+      "timestamp": "2025-06-03 01:46"
+    },
+    {
+      "rank": 12,
+      "name": "Maker",
+      "symbol": "MKR",
+      "price_btc": 0.016594462829180968,
+      "timestamp": "2025-06-03 01:46"
+    },
+    {
+      "rank": 13,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 3.819523962637397e-05,
+      "timestamp": "2025-06-03 01:46"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.133946272310252e-06,
+      "timestamp": "2025-06-03 01:46"
+    },
+    {
+      "rank": 15,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 6.469496965457727e-07,
+      "timestamp": "2025-06-03 01:46"
+    }
   ]
 }
