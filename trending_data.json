@@ -121871,5 +121871,112 @@
       "price_btc": 1.159996387085972e-06,
       "timestamp": "2025-06-03 11:18"
     }
+  ],
+  "2025-06-03 12:43": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.6433273524945793e-07,
+      "timestamp": "2025-06-03 12:43"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003547917246751355,
+      "timestamp": "2025-06-03 12:43"
+    },
+    {
+      "rank": 3,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 6.640578451445685e-07,
+      "timestamp": "2025-06-03 12:43"
+    },
+    {
+      "rank": 4,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4103967521262149e-11,
+      "timestamp": "2025-06-03 12:43"
+    },
+    {
+      "rank": 5,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.021396456650963e-05,
+      "timestamp": "2025-06-03 12:43"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015274791719801764,
+      "timestamp": "2025-06-03 12:43"
+    },
+    {
+      "rank": 7,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.452175926063971e-05,
+      "timestamp": "2025-06-03 12:43"
+    },
+    {
+      "rank": 8,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002479975481693132,
+      "timestamp": "2025-06-03 12:43"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024750246388779554,
+      "timestamp": "2025-06-03 12:43"
+    },
+    {
+      "rank": 10,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 5.1304308404836966e-06,
+      "timestamp": "2025-06-03 12:43"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.2299666362509772e-06,
+      "timestamp": "2025-06-03 12:43"
+    },
+    {
+      "rank": 12,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.7958657966328197e-05,
+      "timestamp": "2025-06-03 12:43"
+    },
+    {
+      "rank": 13,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 4.11506525009919e-05,
+      "timestamp": "2025-06-03 12:43"
+    },
+    {
+      "rank": 14,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.430653741672461e-08,
+      "timestamp": "2025-06-03 12:43"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.087290868326887e-06,
+      "timestamp": "2025-06-03 12:43"
+    }
   ]
 }
