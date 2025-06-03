@@ -122727,5 +122727,112 @@
       "price_btc": 2.4490351466647254e-05,
       "timestamp": "2025-06-03 19:16"
     }
+  ],
+  "2025-06-03 20:23": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003498041761328577,
+      "timestamp": "2025-06-03 20:23"
+    },
+    {
+      "rank": 2,
+      "name": "Magic Eden",
+      "symbol": "ME",
+      "price_btc": 9.614513173440826e-06,
+      "timestamp": "2025-06-03 20:23"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3881973354951616e-11,
+      "timestamp": "2025-06-03 20:23"
+    },
+    {
+      "rank": 4,
+      "name": "Ethena USDe",
+      "symbol": "USDE",
+      "price_btc": 9.435340098910931e-06,
+      "timestamp": "2025-06-03 20:23"
+    },
+    {
+      "rank": 5,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.709164305852451e-07,
+      "timestamp": "2025-06-03 20:23"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.1073180960946756e-05,
+      "timestamp": "2025-06-03 20:23"
+    },
+    {
+      "rank": 7,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.2152732926080905e-06,
+      "timestamp": "2025-06-03 20:23"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8763924252790316e-05,
+      "timestamp": "2025-06-03 20:23"
+    },
+    {
+      "rank": 9,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00010754404845663406,
+      "timestamp": "2025-06-03 20:23"
+    },
+    {
+      "rank": 10,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.2528079760441124e-08,
+      "timestamp": "2025-06-03 20:23"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1283274614406436e-05,
+      "timestamp": "2025-06-03 20:23"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0719458521048692e-05,
+      "timestamp": "2025-06-03 20:23"
+    },
+    {
+      "rank": 13,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 2.1653504074016974e-05,
+      "timestamp": "2025-06-03 20:23"
+    },
+    {
+      "rank": 14,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.818856835793005e-07,
+      "timestamp": "2025-06-03 20:23"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1979932995328658e-10,
+      "timestamp": "2025-06-03 20:23"
+    }
   ]
 }
