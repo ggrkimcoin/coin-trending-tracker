@@ -123048,5 +123048,112 @@
       "price_btc": 4.3054524637441266e-08,
       "timestamp": "2025-06-03 22:20"
     }
+  ],
+  "2025-06-03 23:19": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034637506902734515,
+      "timestamp": "2025-06-03 23:19"
+    },
+    {
+      "rank": 2,
+      "name": "Magic Eden",
+      "symbol": "ME",
+      "price_btc": 9.60470022683479e-06,
+      "timestamp": "2025-06-03 23:19"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.383002116042423e-11,
+      "timestamp": "2025-06-03 23:19"
+    },
+    {
+      "rank": 4,
+      "name": "Ethena USDe",
+      "symbol": "USDE",
+      "price_btc": 9.468687644011809e-06,
+      "timestamp": "2025-06-03 23:19"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.714966162366954e-06,
+      "timestamp": "2025-06-03 23:19"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.843356336370917e-05,
+      "timestamp": "2025-06-03 23:19"
+    },
+    {
+      "rank": 7,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0365035301279818e-05,
+      "timestamp": "2025-06-03 23:19"
+    },
+    {
+      "rank": 8,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.590635680069822e-08,
+      "timestamp": "2025-06-03 23:19"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00147597613320775,
+      "timestamp": "2025-06-03 23:19"
+    },
+    {
+      "rank": 10,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.187543783009797e-06,
+      "timestamp": "2025-06-03 23:19"
+    },
+    {
+      "rank": 11,
+      "name": "FLOCK",
+      "symbol": "FLOCK",
+      "price_btc": 2.7935492750426406e-06,
+      "timestamp": "2025-06-03 23:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0246460857265886,
+      "timestamp": "2025-06-03 23:19"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1367714813163078e-05,
+      "timestamp": "2025-06-03 23:19"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003678604309613025,
+      "timestamp": "2025-06-03 23:19"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.006468012534655e-06,
+      "timestamp": "2025-06-03 23:19"
+    }
   ]
 }
