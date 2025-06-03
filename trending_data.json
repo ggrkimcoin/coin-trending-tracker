@@ -122085,5 +122085,112 @@
       "price_btc": 6.463025237623688e-05,
       "timestamp": "2025-06-03 13:33"
     }
+  ],
+  "2025-06-03 14:21": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4129959114786839e-11,
+      "timestamp": "2025-06-03 14:21"
+    },
+    {
+      "rank": 2,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.38669579084271e-07,
+      "timestamp": "2025-06-03 14:21"
+    },
+    {
+      "rank": 3,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 6.555497062462574e-07,
+      "timestamp": "2025-06-03 14:21"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035682235781235816,
+      "timestamp": "2025-06-03 14:21"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001525542784128506,
+      "timestamp": "2025-06-03 14:21"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0222229469331333e-05,
+      "timestamp": "2025-06-03 14:21"
+    },
+    {
+      "rank": 7,
+      "name": "Maker",
+      "symbol": "MKR",
+      "price_btc": 0.01826761625862694,
+      "timestamp": "2025-06-03 14:21"
+    },
+    {
+      "rank": 8,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 6.473701870918047e-05,
+      "timestamp": "2025-06-03 14:21"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02490465331384609,
+      "timestamp": "2025-06-03 14:21"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.130107738525579e-05,
+      "timestamp": "2025-06-03 14:21"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.202338094565459e-10,
+      "timestamp": "2025-06-03 14:21"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.895359949757871e-05,
+      "timestamp": "2025-06-03 14:21"
+    },
+    {
+      "rank": 13,
+      "name": "Build On BNB",
+      "symbol": "BOB",
+      "price_btc": 1.2215412047558274e-12,
+      "timestamp": "2025-06-03 14:21"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.139978854778983e-06,
+      "timestamp": "2025-06-03 14:21"
+    },
+    {
+      "rank": 15,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.3497874386705265e-08,
+      "timestamp": "2025-06-03 14:21"
+    }
   ]
 }
