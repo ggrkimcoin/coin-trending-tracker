@@ -124974,5 +124974,112 @@
       "price_btc": 1.8723343757978826e-05,
       "timestamp": "2025-06-04 18:29"
     }
+  ],
+  "2025-06-04 19:17": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.435960019167755e-11,
+      "timestamp": "2025-06-04 19:17"
+    },
+    {
+      "rank": 2,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.4078799961881098e-08,
+      "timestamp": "2025-06-04 19:17"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7424413739861603e-05,
+      "timestamp": "2025-06-04 19:17"
+    },
+    {
+      "rank": 4,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.58464972525496e-06,
+      "timestamp": "2025-06-04 19:17"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003462609590579128,
+      "timestamp": "2025-06-04 19:17"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1308978330253062e-05,
+      "timestamp": "2025-06-04 19:17"
+    },
+    {
+      "rank": 7,
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "price_btc": 9.58400032698677e-05,
+      "timestamp": "2025-06-04 19:17"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036950381027652675,
+      "timestamp": "2025-06-04 19:17"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02506870457991184,
+      "timestamp": "2025-06-04 19:17"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.70927821093652e-06,
+      "timestamp": "2025-06-04 19:17"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.030815188047175e-06,
+      "timestamp": "2025-06-04 19:17"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0589336807201e-05,
+      "timestamp": "2025-06-04 19:17"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.8121573666074736e-06,
+      "timestamp": "2025-06-04 19:17"
+    },
+    {
+      "rank": 14,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.003022174738285422,
+      "timestamp": "2025-06-04 19:17"
+    },
+    {
+      "rank": 15,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2787142433344233e-06,
+      "timestamp": "2025-06-04 19:17"
+    }
   ]
 }
