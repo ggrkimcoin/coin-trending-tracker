@@ -123262,5 +123262,112 @@
       "price_btc": 8.107969626125595e-06,
       "timestamp": "2025-06-04 01:46"
     }
+  ],
+  "2025-06-04 03:16": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003446857799880451,
+      "timestamp": "2025-06-04 03:16"
+    },
+    {
+      "rank": 2,
+      "name": "Magic Eden",
+      "symbol": "ME",
+      "price_btc": 1.0086442488847668e-05,
+      "timestamp": "2025-06-04 03:16"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0060822789598435e-05,
+      "timestamp": "2025-06-04 03:16"
+    },
+    {
+      "rank": 4,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.843716940165236e-08,
+      "timestamp": "2025-06-04 03:16"
+    },
+    {
+      "rank": 5,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.172836338208476e-10,
+      "timestamp": "2025-06-04 03:16"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014813288546099358,
+      "timestamp": "2025-06-04 03:16"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8523304625215273e-05,
+      "timestamp": "2025-06-04 03:16"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003714048695236978,
+      "timestamp": "2025-06-04 03:16"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024767130183539206,
+      "timestamp": "2025-06-04 03:16"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.097868175641745e-05,
+      "timestamp": "2025-06-04 03:16"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.2523800016477606e-06,
+      "timestamp": "2025-06-04 03:16"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1319105582377023e-05,
+      "timestamp": "2025-06-04 03:16"
+    },
+    {
+      "rank": 13,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 1.601886110358029e-10,
+      "timestamp": "2025-06-04 03:16"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00010566607637311389,
+      "timestamp": "2025-06-04 03:16"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.181904553561514e-06,
+      "timestamp": "2025-06-04 03:16"
+    }
   ]
 }
