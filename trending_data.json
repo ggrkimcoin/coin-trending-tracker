@@ -123797,5 +123797,112 @@
       "price_btc": 1.1359949515948988e-05,
       "timestamp": "2025-06-04 07:20"
     }
+  ],
+  "2025-06-04 08:28": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034425558082752504,
+      "timestamp": "2025-06-04 08:28"
+    },
+    {
+      "rank": 2,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 9.466194094877171e-07,
+      "timestamp": "2025-06-04 08:28"
+    },
+    {
+      "rank": 3,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0713663912378811e-05,
+      "timestamp": "2025-06-04 08:28"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0858362740694797e-05,
+      "timestamp": "2025-06-04 08:28"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0039046099187838e-05,
+      "timestamp": "2025-06-04 08:28"
+    },
+    {
+      "rank": 6,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.6310304161680263e-05,
+      "timestamp": "2025-06-04 08:28"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.187331087807626e-06,
+      "timestamp": "2025-06-04 08:28"
+    },
+    {
+      "rank": 8,
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "price_btc": 7.239278364105221e-06,
+      "timestamp": "2025-06-04 08:28"
+    },
+    {
+      "rank": 9,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.3301602828778316e-05,
+      "timestamp": "2025-06-04 08:28"
+    },
+    {
+      "rank": 10,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.123391839567405e-05,
+      "timestamp": "2025-06-04 08:28"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.827594289090888e-05,
+      "timestamp": "2025-06-04 08:28"
+    },
+    {
+      "rank": 12,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.238380471810969e-06,
+      "timestamp": "2025-06-04 08:28"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001485529859487248,
+      "timestamp": "2025-06-04 08:28"
+    },
+    {
+      "rank": 14,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.476634377678487e-07,
+      "timestamp": "2025-06-04 08:28"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.401917146945603e-05,
+      "timestamp": "2025-06-04 08:28"
+    }
   ]
 }
