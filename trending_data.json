@@ -125188,5 +125188,112 @@
       "price_btc": 1.1630859010030104e-10,
       "timestamp": "2025-06-04 20:18"
     }
+  ],
+  "2025-06-04 21:16": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.4232122015574394e-08,
+      "timestamp": "2025-06-04 21:16"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3971704321952165e-11,
+      "timestamp": "2025-06-04 21:16"
+    },
+    {
+      "rank": 3,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.319353743744391e-05,
+      "timestamp": "2025-06-04 21:16"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.640607700636267e-05,
+      "timestamp": "2025-06-04 21:16"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.014285803743958e-06,
+      "timestamp": "2025-06-04 21:16"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0613840338127686e-05,
+      "timestamp": "2025-06-04 21:16"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014771899306589785,
+      "timestamp": "2025-06-04 21:16"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033442972025056624,
+      "timestamp": "2025-06-04 21:16"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-04 21:16"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02491175549318357,
+      "timestamp": "2025-06-04 21:16"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1351184800702637e-10,
+      "timestamp": "2025-06-04 21:16"
+    },
+    {
+      "rank": 12,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.805934282432745e-06,
+      "timestamp": "2025-06-04 21:16"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.732817101147932e-06,
+      "timestamp": "2025-06-04 21:16"
+    },
+    {
+      "rank": 14,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00019305082190088416,
+      "timestamp": "2025-06-04 21:16"
+    },
+    {
+      "rank": 15,
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "price_btc": 9.652716958917942e-05,
+      "timestamp": "2025-06-04 21:16"
+    }
   ]
 }
