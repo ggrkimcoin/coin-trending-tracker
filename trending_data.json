@@ -124439,5 +124439,112 @@
       "price_btc": 1.6123795652413005e-06,
       "timestamp": "2025-06-04 13:34"
     }
+  ],
+  "2025-06-04 14:17": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-04 14:17"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001494143254107675,
+      "timestamp": "2025-06-04 14:17"
+    },
+    {
+      "rank": 3,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3697897977506014e-11,
+      "timestamp": "2025-06-04 14:17"
+    },
+    {
+      "rank": 4,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.293504865600977e-08,
+      "timestamp": "2025-06-04 14:17"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003496463358543346,
+      "timestamp": "2025-06-04 14:17"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0329088689548058e-05,
+      "timestamp": "2025-06-04 14:17"
+    },
+    {
+      "rank": 7,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1428767071008656e-05,
+      "timestamp": "2025-06-04 14:17"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025044951340135135,
+      "timestamp": "2025-06-04 14:17"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7951158839147413e-05,
+      "timestamp": "2025-06-04 14:17"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.245389149440601e-06,
+      "timestamp": "2025-06-04 14:17"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.945121748883465e-08,
+      "timestamp": "2025-06-04 14:17"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1788619665300744e-10,
+      "timestamp": "2025-06-04 14:17"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.878295890365016e-06,
+      "timestamp": "2025-06-04 14:17"
+    },
+    {
+      "rank": 14,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0025802651293574718,
+      "timestamp": "2025-06-04 14:17"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.378896790724227e-05,
+      "timestamp": "2025-06-04 14:17"
+    }
   ]
 }
