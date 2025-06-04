@@ -123369,5 +123369,112 @@
       "price_btc": 6.181904553561514e-06,
       "timestamp": "2025-06-04 03:16"
     }
+  ],
+  "2025-06-04 04:28": [
+    {
+      "rank": 1,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 1.1186174488568547e-06,
+      "timestamp": "2025-06-04 04:28"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034555165767553245,
+      "timestamp": "2025-06-04 04:28"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02491807072466281,
+      "timestamp": "2025-06-04 04:28"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8451767361535436e-05,
+      "timestamp": "2025-06-04 04:28"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0121058506918796e-05,
+      "timestamp": "2025-06-04 04:28"
+    },
+    {
+      "rank": 6,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.275398877295621e-06,
+      "timestamp": "2025-06-04 04:28"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037508391980451087,
+      "timestamp": "2025-06-04 04:28"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.046383825548204e-05,
+      "timestamp": "2025-06-04 04:28"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1768413589809376e-10,
+      "timestamp": "2025-06-04 04:28"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-04 04:28"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00010594918882242174,
+      "timestamp": "2025-06-04 04:28"
+    },
+    {
+      "rank": 12,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.190179079111336e-06,
+      "timestamp": "2025-06-04 04:28"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.928722324231853e-06,
+      "timestamp": "2025-06-04 04:28"
+    },
+    {
+      "rank": 14,
+      "name": "Magic Eden",
+      "symbol": "ME",
+      "price_btc": 9.857217486429889e-06,
+      "timestamp": "2025-06-04 04:28"
+    },
+    {
+      "rank": 15,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.133880179686657e-05,
+      "timestamp": "2025-06-04 04:28"
+    }
   ]
 }
