@@ -125295,5 +125295,112 @@
       "price_btc": 9.652716958917942e-05,
       "timestamp": "2025-06-04 21:16"
     }
+  ],
+  "2025-06-04 22:18": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.3902480265195729e-08,
+      "timestamp": "2025-06-04 22:18"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033773836716600276,
+      "timestamp": "2025-06-04 22:18"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.220336187177765e-06,
+      "timestamp": "2025-06-04 22:18"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6777387650344955e-05,
+      "timestamp": "2025-06-04 22:18"
+    },
+    {
+      "rank": 5,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0051938946738986e-05,
+      "timestamp": "2025-06-04 22:18"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.052949794685182e-05,
+      "timestamp": "2025-06-04 22:18"
+    },
+    {
+      "rank": 7,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0901674806311401e-05,
+      "timestamp": "2025-06-04 22:18"
+    },
+    {
+      "rank": 8,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.044339135720699e-06,
+      "timestamp": "2025-06-04 22:18"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036191048944103233,
+      "timestamp": "2025-06-04 22:18"
+    },
+    {
+      "rank": 10,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4044012962274866e-11,
+      "timestamp": "2025-06-04 22:18"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014761782973436869,
+      "timestamp": "2025-06-04 22:18"
+    },
+    {
+      "rank": 12,
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "price_btc": 0.00010091483486861031,
+      "timestamp": "2025-06-04 22:18"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.7359573918449844e-06,
+      "timestamp": "2025-06-04 22:18"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.946841452533543e-06,
+      "timestamp": "2025-06-04 22:18"
+    },
+    {
+      "rank": 15,
+      "name": "Build On BNB",
+      "symbol": "BOB",
+      "price_btc": 1.0974616705772933e-12,
+      "timestamp": "2025-06-04 22:18"
+    }
   ]
 }
