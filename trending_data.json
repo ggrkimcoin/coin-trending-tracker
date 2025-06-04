@@ -124225,5 +124225,112 @@
       "price_btc": 9.98480797881735e-06,
       "timestamp": "2025-06-04 11:18"
     }
+  ],
+  "2025-06-04 12:43": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-04 12:43"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014847299414242193,
+      "timestamp": "2025-06-04 12:43"
+    },
+    {
+      "rank": 3,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.23546403996629e-07,
+      "timestamp": "2025-06-04 12:43"
+    },
+    {
+      "rank": 4,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4128923834619082e-11,
+      "timestamp": "2025-06-04 12:43"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025035436058559155,
+      "timestamp": "2025-06-04 12:43"
+    },
+    {
+      "rank": 6,
+      "name": "Railgun",
+      "symbol": "RAIL",
+      "price_btc": 8.276628568575873e-06,
+      "timestamp": "2025-06-04 12:43"
+    },
+    {
+      "rank": 7,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.2724592704257754e-08,
+      "timestamp": "2025-06-04 12:43"
+    },
+    {
+      "rank": 8,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.8110834547310806e-06,
+      "timestamp": "2025-06-04 12:43"
+    },
+    {
+      "rank": 9,
+      "name": "Build On BNB",
+      "symbol": "BOB",
+      "price_btc": 9.728883948627152e-13,
+      "timestamp": "2025-06-04 12:43"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0804906058084136e-05,
+      "timestamp": "2025-06-04 12:43"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0886239345529562e-05,
+      "timestamp": "2025-06-04 12:43"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003495489846136306,
+      "timestamp": "2025-06-04 12:43"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.960597548400208e-06,
+      "timestamp": "2025-06-04 12:43"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0388420767726218e-05,
+      "timestamp": "2025-06-04 12:43"
+    },
+    {
+      "rank": 15,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 3.924649234238369e-05,
+      "timestamp": "2025-06-04 12:43"
+    }
   ]
 }
