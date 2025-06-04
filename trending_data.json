@@ -123155,5 +123155,112 @@
       "price_btc": 4.006468012534655e-06,
       "timestamp": "2025-06-03 23:19"
     }
+  ],
+  "2025-06-04 01:46": [
+    {
+      "rank": 1,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0317071099816667e-05,
+      "timestamp": "2025-06-04 01:46"
+    },
+    {
+      "rank": 2,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 5.0189066416517396e-08,
+      "timestamp": "2025-06-04 01:46"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034758412951435276,
+      "timestamp": "2025-06-04 01:46"
+    },
+    {
+      "rank": 4,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.480914923871594e-07,
+      "timestamp": "2025-06-04 01:46"
+    },
+    {
+      "rank": 5,
+      "name": "Magic Eden",
+      "symbol": "ME",
+      "price_btc": 1.0617888476213088e-05,
+      "timestamp": "2025-06-04 01:46"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.932148169004963e-06,
+      "timestamp": "2025-06-04 01:46"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8707047125730004e-05,
+      "timestamp": "2025-06-04 01:46"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-04 01:46"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024724978052696557,
+      "timestamp": "2025-06-04 01:46"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003721529924876228,
+      "timestamp": "2025-06-04 01:46"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.100512357039224e-05,
+      "timestamp": "2025-06-04 01:46"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0420253395314489e-05,
+      "timestamp": "2025-06-04 01:46"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1342757486446987e-05,
+      "timestamp": "2025-06-04 01:46"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.149432692047768e-06,
+      "timestamp": "2025-06-04 01:46"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.107969626125595e-06,
+      "timestamp": "2025-06-04 01:46"
+    }
   ]
 }
