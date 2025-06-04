@@ -123690,5 +123690,112 @@
       "price_btc": 0.0014887167138058904,
       "timestamp": "2025-06-04 06:30"
     }
+  ],
+  "2025-06-04 07:20": [
+    {
+      "rank": 1,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 1.0061468194251484e-06,
+      "timestamp": "2025-06-04 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034883385635489964,
+      "timestamp": "2025-06-04 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0529643148159228e-05,
+      "timestamp": "2025-06-04 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02496820446538997,
+      "timestamp": "2025-06-04 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00010636919290987233,
+      "timestamp": "2025-06-04 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0882304028990866e-05,
+      "timestamp": "2025-06-04 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0078197441001126e-05,
+      "timestamp": "2025-06-04 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.4280305219092356e-08,
+      "timestamp": "2025-06-04 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-04 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8340532868840985e-05,
+      "timestamp": "2025-06-04 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.176957651140554e-06,
+      "timestamp": "2025-06-04 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014853292359074252,
+      "timestamp": "2025-06-04 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.179279391256833e-10,
+      "timestamp": "2025-06-04 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "Magic Eden",
+      "symbol": "ME",
+      "price_btc": 9.710634667099498e-06,
+      "timestamp": "2025-06-04 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1359949515948988e-05,
+      "timestamp": "2025-06-04 07:20"
+    }
   ]
 }
