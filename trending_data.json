@@ -123583,5 +123583,112 @@
       "price_btc": 0.0010934136626225223,
       "timestamp": "2025-06-04 05:20"
     }
+  ],
+  "2025-06-04 06:30": [
+    {
+      "rank": 1,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 1.0436957526842405e-06,
+      "timestamp": "2025-06-04 06:30"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003466832198682162,
+      "timestamp": "2025-06-04 06:30"
+    },
+    {
+      "rank": 3,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 0.00010604308439717732,
+      "timestamp": "2025-06-04 06:30"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.088623210741842e-05,
+      "timestamp": "2025-06-04 06:30"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02493745799887886,
+      "timestamp": "2025-06-04 06:30"
+    },
+    {
+      "rank": 6,
+      "name": "Magic Eden",
+      "symbol": "ME",
+      "price_btc": 9.853208823447351e-06,
+      "timestamp": "2025-06-04 06:30"
+    },
+    {
+      "rank": 7,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.2508550062303627e-05,
+      "timestamp": "2025-06-04 06:30"
+    },
+    {
+      "rank": 8,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.527221604948065e-08,
+      "timestamp": "2025-06-04 06:30"
+    },
+    {
+      "rank": 9,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.8724178431507886e-06,
+      "timestamp": "2025-06-04 06:30"
+    },
+    {
+      "rank": 10,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002513093399360305,
+      "timestamp": "2025-06-04 06:30"
+    },
+    {
+      "rank": 11,
+      "name": "MinoTari",
+      "symbol": "XTM",
+      "price_btc": 4.6135088612674813e-07,
+      "timestamp": "2025-06-04 06:30"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.178985710091423e-10,
+      "timestamp": "2025-06-04 06:30"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.836894467319074e-05,
+      "timestamp": "2025-06-04 06:30"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.003080077879827e-05,
+      "timestamp": "2025-06-04 06:30"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014887167138058904,
+      "timestamp": "2025-06-04 06:30"
+    }
   ]
 }
