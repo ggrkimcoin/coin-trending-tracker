@@ -125081,5 +125081,112 @@
       "price_btc": 1.2787142433344233e-06,
       "timestamp": "2025-06-04 19:17"
     }
+  ],
+  "2025-06-04 20:18": [
+    {
+      "rank": 1,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4079305854440898e-11,
+      "timestamp": "2025-06-04 20:18"
+    },
+    {
+      "rank": 2,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.3559312804604504e-05,
+      "timestamp": "2025-06-04 20:18"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014825606573206378,
+      "timestamp": "2025-06-04 20:18"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034370708310243374,
+      "timestamp": "2025-06-04 20:18"
+    },
+    {
+      "rank": 5,
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "price_btc": 9.502552220254669e-05,
+      "timestamp": "2025-06-04 20:18"
+    },
+    {
+      "rank": 6,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.4390599593597441e-08,
+      "timestamp": "2025-06-04 20:18"
+    },
+    {
+      "rank": 7,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0984637816065898e-05,
+      "timestamp": "2025-06-04 20:18"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.523787908286804e-06,
+      "timestamp": "2025-06-04 20:18"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.694703045935213e-05,
+      "timestamp": "2025-06-04 20:18"
+    },
+    {
+      "rank": 10,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.5067904774315216e-06,
+      "timestamp": "2025-06-04 20:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02504142023034098,
+      "timestamp": "2025-06-04 20:18"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.064194765996021e-05,
+      "timestamp": "2025-06-04 20:18"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.987818309461708e-06,
+      "timestamp": "2025-06-04 20:18"
+    },
+    {
+      "rank": 14,
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "price_btc": 3.4325425447435746e-06,
+      "timestamp": "2025-06-04 20:18"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1630859010030104e-10,
+      "timestamp": "2025-06-04 20:18"
+    }
   ]
 }
