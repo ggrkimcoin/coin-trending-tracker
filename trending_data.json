@@ -124118,5 +124118,112 @@
       "price_btc": 3.854399915227909e-06,
       "timestamp": "2025-06-04 10:23"
     }
+  ],
+  "2025-06-04 11:18": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-04 11:18"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001481451499480944,
+      "timestamp": "2025-06-04 11:18"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024940118600170615,
+      "timestamp": "2025-06-04 11:18"
+    },
+    {
+      "rank": 4,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3890144206072878e-11,
+      "timestamp": "2025-06-04 11:18"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000346226947203928,
+      "timestamp": "2025-06-04 11:18"
+    },
+    {
+      "rank": 6,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 3.284035655169048e-07,
+      "timestamp": "2025-06-04 11:18"
+    },
+    {
+      "rank": 7,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 9.028907973537566e-07,
+      "timestamp": "2025-06-04 11:18"
+    },
+    {
+      "rank": 8,
+      "name": "Railgun",
+      "symbol": "RAIL",
+      "price_btc": 8.156426467544055e-06,
+      "timestamp": "2025-06-04 11:18"
+    },
+    {
+      "rank": 9,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.382404869416963e-07,
+      "timestamp": "2025-06-04 11:18"
+    },
+    {
+      "rank": 10,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1117182606978779e-05,
+      "timestamp": "2025-06-04 11:18"
+    },
+    {
+      "rank": 11,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.2684030423152401e-08,
+      "timestamp": "2025-06-04 11:18"
+    },
+    {
+      "rank": 12,
+      "name": "Build On BNB",
+      "symbol": "BOB",
+      "price_btc": 9.94222424225376e-13,
+      "timestamp": "2025-06-04 11:18"
+    },
+    {
+      "rank": 13,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.094082523056731e-05,
+      "timestamp": "2025-06-04 11:18"
+    },
+    {
+      "rank": 14,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.1524408430395128e-06,
+      "timestamp": "2025-06-04 11:18"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.98480797881735e-06,
+      "timestamp": "2025-06-04 11:18"
+    }
   ]
 }
