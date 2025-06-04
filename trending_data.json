@@ -124867,5 +124867,112 @@
       "price_btc": 6.078487928788237e-05,
       "timestamp": "2025-06-04 17:19"
     }
+  ],
+  "2025-06-04 18:29": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.2876581133697509e-08,
+      "timestamp": "2025-06-04 18:29"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.441090220497666e-11,
+      "timestamp": "2025-06-04 18:29"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035108907414876234,
+      "timestamp": "2025-06-04 18:29"
+    },
+    {
+      "rank": 4,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1395313086311158e-05,
+      "timestamp": "2025-06-04 18:29"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.738539680597353e-05,
+      "timestamp": "2025-06-04 18:29"
+    },
+    {
+      "rank": 6,
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "price_btc": 9.652474424310593e-05,
+      "timestamp": "2025-06-04 18:29"
+    },
+    {
+      "rank": 7,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.6009093022728463e-06,
+      "timestamp": "2025-06-04 18:29"
+    },
+    {
+      "rank": 8,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.178543606957244e-06,
+      "timestamp": "2025-06-04 18:29"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025079301188707832,
+      "timestamp": "2025-06-04 18:29"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.53020767048678e-06,
+      "timestamp": "2025-06-04 18:29"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00369979918270311,
+      "timestamp": "2025-06-04 18:29"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.200131714974655e-06,
+      "timestamp": "2025-06-04 18:29"
+    },
+    {
+      "rank": 13,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.3210390546439e-07,
+      "timestamp": "2025-06-04 18:29"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.003521181457876e-06,
+      "timestamp": "2025-06-04 18:29"
+    },
+    {
+      "rank": 15,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.8723343757978826e-05,
+      "timestamp": "2025-06-04 18:29"
+    }
   ]
 }
