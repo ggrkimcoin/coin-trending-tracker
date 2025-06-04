@@ -124653,5 +124653,112 @@
       "price_btc": 1.180869039912434e-10,
       "timestamp": "2025-06-04 15:43"
     }
+  ],
+  "2025-06-04 16:22": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.2698970289577723e-08,
+      "timestamp": "2025-06-04 16:22"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3682386321764099e-11,
+      "timestamp": "2025-06-04 16:22"
+    },
+    {
+      "rank": 3,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.9698965073638834e-08,
+      "timestamp": "2025-06-04 16:22"
+    },
+    {
+      "rank": 4,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1293779748854334e-05,
+      "timestamp": "2025-06-04 16:22"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-04 16:22"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0102856314525557e-05,
+      "timestamp": "2025-06-04 16:22"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.791236865239979e-05,
+      "timestamp": "2025-06-04 16:22"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.058496424859976e-06,
+      "timestamp": "2025-06-04 16:22"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014946830332852054,
+      "timestamp": "2025-06-04 16:22"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0019194563395636e-05,
+      "timestamp": "2025-06-04 16:22"
+    },
+    {
+      "rank": 11,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.433572261051829e-07,
+      "timestamp": "2025-06-04 16:22"
+    },
+    {
+      "rank": 12,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.653177397065391e-05,
+      "timestamp": "2025-06-04 16:22"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003500787274919812,
+      "timestamp": "2025-06-04 16:22"
+    },
+    {
+      "rank": 14,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.8338081277085264e-05,
+      "timestamp": "2025-06-04 16:22"
+    },
+    {
+      "rank": 15,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2684942758392137e-06,
+      "timestamp": "2025-06-04 16:22"
+    }
   ]
 }
