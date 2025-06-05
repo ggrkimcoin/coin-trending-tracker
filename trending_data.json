@@ -126044,5 +126044,112 @@
       "price_btc": 2.6095410933403345e-06,
       "timestamp": "2025-06-05 06:31"
     }
+  ],
+  "2025-06-05 07:20": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0413229435429028e-05,
+      "timestamp": "2025-06-05 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0950952310203542e-05,
+      "timestamp": "2025-06-05 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.3813291132257089e-05,
+      "timestamp": "2025-06-05 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.31833987072711e-08,
+      "timestamp": "2025-06-05 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.390415878616278e-06,
+      "timestamp": "2025-06-05 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.091465224375573e-05,
+      "timestamp": "2025-06-05 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "Ravencoin",
+      "symbol": "RVN",
+      "price_btc": 1.0345920587662541e-07,
+      "timestamp": "2025-06-05 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024942500225969003,
+      "timestamp": "2025-06-05 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-05 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033089553675448954,
+      "timestamp": "2025-06-05 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7153924134812972e-05,
+      "timestamp": "2025-06-05 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.3702627334319242e-05,
+      "timestamp": "2025-06-05 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.860381735614406e-06,
+      "timestamp": "2025-06-05 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036246463237751187,
+      "timestamp": "2025-06-05 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014560091859550752,
+      "timestamp": "2025-06-05 07:20"
+    }
   ]
 }
