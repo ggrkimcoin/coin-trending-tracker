@@ -127435,5 +127435,112 @@
       "price_btc": 1.7171295073796658e-06,
       "timestamp": "2025-06-05 20:18"
     }
+  ],
+  "2025-06-05 21:19": [
+    {
+      "rank": 1,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.6298970543102186e-08,
+      "timestamp": "2025-06-05 21:19"
+    },
+    {
+      "rank": 2,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.0024714721493474374,
+      "timestamp": "2025-06-05 21:19"
+    },
+    {
+      "rank": 3,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 4.7128353599028325e-07,
+      "timestamp": "2025-06-05 21:19"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.948757531170295e-06,
+      "timestamp": "2025-06-05 21:19"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.8828826122347128e-05,
+      "timestamp": "2025-06-05 21:19"
+    },
+    {
+      "rank": 6,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.469634071797448e-05,
+      "timestamp": "2025-06-05 21:19"
+    },
+    {
+      "rank": 7,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.1721619321614965e-06,
+      "timestamp": "2025-06-05 21:19"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-05 21:19"
+    },
+    {
+      "rank": 9,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0420799694036402e-05,
+      "timestamp": "2025-06-05 21:19"
+    },
+    {
+      "rank": 10,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.2839351631988448e-05,
+      "timestamp": "2025-06-05 21:19"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003257916443971519,
+      "timestamp": "2025-06-05 21:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023960053768592567,
+      "timestamp": "2025-06-05 21:19"
+    },
+    {
+      "rank": 13,
+      "name": "Ravencoin",
+      "symbol": "RVN",
+      "price_btc": 1.7155448913075081e-07,
+      "timestamp": "2025-06-05 21:19"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6180314434757102e-05,
+      "timestamp": "2025-06-05 21:19"
+    },
+    {
+      "rank": 15,
+      "name": "SQD",
+      "symbol": "SQD",
+      "price_btc": 2.0760562623063547e-06,
+      "timestamp": "2025-06-05 21:19"
+    }
   ]
 }
