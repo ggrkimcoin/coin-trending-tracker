@@ -125723,5 +125723,112 @@
       "price_btc": 1.7349998428437613e-05,
       "timestamp": "2025-06-05 03:16"
     }
+  ],
+  "2025-06-05 04:28": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0353585025536237e-05,
+      "timestamp": "2025-06-05 04:28"
+    },
+    {
+      "rank": 2,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.909127189619415e-06,
+      "timestamp": "2025-06-05 04:28"
+    },
+    {
+      "rank": 3,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0982130065978943e-05,
+      "timestamp": "2025-06-05 04:28"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036219327899535275,
+      "timestamp": "2025-06-05 04:28"
+    },
+    {
+      "rank": 5,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.497947273963129e-05,
+      "timestamp": "2025-06-05 04:28"
+    },
+    {
+      "rank": 6,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.2958511407476704e-08,
+      "timestamp": "2025-06-05 04:28"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.841670629005416e-06,
+      "timestamp": "2025-06-05 04:28"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1117094745775258e-05,
+      "timestamp": "2025-06-05 04:28"
+    },
+    {
+      "rank": 9,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0418945704779618e-05,
+      "timestamp": "2025-06-05 04:28"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033820423153342973,
+      "timestamp": "2025-06-05 04:28"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7293643240819498e-05,
+      "timestamp": "2025-06-05 04:28"
+    },
+    {
+      "rank": 12,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0025210614557832954,
+      "timestamp": "2025-06-05 04:28"
+    },
+    {
+      "rank": 13,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.62007381516994e-06,
+      "timestamp": "2025-06-05 04:28"
+    },
+    {
+      "rank": 14,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.5182138758448916e-08,
+      "timestamp": "2025-06-05 04:28"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.3345318393531898e-05,
+      "timestamp": "2025-06-05 04:28"
+    }
   ]
 }
