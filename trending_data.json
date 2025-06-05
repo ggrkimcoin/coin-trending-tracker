@@ -126793,5 +126793,112 @@
       "price_btc": 9.84857326639326e-06,
       "timestamp": "2025-06-05 13:32"
     }
+  ],
+  "2025-06-05 14:20": [
+    {
+      "rank": 1,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.002445895585131984,
+      "timestamp": "2025-06-05 14:20"
+    },
+    {
+      "rank": 2,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 4.0412582570972065e-07,
+      "timestamp": "2025-06-05 14:20"
+    },
+    {
+      "rank": 3,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.3315189616474591e-05,
+      "timestamp": "2025-06-05 14:20"
+    },
+    {
+      "rank": 4,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1143457965511525e-05,
+      "timestamp": "2025-06-05 14:20"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033613483170541627,
+      "timestamp": "2025-06-05 14:20"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.662338164268872e-05,
+      "timestamp": "2025-06-05 14:20"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02494071445664807,
+      "timestamp": "2025-06-05 14:20"
+    },
+    {
+      "rank": 8,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.736316566049778e-06,
+      "timestamp": "2025-06-05 14:20"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0140184619076502e-05,
+      "timestamp": "2025-06-05 14:20"
+    },
+    {
+      "rank": 10,
+      "name": "Ravencoin",
+      "symbol": "RVN",
+      "price_btc": 1.523105003506155e-07,
+      "timestamp": "2025-06-05 14:20"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.7284265850752876e-06,
+      "timestamp": "2025-06-05 14:20"
+    },
+    {
+      "rank": 12,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.80307901195617e-06,
+      "timestamp": "2025-06-05 14:20"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-05 14:20"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1199722718447562e-10,
+      "timestamp": "2025-06-05 14:20"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.9045010733272e-06,
+      "timestamp": "2025-06-05 14:20"
+    }
   ]
 }
