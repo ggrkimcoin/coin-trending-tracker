@@ -127221,5 +127221,112 @@
       "price_btc": 1.767732184767883e-05,
       "timestamp": "2025-06-05 17:15"
     }
+  ],
+  "2025-06-05 19:14": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 4.7571651580559476e-07,
+      "timestamp": "2025-06-05 19:14"
+    },
+    {
+      "rank": 2,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.0024568760701523867,
+      "timestamp": "2025-06-05 19:14"
+    },
+    {
+      "rank": 3,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.6167955294665115e-08,
+      "timestamp": "2025-06-05 19:14"
+    },
+    {
+      "rank": 4,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2390736571903223e-06,
+      "timestamp": "2025-06-05 19:14"
+    },
+    {
+      "rank": 5,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.2627425790497685e-05,
+      "timestamp": "2025-06-05 19:14"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.26001828095492e-06,
+      "timestamp": "2025-06-05 19:14"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.9790394945139294e-05,
+      "timestamp": "2025-06-05 19:14"
+    },
+    {
+      "rank": 8,
+      "name": "Cudis",
+      "symbol": "CUDIS",
+      "price_btc": 1.2717636169526677e-06,
+      "timestamp": "2025-06-05 19:14"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003296434936538247,
+      "timestamp": "2025-06-05 19:14"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003543455250434914,
+      "timestamp": "2025-06-05 19:14"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0971936471548496e-05,
+      "timestamp": "2025-06-05 19:14"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.788717395329803e-05,
+      "timestamp": "2025-06-05 19:14"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-05 19:14"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02500300295006544,
+      "timestamp": "2025-06-05 19:14"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6433695611345513e-05,
+      "timestamp": "2025-06-05 19:14"
+    }
   ]
 }
