@@ -127007,5 +127007,112 @@
       "price_btc": 0.002491230214305496,
       "timestamp": "2025-06-05 15:22"
     }
+  ],
+  "2025-06-05 16:27": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 4.970640274293829e-07,
+      "timestamp": "2025-06-05 16:27"
+    },
+    {
+      "rank": 2,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.0024640215661130165,
+      "timestamp": "2025-06-05 16:27"
+    },
+    {
+      "rank": 3,
+      "name": "The Arena",
+      "symbol": "ARENA",
+      "price_btc": 1.0743778863976321e-07,
+      "timestamp": "2025-06-05 16:27"
+    },
+    {
+      "rank": 4,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2357843822809392e-06,
+      "timestamp": "2025-06-05 16:27"
+    },
+    {
+      "rank": 5,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.2731623563236052e-05,
+      "timestamp": "2025-06-05 16:27"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024823574160539347,
+      "timestamp": "2025-06-05 16:27"
+    },
+    {
+      "rank": 7,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.7686776655548128e-05,
+      "timestamp": "2025-06-05 16:27"
+    },
+    {
+      "rank": 8,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.968070870785087e-06,
+      "timestamp": "2025-06-05 16:27"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033406740731817784,
+      "timestamp": "2025-06-05 16:27"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6662525121498938e-05,
+      "timestamp": "2025-06-05 16:27"
+    },
+    {
+      "rank": 11,
+      "name": "Ravencoin",
+      "symbol": "RVN",
+      "price_btc": 1.537538909787931e-07,
+      "timestamp": "2025-06-05 16:27"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014453335258961294,
+      "timestamp": "2025-06-05 16:27"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.148407576390106e-06,
+      "timestamp": "2025-06-05 16:27"
+    },
+    {
+      "rank": 14,
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "price_btc": 4.871783657416699e-05,
+      "timestamp": "2025-06-05 16:27"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035690869728900758,
+      "timestamp": "2025-06-05 16:27"
+    }
   ]
 }
