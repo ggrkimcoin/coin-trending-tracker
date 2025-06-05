@@ -127114,5 +127114,112 @@
       "price_btc": 0.0035690869728900758,
       "timestamp": "2025-06-05 16:27"
     }
+  ],
+  "2025-06-05 17:15": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 5.043935372285742e-07,
+      "timestamp": "2025-06-05 17:15"
+    },
+    {
+      "rank": 2,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.002455849405302682,
+      "timestamp": "2025-06-05 17:15"
+    },
+    {
+      "rank": 3,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2300673664048998e-06,
+      "timestamp": "2025-06-05 17:15"
+    },
+    {
+      "rank": 4,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.2537105398139234e-05,
+      "timestamp": "2025-06-05 17:15"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003274238411775158,
+      "timestamp": "2025-06-05 17:15"
+    },
+    {
+      "rank": 6,
+      "name": "Cudis",
+      "symbol": "CUDIS",
+      "price_btc": 1.2447701427336851e-06,
+      "timestamp": "2025-06-05 17:15"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024762965517885628,
+      "timestamp": "2025-06-05 17:15"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.983611610491646e-05,
+      "timestamp": "2025-06-05 17:15"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014395810551192725,
+      "timestamp": "2025-06-05 17:15"
+    },
+    {
+      "rank": 10,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.942770172342858e-06,
+      "timestamp": "2025-06-05 17:15"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.01587424448771e-06,
+      "timestamp": "2025-06-05 17:15"
+    },
+    {
+      "rank": 12,
+      "name": "Ravencoin",
+      "symbol": "RVN",
+      "price_btc": 1.5372419505671312e-07,
+      "timestamp": "2025-06-05 17:15"
+    },
+    {
+      "rank": 13,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.36070610693199e-06,
+      "timestamp": "2025-06-05 17:15"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003560109751537937,
+      "timestamp": "2025-06-05 17:15"
+    },
+    {
+      "rank": 15,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.767732184767883e-05,
+      "timestamp": "2025-06-05 17:15"
+    }
   ]
 }
