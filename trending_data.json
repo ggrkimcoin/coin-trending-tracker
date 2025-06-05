@@ -125616,5 +125616,112 @@
       "price_btc": 0.00146523460416826,
       "timestamp": "2025-06-05 01:45"
     }
+  ],
+  "2025-06-05 03:16": [
+    {
+      "rank": 1,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.5342782483122494e-08,
+      "timestamp": "2025-06-05 03:16"
+    },
+    {
+      "rank": 2,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0877497419976263e-05,
+      "timestamp": "2025-06-05 03:16"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0440762146344062e-05,
+      "timestamp": "2025-06-05 03:16"
+    },
+    {
+      "rank": 4,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.3590217094863469e-08,
+      "timestamp": "2025-06-05 03:16"
+    },
+    {
+      "rank": 5,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0948233402341968e-05,
+      "timestamp": "2025-06-05 03:16"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033900416220794966,
+      "timestamp": "2025-06-05 03:16"
+    },
+    {
+      "rank": 7,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.3410302386252225e-05,
+      "timestamp": "2025-06-05 03:16"
+    },
+    {
+      "rank": 8,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.659226723397966e-06,
+      "timestamp": "2025-06-05 03:16"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.765272211806793e-06,
+      "timestamp": "2025-06-05 03:16"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1026801612191165e-05,
+      "timestamp": "2025-06-05 03:16"
+    },
+    {
+      "rank": 11,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.5050964931226822e-06,
+      "timestamp": "2025-06-05 03:16"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.188059917653531e-06,
+      "timestamp": "2025-06-05 03:16"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.0305741875888297e-06,
+      "timestamp": "2025-06-05 03:16"
+    },
+    {
+      "rank": 14,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.266668582950975e-06,
+      "timestamp": "2025-06-05 03:16"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7349998428437613e-05,
+      "timestamp": "2025-06-05 03:16"
+    }
   ]
 }
