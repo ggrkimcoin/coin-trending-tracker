@@ -125509,5 +125509,112 @@
       "price_btc": 1.1327336972847749e-10,
       "timestamp": "2025-06-04 23:19"
     }
+  ],
+  "2025-06-05 01:45": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.4066249646859896e-08,
+      "timestamp": "2025-06-05 01:45"
+    },
+    {
+      "rank": 2,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.8779531499709127e-05,
+      "timestamp": "2025-06-05 01:45"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.714464974927476e-05,
+      "timestamp": "2025-06-05 01:45"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003451910740315329,
+      "timestamp": "2025-06-05 01:45"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.931988832493756e-06,
+      "timestamp": "2025-06-05 01:45"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0859789908157483e-05,
+      "timestamp": "2025-06-05 01:45"
+    },
+    {
+      "rank": 7,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.6931246381446303e-08,
+      "timestamp": "2025-06-05 01:45"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.023312499199087e-05,
+      "timestamp": "2025-06-05 01:45"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.163267535597719e-06,
+      "timestamp": "2025-06-05 01:45"
+    },
+    {
+      "rank": 10,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.3303392066113137e-05,
+      "timestamp": "2025-06-05 01:45"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003646106294895297,
+      "timestamp": "2025-06-05 01:45"
+    },
+    {
+      "rank": 12,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.3389275703175692e-05,
+      "timestamp": "2025-06-05 01:45"
+    },
+    {
+      "rank": 13,
+      "name": "Collaterize",
+      "symbol": "COLLAT",
+      "price_btc": 4.415271137638376e-07,
+      "timestamp": "2025-06-05 01:45"
+    },
+    {
+      "rank": 14,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 3.744719720438838e-07,
+      "timestamp": "2025-06-05 01:45"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00146523460416826,
+      "timestamp": "2025-06-05 01:45"
+    }
   ]
 }
