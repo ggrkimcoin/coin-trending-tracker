@@ -126151,5 +126151,112 @@
       "price_btc": 0.0014560091859550752,
       "timestamp": "2025-06-05 07:20"
     }
+  ],
+  "2025-06-05 08:28": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0227504559438227e-05,
+      "timestamp": "2025-06-05 08:28"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-05 08:28"
+    },
+    {
+      "rank": 3,
+      "name": "Ravencoin",
+      "symbol": "RVN",
+      "price_btc": 1.8021384855820888e-07,
+      "timestamp": "2025-06-05 08:28"
+    },
+    {
+      "rank": 4,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.184591181940217e-05,
+      "timestamp": "2025-06-05 08:28"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.75483655518599e-06,
+      "timestamp": "2025-06-05 08:28"
+    },
+    {
+      "rank": 6,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.3198259442594961e-08,
+      "timestamp": "2025-06-05 08:28"
+    },
+    {
+      "rank": 7,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024993459308508296,
+      "timestamp": "2025-06-05 08:28"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024918591396307147,
+      "timestamp": "2025-06-05 08:28"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033596050729705853,
+      "timestamp": "2025-06-05 08:28"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036188881111087617,
+      "timestamp": "2025-06-05 08:28"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014601567557549224,
+      "timestamp": "2025-06-05 08:28"
+    },
+    {
+      "rank": 12,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 5.268489062544055e-07,
+      "timestamp": "2025-06-05 08:28"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.006608682132299e-06,
+      "timestamp": "2025-06-05 08:28"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.850560641033783e-06,
+      "timestamp": "2025-06-05 08:28"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 5.180916052759298e-06,
+      "timestamp": "2025-06-05 08:28"
+    }
   ]
 }
