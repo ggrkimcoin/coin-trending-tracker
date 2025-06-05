@@ -126472,5 +126472,112 @@
       "price_btc": 1.1617026738230135e-06,
       "timestamp": "2025-06-05 10:23"
     }
+  ],
+  "2025-06-05 11:18": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-05 11:18"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0016896746564736e-05,
+      "timestamp": "2025-06-05 11:18"
+    },
+    {
+      "rank": 3,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.2908845886810035e-05,
+      "timestamp": "2025-06-05 11:18"
+    },
+    {
+      "rank": 4,
+      "name": "Ravencoin",
+      "symbol": "RVN",
+      "price_btc": 1.594833863913898e-07,
+      "timestamp": "2025-06-05 11:18"
+    },
+    {
+      "rank": 5,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.325735916740226e-08,
+      "timestamp": "2025-06-05 11:18"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033292669613437225,
+      "timestamp": "2025-06-05 11:18"
+    },
+    {
+      "rank": 7,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.324566967330766e-06,
+      "timestamp": "2025-06-05 11:18"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014534224315647464,
+      "timestamp": "2025-06-05 11:18"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.1108806082573305e-06,
+      "timestamp": "2025-06-05 11:18"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.656841339345768e-05,
+      "timestamp": "2025-06-05 11:18"
+    },
+    {
+      "rank": 11,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2231299189022126e-06,
+      "timestamp": "2025-06-05 11:18"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.514706259414336e-06,
+      "timestamp": "2025-06-05 11:18"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1014808089596722e-05,
+      "timestamp": "2025-06-05 11:18"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024784949550790605,
+      "timestamp": "2025-06-05 11:18"
+    },
+    {
+      "rank": 15,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.4688627042315014e-08,
+      "timestamp": "2025-06-05 11:18"
+    }
   ]
 }
