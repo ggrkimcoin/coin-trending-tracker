@@ -126579,5 +126579,112 @@
       "price_btc": 4.4688627042315014e-08,
       "timestamp": "2025-06-05 11:18"
     }
+  ],
+  "2025-06-05 12:42": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0267944169714963e-05,
+      "timestamp": "2025-06-05 12:42"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-05 12:42"
+    },
+    {
+      "rank": 3,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.0024606953565898854,
+      "timestamp": "2025-06-05 12:42"
+    },
+    {
+      "rank": 4,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.3508480682490104e-05,
+      "timestamp": "2025-06-05 12:42"
+    },
+    {
+      "rank": 5,
+      "name": "Cudis",
+      "symbol": "CUDIS",
+      "price_btc": 1.054775097445208e-06,
+      "timestamp": "2025-06-05 12:42"
+    },
+    {
+      "rank": 6,
+      "name": "Ravencoin",
+      "symbol": "RVN",
+      "price_btc": 1.585743741076013e-07,
+      "timestamp": "2025-06-05 12:42"
+    },
+    {
+      "rank": 7,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.3290094082924314e-08,
+      "timestamp": "2025-06-05 12:42"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6769960078918213e-05,
+      "timestamp": "2025-06-05 12:42"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024886541284484455,
+      "timestamp": "2025-06-05 12:42"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003343376308463425,
+      "timestamp": "2025-06-05 12:42"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014537641675954431,
+      "timestamp": "2025-06-05 12:42"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1415106806743664e-05,
+      "timestamp": "2025-06-05 12:42"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1204571542280581e-10,
+      "timestamp": "2025-06-05 12:42"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.766373116498458e-06,
+      "timestamp": "2025-06-05 12:42"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.701952243913157e-06,
+      "timestamp": "2025-06-05 12:42"
+    }
   ]
 }
