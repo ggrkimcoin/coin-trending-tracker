@@ -128398,5 +128398,112 @@
       "price_btc": 1.3199413719909988e-06,
       "timestamp": "2025-06-06 07:19"
     }
+  ],
+  "2025-06-06 08:27": [
+    {
+      "rank": 1,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.4406968290884885e-05,
+      "timestamp": "2025-06-06 08:27"
+    },
+    {
+      "rank": 2,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.633303222445484e-08,
+      "timestamp": "2025-06-06 08:27"
+    },
+    {
+      "rank": 3,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2089047101708602e-06,
+      "timestamp": "2025-06-06 08:27"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033513116880592444,
+      "timestamp": "2025-06-06 08:27"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0169310321141615e-05,
+      "timestamp": "2025-06-06 08:27"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014262259604818526,
+      "timestamp": "2025-06-06 08:27"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.9234732798392603e-05,
+      "timestamp": "2025-06-06 08:27"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02378416722139893,
+      "timestamp": "2025-06-06 08:27"
+    },
+    {
+      "rank": 9,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.2153657294244755e-05,
+      "timestamp": "2025-06-06 08:27"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.963419217502511e-06,
+      "timestamp": "2025-06-06 08:27"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0632896871406882e-05,
+      "timestamp": "2025-06-06 08:27"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.5975029243564512e-06,
+      "timestamp": "2025-06-06 08:27"
+    },
+    {
+      "rank": 13,
+      "name": "Cudis",
+      "symbol": "CUDIS",
+      "price_btc": 1.3562909476973084e-06,
+      "timestamp": "2025-06-06 08:27"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.73621975741718e-06,
+      "timestamp": "2025-06-06 08:27"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-06 08:27"
+    }
   ]
 }
