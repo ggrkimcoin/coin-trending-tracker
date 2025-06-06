@@ -130003,5 +130003,112 @@
       "price_btc": 4.75361457703941e-05,
       "timestamp": "2025-06-06 22:19"
     }
+  ],
+  "2025-06-06 23:19": [
+    {
+      "rank": 1,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.302066291639981e-06,
+      "timestamp": "2025-06-06 23:19"
+    },
+    {
+      "rank": 2,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.002392935565678685,
+      "timestamp": "2025-06-06 23:19"
+    },
+    {
+      "rank": 3,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 4.659879278647241e-07,
+      "timestamp": "2025-06-06 23:19"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-06 23:19"
+    },
+    {
+      "rank": 5,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.074643156637808e-05,
+      "timestamp": "2025-06-06 23:19"
+    },
+    {
+      "rank": 6,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.7169878524883694e-06,
+      "timestamp": "2025-06-06 23:19"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014209119173317077,
+      "timestamp": "2025-06-06 23:19"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02376454232610973,
+      "timestamp": "2025-06-06 23:19"
+    },
+    {
+      "rank": 9,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.0061698508864057875,
+      "timestamp": "2025-06-06 23:19"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.063768851401622e-05,
+      "timestamp": "2025-06-06 23:19"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003186043427831892,
+      "timestamp": "2025-06-06 23:19"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.631384098427728e-05,
+      "timestamp": "2025-06-06 23:19"
+    },
+    {
+      "rank": 13,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.0448906217927713e-05,
+      "timestamp": "2025-06-06 23:19"
+    },
+    {
+      "rank": 14,
+      "name": "Stellar",
+      "symbol": "XLM",
+      "price_btc": 2.52000147963417e-06,
+      "timestamp": "2025-06-06 23:19"
+    },
+    {
+      "rank": 15,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.930649598277425e-08,
+      "timestamp": "2025-06-06 23:19"
+    }
   ]
 }
