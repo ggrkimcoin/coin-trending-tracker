@@ -128077,5 +128077,112 @@
       "price_btc": 6.064208111733396e-06,
       "timestamp": "2025-06-06 04:27"
     }
+  ],
+  "2025-06-06 05:20": [
+    {
+      "rank": 1,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.593346697710721e-08,
+      "timestamp": "2025-06-06 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.9171073682575018e-05,
+      "timestamp": "2025-06-06 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2050617811388e-06,
+      "timestamp": "2025-06-06 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0291525621078895e-05,
+      "timestamp": "2025-06-06 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.4928473001567838e-05,
+      "timestamp": "2025-06-06 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.467808130951987e-05,
+      "timestamp": "2025-06-06 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.7085712584281446e-06,
+      "timestamp": "2025-06-06 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6425864268856307e-05,
+      "timestamp": "2025-06-06 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.077000617110908e-05,
+      "timestamp": "2025-06-06 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.0588881542737658e-10,
+      "timestamp": "2025-06-06 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.772182371770393e-06,
+      "timestamp": "2025-06-06 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "SQD",
+      "symbol": "SQD",
+      "price_btc": 2.0300925879930857e-06,
+      "timestamp": "2025-06-06 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0974308276688604e-05,
+      "timestamp": "2025-06-06 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "GIZA",
+      "symbol": "GIZA",
+      "price_btc": 3.884551245014254e-06,
+      "timestamp": "2025-06-06 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.6134397566847052e-06,
+      "timestamp": "2025-06-06 05:20"
+    }
   ]
 }
