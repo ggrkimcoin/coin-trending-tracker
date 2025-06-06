@@ -127970,5 +127970,112 @@
       "price_btc": 1.1504106052633837e-06,
       "timestamp": "2025-06-06 03:16"
     }
+  ],
+  "2025-06-06 04:27": [
+    {
+      "rank": 1,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.904966067086753e-05,
+      "timestamp": "2025-06-06 04:27"
+    },
+    {
+      "rank": 2,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.60815216048019e-08,
+      "timestamp": "2025-06-06 04:27"
+    },
+    {
+      "rank": 3,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.5334358358820296e-05,
+      "timestamp": "2025-06-06 04:27"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0177528855944078e-05,
+      "timestamp": "2025-06-06 04:27"
+    },
+    {
+      "rank": 5,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.570314174022764e-05,
+      "timestamp": "2025-06-06 04:27"
+    },
+    {
+      "rank": 6,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.1960644107383274e-06,
+      "timestamp": "2025-06-06 04:27"
+    },
+    {
+      "rank": 7,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0722218851040706e-05,
+      "timestamp": "2025-06-06 04:27"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6388629036955716e-05,
+      "timestamp": "2025-06-06 04:27"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.0580669988964598e-10,
+      "timestamp": "2025-06-06 04:27"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.732325129304762e-06,
+      "timestamp": "2025-06-06 04:27"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.8553346435772873e-06,
+      "timestamp": "2025-06-06 04:27"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-06 04:27"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.6173327394060226e-06,
+      "timestamp": "2025-06-06 04:27"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035163283173334373,
+      "timestamp": "2025-06-06 04:27"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.064208111733396e-06,
+      "timestamp": "2025-06-06 04:27"
+    }
   ]
 }
