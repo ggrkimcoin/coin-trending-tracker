@@ -129896,5 +129896,112 @@
       "price_btc": 4.853001200696616e-08,
       "timestamp": "2025-06-06 21:19"
     }
+  ],
+  "2025-06-06 22:19": [
+    {
+      "rank": 1,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.002397633244472211,
+      "timestamp": "2025-06-06 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 4.6733908305366495e-07,
+      "timestamp": "2025-06-06 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-06 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.327035906739423e-06,
+      "timestamp": "2025-06-06 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.721609120665837e-06,
+      "timestamp": "2025-06-06 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.081410013283673e-05,
+      "timestamp": "2025-06-06 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014295203440339908,
+      "timestamp": "2025-06-06 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02388708088897808,
+      "timestamp": "2025-06-06 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.0061748423349948876,
+      "timestamp": "2025-06-06 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.741147572262954e-05,
+      "timestamp": "2025-06-06 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.332728266205285e-06,
+      "timestamp": "2025-06-06 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.615184251019623e-05,
+      "timestamp": "2025-06-06 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Mask Network",
+      "symbol": "MASK",
+      "price_btc": 1.8774598191408256e-05,
+      "timestamp": "2025-06-06 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2111281344573702e-06,
+      "timestamp": "2025-06-06 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "price_btc": 4.75361457703941e-05,
+      "timestamp": "2025-06-06 22:19"
+    }
   ]
 }
