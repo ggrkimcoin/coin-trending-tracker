@@ -128184,5 +128184,112 @@
       "price_btc": 3.6134397566847052e-06,
       "timestamp": "2025-06-06 05:20"
     }
+  ],
+  "2025-06-06 06:31": [
+    {
+      "rank": 1,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.4158976821212997e-05,
+      "timestamp": "2025-06-06 06:31"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-06 06:31"
+    },
+    {
+      "rank": 3,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0109038068909447e-05,
+      "timestamp": "2025-06-06 06:31"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6449161131338596e-05,
+      "timestamp": "2025-06-06 06:31"
+    },
+    {
+      "rank": 5,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.5957306062073992e-08,
+      "timestamp": "2025-06-06 06:31"
+    },
+    {
+      "rank": 6,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2147176008275083e-06,
+      "timestamp": "2025-06-06 06:31"
+    },
+    {
+      "rank": 7,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.079274817997585e-05,
+      "timestamp": "2025-06-06 06:31"
+    },
+    {
+      "rank": 8,
+      "name": "Ravencoin",
+      "symbol": "RVN",
+      "price_btc": 1.436670145299244e-07,
+      "timestamp": "2025-06-06 06:31"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.9175424630182322e-05,
+      "timestamp": "2025-06-06 06:31"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023841786300050207,
+      "timestamp": "2025-06-06 06:31"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014306355652217038,
+      "timestamp": "2025-06-06 06:31"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.412407633299922e-05,
+      "timestamp": "2025-06-06 06:31"
+    },
+    {
+      "rank": 13,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0660103473271638e-05,
+      "timestamp": "2025-06-06 06:31"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.745543095216622e-06,
+      "timestamp": "2025-06-06 06:31"
+    },
+    {
+      "rank": 15,
+      "name": "GIZA",
+      "symbol": "GIZA",
+      "price_btc": 3.832777787393612e-06,
+      "timestamp": "2025-06-06 06:31"
+    }
   ]
 }
