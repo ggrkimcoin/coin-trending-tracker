@@ -129040,5 +129040,112 @@
       "price_btc": 1.4862359486932409e-05,
       "timestamp": "2025-06-06 13:31"
     }
+  ],
+  "2025-06-06 14:20": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 5.967810864279181e-07,
+      "timestamp": "2025-06-06 14:20"
+    },
+    {
+      "rank": 2,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.002440793955375101,
+      "timestamp": "2025-06-06 14:20"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014564535431104064,
+      "timestamp": "2025-06-06 14:20"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035442448579109656,
+      "timestamp": "2025-06-06 14:20"
+    },
+    {
+      "rank": 5,
+      "name": "USDC",
+      "symbol": "USDC",
+      "price_btc": 9.599125764878569e-06,
+      "timestamp": "2025-06-06 14:20"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-06 14:20"
+    },
+    {
+      "rank": 7,
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "price_btc": 6.978015995995571e-06,
+      "timestamp": "2025-06-06 14:20"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024004022322387273,
+      "timestamp": "2025-06-06 14:20"
+    },
+    {
+      "rank": 9,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.615588956262827e-08,
+      "timestamp": "2025-06-06 14:20"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0479263553936878e-05,
+      "timestamp": "2025-06-06 14:20"
+    },
+    {
+      "rank": 11,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2203182378310134e-06,
+      "timestamp": "2025-06-06 14:20"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0036940574842735e-05,
+      "timestamp": "2025-06-06 14:20"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.7591627258122823e-06,
+      "timestamp": "2025-06-06 14:20"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.514592726234987e-05,
+      "timestamp": "2025-06-06 14:20"
+    },
+    {
+      "rank": 15,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.4383997222023671e-05,
+      "timestamp": "2025-06-06 14:20"
+    }
   ]
 }
