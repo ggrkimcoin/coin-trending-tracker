@@ -128505,5 +128505,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-06-06 08:27"
     }
+  ],
+  "2025-06-06 09:22": [
+    {
+      "rank": 1,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.625411583322203e-08,
+      "timestamp": "2025-06-06 09:22"
+    },
+    {
+      "rank": 2,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.0023863488268143513,
+      "timestamp": "2025-06-06 09:22"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003355832161536623,
+      "timestamp": "2025-06-06 09:22"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0094281902669528e-05,
+      "timestamp": "2025-06-06 09:22"
+    },
+    {
+      "rank": 5,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2078827922006286e-06,
+      "timestamp": "2025-06-06 09:22"
+    },
+    {
+      "rank": 6,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.4688895535721362e-05,
+      "timestamp": "2025-06-06 09:22"
+    },
+    {
+      "rank": 7,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.336098466048058e-05,
+      "timestamp": "2025-06-06 09:22"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035466529112329085,
+      "timestamp": "2025-06-06 09:22"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.952380772445914e-06,
+      "timestamp": "2025-06-06 09:22"
+    },
+    {
+      "rank": 10,
+      "name": "GIZA",
+      "symbol": "GIZA",
+      "price_btc": 3.5944406510455895e-06,
+      "timestamp": "2025-06-06 09:22"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0657262053661346e-05,
+      "timestamp": "2025-06-06 09:22"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014281149773859526,
+      "timestamp": "2025-06-06 09:22"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.734909365903909e-06,
+      "timestamp": "2025-06-06 09:22"
+    },
+    {
+      "rank": 14,
+      "name": "Cudis",
+      "symbol": "CUDIS",
+      "price_btc": 1.2694021379268295e-06,
+      "timestamp": "2025-06-06 09:22"
+    },
+    {
+      "rank": 15,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.4639469525022077e-06,
+      "timestamp": "2025-06-06 09:22"
+    }
   ]
 }
