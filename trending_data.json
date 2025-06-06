@@ -129147,5 +129147,112 @@
       "price_btc": 1.4383997222023671e-05,
       "timestamp": "2025-06-06 14:20"
     }
+  ],
+  "2025-06-06 15:19": [
+    {
+      "rank": 1,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.6223284503067638e-08,
+      "timestamp": "2025-06-06 15:19"
+    },
+    {
+      "rank": 2,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.0024220830719170337,
+      "timestamp": "2025-06-06 15:19"
+    },
+    {
+      "rank": 3,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 5.652215073679503e-07,
+      "timestamp": "2025-06-06 15:19"
+    },
+    {
+      "rank": 4,
+      "name": "USDC",
+      "symbol": "USDC",
+      "price_btc": 9.53577925479865e-06,
+      "timestamp": "2025-06-06 15:19"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035538850232665676,
+      "timestamp": "2025-06-06 15:19"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-06 15:19"
+    },
+    {
+      "rank": 7,
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "price_btc": 6.867275849302824e-06,
+      "timestamp": "2025-06-06 15:19"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024023536609706148,
+      "timestamp": "2025-06-06 15:19"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0409899841416552e-05,
+      "timestamp": "2025-06-06 15:19"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014442772730284227,
+      "timestamp": "2025-06-06 15:19"
+    },
+    {
+      "rank": 11,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2202904122119579e-06,
+      "timestamp": "2025-06-06 15:19"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.918526778386737e-06,
+      "timestamp": "2025-06-06 15:19"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.8333062573352145e-06,
+      "timestamp": "2025-06-06 15:19"
+    },
+    {
+      "rank": 14,
+      "name": "Morpho",
+      "symbol": "MORPHO",
+      "price_btc": 1.2679435712781012e-05,
+      "timestamp": "2025-06-06 15:19"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033470242276919317,
+      "timestamp": "2025-06-06 15:19"
+    }
   ]
 }
