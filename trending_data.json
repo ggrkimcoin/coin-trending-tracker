@@ -128612,5 +128612,112 @@
       "price_btc": 1.4639469525022077e-06,
       "timestamp": "2025-06-06 09:22"
     }
+  ],
+  "2025-06-06 10:23": [
+    {
+      "rank": 1,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.0024079094623693856,
+      "timestamp": "2025-06-06 10:23"
+    },
+    {
+      "rank": 2,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 5.059240418150387e-07,
+      "timestamp": "2025-06-06 10:23"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.952510566420663e-05,
+      "timestamp": "2025-06-06 10:23"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014244695305484303,
+      "timestamp": "2025-06-06 10:23"
+    },
+    {
+      "rank": 5,
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "price_btc": 7.09920820354331e-06,
+      "timestamp": "2025-06-06 10:23"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035238165113480467,
+      "timestamp": "2025-06-06 10:23"
+    },
+    {
+      "rank": 7,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.624384831093868e-08,
+      "timestamp": "2025-06-06 10:23"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-06 10:23"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02381888971426745,
+      "timestamp": "2025-06-06 10:23"
+    },
+    {
+      "rank": 10,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2063964405137945e-06,
+      "timestamp": "2025-06-06 10:23"
+    },
+    {
+      "rank": 11,
+      "name": "USDC",
+      "symbol": "USDC",
+      "price_btc": 9.63011973846047e-06,
+      "timestamp": "2025-06-06 10:23"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000334032770544296,
+      "timestamp": "2025-06-06 10:23"
+    },
+    {
+      "rank": 13,
+      "name": "GIZA",
+      "symbol": "GIZA",
+      "price_btc": 3.751551630456138e-06,
+      "timestamp": "2025-06-06 10:23"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0232051825474152e-05,
+      "timestamp": "2025-06-06 10:23"
+    },
+    {
+      "rank": 15,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.456148487747723e-05,
+      "timestamp": "2025-06-06 10:23"
+    }
   ]
 }
