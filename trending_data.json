@@ -127756,5 +127756,112 @@
       "price_btc": 1.0556060141134133e-10,
       "timestamp": "2025-06-05 23:21"
     }
+  ],
+  "2025-06-06 01:44": [
+    {
+      "rank": 1,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.6147973807617286e-08,
+      "timestamp": "2025-06-06 01:44"
+    },
+    {
+      "rank": 2,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 4.4923636867623375e-07,
+      "timestamp": "2025-06-06 01:44"
+    },
+    {
+      "rank": 3,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.203597521424755e-06,
+      "timestamp": "2025-06-06 01:44"
+    },
+    {
+      "rank": 4,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1113924218915163e-05,
+      "timestamp": "2025-06-06 01:44"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.01235272010172e-05,
+      "timestamp": "2025-06-06 01:44"
+    },
+    {
+      "rank": 6,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.6829611725496742e-05,
+      "timestamp": "2025-06-06 01:44"
+    },
+    {
+      "rank": 7,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.4750552126324187e-06,
+      "timestamp": "2025-06-06 01:44"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6025291963377167e-05,
+      "timestamp": "2025-06-06 01:44"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001425053449358681,
+      "timestamp": "2025-06-06 01:44"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035130959741785303,
+      "timestamp": "2025-06-06 01:44"
+    },
+    {
+      "rank": 11,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.6855771231182406e-06,
+      "timestamp": "2025-06-06 01:44"
+    },
+    {
+      "rank": 12,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.8382731554005904e-06,
+      "timestamp": "2025-06-06 01:44"
+    },
+    {
+      "rank": 13,
+      "name": "GIZA",
+      "symbol": "GIZA",
+      "price_btc": 3.6216417838883184e-06,
+      "timestamp": "2025-06-06 01:44"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0596817533340366e-05,
+      "timestamp": "2025-06-06 01:44"
+    },
+    {
+      "rank": 15,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.504415085460431e-06,
+      "timestamp": "2025-06-06 01:44"
+    }
   ]
 }
