@@ -128291,5 +128291,112 @@
       "price_btc": 3.832777787393612e-06,
       "timestamp": "2025-06-06 06:31"
     }
+  ],
+  "2025-06-06 07:19": [
+    {
+      "rank": 1,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.212302500389559e-06,
+      "timestamp": "2025-06-06 07:19"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0050363751490135e-05,
+      "timestamp": "2025-06-06 07:19"
+    },
+    {
+      "rank": 3,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.4609385096274205e-05,
+      "timestamp": "2025-06-06 07:19"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.926957428397542e-05,
+      "timestamp": "2025-06-06 07:19"
+    },
+    {
+      "rank": 5,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.6146487159170035e-08,
+      "timestamp": "2025-06-06 07:19"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003348063056738836,
+      "timestamp": "2025-06-06 07:19"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014271735809475948,
+      "timestamp": "2025-06-06 07:19"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-06 07:19"
+    },
+    {
+      "rank": 9,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.07669485112779e-05,
+      "timestamp": "2025-06-06 07:19"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6379427874396175e-05,
+      "timestamp": "2025-06-06 07:19"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.0740712893890431e-10,
+      "timestamp": "2025-06-06 07:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023829737147406986,
+      "timestamp": "2025-06-06 07:19"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.876907911205219e-06,
+      "timestamp": "2025-06-06 07:19"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.410321210490108e-05,
+      "timestamp": "2025-06-06 07:19"
+    },
+    {
+      "rank": 15,
+      "name": "Cudis",
+      "symbol": "CUDIS",
+      "price_btc": 1.3199413719909988e-06,
+      "timestamp": "2025-06-06 07:19"
+    }
   ]
 }
