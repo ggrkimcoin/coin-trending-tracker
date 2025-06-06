@@ -129682,5 +129682,112 @@
       "price_btc": 2.075090834352762e-05,
       "timestamp": "2025-06-06 19:17"
     }
+  ],
+  "2025-06-06 20:23": [
+    {
+      "rank": 1,
+      "name": "USDC",
+      "symbol": "USDC",
+      "price_btc": 9.573532930911313e-06,
+      "timestamp": "2025-06-06 20:23"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003531441389156799,
+      "timestamp": "2025-06-06 20:23"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-06 20:23"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023843462639263895,
+      "timestamp": "2025-06-06 20:23"
+    },
+    {
+      "rank": 5,
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "price_btc": 6.572083465683765e-06,
+      "timestamp": "2025-06-06 20:23"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014289860976084612,
+      "timestamp": "2025-06-06 20:23"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.052399465522914e-05,
+      "timestamp": "2025-06-06 20:23"
+    },
+    {
+      "rank": 8,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 4.798573214647271e-07,
+      "timestamp": "2025-06-06 20:23"
+    },
+    {
+      "rank": 9,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.0023994120702711115,
+      "timestamp": "2025-06-06 20:23"
+    },
+    {
+      "rank": 10,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.674747230837088e-05,
+      "timestamp": "2025-06-06 20:23"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.7379798901120666e-08,
+      "timestamp": "2025-06-06 20:23"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 4.8259257746677046e-06,
+      "timestamp": "2025-06-06 20:23"
+    },
+    {
+      "rank": 13,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.8398904345856368e-05,
+      "timestamp": "2025-06-06 20:23"
+    },
+    {
+      "rank": 14,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2045013511023317e-06,
+      "timestamp": "2025-06-06 20:23"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.26958981808776e-06,
+      "timestamp": "2025-06-06 20:23"
+    }
   ]
 }
