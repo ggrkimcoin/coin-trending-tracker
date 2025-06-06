@@ -127863,5 +127863,112 @@
       "price_btc": 9.504415085460431e-06,
       "timestamp": "2025-06-06 01:44"
     }
+  ],
+  "2025-06-06 03:16": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 4.493667010869002e-07,
+      "timestamp": "2025-06-06 03:16"
+    },
+    {
+      "rank": 2,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.0024425550887994113,
+      "timestamp": "2025-06-06 03:16"
+    },
+    {
+      "rank": 3,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.1995117788194462e-06,
+      "timestamp": "2025-06-06 03:16"
+    },
+    {
+      "rank": 4,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.6040189824189745e-05,
+      "timestamp": "2025-06-06 03:16"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.020185991936905e-05,
+      "timestamp": "2025-06-06 03:16"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.9049035794263416e-05,
+      "timestamp": "2025-06-06 03:16"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6209290850594667e-05,
+      "timestamp": "2025-06-06 03:16"
+    },
+    {
+      "rank": 8,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.609170178822654e-05,
+      "timestamp": "2025-06-06 03:16"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033259602966285995,
+      "timestamp": "2025-06-06 03:16"
+    },
+    {
+      "rank": 10,
+      "name": "GIZA",
+      "symbol": "GIZA",
+      "price_btc": 3.881406361101814e-06,
+      "timestamp": "2025-06-06 03:16"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.075631090325816e-06,
+      "timestamp": "2025-06-06 03:16"
+    },
+    {
+      "rank": 12,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.651844800692052e-05,
+      "timestamp": "2025-06-06 03:16"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.4891115128946053e-06,
+      "timestamp": "2025-06-06 03:16"
+    },
+    {
+      "rank": 14,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 4.019670360484098e-05,
+      "timestamp": "2025-06-06 03:16"
+    },
+    {
+      "rank": 15,
+      "name": "Cudis",
+      "symbol": "CUDIS",
+      "price_btc": 1.1504106052633837e-06,
+      "timestamp": "2025-06-06 03:16"
+    }
   ]
 }
