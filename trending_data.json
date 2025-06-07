@@ -130110,5 +130110,112 @@
       "price_btc": 4.930649598277425e-08,
       "timestamp": "2025-06-06 23:19"
     }
+  ],
+  "2025-06-07 01:43": [
+    {
+      "rank": 1,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.276624829394038e-06,
+      "timestamp": "2025-06-07 01:43"
+    },
+    {
+      "rank": 2,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0704023027151173e-05,
+      "timestamp": "2025-06-07 01:43"
+    },
+    {
+      "rank": 3,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.002387672297747723,
+      "timestamp": "2025-06-07 01:43"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-07 01:43"
+    },
+    {
+      "rank": 5,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 4.383895927161124e-07,
+      "timestamp": "2025-06-07 01:43"
+    },
+    {
+      "rank": 6,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.7231429004911322e-06,
+      "timestamp": "2025-06-07 01:43"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014163575934871824,
+      "timestamp": "2025-06-07 01:43"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023697658560261955,
+      "timestamp": "2025-06-07 01:43"
+    },
+    {
+      "rank": 9,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006161870983983421,
+      "timestamp": "2025-06-07 01:43"
+    },
+    {
+      "rank": 10,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002400603838652366,
+      "timestamp": "2025-06-07 01:43"
+    },
+    {
+      "rank": 11,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.778067269953693e-05,
+      "timestamp": "2025-06-07 01:43"
+    },
+    {
+      "rank": 12,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.0708355469775528e-05,
+      "timestamp": "2025-06-07 01:43"
+    },
+    {
+      "rank": 13,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 4.0903651412197164e-06,
+      "timestamp": "2025-06-07 01:43"
+    },
+    {
+      "rank": 14,
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "price_btc": 4.770840083830476e-05,
+      "timestamp": "2025-06-07 01:43"
+    },
+    {
+      "rank": 15,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.5402865666077532e-06,
+      "timestamp": "2025-06-07 01:43"
+    }
   ]
 }
