@@ -131715,5 +131715,112 @@
       "price_btc": 4.6305637996604734e-07,
       "timestamp": "2025-06-07 16:23"
     }
+  ],
+  "2025-06-07 17:16": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 4.7383130558922727e-07,
+      "timestamp": "2025-06-07 17:16"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-07 17:16"
+    },
+    {
+      "rank": 3,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.071210628702139e-05,
+      "timestamp": "2025-06-07 17:16"
+    },
+    {
+      "rank": 4,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006187611117463196,
+      "timestamp": "2025-06-07 17:16"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02387678164816857,
+      "timestamp": "2025-06-07 17:16"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014320334156704227,
+      "timestamp": "2025-06-07 17:16"
+    },
+    {
+      "rank": 7,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.7528480170619122e-06,
+      "timestamp": "2025-06-07 17:16"
+    },
+    {
+      "rank": 8,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.2978813455340685e-06,
+      "timestamp": "2025-06-07 17:16"
+    },
+    {
+      "rank": 9,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.00238605794446233,
+      "timestamp": "2025-06-07 17:16"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.2502048290842165e-05,
+      "timestamp": "2025-06-07 17:16"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.863070155071489e-06,
+      "timestamp": "2025-06-07 17:16"
+    },
+    {
+      "rank": 12,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2034552650212017e-06,
+      "timestamp": "2025-06-07 17:16"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.600629499430601e-06,
+      "timestamp": "2025-06-07 17:16"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036039720006944493,
+      "timestamp": "2025-06-07 17:16"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7213583763777165e-05,
+      "timestamp": "2025-06-07 17:16"
+    }
   ]
 }
