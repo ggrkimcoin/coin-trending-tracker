@@ -131929,5 +131929,112 @@
       "price_btc": 0.0003271696749573089,
       "timestamp": "2025-06-07 18:26"
     }
+  ],
+  "2025-06-07 19:15": [
+    {
+      "rank": 1,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006165427352266067,
+      "timestamp": "2025-06-07 19:15"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-07 19:15"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023813804864862242,
+      "timestamp": "2025-06-07 19:15"
+    },
+    {
+      "rank": 4,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.7291226066104382e-06,
+      "timestamp": "2025-06-07 19:15"
+    },
+    {
+      "rank": 5,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.276472946843563e-06,
+      "timestamp": "2025-06-07 19:15"
+    },
+    {
+      "rank": 6,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.058834136351653e-05,
+      "timestamp": "2025-06-07 19:15"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014258724605907954,
+      "timestamp": "2025-06-07 19:15"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.061290151036117e-05,
+      "timestamp": "2025-06-07 19:15"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.596234854545828e-06,
+      "timestamp": "2025-06-07 19:15"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.509446722329546e-06,
+      "timestamp": "2025-06-07 19:15"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.262820999339853e-05,
+      "timestamp": "2025-06-07 19:15"
+    },
+    {
+      "rank": 12,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.751908743306307e-05,
+      "timestamp": "2025-06-07 19:15"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003257925889429464,
+      "timestamp": "2025-06-07 19:15"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.845943160973007e-06,
+      "timestamp": "2025-06-07 19:15"
+    },
+    {
+      "rank": 15,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 8.286315247991883e-07,
+      "timestamp": "2025-06-07 19:15"
+    }
   ]
 }
