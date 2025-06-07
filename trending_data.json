@@ -131180,5 +131180,112 @@
       "price_btc": 1.229928841921145e-06,
       "timestamp": "2025-06-07 11:15"
     }
+  ],
+  "2025-06-07 12:38": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-07 12:38"
+    },
+    {
+      "rank": 2,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.0061638619648347005,
+      "timestamp": "2025-06-07 12:38"
+    },
+    {
+      "rank": 3,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.076223884328598e-05,
+      "timestamp": "2025-06-07 12:38"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023707997757690877,
+      "timestamp": "2025-06-07 12:38"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014403431526730057,
+      "timestamp": "2025-06-07 12:38"
+    },
+    {
+      "rank": 6,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.0023959520022666914,
+      "timestamp": "2025-06-07 12:38"
+    },
+    {
+      "rank": 7,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 4.45027172971328e-07,
+      "timestamp": "2025-06-07 12:38"
+    },
+    {
+      "rank": 8,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.7685571380232327e-06,
+      "timestamp": "2025-06-07 12:38"
+    },
+    {
+      "rank": 9,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.358699548299239e-06,
+      "timestamp": "2025-06-07 12:38"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.931653222749005e-06,
+      "timestamp": "2025-06-07 12:38"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7523006114880505e-05,
+      "timestamp": "2025-06-07 12:38"
+    },
+    {
+      "rank": 12,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2219463026939262e-06,
+      "timestamp": "2025-06-07 12:38"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.107125884754394e-05,
+      "timestamp": "2025-06-07 12:38"
+    },
+    {
+      "rank": 14,
+      "name": "Build On BNB",
+      "symbol": "BOB",
+      "price_btc": 9.9579308986653e-13,
+      "timestamp": "2025-06-07 12:38"
+    },
+    {
+      "rank": 15,
+      "name": "Mask Network",
+      "symbol": "MASK",
+      "price_btc": 1.7631735253668202e-05,
+      "timestamp": "2025-06-07 12:38"
+    }
   ]
 }
