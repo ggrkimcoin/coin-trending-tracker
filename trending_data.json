@@ -131287,5 +131287,112 @@
       "price_btc": 1.7631735253668202e-05,
       "timestamp": "2025-06-07 12:38"
     }
+  ],
+  "2025-06-07 13:27": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 4.342802301666394e-07,
+      "timestamp": "2025-06-07 13:27"
+    },
+    {
+      "rank": 2,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.072509630721145e-05,
+      "timestamp": "2025-06-07 13:27"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-07 13:27"
+    },
+    {
+      "rank": 4,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.0023902724777250793,
+      "timestamp": "2025-06-07 13:27"
+    },
+    {
+      "rank": 5,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.00615607289122578,
+      "timestamp": "2025-06-07 13:27"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023688630114799467,
+      "timestamp": "2025-06-07 13:27"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014417725780683662,
+      "timestamp": "2025-06-07 13:27"
+    },
+    {
+      "rank": 8,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.7693777693831989e-06,
+      "timestamp": "2025-06-07 13:27"
+    },
+    {
+      "rank": 9,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.338052556673227e-06,
+      "timestamp": "2025-06-07 13:27"
+    },
+    {
+      "rank": 10,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 4.986832911658749e-07,
+      "timestamp": "2025-06-07 13:27"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0598164142586663e-05,
+      "timestamp": "2025-06-07 13:27"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00032314055657046634,
+      "timestamp": "2025-06-07 13:27"
+    },
+    {
+      "rank": 13,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.5805623794976887e-05,
+      "timestamp": "2025-06-07 13:27"
+    },
+    {
+      "rank": 14,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 4.79021268233086e-07,
+      "timestamp": "2025-06-07 13:27"
+    },
+    {
+      "rank": 15,
+      "name": "Zeus Network",
+      "symbol": "ZEUS",
+      "price_btc": 1.6277241354905186e-06,
+      "timestamp": "2025-06-07 13:27"
+    }
   ]
 }
