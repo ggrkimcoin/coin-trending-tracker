@@ -132357,5 +132357,112 @@
       "price_btc": 3.60684641234315e-06,
       "timestamp": "2025-06-07 22:18"
     }
+  ],
+  "2025-06-07 23:20": [
+    {
+      "rank": 1,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006170340773263569,
+      "timestamp": "2025-06-07 23:20"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-07 23:20"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023962655854202024,
+      "timestamp": "2025-06-07 23:20"
+    },
+    {
+      "rank": 4,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.75600472120172e-06,
+      "timestamp": "2025-06-07 23:20"
+    },
+    {
+      "rank": 5,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.30751942750462e-06,
+      "timestamp": "2025-06-07 23:20"
+    },
+    {
+      "rank": 6,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0621000554385203e-05,
+      "timestamp": "2025-06-07 23:20"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014283904226098968,
+      "timestamp": "2025-06-07 23:20"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.732189468983855e-05,
+      "timestamp": "2025-06-07 23:20"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.6229092258427203e-06,
+      "timestamp": "2025-06-07 23:20"
+    },
+    {
+      "rank": 10,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.1953768390108738e-06,
+      "timestamp": "2025-06-07 23:20"
+    },
+    {
+      "rank": 11,
+      "name": "Sophon",
+      "symbol": "SOPH",
+      "price_btc": 4.7656581320610036e-07,
+      "timestamp": "2025-06-07 23:20"
+    },
+    {
+      "rank": 12,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.2838651253153242e-05,
+      "timestamp": "2025-06-07 23:20"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033166335763898765,
+      "timestamp": "2025-06-07 23:20"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.8007411460633e-05,
+      "timestamp": "2025-06-07 23:20"
+    },
+    {
+      "rank": 15,
+      "name": "Supra",
+      "symbol": "SUPRA",
+      "price_btc": 4.0026470704745204e-08,
+      "timestamp": "2025-06-07 23:20"
+    }
   ]
 }
