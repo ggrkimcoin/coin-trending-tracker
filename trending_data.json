@@ -130431,5 +130431,112 @@
       "price_btc": 3.13283327841756e-05,
       "timestamp": "2025-06-07 04:25"
     }
+  ],
+  "2025-06-07 05:19": [
+    {
+      "rank": 1,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.7389220417333954e-06,
+      "timestamp": "2025-06-07 05:19"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-07 05:19"
+    },
+    {
+      "rank": 3,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.282431475068142e-06,
+      "timestamp": "2025-06-07 05:19"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02375089906233504,
+      "timestamp": "2025-06-07 05:19"
+    },
+    {
+      "rank": 5,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006170114653290452,
+      "timestamp": "2025-06-07 05:19"
+    },
+    {
+      "rank": 6,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0738229526235776e-05,
+      "timestamp": "2025-06-07 05:19"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014282370070179064,
+      "timestamp": "2025-06-07 05:19"
+    },
+    {
+      "rank": 8,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 4.834888208424524e-07,
+      "timestamp": "2025-06-07 05:19"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.653675332727044e-06,
+      "timestamp": "2025-06-07 05:19"
+    },
+    {
+      "rank": 10,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 2.0723694631620685e-05,
+      "timestamp": "2025-06-07 05:19"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.103433623241626e-05,
+      "timestamp": "2025-06-07 05:19"
+    },
+    {
+      "rank": 12,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.469395254215018e-08,
+      "timestamp": "2025-06-07 05:19"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003545096826169525,
+      "timestamp": "2025-06-07 05:19"
+    },
+    {
+      "rank": 14,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.2234496863858358e-06,
+      "timestamp": "2025-06-07 05:19"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7872974934570515e-05,
+      "timestamp": "2025-06-07 05:19"
+    }
   ]
 }
