@@ -131073,5 +131073,112 @@
       "price_btc": 3.119891397670109e-05,
       "timestamp": "2025-06-07 10:20"
     }
+  ],
+  "2025-06-07 11:15": [
+    {
+      "rank": 1,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0788510838948292e-05,
+      "timestamp": "2025-06-07 11:15"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-07 11:15"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023733932247754573,
+      "timestamp": "2025-06-07 11:15"
+    },
+    {
+      "rank": 4,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006167004814847515,
+      "timestamp": "2025-06-07 11:15"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014459275458345979,
+      "timestamp": "2025-06-07 11:15"
+    },
+    {
+      "rank": 6,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.7698806861197512e-06,
+      "timestamp": "2025-06-07 11:15"
+    },
+    {
+      "rank": 7,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 4.5187074698661735e-07,
+      "timestamp": "2025-06-07 11:15"
+    },
+    {
+      "rank": 8,
+      "name": "GOHOME",
+      "symbol": "GOHOME",
+      "price_btc": 0.0024048519616122217,
+      "timestamp": "2025-06-07 11:15"
+    },
+    {
+      "rank": 9,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.346508034909842e-06,
+      "timestamp": "2025-06-07 11:15"
+    },
+    {
+      "rank": 10,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 4.936991919679398e-07,
+      "timestamp": "2025-06-07 11:15"
+    },
+    {
+      "rank": 11,
+      "name": "Mask Network",
+      "symbol": "MASK",
+      "price_btc": 1.7234889732470406e-05,
+      "timestamp": "2025-06-07 11:15"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7635323146298917e-05,
+      "timestamp": "2025-06-07 11:15"
+    },
+    {
+      "rank": 13,
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price_btc": 2.0477029837389687e-06,
+      "timestamp": "2025-06-07 11:15"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00032271682780238433,
+      "timestamp": "2025-06-07 11:15"
+    },
+    {
+      "rank": 15,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.229928841921145e-06,
+      "timestamp": "2025-06-07 11:15"
+    }
   ]
 }
