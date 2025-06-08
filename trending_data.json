@@ -132999,5 +132999,112 @@
       "price_btc": 1.0932489560394705e-10,
       "timestamp": "2025-06-08 06:29"
     }
+  ],
+  "2025-06-08 07:18": [
+    {
+      "rank": 1,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014237022426261457,
+      "timestamp": "2025-06-08 07:18"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023838201650170098,
+      "timestamp": "2025-06-08 07:18"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-08 07:18"
+    },
+    {
+      "rank": 4,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.280723676836836e-06,
+      "timestamp": "2025-06-08 07:18"
+    },
+    {
+      "rank": 5,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006159985087235377,
+      "timestamp": "2025-06-08 07:18"
+    },
+    {
+      "rank": 6,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.7447402145919788e-06,
+      "timestamp": "2025-06-08 07:18"
+    },
+    {
+      "rank": 7,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0995039843754077e-05,
+      "timestamp": "2025-06-08 07:18"
+    },
+    {
+      "rank": 8,
+      "name": "Ronin",
+      "symbol": "RON",
+      "price_btc": 5.118073189022934e-06,
+      "timestamp": "2025-06-08 07:18"
+    },
+    {
+      "rank": 9,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.3189101440328826e-05,
+      "timestamp": "2025-06-08 07:18"
+    },
+    {
+      "rank": 10,
+      "name": "OPENLOOT",
+      "symbol": "OL",
+      "price_btc": 4.3221048133873893e-07,
+      "timestamp": "2025-06-08 07:18"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.623610490565968e-06,
+      "timestamp": "2025-06-08 07:18"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.575771394193586e-06,
+      "timestamp": "2025-06-08 07:18"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.062423845037049e-05,
+      "timestamp": "2025-06-08 07:18"
+    },
+    {
+      "rank": 14,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.0001925423844042125,
+      "timestamp": "2025-06-08 07:18"
+    },
+    {
+      "rank": 15,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.12039770640333e-06,
+      "timestamp": "2025-06-08 07:18"
+    }
   ]
 }
