@@ -134604,5 +134604,112 @@
       "price_btc": 0.0003375843375149247,
       "timestamp": "2025-06-08 21:17"
     }
+  ],
+  "2025-06-08 22:18": [
+    {
+      "rank": 1,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014528236937775185,
+      "timestamp": "2025-06-08 22:18"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02383044424382745,
+      "timestamp": "2025-06-08 22:18"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-08 22:18"
+    },
+    {
+      "rank": 4,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 6.137889024040133e-07,
+      "timestamp": "2025-06-08 22:18"
+    },
+    {
+      "rank": 5,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.749144490259031e-06,
+      "timestamp": "2025-06-08 22:18"
+    },
+    {
+      "rank": 6,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006158794233208874,
+      "timestamp": "2025-06-08 22:18"
+    },
+    {
+      "rank": 7,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.357140382075661e-06,
+      "timestamp": "2025-06-08 22:18"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.142445945752569e-05,
+      "timestamp": "2025-06-08 22:18"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036519686318407176,
+      "timestamp": "2025-06-08 22:18"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.4682216551996656e-05,
+      "timestamp": "2025-06-08 22:18"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.974505085785438e-06,
+      "timestamp": "2025-06-08 22:18"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0772124515360814e-05,
+      "timestamp": "2025-06-08 22:18"
+    },
+    {
+      "rank": 13,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.9160830815784533e-06,
+      "timestamp": "2025-06-08 22:18"
+    },
+    {
+      "rank": 14,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.1673615872124311e-06,
+      "timestamp": "2025-06-08 22:18"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033712525149418173,
+      "timestamp": "2025-06-08 22:18"
+    }
   ]
 }
