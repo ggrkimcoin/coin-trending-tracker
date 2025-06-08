@@ -134069,5 +134069,112 @@
       "price_btc": 1.195845995938253e-06,
       "timestamp": "2025-06-08 16:23"
     }
+  ],
+  "2025-06-08 17:16": [
+    {
+      "rank": 1,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003590765087614012,
+      "timestamp": "2025-06-08 17:16"
+    },
+    {
+      "rank": 2,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.4960739729452018e-05,
+      "timestamp": "2025-06-08 17:16"
+    },
+    {
+      "rank": 3,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1778102051516736e-05,
+      "timestamp": "2025-06-08 17:16"
+    },
+    {
+      "rank": 4,
+      "name": "GIZA",
+      "symbol": "GIZA",
+      "price_btc": 4.448064403688492e-06,
+      "timestamp": "2025-06-08 17:16"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7275590781666646e-05,
+      "timestamp": "2025-06-08 17:16"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02378581225287988,
+      "timestamp": "2025-06-08 17:16"
+    },
+    {
+      "rank": 7,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.8707085820231546e-06,
+      "timestamp": "2025-06-08 17:16"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1462053540330127e-05,
+      "timestamp": "2025-06-08 17:16"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003362909345055551,
+      "timestamp": "2025-06-08 17:16"
+    },
+    {
+      "rank": 10,
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "price_btc": 6.625217777867901e-06,
+      "timestamp": "2025-06-08 17:16"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0533203615584084e-05,
+      "timestamp": "2025-06-08 17:16"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014313599304784676,
+      "timestamp": "2025-06-08 17:16"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-08 17:16"
+    },
+    {
+      "rank": 14,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.1944428357682017e-06,
+      "timestamp": "2025-06-08 17:16"
+    },
+    {
+      "rank": 15,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.996248738057429e-05,
+      "timestamp": "2025-06-08 17:16"
+    }
   ]
 }
