@@ -133213,5 +133213,112 @@
       "price_btc": 1.1169586371794894e-05,
       "timestamp": "2025-06-08 08:24"
     }
+  ],
+  "2025-06-08 09:19": [
+    {
+      "rank": 1,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023885676896683104,
+      "timestamp": "2025-06-08 09:19"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014156066522792111,
+      "timestamp": "2025-06-08 09:19"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-08 09:19"
+    },
+    {
+      "rank": 4,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.7355136667046547e-06,
+      "timestamp": "2025-06-08 09:19"
+    },
+    {
+      "rank": 5,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.0061706972827014145,
+      "timestamp": "2025-06-08 09:19"
+    },
+    {
+      "rank": 6,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.273857501103058e-06,
+      "timestamp": "2025-06-08 09:19"
+    },
+    {
+      "rank": 7,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0989912033474993e-05,
+      "timestamp": "2025-06-08 09:19"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.4019103276106616e-05,
+      "timestamp": "2025-06-08 09:19"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033445868379461077,
+      "timestamp": "2025-06-08 09:19"
+    },
+    {
+      "rank": 10,
+      "name": "Ronin",
+      "symbol": "RON",
+      "price_btc": 5.134154008384704e-06,
+      "timestamp": "2025-06-08 09:19"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.854977291424624e-06,
+      "timestamp": "2025-06-08 09:19"
+    },
+    {
+      "rank": 12,
+      "name": "Supra",
+      "symbol": "SUPRA",
+      "price_btc": 4.0768455049670906e-08,
+      "timestamp": "2025-06-08 09:19"
+    },
+    {
+      "rank": 13,
+      "name": "GIZA",
+      "symbol": "GIZA",
+      "price_btc": 3.82858480698624e-06,
+      "timestamp": "2025-06-08 09:19"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 2.276579638876208e-05,
+      "timestamp": "2025-06-08 09:19"
+    },
+    {
+      "rank": 15,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.1886124797288132e-06,
+      "timestamp": "2025-06-08 09:19"
+    }
   ]
 }
