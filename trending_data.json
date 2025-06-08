@@ -132785,5 +132785,112 @@
       "price_btc": 9.794797250014018e-05,
       "timestamp": "2025-06-08 04:30"
     }
+  ],
+  "2025-06-08 05:20": [
+    {
+      "rank": 1,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02381882423870916,
+      "timestamp": "2025-06-08 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014203403124007342,
+      "timestamp": "2025-06-08 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-08 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.7437837799590567e-06,
+      "timestamp": "2025-06-08 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006152572356028591,
+      "timestamp": "2025-06-08 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.239773296775579e-06,
+      "timestamp": "2025-06-08 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0621643716061244e-05,
+      "timestamp": "2025-06-08 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 8.241876714438536e-07,
+      "timestamp": "2025-06-08 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.886479181112682e-06,
+      "timestamp": "2025-06-08 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.067921832593429e-05,
+      "timestamp": "2025-06-08 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.3073885821106921e-05,
+      "timestamp": "2025-06-08 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.1949356368971253e-06,
+      "timestamp": "2025-06-08 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.316127897158831e-06,
+      "timestamp": "2025-06-08 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.848047766409403e-05,
+      "timestamp": "2025-06-08 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002416060776001114,
+      "timestamp": "2025-06-08 05:20"
+    }
   ]
 }
