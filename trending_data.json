@@ -133427,5 +133427,112 @@
       "price_btc": 3.916331318423523e-06,
       "timestamp": "2025-06-08 10:20"
     }
+  ],
+  "2025-06-08 11:15": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033428343763197504,
+      "timestamp": "2025-06-08 11:15"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0272616578437146e-05,
+      "timestamp": "2025-06-08 11:15"
+    },
+    {
+      "rank": 3,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.3154774595323506e-05,
+      "timestamp": "2025-06-08 11:15"
+    },
+    {
+      "rank": 4,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.1945723665199993e-06,
+      "timestamp": "2025-06-08 11:15"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-08 11:15"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.817844636554332e-06,
+      "timestamp": "2025-06-08 11:15"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035514370542161773,
+      "timestamp": "2025-06-08 11:15"
+    },
+    {
+      "rank": 8,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.5467880794428467e-06,
+      "timestamp": "2025-06-08 11:15"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.097663774513882e-05,
+      "timestamp": "2025-06-08 11:15"
+    },
+    {
+      "rank": 10,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.7315011184626923e-06,
+      "timestamp": "2025-06-08 11:15"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1149271654861328e-05,
+      "timestamp": "2025-06-08 11:15"
+    },
+    {
+      "rank": 12,
+      "name": "Supra",
+      "symbol": "SUPRA",
+      "price_btc": 4.056765302188294e-08,
+      "timestamp": "2025-06-08 11:15"
+    },
+    {
+      "rank": 13,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.2641723945169927e-05,
+      "timestamp": "2025-06-08 11:15"
+    },
+    {
+      "rank": 14,
+      "name": "BankrCoin",
+      "symbol": "BNKR",
+      "price_btc": 3.3974406646482197e-09,
+      "timestamp": "2025-06-08 11:15"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023726379169094886,
+      "timestamp": "2025-06-08 11:15"
+    }
   ]
 }
