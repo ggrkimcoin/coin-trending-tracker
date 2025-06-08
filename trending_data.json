@@ -132571,5 +132571,112 @@
       "price_btc": 3.068232909761491e-05,
       "timestamp": "2025-06-08 01:53"
     }
+  ],
+  "2025-06-08 03:24": [
+    {
+      "rank": 1,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006158538131245193,
+      "timestamp": "2025-06-08 03:24"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-08 03:24"
+    },
+    {
+      "rank": 3,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.7427649551920909e-06,
+      "timestamp": "2025-06-08 03:24"
+    },
+    {
+      "rank": 4,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.242948751549441e-06,
+      "timestamp": "2025-06-08 03:24"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02382033445136356,
+      "timestamp": "2025-06-08 03:24"
+    },
+    {
+      "rank": 6,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0600348655224323e-05,
+      "timestamp": "2025-06-08 03:24"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014205106134414906,
+      "timestamp": "2025-06-08 03:24"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.2926682264358903e-05,
+      "timestamp": "2025-06-08 03:24"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033034075761812696,
+      "timestamp": "2025-06-08 03:24"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.514426387378422e-08,
+      "timestamp": "2025-06-08 03:24"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.0136872053848567e-06,
+      "timestamp": "2025-06-08 03:24"
+    },
+    {
+      "rank": 12,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.6284627675878777e-05,
+      "timestamp": "2025-06-08 03:24"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7249987642854676e-05,
+      "timestamp": "2025-06-08 03:24"
+    },
+    {
+      "rank": 14,
+      "name": "Lagrange",
+      "symbol": "LA",
+      "price_btc": 1.0207689391784992e-05,
+      "timestamp": "2025-06-08 03:24"
+    },
+    {
+      "rank": 15,
+      "name": "Saros",
+      "symbol": "SAROS",
+      "price_btc": 1.8807186568798211e-06,
+      "timestamp": "2025-06-08 03:24"
+    }
   ]
 }
