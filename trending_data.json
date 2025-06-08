@@ -133855,5 +133855,112 @@
       "price_btc": 4.327526174171037e-08,
       "timestamp": "2025-06-08 14:17"
     }
+  ],
+  "2025-06-08 15:20": [
+    {
+      "rank": 1,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.3997276401858287e-05,
+      "timestamp": "2025-06-08 15:20"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003584884771644555,
+      "timestamp": "2025-06-08 15:20"
+    },
+    {
+      "rank": 3,
+      "name": "GIZA",
+      "symbol": "GIZA",
+      "price_btc": 4.348301021748002e-06,
+      "timestamp": "2025-06-08 15:20"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003307759199233532,
+      "timestamp": "2025-06-08 15:20"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0201430880856966e-05,
+      "timestamp": "2025-06-08 15:20"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014191957594279828,
+      "timestamp": "2025-06-08 15:20"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.692262166218957e-05,
+      "timestamp": "2025-06-08 15:20"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02371464020154451,
+      "timestamp": "2025-06-08 15:20"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1495481516805703e-05,
+      "timestamp": "2025-06-08 15:20"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.875792758651386e-06,
+      "timestamp": "2025-06-08 15:20"
+    },
+    {
+      "rank": 11,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 5.988364622153202e-05,
+      "timestamp": "2025-06-08 15:20"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.135129124646261e-05,
+      "timestamp": "2025-06-08 15:20"
+    },
+    {
+      "rank": 13,
+      "name": "Supra",
+      "symbol": "SUPRA",
+      "price_btc": 4.1312036732436256e-08,
+      "timestamp": "2025-06-08 15:20"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-08 15:20"
+    },
+    {
+      "rank": 15,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.301131309357251e-06,
+      "timestamp": "2025-06-08 15:20"
+    }
   ]
 }
