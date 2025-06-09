@@ -135567,5 +135567,112 @@
       "price_btc": 1.0845765095503272e-06,
       "timestamp": "2025-06-09 08:30"
     }
+  ],
+  "2025-06-09 09:23": [
+    {
+      "rank": 1,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.534472375292368e-05,
+      "timestamp": "2025-06-09 09:23"
+    },
+    {
+      "rank": 2,
+      "name": "GIZA",
+      "symbol": "GIZA",
+      "price_btc": 4.255527345920182e-06,
+      "timestamp": "2025-06-09 09:23"
+    },
+    {
+      "rank": 3,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.1475401093451091e-06,
+      "timestamp": "2025-06-09 09:23"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033292346327700275,
+      "timestamp": "2025-06-09 09:23"
+    },
+    {
+      "rank": 5,
+      "name": "Avalon",
+      "symbol": "AVL",
+      "price_btc": 1.9030878623103872e-06,
+      "timestamp": "2025-06-09 09:23"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036782452507407282,
+      "timestamp": "2025-06-09 09:23"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02352803661040616,
+      "timestamp": "2025-06-09 09:23"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-09 09:23"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.5322473237861153e-06,
+      "timestamp": "2025-06-09 09:23"
+    },
+    {
+      "rank": 10,
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "price_btc": 5.536151727168612e-05,
+      "timestamp": "2025-06-09 09:23"
+    },
+    {
+      "rank": 11,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.8865578131827225e-05,
+      "timestamp": "2025-06-09 09:23"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0438466829286513e-05,
+      "timestamp": "2025-06-09 09:23"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1138399619334324e-05,
+      "timestamp": "2025-06-09 09:23"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014276828864732765,
+      "timestamp": "2025-06-09 09:23"
+    },
+    {
+      "rank": 15,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 3.8423865756988724e-06,
+      "timestamp": "2025-06-09 09:23"
+    }
   ]
 }
