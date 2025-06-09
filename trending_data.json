@@ -136958,5 +136958,112 @@
       "price_btc": 8.039790249240164e-07,
       "timestamp": "2025-06-09 21:19"
     }
+  ],
+  "2025-06-09 22:19": [
+    {
+      "rank": 1,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 7.510112147726801e-06,
+      "timestamp": "2025-06-09 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.2161325561597275e-08,
+      "timestamp": "2025-06-09 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034946196073329524,
+      "timestamp": "2025-06-09 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.2545292726911134e-05,
+      "timestamp": "2025-06-09 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2852188466596658e-05,
+      "timestamp": "2025-06-09 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7855586527587608e-05,
+      "timestamp": "2025-06-09 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003867182186214426,
+      "timestamp": "2025-06-09 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024042219351621676,
+      "timestamp": "2025-06-09 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001447077865333174,
+      "timestamp": "2025-06-09 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0824593217637019e-05,
+      "timestamp": "2025-06-09 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.900336716292173e-06,
+      "timestamp": "2025-06-09 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1344028716976175e-05,
+      "timestamp": "2025-06-09 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-09 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.0001980519501608205,
+      "timestamp": "2025-06-09 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 8.138201813876898e-07,
+      "timestamp": "2025-06-09 22:19"
+    }
   ]
 }
