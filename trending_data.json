@@ -136209,5 +136209,112 @@
       "price_btc": 2.3153113925584902e-06,
       "timestamp": "2025-06-09 14:21"
     }
+  ],
+  "2025-06-09 15:23": [
+    {
+      "rank": 1,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.206524706714896e-05,
+      "timestamp": "2025-06-09 15:23"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038018765996229997,
+      "timestamp": "2025-06-09 15:23"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003467244281969373,
+      "timestamp": "2025-06-09 15:23"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0980681034595103e-05,
+      "timestamp": "2025-06-09 15:23"
+    },
+    {
+      "rank": 5,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.332119198506263e-06,
+      "timestamp": "2025-06-09 15:23"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2544338881695453e-05,
+      "timestamp": "2025-06-09 15:23"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0767991750636359e-05,
+      "timestamp": "2025-06-09 15:23"
+    },
+    {
+      "rank": 8,
+      "name": "IXS",
+      "symbol": "IXS",
+      "price_btc": 2.0891181995776728e-06,
+      "timestamp": "2025-06-09 15:23"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.851056523806138e-06,
+      "timestamp": "2025-06-09 15:23"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014343047703533358,
+      "timestamp": "2025-06-09 15:23"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7701580367781355e-05,
+      "timestamp": "2025-06-09 15:23"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023517450335816703,
+      "timestamp": "2025-06-09 15:23"
+    },
+    {
+      "rank": 13,
+      "name": "Clearpool",
+      "symbol": "CPOOL",
+      "price_btc": 1.1833686481858e-06,
+      "timestamp": "2025-06-09 15:23"
+    },
+    {
+      "rank": 14,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00019426913631659157,
+      "timestamp": "2025-06-09 15:23"
+    },
+    {
+      "rank": 15,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 3.281278952979149e-05,
+      "timestamp": "2025-06-09 15:23"
+    }
   ]
 }
