@@ -135353,5 +135353,112 @@
       "price_btc": 3.602613249292492e-05,
       "timestamp": "2025-06-09 06:32"
     }
+  ],
+  "2025-06-09 07:21": [
+    {
+      "rank": 1,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.5576897810805648e-05,
+      "timestamp": "2025-06-09 07:21"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0318826765437592e-05,
+      "timestamp": "2025-06-09 07:21"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014243105921412029,
+      "timestamp": "2025-06-09 07:21"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-09 07:21"
+    },
+    {
+      "rank": 5,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.145140754133137e-06,
+      "timestamp": "2025-06-09 07:21"
+    },
+    {
+      "rank": 6,
+      "name": "Avalon",
+      "symbol": "AVL",
+      "price_btc": 1.9648093129489146e-06,
+      "timestamp": "2025-06-09 07:21"
+    },
+    {
+      "rank": 7,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.1591721081670777e-05,
+      "timestamp": "2025-06-09 07:21"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02358103861780845,
+      "timestamp": "2025-06-09 07:21"
+    },
+    {
+      "rank": 9,
+      "name": "GIZA",
+      "symbol": "GIZA",
+      "price_btc": 4.145710465883281e-06,
+      "timestamp": "2025-06-09 07:21"
+    },
+    {
+      "rank": 10,
+      "name": "Brett",
+      "symbol": "BRETT",
+      "price_btc": 4.719562621623641e-07,
+      "timestamp": "2025-06-09 07:21"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.510187642513293e-06,
+      "timestamp": "2025-06-09 07:21"
+    },
+    {
+      "rank": 12,
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "price_btc": 6.534851891047014e-06,
+      "timestamp": "2025-06-09 07:21"
+    },
+    {
+      "rank": 13,
+      "name": "Verasity",
+      "symbol": "VRA",
+      "price_btc": 1.3633916081849392e-08,
+      "timestamp": "2025-06-09 07:21"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033228845187987057,
+      "timestamp": "2025-06-09 07:21"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036506819307559153,
+      "timestamp": "2025-06-09 07:21"
+    }
   ]
 }
