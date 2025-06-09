@@ -135246,5 +135246,112 @@
       "price_btc": 3.7953552846283177e-06,
       "timestamp": "2025-06-09 05:21"
     }
+  ],
+  "2025-06-09 06:32": [
+    {
+      "rank": 1,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001422100190939523,
+      "timestamp": "2025-06-09 06:32"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-09 06:32"
+    },
+    {
+      "rank": 3,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1123818249399302e-05,
+      "timestamp": "2025-06-09 06:32"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023538862153244855,
+      "timestamp": "2025-06-09 06:32"
+    },
+    {
+      "rank": 5,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006151816751203197,
+      "timestamp": "2025-06-09 06:32"
+    },
+    {
+      "rank": 6,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.7138717974385281e-06,
+      "timestamp": "2025-06-09 06:32"
+    },
+    {
+      "rank": 7,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.243484833927289e-06,
+      "timestamp": "2025-06-09 06:32"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.5032175230508805e-05,
+      "timestamp": "2025-06-09 06:32"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.025445383923692e-05,
+      "timestamp": "2025-06-09 06:32"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003642333192844113,
+      "timestamp": "2025-06-09 06:32"
+    },
+    {
+      "rank": 11,
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "price_btc": 5.326786763655667e-05,
+      "timestamp": "2025-06-09 06:32"
+    },
+    {
+      "rank": 12,
+      "name": "GIZA",
+      "symbol": "GIZA",
+      "price_btc": 3.941435301772349e-06,
+      "timestamp": "2025-06-09 06:32"
+    },
+    {
+      "rank": 13,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.1488830345804435e-06,
+      "timestamp": "2025-06-09 06:32"
+    },
+    {
+      "rank": 14,
+      "name": "Supra",
+      "symbol": "SUPRA",
+      "price_btc": 4.0124807652427966e-08,
+      "timestamp": "2025-06-09 06:32"
+    },
+    {
+      "rank": 15,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 3.602613249292492e-05,
+      "timestamp": "2025-06-09 06:32"
+    }
   ]
 }
