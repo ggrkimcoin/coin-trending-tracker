@@ -137065,5 +137065,112 @@
       "price_btc": 8.138201813876898e-07,
       "timestamp": "2025-06-09 22:19"
     }
+  ],
+  "2025-06-09 23:19": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.2224898291924192e-08,
+      "timestamp": "2025-06-09 23:19"
+    },
+    {
+      "rank": 2,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2805814701831024e-05,
+      "timestamp": "2025-06-09 23:19"
+    },
+    {
+      "rank": 3,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 5.685467785788257e-06,
+      "timestamp": "2025-06-09 23:19"
+    },
+    {
+      "rank": 4,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.1503053836193202e-05,
+      "timestamp": "2025-06-09 23:19"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003504713649806195,
+      "timestamp": "2025-06-09 23:19"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024162941538722928,
+      "timestamp": "2025-06-09 23:19"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8293456804407722e-05,
+      "timestamp": "2025-06-09 23:19"
+    },
+    {
+      "rank": 8,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.342085218485209e-06,
+      "timestamp": "2025-06-09 23:19"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003816271725852304,
+      "timestamp": "2025-06-09 23:19"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-09 23:19"
+    },
+    {
+      "rank": 11,
+      "name": "Mog Coin",
+      "symbol": "MOG",
+      "price_btc": 9.824908252658875e-12,
+      "timestamp": "2025-06-09 23:19"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014493853889113986,
+      "timestamp": "2025-06-09 23:19"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.082092168038853e-05,
+      "timestamp": "2025-06-09 23:19"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.126923703041847e-05,
+      "timestamp": "2025-06-09 23:19"
+    },
+    {
+      "rank": 15,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.7683545663381703e-06,
+      "timestamp": "2025-06-09 23:19"
+    }
   ]
 }
