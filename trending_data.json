@@ -136744,5 +136744,112 @@
       "price_btc": 4.926300712713003e-06,
       "timestamp": "2025-06-09 19:16"
     }
+  ],
+  "2025-06-09 20:23": [
+    {
+      "rank": 1,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.763181085551235e-05,
+      "timestamp": "2025-06-09 20:23"
+    },
+    {
+      "rank": 2,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037637498486014706,
+      "timestamp": "2025-06-09 20:23"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034695427066309503,
+      "timestamp": "2025-06-09 20:23"
+    },
+    {
+      "rank": 4,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.249702658498478e-05,
+      "timestamp": "2025-06-09 20:23"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-09 20:23"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.226488281027565e-05,
+      "timestamp": "2025-06-09 20:23"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001437376765502042,
+      "timestamp": "2025-06-09 20:23"
+    },
+    {
+      "rank": 8,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.2140252322230147e-08,
+      "timestamp": "2025-06-09 20:23"
+    },
+    {
+      "rank": 9,
+      "name": "Clearpool",
+      "symbol": "CPOOL",
+      "price_btc": 1.217141696418908e-06,
+      "timestamp": "2025-06-09 20:23"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023759686642236495,
+      "timestamp": "2025-06-09 20:23"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.102651381303677e-05,
+      "timestamp": "2025-06-09 20:23"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.805492417403498e-06,
+      "timestamp": "2025-06-09 20:23"
+    },
+    {
+      "rank": 13,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00012930623198799998,
+      "timestamp": "2025-06-09 20:23"
+    },
+    {
+      "rank": 14,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024644942718181017,
+      "timestamp": "2025-06-09 20:23"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.069120266740107e-05,
+      "timestamp": "2025-06-09 20:23"
+    }
   ]
 }
