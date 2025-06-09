@@ -136637,5 +136637,112 @@
       "price_btc": 3.6162912308459697e-06,
       "timestamp": "2025-06-09 18:29"
     }
+  ],
+  "2025-06-09 19:16": [
+    {
+      "rank": 1,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.2998264534575619e-05,
+      "timestamp": "2025-06-09 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2713862136745443e-05,
+      "timestamp": "2025-06-09 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003484958200400315,
+      "timestamp": "2025-06-09 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038059700108402333,
+      "timestamp": "2025-06-09 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-09 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7825791717058215e-05,
+      "timestamp": "2025-06-09 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0795227675724703e-05,
+      "timestamp": "2025-06-09 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023789261937444225,
+      "timestamp": "2025-06-09 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014407886398385705,
+      "timestamp": "2025-06-09 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.5680040636258794e-06,
+      "timestamp": "2025-06-09 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.105494891493129e-05,
+      "timestamp": "2025-06-09 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1178888463124004e-05,
+      "timestamp": "2025-06-09 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Clearpool",
+      "symbol": "CPOOL",
+      "price_btc": 1.2210625060414171e-06,
+      "timestamp": "2025-06-09 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.026806904822517e-06,
+      "timestamp": "2025-06-09 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 4.926300712713003e-06,
+      "timestamp": "2025-06-09 19:16"
+    }
   ]
 }
