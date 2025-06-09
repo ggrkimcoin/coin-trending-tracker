@@ -136423,5 +136423,112 @@
       "price_btc": 7.822648075339793e-06,
       "timestamp": "2025-06-09 16:27"
     }
+  ],
+  "2025-06-09 17:18": [
+    {
+      "rank": 1,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.3176504102858068e-05,
+      "timestamp": "2025-06-09 17:18"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7936454892321533e-05,
+      "timestamp": "2025-06-09 17:18"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035183035058517024,
+      "timestamp": "2025-06-09 17:18"
+    },
+    {
+      "rank": 4,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2867715197847313e-05,
+      "timestamp": "2025-06-09 17:18"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023767012771216785,
+      "timestamp": "2025-06-09 17:18"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1257182276653016e-05,
+      "timestamp": "2025-06-09 17:18"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038331946797484574,
+      "timestamp": "2025-06-09 17:18"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014469688871638737,
+      "timestamp": "2025-06-09 17:18"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.873810892744545e-06,
+      "timestamp": "2025-06-09 17:18"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0729531924977217e-05,
+      "timestamp": "2025-06-09 17:18"
+    },
+    {
+      "rank": 11,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.8647723567693442e-05,
+      "timestamp": "2025-06-09 17:18"
+    },
+    {
+      "rank": 12,
+      "name": "Clearpool",
+      "symbol": "CPOOL",
+      "price_btc": 1.2063302429537574e-06,
+      "timestamp": "2025-06-09 17:18"
+    },
+    {
+      "rank": 13,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.3436557300888205e-06,
+      "timestamp": "2025-06-09 17:18"
+    },
+    {
+      "rank": 14,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024487357825697226,
+      "timestamp": "2025-06-09 17:18"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.076936302459591e-06,
+      "timestamp": "2025-06-09 17:18"
+    }
   ]
 }
