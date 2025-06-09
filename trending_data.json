@@ -135460,5 +135460,112 @@
       "price_btc": 0.0036506819307559153,
       "timestamp": "2025-06-09 07:21"
     }
+  ],
+  "2025-06-09 08:30": [
+    {
+      "rank": 1,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.5810935430287842e-05,
+      "timestamp": "2025-06-09 08:30"
+    },
+    {
+      "rank": 2,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.1526241870634357e-06,
+      "timestamp": "2025-06-09 08:30"
+    },
+    {
+      "rank": 3,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036480422282158917,
+      "timestamp": "2025-06-09 08:30"
+    },
+    {
+      "rank": 4,
+      "name": "GIZA",
+      "symbol": "GIZA",
+      "price_btc": 4.206066907587179e-06,
+      "timestamp": "2025-06-09 08:30"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.040258773299071e-05,
+      "timestamp": "2025-06-09 08:30"
+    },
+    {
+      "rank": 6,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1122699508363087e-05,
+      "timestamp": "2025-06-09 08:30"
+    },
+    {
+      "rank": 7,
+      "name": "Hamster Kombat",
+      "symbol": "HMSTR",
+      "price_btc": 1.534454692121183e-08,
+      "timestamp": "2025-06-09 08:30"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.693540362842948e-05,
+      "timestamp": "2025-06-09 08:30"
+    },
+    {
+      "rank": 9,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 4.657768507601944e-07,
+      "timestamp": "2025-06-09 08:30"
+    },
+    {
+      "rank": 10,
+      "name": "Avalon",
+      "symbol": "AVL",
+      "price_btc": 1.9348282877966276e-06,
+      "timestamp": "2025-06-09 08:30"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033151917782844257,
+      "timestamp": "2025-06-09 08:30"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.0884931499601453e-10,
+      "timestamp": "2025-06-09 08:30"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02359300058340971,
+      "timestamp": "2025-06-09 08:30"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014273125713542016,
+      "timestamp": "2025-06-09 08:30"
+    },
+    {
+      "rank": 15,
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "price_btc": 1.0845765095503272e-06,
+      "timestamp": "2025-06-09 08:30"
+    }
   ]
 }
