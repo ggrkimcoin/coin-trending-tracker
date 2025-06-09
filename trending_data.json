@@ -136102,5 +136102,112 @@
       "price_btc": 1.7641468092979653e-05,
       "timestamp": "2025-06-09 13:33"
     }
+  ],
+  "2025-06-09 14:21": [
+    {
+      "rank": 1,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.3379087499235376e-05,
+      "timestamp": "2025-06-09 14:21"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0280060066991779e-05,
+      "timestamp": "2025-06-09 14:21"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.077002356331689e-05,
+      "timestamp": "2025-06-09 14:21"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003413009825137011,
+      "timestamp": "2025-06-09 14:21"
+    },
+    {
+      "rank": 5,
+      "name": "Clearpool",
+      "symbol": "CPOOL",
+      "price_btc": 1.159153725731053e-06,
+      "timestamp": "2025-06-09 14:21"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014317370009245519,
+      "timestamp": "2025-06-09 14:21"
+    },
+    {
+      "rank": 7,
+      "name": "GIZA",
+      "symbol": "GIZA",
+      "price_btc": 4.003145369994197e-06,
+      "timestamp": "2025-06-09 14:21"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003774704320866041,
+      "timestamp": "2025-06-09 14:21"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.835852262852812e-06,
+      "timestamp": "2025-06-09 14:21"
+    },
+    {
+      "rank": 10,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001287667570778298,
+      "timestamp": "2025-06-09 14:21"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7466318503617613e-05,
+      "timestamp": "2025-06-09 14:21"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2377473350118888e-05,
+      "timestamp": "2025-06-09 14:21"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.8705677568438825e-06,
+      "timestamp": "2025-06-09 14:21"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023504966590514025,
+      "timestamp": "2025-06-09 14:21"
+    },
+    {
+      "rank": 15,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.3153113925584902e-06,
+      "timestamp": "2025-06-09 14:21"
+    }
   ]
 }
