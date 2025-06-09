@@ -134818,5 +134818,112 @@
       "price_btc": 3.970409424678984e-06,
       "timestamp": "2025-06-08 23:18"
     }
+  ],
+  "2025-06-09 01:51": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 6.63525415706705e-07,
+      "timestamp": "2025-06-09 01:51"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023686362039115567,
+      "timestamp": "2025-06-09 01:51"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014424752702886497,
+      "timestamp": "2025-06-09 01:51"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-09 01:51"
+    },
+    {
+      "rank": 5,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006171917609869882,
+      "timestamp": "2025-06-09 01:51"
+    },
+    {
+      "rank": 6,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.734507157623724e-06,
+      "timestamp": "2025-06-09 01:51"
+    },
+    {
+      "rank": 7,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.314277932950948e-06,
+      "timestamp": "2025-06-09 01:51"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1298413286021337e-05,
+      "timestamp": "2025-06-09 01:51"
+    },
+    {
+      "rank": 9,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.4687143366516694e-05,
+      "timestamp": "2025-06-09 01:51"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00364474923836462,
+      "timestamp": "2025-06-09 01:51"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 8.191084324382839e-07,
+      "timestamp": "2025-06-09 01:51"
+    },
+    {
+      "rank": 12,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00019849889154388464,
+      "timestamp": "2025-06-09 01:51"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.965843443822772e-06,
+      "timestamp": "2025-06-09 01:51"
+    },
+    {
+      "rank": 14,
+      "name": "GIZA",
+      "symbol": "GIZA",
+      "price_btc": 3.941890811085643e-06,
+      "timestamp": "2025-06-09 01:51"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.06497667988912e-05,
+      "timestamp": "2025-06-09 01:51"
+    }
   ]
 }
