@@ -135781,5 +135781,112 @@
       "price_btc": 8.057505541772148e-07,
       "timestamp": "2025-06-09 10:23"
     }
+  ],
+  "2025-06-09 11:18": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 5.82124792686812e-07,
+      "timestamp": "2025-06-09 11:18"
+    },
+    {
+      "rank": 2,
+      "name": "GIZA",
+      "symbol": "GIZA",
+      "price_btc": 4.237539000805661e-06,
+      "timestamp": "2025-06-09 11:18"
+    },
+    {
+      "rank": 3,
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "price_btc": 5.561644525250501e-05,
+      "timestamp": "2025-06-09 11:18"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0415342128944154e-05,
+      "timestamp": "2025-06-09 11:18"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036952155675299926,
+      "timestamp": "2025-06-09 11:18"
+    },
+    {
+      "rank": 6,
+      "name": "Clearpool",
+      "symbol": "CPOOL",
+      "price_btc": 1.1441419343794746e-06,
+      "timestamp": "2025-06-09 11:18"
+    },
+    {
+      "rank": 7,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.5189625913467548e-05,
+      "timestamp": "2025-06-09 11:18"
+    },
+    {
+      "rank": 8,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 3.389705186413124e-05,
+      "timestamp": "2025-06-09 11:18"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.845390874426756e-06,
+      "timestamp": "2025-06-09 11:18"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033906324310724225,
+      "timestamp": "2025-06-09 11:18"
+    },
+    {
+      "rank": 11,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.244339507826941e-06,
+      "timestamp": "2025-06-09 11:18"
+    },
+    {
+      "rank": 12,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.3201019864229055e-06,
+      "timestamp": "2025-06-09 11:18"
+    },
+    {
+      "rank": 13,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2333168451874935e-05,
+      "timestamp": "2025-06-09 11:18"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7457493933419823e-05,
+      "timestamp": "2025-06-09 11:18"
+    },
+    {
+      "rank": 15,
+      "name": "Sky",
+      "symbol": "SKY",
+      "price_btc": 7.036555512476031e-07,
+      "timestamp": "2025-06-09 11:18"
+    }
   ]
 }
