@@ -135674,5 +135674,112 @@
       "price_btc": 3.8423865756988724e-06,
       "timestamp": "2025-06-09 09:23"
     }
+  ],
+  "2025-06-09 10:23": [
+    {
+      "rank": 1,
+      "name": "VICE",
+      "symbol": "VICE",
+      "price_btc": 5.698993932823788e-07,
+      "timestamp": "2025-06-09 10:23"
+    },
+    {
+      "rank": 2,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.5206347815238323e-05,
+      "timestamp": "2025-06-09 10:23"
+    },
+    {
+      "rank": 3,
+      "name": "GIZA",
+      "symbol": "GIZA",
+      "price_btc": 4.331593922855079e-06,
+      "timestamp": "2025-06-09 10:23"
+    },
+    {
+      "rank": 4,
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "price_btc": 5.543799248168475e-05,
+      "timestamp": "2025-06-09 10:23"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033162748259044403,
+      "timestamp": "2025-06-09 10:23"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001438130533188232,
+      "timestamp": "2025-06-09 10:23"
+    },
+    {
+      "rank": 7,
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "price_btc": 6.543060281174747e-06,
+      "timestamp": "2025-06-09 10:23"
+    },
+    {
+      "rank": 8,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.1492524779368386e-06,
+      "timestamp": "2025-06-09 10:23"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.902034933027188e-06,
+      "timestamp": "2025-06-09 10:23"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02353510577348787,
+      "timestamp": "2025-06-09 10:23"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.113139138672762e-05,
+      "timestamp": "2025-06-09 10:23"
+    },
+    {
+      "rank": 12,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 3.2331864281140795e-05,
+      "timestamp": "2025-06-09 10:23"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0143965475809043e-05,
+      "timestamp": "2025-06-09 10:23"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.753028627806344e-05,
+      "timestamp": "2025-06-09 10:23"
+    },
+    {
+      "rank": 15,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 8.057505541772148e-07,
+      "timestamp": "2025-06-09 10:23"
+    }
   ]
 }
