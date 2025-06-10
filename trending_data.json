@@ -138777,5 +138777,112 @@
       "price_btc": 0.0039052203248501074,
       "timestamp": "2025-06-10 16:27"
     }
+  ],
+  "2025-06-10 17:18": [
+    {
+      "rank": 1,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.7376780603479873e-08,
+      "timestamp": "2025-06-10 17:18"
+    },
+    {
+      "rank": 2,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 3.2169520855423594e-06,
+      "timestamp": "2025-06-10 17:18"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.0360780958152273e-05,
+      "timestamp": "2025-06-10 17:18"
+    },
+    {
+      "rank": 4,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 2.2777732008183245e-07,
+      "timestamp": "2025-06-10 17:18"
+    },
+    {
+      "rank": 5,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 4.2646726549160425e-06,
+      "timestamp": "2025-06-10 17:18"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003659672320625073,
+      "timestamp": "2025-06-10 17:18"
+    },
+    {
+      "rank": 7,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4089891104842375e-05,
+      "timestamp": "2025-06-10 17:18"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014465918385073344,
+      "timestamp": "2025-06-10 17:18"
+    },
+    {
+      "rank": 9,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0028029820924886845,
+      "timestamp": "2025-06-10 17:18"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0796264964467554e-05,
+      "timestamp": "2025-06-10 17:18"
+    },
+    {
+      "rank": 11,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 7.535880876781984e-05,
+      "timestamp": "2025-06-10 17:18"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02514309381484071,
+      "timestamp": "2025-06-10 17:18"
+    },
+    {
+      "rank": 13,
+      "name": "Morpho",
+      "symbol": "MORPHO",
+      "price_btc": 1.4110717333301976e-05,
+      "timestamp": "2025-06-10 17:18"
+    },
+    {
+      "rank": 14,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 2.0603472191587567e-06,
+      "timestamp": "2025-06-10 17:18"
+    },
+    {
+      "rank": 15,
+      "name": "Axelar",
+      "symbol": "AXL",
+      "price_btc": 4.967168116788204e-06,
+      "timestamp": "2025-06-10 17:18"
+    }
   ]
 }
