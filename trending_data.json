@@ -137814,5 +137814,112 @@
       "price_btc": 0.003978036734008985,
       "timestamp": "2025-06-10 07:20"
     }
+  ],
+  "2025-06-10 08:29": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-10 08:29"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02448791924706463,
+      "timestamp": "2025-06-10 08:29"
+    },
+    {
+      "rank": 3,
+      "name": "Axelar",
+      "symbol": "AXL",
+      "price_btc": 5.522125034175575e-06,
+      "timestamp": "2025-06-10 08:29"
+    },
+    {
+      "rank": 4,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.135571815453643e-05,
+      "timestamp": "2025-06-10 08:29"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035764270624115966,
+      "timestamp": "2025-06-10 08:29"
+    },
+    {
+      "rank": 6,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.2479209489851631e-08,
+      "timestamp": "2025-06-10 08:29"
+    },
+    {
+      "rank": 7,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 5.103953081616159e-06,
+      "timestamp": "2025-06-10 08:29"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014502033984549092,
+      "timestamp": "2025-06-10 08:29"
+    },
+    {
+      "rank": 9,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2563317442669292e-05,
+      "timestamp": "2025-06-10 08:29"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003968891922009891,
+      "timestamp": "2025-06-10 08:29"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8023649448466356e-05,
+      "timestamp": "2025-06-10 08:29"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.838065435876109e-06,
+      "timestamp": "2025-06-10 08:29"
+    },
+    {
+      "rank": 13,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 8.250655884809719e-07,
+      "timestamp": "2025-06-10 08:29"
+    },
+    {
+      "rank": 14,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4667927897771393e-11,
+      "timestamp": "2025-06-10 08:29"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.101167320094808e-05,
+      "timestamp": "2025-06-10 08:29"
+    }
   ]
 }
