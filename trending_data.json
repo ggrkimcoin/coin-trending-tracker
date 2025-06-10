@@ -139205,5 +139205,112 @@
       "price_btc": 2.2969229733981044e-06,
       "timestamp": "2025-06-10 20:23"
     }
+  ],
+  "2025-06-10 21:19": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.9989804822249823e-05,
+      "timestamp": "2025-06-10 21:19"
+    },
+    {
+      "rank": 2,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 3.083996052757683e-07,
+      "timestamp": "2025-06-10 21:19"
+    },
+    {
+      "rank": 3,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 4.123918130700585e-06,
+      "timestamp": "2025-06-10 21:19"
+    },
+    {
+      "rank": 4,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 3.0216686144207446e-06,
+      "timestamp": "2025-06-10 21:19"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003761900210431335,
+      "timestamp": "2025-06-10 21:19"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4431087815370706e-05,
+      "timestamp": "2025-06-10 21:19"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014982905185015032,
+      "timestamp": "2025-06-10 21:19"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.1865531707165488e-05,
+      "timestamp": "2025-06-10 21:19"
+    },
+    {
+      "rank": 9,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.703410182180667e-08,
+      "timestamp": "2025-06-10 21:19"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.149461808412265e-05,
+      "timestamp": "2025-06-10 21:19"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8860895579447816e-05,
+      "timestamp": "2025-06-10 21:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.069201123274133e-06,
+      "timestamp": "2025-06-10 21:19"
+    },
+    {
+      "rank": 13,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 7.55743012685143e-05,
+      "timestamp": "2025-06-10 21:19"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-10 21:19"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.3014796141309725e-06,
+      "timestamp": "2025-06-10 21:19"
+    }
   ]
 }
