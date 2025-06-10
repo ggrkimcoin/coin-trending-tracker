@@ -138135,5 +138135,112 @@
       "price_btc": 3.10860882655782e-05,
       "timestamp": "2025-06-10 10:22"
     }
+  ],
+  "2025-06-10 11:17": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003747667367103254,
+      "timestamp": "2025-06-10 11:17"
+    },
+    {
+      "rank": 2,
+      "name": "Axelar",
+      "symbol": "AXL",
+      "price_btc": 4.8298603989902915e-06,
+      "timestamp": "2025-06-10 11:17"
+    },
+    {
+      "rank": 3,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.2682071721921145e-08,
+      "timestamp": "2025-06-10 11:17"
+    },
+    {
+      "rank": 4,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002760059136036238,
+      "timestamp": "2025-06-10 11:17"
+    },
+    {
+      "rank": 5,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.6437412623840208e-08,
+      "timestamp": "2025-06-10 11:17"
+    },
+    {
+      "rank": 6,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 5.436624315165026e-06,
+      "timestamp": "2025-06-10 11:17"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-10 11:17"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8147022031168398e-05,
+      "timestamp": "2025-06-10 11:17"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003950401889311336,
+      "timestamp": "2025-06-10 11:17"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.168305282084887e-05,
+      "timestamp": "2025-06-10 11:17"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1623300353960257e-05,
+      "timestamp": "2025-06-10 11:17"
+    },
+    {
+      "rank": 12,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0480960473899911e-07,
+      "timestamp": "2025-06-10 11:17"
+    },
+    {
+      "rank": 13,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 5.013344679746893e-06,
+      "timestamp": "2025-06-10 11:17"
+    },
+    {
+      "rank": 14,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2636536810463532e-05,
+      "timestamp": "2025-06-10 11:17"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024631761549688793,
+      "timestamp": "2025-06-10 11:17"
+    }
   ]
 }
