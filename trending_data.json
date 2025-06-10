@@ -137172,5 +137172,112 @@
       "price_btc": 1.7683545663381703e-06,
       "timestamp": "2025-06-09 23:19"
     }
+  ],
+  "2025-06-10 01:47": [
+    {
+      "rank": 1,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 5.1030477744432565e-06,
+      "timestamp": "2025-06-10 01:47"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035514383493557926,
+      "timestamp": "2025-06-10 01:47"
+    },
+    {
+      "rank": 3,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002623744468911397,
+      "timestamp": "2025-06-10 01:47"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.116083366705309e-05,
+      "timestamp": "2025-06-10 01:47"
+    },
+    {
+      "rank": 5,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0997292880342852e-05,
+      "timestamp": "2025-06-10 01:47"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-10 01:47"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.822488979505897e-05,
+      "timestamp": "2025-06-10 01:47"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014615496265615211,
+      "timestamp": "2025-06-10 01:47"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038662443601509434,
+      "timestamp": "2025-06-10 01:47"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.108469746961108e-05,
+      "timestamp": "2025-06-10 01:47"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 8.248497099761292e-07,
+      "timestamp": "2025-06-10 01:47"
+    },
+    {
+      "rank": 12,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.1592063567666507e-06,
+      "timestamp": "2025-06-10 01:47"
+    },
+    {
+      "rank": 13,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.383354475393158e-06,
+      "timestamp": "2025-06-10 01:47"
+    },
+    {
+      "rank": 14,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3014916200361895e-05,
+      "timestamp": "2025-06-10 01:47"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024697099969556914,
+      "timestamp": "2025-06-10 01:47"
+    }
   ]
 }
