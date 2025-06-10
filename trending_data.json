@@ -138028,5 +138028,112 @@
       "price_btc": 2.32377815294301e-06,
       "timestamp": "2025-06-10 09:23"
     }
+  ],
+  "2025-06-10 10:22": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-10 10:22"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024586933496139045,
+      "timestamp": "2025-06-10 10:22"
+    },
+    {
+      "rank": 3,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.642884902059794e-08,
+      "timestamp": "2025-06-10 10:22"
+    },
+    {
+      "rank": 4,
+      "name": "Axelar",
+      "symbol": "AXL",
+      "price_btc": 5.224661091028868e-06,
+      "timestamp": "2025-06-10 10:22"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00037303276047263,
+      "timestamp": "2025-06-10 10:22"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.1915159441998343e-05,
+      "timestamp": "2025-06-10 10:22"
+    },
+    {
+      "rank": 7,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 5.486536554542668e-06,
+      "timestamp": "2025-06-10 10:22"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1744148157899648e-05,
+      "timestamp": "2025-06-10 10:22"
+    },
+    {
+      "rank": 9,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.2655899676004728e-08,
+      "timestamp": "2025-06-10 10:22"
+    },
+    {
+      "rank": 10,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2678516466097248e-05,
+      "timestamp": "2025-06-10 10:22"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1785808970704196e-10,
+      "timestamp": "2025-06-10 10:22"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003964677796917286,
+      "timestamp": "2025-06-10 10:22"
+    },
+    {
+      "rank": 13,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0455296838847193e-07,
+      "timestamp": "2025-06-10 10:22"
+    },
+    {
+      "rank": 14,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00013312625974138992,
+      "timestamp": "2025-06-10 10:22"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.10860882655782e-05,
+      "timestamp": "2025-06-10 10:22"
+    }
   ]
 }
