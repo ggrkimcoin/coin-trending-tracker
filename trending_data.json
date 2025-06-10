@@ -138563,5 +138563,112 @@
       "price_btc": 0.001454850552136079,
       "timestamp": "2025-06-10 14:20"
     }
+  ],
+  "2025-06-10 15:22": [
+    {
+      "rank": 1,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 2.699462604556031e-06,
+      "timestamp": "2025-06-10 15:22"
+    },
+    {
+      "rank": 2,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.6938906680008387e-08,
+      "timestamp": "2025-06-10 15:22"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.057664425027015e-05,
+      "timestamp": "2025-06-10 15:22"
+    },
+    {
+      "rank": 4,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 4.739241956743606e-06,
+      "timestamp": "2025-06-10 15:22"
+    },
+    {
+      "rank": 5,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 1.8350695212632227e-07,
+      "timestamp": "2025-06-10 15:22"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003658365405483972,
+      "timestamp": "2025-06-10 15:22"
+    },
+    {
+      "rank": 7,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0028342308974351155,
+      "timestamp": "2025-06-10 15:22"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.064099765016188e-05,
+      "timestamp": "2025-06-10 15:22"
+    },
+    {
+      "rank": 9,
+      "name": "Axelar",
+      "symbol": "AXL",
+      "price_btc": 5.17508057684572e-06,
+      "timestamp": "2025-06-10 15:22"
+    },
+    {
+      "rank": 10,
+      "name": "Resolv USR",
+      "symbol": "USR",
+      "price_btc": 9.193599309275632e-06,
+      "timestamp": "2025-06-10 15:22"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.345625890737424e-05,
+      "timestamp": "2025-06-10 15:22"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001445172005907306,
+      "timestamp": "2025-06-10 15:22"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8708091291850193e-05,
+      "timestamp": "2025-06-10 15:22"
+    },
+    {
+      "rank": 14,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 7.528137126193682e-05,
+      "timestamp": "2025-06-10 15:22"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-10 15:22"
+    }
   ]
 }
