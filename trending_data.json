@@ -138349,5 +138349,112 @@
       "price_btc": 0.004002518562610775,
       "timestamp": "2025-06-10 12:43"
     }
+  ],
+  "2025-06-10 13:33": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.0860866720447595e-05,
+      "timestamp": "2025-06-10 13:33"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003713064033372718,
+      "timestamp": "2025-06-10 13:33"
+    },
+    {
+      "rank": 3,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 1.9404349893544687e-06,
+      "timestamp": "2025-06-10 13:33"
+    },
+    {
+      "rank": 4,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 5.04011140540175e-06,
+      "timestamp": "2025-06-10 13:33"
+    },
+    {
+      "rank": 5,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0028686982524765985,
+      "timestamp": "2025-06-10 13:33"
+    },
+    {
+      "rank": 6,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 2.1383873069858853e-07,
+      "timestamp": "2025-06-10 13:33"
+    },
+    {
+      "rank": 7,
+      "name": "Axelar",
+      "symbol": "AXL",
+      "price_btc": 4.942148667663588e-06,
+      "timestamp": "2025-06-10 13:33"
+    },
+    {
+      "rank": 8,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.667756251569013e-08,
+      "timestamp": "2025-06-10 13:33"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.2246544925641444e-05,
+      "timestamp": "2025-06-10 13:33"
+    },
+    {
+      "rank": 10,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3433662062086711e-05,
+      "timestamp": "2025-06-10 13:33"
+    },
+    {
+      "rank": 11,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.258955217848081e-08,
+      "timestamp": "2025-06-10 13:33"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9408078702575247e-05,
+      "timestamp": "2025-06-10 13:33"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00399679015090204,
+      "timestamp": "2025-06-10 13:33"
+    },
+    {
+      "rank": 14,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 7.424575348063988e-05,
+      "timestamp": "2025-06-10 13:33"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2212761939735575e-10,
+      "timestamp": "2025-06-10 13:33"
+    }
   ]
 }
