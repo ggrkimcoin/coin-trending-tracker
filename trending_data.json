@@ -137493,5 +137493,112 @@
       "price_btc": 8.038144131048029e-06,
       "timestamp": "2025-06-10 04:28"
     }
+  ],
+  "2025-06-10 05:20": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-10 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024553962233841382,
+      "timestamp": "2025-06-10 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014532865480064374,
+      "timestamp": "2025-06-10 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7960445997894646e-05,
+      "timestamp": "2025-06-10 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Axelar",
+      "symbol": "AXL",
+      "price_btc": 4.526986018235018e-06,
+      "timestamp": "2025-06-10 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 4.636104910887848e-06,
+      "timestamp": "2025-06-10 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00036013680729980534,
+      "timestamp": "2025-06-10 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.802119471239426e-06,
+      "timestamp": "2025-06-10 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.091641882933624e-05,
+      "timestamp": "2025-06-10 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Ravencoin",
+      "symbol": "RVN",
+      "price_btc": 1.8927765731775788e-07,
+      "timestamp": "2025-06-10 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003932105353827597,
+      "timestamp": "2025-06-10 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.104586414800285e-05,
+      "timestamp": "2025-06-10 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.1541101830852965e-06,
+      "timestamp": "2025-06-10 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "LiquidLaunch",
+      "symbol": "LIQD",
+      "price_btc": 7.084215811604586e-07,
+      "timestamp": "2025-06-10 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0026582233437253255,
+      "timestamp": "2025-06-10 05:20"
+    }
   ]
 }
