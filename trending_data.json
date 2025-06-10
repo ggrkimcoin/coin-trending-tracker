@@ -137279,5 +137279,112 @@
       "price_btc": 0.024697099969556914,
       "timestamp": "2025-06-10 01:47"
     }
+  ],
+  "2025-06-10 03:18": [
+    {
+      "rank": 1,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 5.282753102013099e-06,
+      "timestamp": "2025-06-10 03:18"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035811105855880157,
+      "timestamp": "2025-06-10 03:18"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-10 03:18"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8063797091414987e-05,
+      "timestamp": "2025-06-10 03:18"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.100973483661814e-05,
+      "timestamp": "2025-06-10 03:18"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.278274971453685e-05,
+      "timestamp": "2025-06-10 03:18"
+    },
+    {
+      "rank": 7,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.1389461963085336e-05,
+      "timestamp": "2025-06-10 03:18"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.119632752938192e-05,
+      "timestamp": "2025-06-10 03:18"
+    },
+    {
+      "rank": 9,
+      "name": "Clearpool",
+      "symbol": "CPOOL",
+      "price_btc": 1.2487497871127715e-06,
+      "timestamp": "2025-06-10 03:18"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.9874535511949e-06,
+      "timestamp": "2025-06-10 03:18"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 3.9170025143520755e-06,
+      "timestamp": "2025-06-10 03:18"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 5.007607014156679e-06,
+      "timestamp": "2025-06-10 03:18"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002650483858683122,
+      "timestamp": "2025-06-10 03:18"
+    },
+    {
+      "rank": 14,
+      "name": "Ravencoin",
+      "symbol": "RVN",
+      "price_btc": 2.0200940318672884e-07,
+      "timestamp": "2025-06-10 03:18"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1421258227744868e-10,
+      "timestamp": "2025-06-10 03:18"
+    }
   ]
 }
