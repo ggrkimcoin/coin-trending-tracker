@@ -137921,5 +137921,112 @@
       "price_btc": 3.101167320094808e-05,
       "timestamp": "2025-06-10 08:29"
     }
+  ],
+  "2025-06-10 09:23": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-10 09:23"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024504971784039757,
+      "timestamp": "2025-06-10 09:23"
+    },
+    {
+      "rank": 3,
+      "name": "Axelar",
+      "symbol": "AXL",
+      "price_btc": 5.258282016755065e-06,
+      "timestamp": "2025-06-10 09:23"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035957735900790086,
+      "timestamp": "2025-06-10 09:23"
+    },
+    {
+      "rank": 5,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.2532733108801312e-08,
+      "timestamp": "2025-06-10 09:23"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.2245264115816053e-05,
+      "timestamp": "2025-06-10 09:23"
+    },
+    {
+      "rank": 7,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 5.102380040862055e-06,
+      "timestamp": "2025-06-10 09:23"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1497171981978707e-05,
+      "timestamp": "2025-06-10 09:23"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.803118758278746e-05,
+      "timestamp": "2025-06-10 09:23"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003946856058235153,
+      "timestamp": "2025-06-10 09:23"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 8.18113885035151e-07,
+      "timestamp": "2025-06-10 09:23"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.093016025353328e-05,
+      "timestamp": "2025-06-10 09:23"
+    },
+    {
+      "rank": 13,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 6.556532544066214e-05,
+      "timestamp": "2025-06-10 09:23"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.964665016394627e-06,
+      "timestamp": "2025-06-10 09:23"
+    },
+    {
+      "rank": 15,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 2.32377815294301e-06,
+      "timestamp": "2025-06-10 09:23"
+    }
   ]
 }
