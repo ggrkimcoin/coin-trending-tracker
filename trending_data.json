@@ -137600,5 +137600,112 @@
       "price_btc": 0.0026582233437253255,
       "timestamp": "2025-06-10 05:20"
     }
+  ],
+  "2025-06-10 06:30": [
+    {
+      "rank": 1,
+      "name": "Axelar",
+      "symbol": "AXL",
+      "price_btc": 4.84540224172433e-06,
+      "timestamp": "2025-06-10 06:30"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003553759877166062,
+      "timestamp": "2025-06-10 06:30"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-10 06:30"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024374464615502973,
+      "timestamp": "2025-06-10 06:30"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014422780105226639,
+      "timestamp": "2025-06-10 06:30"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1300306240745311e-05,
+      "timestamp": "2025-06-10 06:30"
+    },
+    {
+      "rank": 7,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0837666260353272e-05,
+      "timestamp": "2025-06-10 06:30"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2581555498490499e-05,
+      "timestamp": "2025-06-10 06:30"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.556525777711028e-06,
+      "timestamp": "2025-06-10 06:30"
+    },
+    {
+      "rank": 10,
+      "name": "Mog Coin",
+      "symbol": "MOG",
+      "price_btc": 9.807195140252209e-12,
+      "timestamp": "2025-06-10 06:30"
+    },
+    {
+      "rank": 11,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0026505096938590996,
+      "timestamp": "2025-06-10 06:30"
+    },
+    {
+      "rank": 12,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 5.10936868026073e-06,
+      "timestamp": "2025-06-10 06:30"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0849508980521494e-05,
+      "timestamp": "2025-06-10 06:30"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1417735122654022e-10,
+      "timestamp": "2025-06-10 06:30"
+    },
+    {
+      "rank": 15,
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "price_btc": 5.5650723127174945e-05,
+      "timestamp": "2025-06-10 06:30"
+    }
   ]
 }
