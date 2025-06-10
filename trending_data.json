@@ -139312,5 +139312,112 @@
       "price_btc": 3.3014796141309725e-06,
       "timestamp": "2025-06-10 21:19"
     }
+  ],
+  "2025-06-10 22:19": [
+    {
+      "rank": 1,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.7116469848163786e-08,
+      "timestamp": "2025-06-10 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.0227088112745545e-05,
+      "timestamp": "2025-06-10 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 2.8131894006691306e-07,
+      "timestamp": "2025-06-10 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 3.093038815820192e-06,
+      "timestamp": "2025-06-10 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 4.03479050130295e-07,
+      "timestamp": "2025-06-10 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 3.71539413087454e-06,
+      "timestamp": "2025-06-10 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014908862689117777,
+      "timestamp": "2025-06-10 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.00281695733800975,
+      "timestamp": "2025-06-10 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4359988715970249e-05,
+      "timestamp": "2025-06-10 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00038133677260137325,
+      "timestamp": "2025-06-10 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1218390810552747e-07,
+      "timestamp": "2025-06-10 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.2126202537190678e-05,
+      "timestamp": "2025-06-10 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.1405044243690972e-06,
+      "timestamp": "2025-06-10 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.898701090605365e-05,
+      "timestamp": "2025-06-10 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.3155996177228806e-06,
+      "timestamp": "2025-06-10 22:19"
+    }
   ]
 }
