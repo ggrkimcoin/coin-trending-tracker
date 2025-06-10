@@ -138242,5 +138242,112 @@
       "price_btc": 0.024631761549688793,
       "timestamp": "2025-06-10 11:17"
     }
+  ],
+  "2025-06-10 12:43": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.0680060597436944e-05,
+      "timestamp": "2025-06-10 12:43"
+    },
+    {
+      "rank": 2,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.6674264463579563e-08,
+      "timestamp": "2025-06-10 12:43"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003771946056719857,
+      "timestamp": "2025-06-10 12:43"
+    },
+    {
+      "rank": 4,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0028604482350200636,
+      "timestamp": "2025-06-10 12:43"
+    },
+    {
+      "rank": 5,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.2554091178445439e-08,
+      "timestamp": "2025-06-10 12:43"
+    },
+    {
+      "rank": 6,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 5.124885055918391e-06,
+      "timestamp": "2025-06-10 12:43"
+    },
+    {
+      "rank": 7,
+      "name": "Axelar",
+      "symbol": "AXL",
+      "price_btc": 4.864583744108366e-06,
+      "timestamp": "2025-06-10 12:43"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1987612786382105e-05,
+      "timestamp": "2025-06-10 12:43"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02521572411374516,
+      "timestamp": "2025-06-10 12:43"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.2217983440844995e-05,
+      "timestamp": "2025-06-10 12:43"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 3.3768167156920604e-06,
+      "timestamp": "2025-06-10 12:43"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9093287521791876e-05,
+      "timestamp": "2025-06-10 12:43"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014639643365546029,
+      "timestamp": "2025-06-10 12:43"
+    },
+    {
+      "rank": 14,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 7.341050852615527e-05,
+      "timestamp": "2025-06-10 12:43"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.004002518562610775,
+      "timestamp": "2025-06-10 12:43"
+    }
   ]
 }
