@@ -137707,5 +137707,112 @@
       "price_btc": 5.5650723127174945e-05,
       "timestamp": "2025-06-10 06:30"
     }
+  ],
+  "2025-06-10 07:20": [
+    {
+      "rank": 1,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 5.0917281102369266e-06,
+      "timestamp": "2025-06-10 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "Axelar",
+      "symbol": "AXL",
+      "price_btc": 5.2906028553433445e-06,
+      "timestamp": "2025-06-10 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0594955532749788e-05,
+      "timestamp": "2025-06-10 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000359551479116575,
+      "timestamp": "2025-06-10 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2653228886579592e-05,
+      "timestamp": "2025-06-10 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024427307843893156,
+      "timestamp": "2025-06-10 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014454875199175743,
+      "timestamp": "2025-06-10 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.2458421059159468e-08,
+      "timestamp": "2025-06-10 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.7262528035493125e-08,
+      "timestamp": "2025-06-10 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1362650547941687e-05,
+      "timestamp": "2025-06-10 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0026537704657236213,
+      "timestamp": "2025-06-10 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.824295969945264e-06,
+      "timestamp": "2025-06-10 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.5447469898653727e-06,
+      "timestamp": "2025-06-10 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "VaderAI by Virtuals",
+      "symbol": "VADER",
+      "price_btc": 4.6814232456850185e-07,
+      "timestamp": "2025-06-10 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003978036734008985,
+      "timestamp": "2025-06-10 07:20"
+    }
   ]
 }
