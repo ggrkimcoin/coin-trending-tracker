@@ -141024,5 +141024,112 @@
       "price_btc": 1.207784882473879e-10,
       "timestamp": "2025-06-11 15:23"
     }
+  ],
+  "2025-06-11 16:27": [
+    {
+      "rank": 1,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 6.755415149900138e-07,
+      "timestamp": "2025-06-11 16:27"
+    },
+    {
+      "rank": 2,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 3.839601174318675e-06,
+      "timestamp": "2025-06-11 16:27"
+    },
+    {
+      "rank": 3,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 3.497678836488011e-06,
+      "timestamp": "2025-06-11 16:27"
+    },
+    {
+      "rank": 4,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.667772610299287e-08,
+      "timestamp": "2025-06-11 16:27"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00039609491786098686,
+      "timestamp": "2025-06-11 16:27"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.5436893096888337e-05,
+      "timestamp": "2025-06-11 16:27"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.0404353273544627e-05,
+      "timestamp": "2025-06-11 16:27"
+    },
+    {
+      "rank": 8,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 2.8171081854824907e-07,
+      "timestamp": "2025-06-11 16:27"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00152242868189771,
+      "timestamp": "2025-06-11 16:27"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.3224656240904536e-05,
+      "timestamp": "2025-06-11 16:27"
+    },
+    {
+      "rank": 11,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0028702312702954935,
+      "timestamp": "2025-06-11 16:27"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.2210278950489003e-10,
+      "timestamp": "2025-06-11 16:27"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02609512473252841,
+      "timestamp": "2025-06-11 16:27"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.2012291308670055e-05,
+      "timestamp": "2025-06-11 16:27"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.769010574199695e-06,
+      "timestamp": "2025-06-11 16:27"
+    }
   ]
 }
