@@ -141238,5 +141238,112 @@
       "price_btc": 2.532108294367168e-06,
       "timestamp": "2025-06-11 17:18"
     }
+  ],
+  "2025-06-11 18:30": [
+    {
+      "rank": 1,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.6809770006706617e-08,
+      "timestamp": "2025-06-11 18:30"
+    },
+    {
+      "rank": 2,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 7.934127903354443e-07,
+      "timestamp": "2025-06-11 18:30"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003933089939034779,
+      "timestamp": "2025-06-11 18:30"
+    },
+    {
+      "rank": 4,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 3.5272426982008903e-06,
+      "timestamp": "2025-06-11 18:30"
+    },
+    {
+      "rank": 5,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.5008314709930407e-05,
+      "timestamp": "2025-06-11 18:30"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.0929008259512024e-05,
+      "timestamp": "2025-06-11 18:30"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2857345313790617e-05,
+      "timestamp": "2025-06-11 18:30"
+    },
+    {
+      "rank": 8,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 3.831938313612696e-06,
+      "timestamp": "2025-06-11 18:30"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1654011176941336e-05,
+      "timestamp": "2025-06-11 18:30"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025882374049682525,
+      "timestamp": "2025-06-11 18:30"
+    },
+    {
+      "rank": 11,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 7.405875482346807e-06,
+      "timestamp": "2025-06-11 18:30"
+    },
+    {
+      "rank": 12,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 3.101972361244835e-07,
+      "timestamp": "2025-06-11 18:30"
+    },
+    {
+      "rank": 13,
+      "name": "SQD",
+      "symbol": "SQD",
+      "price_btc": 2.6087285649566085e-06,
+      "timestamp": "2025-06-11 18:30"
+    },
+    {
+      "rank": 14,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.417944953038561e-05,
+      "timestamp": "2025-06-11 18:30"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0038891121736279737,
+      "timestamp": "2025-06-11 18:30"
+    }
   ]
 }
