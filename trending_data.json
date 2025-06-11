@@ -141666,5 +141666,112 @@
       "price_btc": 1.1685756543065564e-10,
       "timestamp": "2025-06-11 21:19"
     }
+  ],
+  "2025-06-11 22:19": [
+    {
+      "rank": 1,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 7.975186956235003e-07,
+      "timestamp": "2025-06-11 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 2.668053474619381e-06,
+      "timestamp": "2025-06-11 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.6639680899938396e-08,
+      "timestamp": "2025-06-11 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003782991949894493,
+      "timestamp": "2025-06-11 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 3.335202881121005e-06,
+      "timestamp": "2025-06-11 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4769870717829569e-05,
+      "timestamp": "2025-06-11 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014794901396375801,
+      "timestamp": "2025-06-11 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2601213505660334e-05,
+      "timestamp": "2025-06-11 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.956592380625578e-05,
+      "timestamp": "2025-06-11 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.1944652301180321e-05,
+      "timestamp": "2025-06-11 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0256581851323293,
+      "timestamp": "2025-06-11 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.981843064130662e-06,
+      "timestamp": "2025-06-11 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.123402697884856e-05,
+      "timestamp": "2025-06-11 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.6986970045440005e-05,
+      "timestamp": "2025-06-11 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 7.138182617131073e-06,
+      "timestamp": "2025-06-11 22:19"
+    }
   ]
 }
