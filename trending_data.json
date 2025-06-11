@@ -141773,5 +141773,112 @@
       "price_btc": 7.138182617131073e-06,
       "timestamp": "2025-06-11 22:19"
     }
+  ],
+  "2025-06-11 23:20": [
+    {
+      "rank": 1,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.6656729091414467e-08,
+      "timestamp": "2025-06-11 23:20"
+    },
+    {
+      "rank": 2,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 7.387842265140525e-07,
+      "timestamp": "2025-06-11 23:20"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003794294832201915,
+      "timestamp": "2025-06-11 23:20"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.931242042530693e-05,
+      "timestamp": "2025-06-11 23:20"
+    },
+    {
+      "rank": 5,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 3.1552815118174927e-06,
+      "timestamp": "2025-06-11 23:20"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4687097257218506e-05,
+      "timestamp": "2025-06-11 23:20"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02545861360718892,
+      "timestamp": "2025-06-11 23:20"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.1018532999975443e-05,
+      "timestamp": "2025-06-11 23:20"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0850259090221173e-05,
+      "timestamp": "2025-06-11 23:20"
+    },
+    {
+      "rank": 10,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.564193789533701e-06,
+      "timestamp": "2025-06-11 23:20"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001476499098365562,
+      "timestamp": "2025-06-11 23:20"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0037225782970381066,
+      "timestamp": "2025-06-11 23:20"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.82070331673625e-06,
+      "timestamp": "2025-06-11 23:20"
+    },
+    {
+      "rank": 14,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 7.0977941675039445e-06,
+      "timestamp": "2025-06-11 23:20"
+    },
+    {
+      "rank": 15,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.696059250384942e-05,
+      "timestamp": "2025-06-11 23:20"
+    }
   ]
 }
