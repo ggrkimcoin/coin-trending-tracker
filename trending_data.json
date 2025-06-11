@@ -141131,5 +141131,112 @@
       "price_btc": 4.769010574199695e-06,
       "timestamp": "2025-06-11 16:27"
     }
+  ],
+  "2025-06-11 17:18": [
+    {
+      "rank": 1,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 7.048330082698824e-07,
+      "timestamp": "2025-06-11 17:18"
+    },
+    {
+      "rank": 2,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.3262917150967317e-05,
+      "timestamp": "2025-06-11 17:18"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.039134476919447e-05,
+      "timestamp": "2025-06-11 17:18"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00039212128867578195,
+      "timestamp": "2025-06-11 17:18"
+    },
+    {
+      "rank": 5,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.525637724839502e-05,
+      "timestamp": "2025-06-11 17:18"
+    },
+    {
+      "rank": 6,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 3.5406199945257656e-06,
+      "timestamp": "2025-06-11 17:18"
+    },
+    {
+      "rank": 7,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 3.887095787673442e-06,
+      "timestamp": "2025-06-11 17:18"
+    },
+    {
+      "rank": 8,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.6769414325729788e-08,
+      "timestamp": "2025-06-11 17:18"
+    },
+    {
+      "rank": 9,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 3.191190334201482e-07,
+      "timestamp": "2025-06-11 17:18"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015227221841739526,
+      "timestamp": "2025-06-11 17:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02614692054829367,
+      "timestamp": "2025-06-11 17:18"
+    },
+    {
+      "rank": 12,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.4455279761872365e-05,
+      "timestamp": "2025-06-11 17:18"
+    },
+    {
+      "rank": 13,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.2270271611151365e-05,
+      "timestamp": "2025-06-11 17:18"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.335623501806743e-06,
+      "timestamp": "2025-06-11 17:18"
+    },
+    {
+      "rank": 15,
+      "name": "SQD",
+      "symbol": "SQD",
+      "price_btc": 2.532108294367168e-06,
+      "timestamp": "2025-06-11 17:18"
+    }
   ]
 }
