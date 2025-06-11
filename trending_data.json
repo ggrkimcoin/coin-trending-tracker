@@ -140596,5 +140596,112 @@
       "price_btc": 0.025331176013782212,
       "timestamp": "2025-06-11 11:18"
     }
+  ],
+  "2025-06-11 12:43": [
+    {
+      "rank": 1,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 8.382849995804037e-07,
+      "timestamp": "2025-06-11 12:43"
+    },
+    {
+      "rank": 2,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 3.4072288064845743e-06,
+      "timestamp": "2025-06-11 12:43"
+    },
+    {
+      "rank": 3,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.709066102648258e-08,
+      "timestamp": "2025-06-11 12:43"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003777216233502698,
+      "timestamp": "2025-06-11 12:43"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8916746384131363e-05,
+      "timestamp": "2025-06-11 12:43"
+    },
+    {
+      "rank": 6,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 3.887644310766416e-06,
+      "timestamp": "2025-06-11 12:43"
+    },
+    {
+      "rank": 7,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 2.88157811502461e-07,
+      "timestamp": "2025-06-11 12:43"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4395896728858295e-05,
+      "timestamp": "2025-06-11 12:43"
+    },
+    {
+      "rank": 9,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 7.249885481021743e-06,
+      "timestamp": "2025-06-11 12:43"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015025995820178322,
+      "timestamp": "2025-06-11 12:43"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.54732128338173e-06,
+      "timestamp": "2025-06-11 12:43"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-11 12:43"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.561743312612424e-06,
+      "timestamp": "2025-06-11 12:43"
+    },
+    {
+      "rank": 14,
+      "name": "Resolv USR",
+      "symbol": "USR",
+      "price_btc": 9.14783968003912e-06,
+      "timestamp": "2025-06-11 12:43"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002836387480287313,
+      "timestamp": "2025-06-11 12:43"
+    }
   ]
 }
