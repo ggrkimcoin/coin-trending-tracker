@@ -139740,5 +139740,112 @@
       "price_btc": 2.0843198069345688e-05,
       "timestamp": "2025-06-11 03:17"
     }
+  ],
+  "2025-06-11 04:29": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.9988631316298604e-05,
+      "timestamp": "2025-06-11 04:29"
+    },
+    {
+      "rank": 2,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 3.3741654216325614e-07,
+      "timestamp": "2025-06-11 04:29"
+    },
+    {
+      "rank": 3,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 2.800104867628244e-06,
+      "timestamp": "2025-06-11 04:29"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9209143813141224e-05,
+      "timestamp": "2025-06-11 04:29"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.166987979735107e-05,
+      "timestamp": "2025-06-11 04:29"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.2021769871950965e-05,
+      "timestamp": "2025-06-11 04:29"
+    },
+    {
+      "rank": 7,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 2.739101124818655e-07,
+      "timestamp": "2025-06-11 04:29"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.402650625976983e-05,
+      "timestamp": "2025-06-11 04:29"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015109615235061801,
+      "timestamp": "2025-06-11 04:29"
+    },
+    {
+      "rank": 10,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.943321608207297e-05,
+      "timestamp": "2025-06-11 04:29"
+    },
+    {
+      "rank": 11,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 4.3387131427016e-07,
+      "timestamp": "2025-06-11 04:29"
+    },
+    {
+      "rank": 12,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0779359801479854e-07,
+      "timestamp": "2025-06-11 04:29"
+    },
+    {
+      "rank": 13,
+      "name": "Optimism",
+      "symbol": "OP",
+      "price_btc": 6.499085165334188e-06,
+      "timestamp": "2025-06-11 04:29"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00038021327034923406,
+      "timestamp": "2025-06-11 04:29"
+    },
+    {
+      "rank": 15,
+      "name": "Kaia",
+      "symbol": "KAIA",
+      "price_btc": 1.4536398249449531e-06,
+      "timestamp": "2025-06-11 04:29"
+    }
   ]
 }
