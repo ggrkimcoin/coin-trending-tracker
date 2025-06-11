@@ -140382,5 +140382,112 @@
       "price_btc": 5.842304555341108e-06,
       "timestamp": "2025-06-11 09:23"
     }
+  ],
+  "2025-06-11 10:22": [
+    {
+      "rank": 1,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 4.821071663112693e-07,
+      "timestamp": "2025-06-11 10:22"
+    },
+    {
+      "rank": 2,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.705899129312941e-08,
+      "timestamp": "2025-06-11 10:22"
+    },
+    {
+      "rank": 3,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 2.7015426866509556e-07,
+      "timestamp": "2025-06-11 10:22"
+    },
+    {
+      "rank": 4,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 2.9296106870519276e-06,
+      "timestamp": "2025-06-11 10:22"
+    },
+    {
+      "rank": 5,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.478552431599645e-06,
+      "timestamp": "2025-06-11 10:22"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003805905458984993,
+      "timestamp": "2025-06-11 10:22"
+    },
+    {
+      "rank": 7,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4048028666749326e-05,
+      "timestamp": "2025-06-11 10:22"
+    },
+    {
+      "rank": 8,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0028049646480370876,
+      "timestamp": "2025-06-11 10:22"
+    },
+    {
+      "rank": 9,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.1717094601878724e-05,
+      "timestamp": "2025-06-11 10:22"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015080486896497203,
+      "timestamp": "2025-06-11 10:22"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.1732732038669144e-05,
+      "timestamp": "2025-06-11 10:22"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025252530140326537,
+      "timestamp": "2025-06-11 10:22"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8811388357947106e-05,
+      "timestamp": "2025-06-11 10:22"
+    },
+    {
+      "rank": 14,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 3.868975840868396e-06,
+      "timestamp": "2025-06-11 10:22"
+    },
+    {
+      "rank": 15,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.8194391874603916e-05,
+      "timestamp": "2025-06-11 10:22"
+    }
   ]
 }
