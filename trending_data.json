@@ -139954,5 +139954,112 @@
       "price_btc": 5.845408929812625e-06,
       "timestamp": "2025-06-11 05:21"
     }
+  ],
+  "2025-06-11 06:30": [
+    {
+      "rank": 1,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 3.047847438257816e-07,
+      "timestamp": "2025-06-11 06:30"
+    },
+    {
+      "rank": 2,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 2.725472898837116e-06,
+      "timestamp": "2025-06-11 06:30"
+    },
+    {
+      "rank": 3,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 3.605402260669331e-06,
+      "timestamp": "2025-06-11 06:30"
+    },
+    {
+      "rank": 4,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4353087918624019e-05,
+      "timestamp": "2025-06-11 06:30"
+    },
+    {
+      "rank": 5,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0028312786544733948,
+      "timestamp": "2025-06-11 06:30"
+    },
+    {
+      "rank": 6,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 2.712739994226553e-07,
+      "timestamp": "2025-06-11 06:30"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001510095203741903,
+      "timestamp": "2025-06-11 06:30"
+    },
+    {
+      "rank": 8,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 7.650016595468778e-05,
+      "timestamp": "2025-06-11 06:30"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003839263212384287,
+      "timestamp": "2025-06-11 06:30"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025482465869134895,
+      "timestamp": "2025-06-11 06:30"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.921577448123497e-05,
+      "timestamp": "2025-06-11 06:30"
+    },
+    {
+      "rank": 12,
+      "name": "Morpho",
+      "symbol": "MORPHO",
+      "price_btc": 1.4657118690829718e-05,
+      "timestamp": "2025-06-11 06:30"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.209819305337092e-05,
+      "timestamp": "2025-06-11 06:30"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-11 06:30"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.849272654911232e-06,
+      "timestamp": "2025-06-11 06:30"
+    }
   ]
 }
