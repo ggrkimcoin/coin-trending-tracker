@@ -140917,5 +140917,112 @@
       "price_btc": 5.4384048593419525e-06,
       "timestamp": "2025-06-11 14:19"
     }
+  ],
+  "2025-06-11 15:23": [
+    {
+      "rank": 1,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.668506167589764e-08,
+      "timestamp": "2025-06-11 15:23"
+    },
+    {
+      "rank": 2,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 7.490217864247588e-07,
+      "timestamp": "2025-06-11 15:23"
+    },
+    {
+      "rank": 3,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 3.4123228718243977e-06,
+      "timestamp": "2025-06-11 15:23"
+    },
+    {
+      "rank": 4,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.5646343888033608e-05,
+      "timestamp": "2025-06-11 15:23"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00039662781125950313,
+      "timestamp": "2025-06-11 15:23"
+    },
+    {
+      "rank": 6,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 2.730784298134202e-07,
+      "timestamp": "2025-06-11 15:23"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.029515803723871e-05,
+      "timestamp": "2025-06-11 15:23"
+    },
+    {
+      "rank": 8,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 3.839192720314842e-06,
+      "timestamp": "2025-06-11 15:23"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025843926795506896,
+      "timestamp": "2025-06-11 15:23"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003936215168842162,
+      "timestamp": "2025-06-11 15:23"
+    },
+    {
+      "rank": 11,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002877380291949091,
+      "timestamp": "2025-06-11 15:23"
+    },
+    {
+      "rank": 12,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.2561611349276382e-05,
+      "timestamp": "2025-06-11 15:23"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 8.30311932748841e-06,
+      "timestamp": "2025-06-11 15:23"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.766354400085534e-06,
+      "timestamp": "2025-06-11 15:23"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.207784882473879e-10,
+      "timestamp": "2025-06-11 15:23"
+    }
   ]
 }
