@@ -141345,5 +141345,112 @@
       "price_btc": 0.0038891121736279737,
       "timestamp": "2025-06-11 18:30"
     }
+  ],
+  "2025-06-11 19:16": [
+    {
+      "rank": 1,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 8.685823427937908e-07,
+      "timestamp": "2025-06-11 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 3.818648289113775e-06,
+      "timestamp": "2025-06-11 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003918425860453882,
+      "timestamp": "2025-06-11 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 3.4230300183892327e-06,
+      "timestamp": "2025-06-11 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.5280266623385025e-05,
+      "timestamp": "2025-06-11 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 2.0468063161882335e-05,
+      "timestamp": "2025-06-11 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2615946669142282e-05,
+      "timestamp": "2025-06-11 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02597069816282682,
+      "timestamp": "2025-06-11 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.671701523616028e-08,
+      "timestamp": "2025-06-11 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 1.0524785661638251e-06,
+      "timestamp": "2025-06-11 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0015028386000163223,
+      "timestamp": "2025-06-11 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "SQD",
+      "symbol": "SQD",
+      "price_btc": 2.5118752921986044e-06,
+      "timestamp": "2025-06-11 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003902298303511898,
+      "timestamp": "2025-06-11 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-11 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.1817595561578185e-05,
+      "timestamp": "2025-06-11 19:16"
+    }
   ]
 }
