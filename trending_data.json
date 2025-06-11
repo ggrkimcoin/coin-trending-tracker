@@ -139526,5 +139526,112 @@
       "price_btc": 2.65240132633938e-07,
       "timestamp": "2025-06-10 23:19"
     }
+  ],
+  "2025-06-11 01:46": [
+    {
+      "rank": 1,
+      "name": "Electroneum",
+      "symbol": "ETN",
+      "price_btc": 1.7383379169578305e-08,
+      "timestamp": "2025-06-11 01:46"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.0163842772827137e-05,
+      "timestamp": "2025-06-11 01:46"
+    },
+    {
+      "rank": 3,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 3.5441730853346045e-07,
+      "timestamp": "2025-06-11 01:46"
+    },
+    {
+      "rank": 4,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 3.057088715787199e-06,
+      "timestamp": "2025-06-11 01:46"
+    },
+    {
+      "rank": 5,
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "price_btc": 3.6164740873464667e-06,
+      "timestamp": "2025-06-11 01:46"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003736874587239649,
+      "timestamp": "2025-06-11 01:46"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014933501927218034,
+      "timestamp": "2025-06-11 01:46"
+    },
+    {
+      "rank": 8,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 2.8755529383987566e-07,
+      "timestamp": "2025-06-11 01:46"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.139709840351162e-05,
+      "timestamp": "2025-06-11 01:46"
+    },
+    {
+      "rank": 10,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4186711595627015e-05,
+      "timestamp": "2025-06-11 01:46"
+    },
+    {
+      "rank": 11,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0027978807639193986,
+      "timestamp": "2025-06-11 01:46"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0855486115811673e-05,
+      "timestamp": "2025-06-11 01:46"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8749781785707734e-05,
+      "timestamp": "2025-06-11 01:46"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0254036012319871,
+      "timestamp": "2025-06-11 01:46"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1654453986424028e-10,
+      "timestamp": "2025-06-11 01:46"
+    }
   ]
 }
