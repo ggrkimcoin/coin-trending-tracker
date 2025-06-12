@@ -142415,5 +142415,112 @@
       "price_btc": 1.8593536784116252e-06,
       "timestamp": "2025-06-12 06:31"
     }
+  ],
+  "2025-06-12 07:20": [
+    {
+      "rank": 1,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.4616004962037593e-08,
+      "timestamp": "2025-06-12 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.9845824244587093e-05,
+      "timestamp": "2025-06-12 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 7.404676394822941e-07,
+      "timestamp": "2025-06-12 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Pundi AI",
+      "symbol": "PUNDIAI",
+      "price_btc": 7.899733778374211e-05,
+      "timestamp": "2025-06-12 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003876012725385412,
+      "timestamp": "2025-06-12 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.101953268179888e-05,
+      "timestamp": "2025-06-12 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.571705557359036e-05,
+      "timestamp": "2025-06-12 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 3.185842919805602e-06,
+      "timestamp": "2025-06-12 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014765092402576384,
+      "timestamp": "2025-06-12 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Ravencoin",
+      "symbol": "RVN",
+      "price_btc": 2.0497428008880823e-07,
+      "timestamp": "2025-06-12 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Flare",
+      "symbol": "FLR",
+      "price_btc": 1.7337099722321556e-07,
+      "timestamp": "2025-06-12 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.1530924752331566e-05,
+      "timestamp": "2025-06-12 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036879629184879367,
+      "timestamp": "2025-06-12 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.912082949307454e-05,
+      "timestamp": "2025-06-12 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 2.960190370477262e-07,
+      "timestamp": "2025-06-12 07:20"
+    }
   ]
 }
