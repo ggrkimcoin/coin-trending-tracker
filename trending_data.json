@@ -142201,5 +142201,112 @@
       "price_btc": 4.59244235106218e-06,
       "timestamp": "2025-06-12 04:27"
     }
+  ],
+  "2025-06-12 05:20": [
+    {
+      "rank": 1,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 7.414661843988686e-07,
+      "timestamp": "2025-06-12 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 3.1222291541650656e-06,
+      "timestamp": "2025-06-12 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003868306781932026,
+      "timestamp": "2025-06-12 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.5574856545230912e-05,
+      "timestamp": "2025-06-12 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.087246653837012e-05,
+      "timestamp": "2025-06-12 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.0064545718543895e-06,
+      "timestamp": "2025-06-12 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025631548897242947,
+      "timestamp": "2025-06-12 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.1665148656324625e-05,
+      "timestamp": "2025-06-12 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2358357550894465e-05,
+      "timestamp": "2025-06-12 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9002662657870734e-05,
+      "timestamp": "2025-06-12 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 3.108792690568075e-07,
+      "timestamp": "2025-06-12 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-12 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 8.712952058432986e-06,
+      "timestamp": "2025-06-12 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.650747337384723e-05,
+      "timestamp": "2025-06-12 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.3345928338644483e-05,
+      "timestamp": "2025-06-12 05:20"
+    }
   ]
 }
