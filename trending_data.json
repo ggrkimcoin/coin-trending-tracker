@@ -143913,5 +143913,112 @@
       "price_btc": 1.794411736055831e-05,
       "timestamp": "2025-06-12 20:23"
     }
+  ],
+  "2025-06-12 21:19": [
+    {
+      "rank": 1,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.172358526731382e-06,
+      "timestamp": "2025-06-12 21:19"
+    },
+    {
+      "rank": 2,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.589405263423071e-06,
+      "timestamp": "2025-06-12 21:19"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.440349215502522e-08,
+      "timestamp": "2025-06-12 21:19"
+    },
+    {
+      "rank": 4,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.5012042760096599e-05,
+      "timestamp": "2025-06-12 21:19"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00038710208166624306,
+      "timestamp": "2025-06-12 21:19"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.851171421085155e-06,
+      "timestamp": "2025-06-12 21:19"
+    },
+    {
+      "rank": 7,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.9065716256067752e-05,
+      "timestamp": "2025-06-12 21:19"
+    },
+    {
+      "rank": 8,
+      "name": "Gigachad",
+      "symbol": "GIGA",
+      "price_btc": 2.608918673724079e-07,
+      "timestamp": "2025-06-12 21:19"
+    },
+    {
+      "rank": 9,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.854172823921532e-08,
+      "timestamp": "2025-06-12 21:19"
+    },
+    {
+      "rank": 10,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00019134203005936185,
+      "timestamp": "2025-06-12 21:19"
+    },
+    {
+      "rank": 11,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 1.6647696816351002e-06,
+      "timestamp": "2025-06-12 21:19"
+    },
+    {
+      "rank": 12,
+      "name": "Stellar",
+      "symbol": "XLM",
+      "price_btc": 2.5307715124742376e-06,
+      "timestamp": "2025-06-12 21:19"
+    },
+    {
+      "rank": 13,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 2.697581239092288e-07,
+      "timestamp": "2025-06-12 21:19"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014410981402503886,
+      "timestamp": "2025-06-12 21:19"
+    },
+    {
+      "rank": 15,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 7.791298238879466e-07,
+      "timestamp": "2025-06-12 21:19"
+    }
   ]
 }
