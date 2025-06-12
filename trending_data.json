@@ -141987,5 +141987,112 @@
       "price_btc": 4.4311836907859e-07,
       "timestamp": "2025-06-12 01:45"
     }
+  ],
+  "2025-06-12 03:16": [
+    {
+      "rank": 1,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 7.18758236593542e-07,
+      "timestamp": "2025-06-12 03:16"
+    },
+    {
+      "rank": 2,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 3.180272177700473e-06,
+      "timestamp": "2025-06-12 03:16"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00038197605673486,
+      "timestamp": "2025-06-12 03:16"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.090645200241867e-05,
+      "timestamp": "2025-06-12 03:16"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001473835265195499,
+      "timestamp": "2025-06-12 03:16"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036793885189913404,
+      "timestamp": "2025-06-12 03:16"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-12 03:16"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4986605298459013e-05,
+      "timestamp": "2025-06-12 03:16"
+    },
+    {
+      "rank": 9,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.1653651140039638e-05,
+      "timestamp": "2025-06-12 03:16"
+    },
+    {
+      "rank": 10,
+      "name": "Kaia",
+      "symbol": "KAIA",
+      "price_btc": 1.5967381531518911e-06,
+      "timestamp": "2025-06-12 03:16"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2323067712163415e-05,
+      "timestamp": "2025-06-12 03:16"
+    },
+    {
+      "rank": 12,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 5.829495400066137e-07,
+      "timestamp": "2025-06-12 03:16"
+    },
+    {
+      "rank": 13,
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "price_btc": 3.7584996892790585e-06,
+      "timestamp": "2025-06-12 03:16"
+    },
+    {
+      "rank": 14,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.4947587617184145e-05,
+      "timestamp": "2025-06-12 03:16"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.82903370571482e-06,
+      "timestamp": "2025-06-12 03:16"
+    }
   ]
 }
