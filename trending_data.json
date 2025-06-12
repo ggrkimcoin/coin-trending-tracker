@@ -143592,5 +143592,112 @@
       "price_btc": 3.421802836118432e-06,
       "timestamp": "2025-06-12 17:18"
     }
+  ],
+  "2025-06-12 18:29": [
+    {
+      "rank": 1,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.6463376678109525e-06,
+      "timestamp": "2025-06-12 18:29"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.9549221947597275e-05,
+      "timestamp": "2025-06-12 18:29"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.39044613927782e-08,
+      "timestamp": "2025-06-12 18:29"
+    },
+    {
+      "rank": 4,
+      "name": "Layer3",
+      "symbol": "L3",
+      "price_btc": 4.94567027235297e-07,
+      "timestamp": "2025-06-12 18:29"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000399479811421405,
+      "timestamp": "2025-06-12 18:29"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.092018079035616e-05,
+      "timestamp": "2025-06-12 18:29"
+    },
+    {
+      "rank": 7,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.5131892125813027e-05,
+      "timestamp": "2025-06-12 18:29"
+    },
+    {
+      "rank": 8,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 2.7525227959949153e-07,
+      "timestamp": "2025-06-12 18:29"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.249683554537822e-05,
+      "timestamp": "2025-06-12 18:29"
+    },
+    {
+      "rank": 10,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 7.888445986742166e-07,
+      "timestamp": "2025-06-12 18:29"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003676055724174833,
+      "timestamp": "2025-06-12 18:29"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.841403887402083e-05,
+      "timestamp": "2025-06-12 18:29"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1328028931602466e-10,
+      "timestamp": "2025-06-12 18:29"
+    },
+    {
+      "rank": 14,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 2.6150786137111252e-06,
+      "timestamp": "2025-06-12 18:29"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 5.3377180056477275e-06,
+      "timestamp": "2025-06-12 18:29"
+    }
   ]
 }
