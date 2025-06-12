@@ -143699,5 +143699,112 @@
       "price_btc": 5.3377180056477275e-06,
       "timestamp": "2025-06-12 18:29"
     }
+  ],
+  "2025-06-12 19:16": [
+    {
+      "rank": 1,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.6496686214942872e-06,
+      "timestamp": "2025-06-12 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0500542548612634e-05,
+      "timestamp": "2025-06-12 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8248995143696955e-05,
+      "timestamp": "2025-06-12 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.578846094608905e-08,
+      "timestamp": "2025-06-12 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003648294966754475,
+      "timestamp": "2025-06-12 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 2.7895780164030034e-07,
+      "timestamp": "2025-06-12 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4818389915461219e-05,
+      "timestamp": "2025-06-12 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00039467850993301165,
+      "timestamp": "2025-06-12 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.9568168600320986e-05,
+      "timestamp": "2025-06-12 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2204202947913136e-05,
+      "timestamp": "2025-06-12 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02544054131839552,
+      "timestamp": "2025-06-12 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00146625725016339,
+      "timestamp": "2025-06-12 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.0001944107347523468,
+      "timestamp": "2025-06-12 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Layer3",
+      "symbol": "L3",
+      "price_btc": 4.857711068052948e-07,
+      "timestamp": "2025-06-12 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.095919787872113e-05,
+      "timestamp": "2025-06-12 19:16"
+    }
   ]
 }
