@@ -141880,5 +141880,112 @@
       "price_btc": 3.696059250384942e-05,
       "timestamp": "2025-06-11 23:20"
     }
+  ],
+  "2025-06-12 01:45": [
+    {
+      "rank": 1,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 7.240056772264287e-07,
+      "timestamp": "2025-06-12 01:45"
+    },
+    {
+      "rank": 2,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.912592402197928e-05,
+      "timestamp": "2025-06-12 01:45"
+    },
+    {
+      "rank": 3,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 7.940351654683736e-07,
+      "timestamp": "2025-06-12 01:45"
+    },
+    {
+      "rank": 4,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 3.057041386385947e-06,
+      "timestamp": "2025-06-12 01:45"
+    },
+    {
+      "rank": 5,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.1808440527700799e-05,
+      "timestamp": "2025-06-12 01:45"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00037745389899112984,
+      "timestamp": "2025-06-12 01:45"
+    },
+    {
+      "rank": 7,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4778889340078607e-05,
+      "timestamp": "2025-06-12 01:45"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.237047346507661e-05,
+      "timestamp": "2025-06-12 01:45"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.4523220937980003e-06,
+      "timestamp": "2025-06-12 01:45"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0833766196735593e-05,
+      "timestamp": "2025-06-12 01:45"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003722849149048632,
+      "timestamp": "2025-06-12 01:45"
+    },
+    {
+      "rank": 12,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 1.0229721494731743e-05,
+      "timestamp": "2025-06-12 01:45"
+    },
+    {
+      "rank": 13,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.6278693209605163e-05,
+      "timestamp": "2025-06-12 01:45"
+    },
+    {
+      "rank": 14,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 7.490053808899516e-05,
+      "timestamp": "2025-06-12 01:45"
+    },
+    {
+      "rank": 15,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 4.4311836907859e-07,
+      "timestamp": "2025-06-12 01:45"
+    }
   ]
 }
