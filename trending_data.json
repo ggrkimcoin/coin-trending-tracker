@@ -142629,5 +142629,112 @@
       "price_btc": 0.0014752227257418414,
       "timestamp": "2025-06-12 08:28"
     }
+  ],
+  "2025-06-12 09:22": [
+    {
+      "rank": 1,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.716581988402606e-08,
+      "timestamp": "2025-06-12 09:22"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 3.001769415135547e-05,
+      "timestamp": "2025-06-12 09:22"
+    },
+    {
+      "rank": 3,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.6010170078078978e-05,
+      "timestamp": "2025-06-12 09:22"
+    },
+    {
+      "rank": 4,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 7.872261564238139e-07,
+      "timestamp": "2025-06-12 09:22"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003860636823746364,
+      "timestamp": "2025-06-12 09:22"
+    },
+    {
+      "rank": 6,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 3.069682628941572e-06,
+      "timestamp": "2025-06-12 09:22"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.934938989551983e-05,
+      "timestamp": "2025-06-12 09:22"
+    },
+    {
+      "rank": 8,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.417303535389492e-06,
+      "timestamp": "2025-06-12 09:22"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025609499928811126,
+      "timestamp": "2025-06-12 09:22"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.087093180316813e-05,
+      "timestamp": "2025-06-12 09:22"
+    },
+    {
+      "rank": 11,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.647269240881267e-05,
+      "timestamp": "2025-06-12 09:22"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014809405894684784,
+      "timestamp": "2025-06-12 09:22"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-12 09:22"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.1512132932375106e-10,
+      "timestamp": "2025-06-12 09:22"
+    },
+    {
+      "rank": 15,
+      "name": "SQD",
+      "symbol": "SQD",
+      "price_btc": 2.4429674190796514e-06,
+      "timestamp": "2025-06-12 09:22"
+    }
   ]
 }
