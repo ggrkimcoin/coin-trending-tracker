@@ -143057,5 +143057,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-06-12 12:42"
     }
+  ],
+  "2025-06-12 13:33": [
+    {
+      "rank": 1,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.9984362364620485e-08,
+      "timestamp": "2025-06-12 13:33"
+    },
+    {
+      "rank": 2,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.4949626156694562e-06,
+      "timestamp": "2025-06-12 13:33"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.9815035651771362e-05,
+      "timestamp": "2025-06-12 13:33"
+    },
+    {
+      "rank": 4,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.212444167866072e-05,
+      "timestamp": "2025-06-12 13:33"
+    },
+    {
+      "rank": 5,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.5365186143922507e-05,
+      "timestamp": "2025-06-12 13:33"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.9388155127819795e-05,
+      "timestamp": "2025-06-12 13:33"
+    },
+    {
+      "rank": 7,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 3.4958146792542316e-07,
+      "timestamp": "2025-06-12 13:33"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003850841460808045,
+      "timestamp": "2025-06-12 13:33"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.025626868619964195,
+      "timestamp": "2025-06-12 13:33"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014832317572031997,
+      "timestamp": "2025-06-12 13:33"
+    },
+    {
+      "rank": 11,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 2.9532310219557383e-06,
+      "timestamp": "2025-06-12 13:33"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.073713667188151e-05,
+      "timestamp": "2025-06-12 13:33"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.900325435665438e-06,
+      "timestamp": "2025-06-12 13:33"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.887666266165072e-06,
+      "timestamp": "2025-06-12 13:33"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-12 13:33"
+    }
   ]
 }
