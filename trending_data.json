@@ -144127,5 +144127,112 @@
       "price_btc": 4.955355662945685e-05,
       "timestamp": "2025-06-12 22:19"
     }
+  ],
+  "2025-06-12 23:19": [
+    {
+      "rank": 1,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.1719709643494626e-06,
+      "timestamp": "2025-06-12 23:19"
+    },
+    {
+      "rank": 2,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.6004115783427303e-06,
+      "timestamp": "2025-06-12 23:19"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.6312339888605265e-08,
+      "timestamp": "2025-06-12 23:19"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.766139187150274e-05,
+      "timestamp": "2025-06-12 23:19"
+    },
+    {
+      "rank": 5,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.905896595557355e-05,
+      "timestamp": "2025-06-12 23:19"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0501008722126208e-05,
+      "timestamp": "2025-06-12 23:19"
+    },
+    {
+      "rank": 7,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.3900322196085854e-06,
+      "timestamp": "2025-06-12 23:19"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.488811966794848e-05,
+      "timestamp": "2025-06-12 23:19"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02492383867825198,
+      "timestamp": "2025-06-12 23:19"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 3.0246185839597706e-05,
+      "timestamp": "2025-06-12 23:19"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.671921784218984e-06,
+      "timestamp": "2025-06-12 23:19"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003829668796423664,
+      "timestamp": "2025-06-12 23:19"
+    },
+    {
+      "rank": 13,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 1.992666417871241e-05,
+      "timestamp": "2025-06-12 23:19"
+    },
+    {
+      "rank": 14,
+      "name": "VaderAI by Virtuals",
+      "symbol": "VADER",
+      "price_btc": 5.041408684856776e-07,
+      "timestamp": "2025-06-12 23:19"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1622018112339975e-05,
+      "timestamp": "2025-06-12 23:19"
+    }
   ]
 }
