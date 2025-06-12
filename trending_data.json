@@ -143485,5 +143485,112 @@
       "price_btc": 7.867541006663773e-06,
       "timestamp": "2025-06-12 16:26"
     }
+  ],
+  "2025-06-12 17:18": [
+    {
+      "rank": 1,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.7009699135429148e-06,
+      "timestamp": "2025-06-12 17:18"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.9612085540938404e-05,
+      "timestamp": "2025-06-12 17:18"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.9474851905327214e-08,
+      "timestamp": "2025-06-12 17:18"
+    },
+    {
+      "rank": 4,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.1406012249573655e-05,
+      "timestamp": "2025-06-12 17:18"
+    },
+    {
+      "rank": 5,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.521203810344096e-05,
+      "timestamp": "2025-06-12 17:18"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003990583360386949,
+      "timestamp": "2025-06-12 17:18"
+    },
+    {
+      "rank": 7,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 2.9336547397246214e-07,
+      "timestamp": "2025-06-12 17:18"
+    },
+    {
+      "rank": 8,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 2.777055143909222e-06,
+      "timestamp": "2025-06-12 17:18"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2249995000477118e-05,
+      "timestamp": "2025-06-12 17:18"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0841060068276483e-05,
+      "timestamp": "2025-06-12 17:18"
+    },
+    {
+      "rank": 11,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 5.394001564249723e-06,
+      "timestamp": "2025-06-12 17:18"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003671880062429615,
+      "timestamp": "2025-06-12 17:18"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.790295634816021e-06,
+      "timestamp": "2025-06-12 17:18"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.7909574515582806e-06,
+      "timestamp": "2025-06-12 17:18"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.421802836118432e-06,
+      "timestamp": "2025-06-12 17:18"
+    }
   ]
 }
