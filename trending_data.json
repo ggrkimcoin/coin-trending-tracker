@@ -145197,5 +145197,112 @@
       "price_btc": 0.0027319970271589685,
       "timestamp": "2025-06-13 10:23"
     }
+  ],
+  "2025-06-13 11:18": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9052960034577767e-08,
+      "timestamp": "2025-06-13 11:18"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.479523449326609e-08,
+      "timestamp": "2025-06-13 11:18"
+    },
+    {
+      "rank": 3,
+      "name": "ENTERBEAT",
+      "symbol": "EBT",
+      "price_btc": 1.7719928792351046e-06,
+      "timestamp": "2025-06-13 11:18"
+    },
+    {
+      "rank": 4,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.6778407602235624e-06,
+      "timestamp": "2025-06-13 11:18"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.87559660323878e-05,
+      "timestamp": "2025-06-13 11:18"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00038017495935236447,
+      "timestamp": "2025-06-13 11:18"
+    },
+    {
+      "rank": 7,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 5.934921261071764e-06,
+      "timestamp": "2025-06-13 11:18"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0378563509551834e-05,
+      "timestamp": "2025-06-13 11:18"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-13 11:18"
+    },
+    {
+      "rank": 10,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2874824588871618e-05,
+      "timestamp": "2025-06-13 11:18"
+    },
+    {
+      "rank": 11,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 2.3685549999162783e-06,
+      "timestamp": "2025-06-13 11:18"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 1.901482119075005e-05,
+      "timestamp": "2025-06-13 11:18"
+    },
+    {
+      "rank": 13,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.67345320051769e-05,
+      "timestamp": "2025-06-13 11:18"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7401832435327065e-05,
+      "timestamp": "2025-06-13 11:18"
+    },
+    {
+      "rank": 15,
+      "name": "I.R.I.S",
+      "symbol": "IRIS",
+      "price_btc": 5.111765444068287e-07,
+      "timestamp": "2025-06-13 11:18"
+    }
   ]
 }
