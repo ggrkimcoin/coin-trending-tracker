@@ -146267,5 +146267,112 @@
       "price_btc": 7.922143779151667e-07,
       "timestamp": "2025-06-13 20:22"
     }
+  ],
+  "2025-06-13 21:19": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9494587194252198e-08,
+      "timestamp": "2025-06-13 21:19"
+    },
+    {
+      "rank": 2,
+      "name": "ENTERBEAT",
+      "symbol": "EBT",
+      "price_btc": 1.792486412675314e-06,
+      "timestamp": "2025-06-13 21:19"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.7973608750521895e-08,
+      "timestamp": "2025-06-13 21:19"
+    },
+    {
+      "rank": 4,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.451240785197191e-06,
+      "timestamp": "2025-06-13 21:19"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00039124783233636823,
+      "timestamp": "2025-06-13 21:19"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7557819037581122e-05,
+      "timestamp": "2025-06-13 21:19"
+    },
+    {
+      "rank": 7,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.484263962780644e-06,
+      "timestamp": "2025-06-13 21:19"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1885762423245023e-05,
+      "timestamp": "2025-06-13 21:19"
+    },
+    {
+      "rank": 9,
+      "name": "Jito",
+      "symbol": "JTO",
+      "price_btc": 1.8873194235136076e-05,
+      "timestamp": "2025-06-13 21:19"
+    },
+    {
+      "rank": 10,
+      "name": "Mamo",
+      "symbol": "MAMO",
+      "price_btc": 8.433611599485448e-07,
+      "timestamp": "2025-06-13 21:19"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.396743102023517e-05,
+      "timestamp": "2025-06-13 21:19"
+    },
+    {
+      "rank": 12,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 2.588216830857928e-06,
+      "timestamp": "2025-06-13 21:19"
+    },
+    {
+      "rank": 13,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.44018510557758e-06,
+      "timestamp": "2025-06-13 21:19"
+    },
+    {
+      "rank": 14,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 3.606130989393271e-05,
+      "timestamp": "2025-06-13 21:19"
+    },
+    {
+      "rank": 15,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 9.300309209167242e-07,
+      "timestamp": "2025-06-13 21:19"
+    }
   ]
 }
