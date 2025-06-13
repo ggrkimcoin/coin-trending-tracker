@@ -145946,5 +145946,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-06-13 17:18"
     }
+  ],
+  "2025-06-13 18:29": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9333368954983362e-08,
+      "timestamp": "2025-06-13 18:29"
+    },
+    {
+      "rank": 2,
+      "name": "ENTERBEAT",
+      "symbol": "EBT",
+      "price_btc": 1.80400903963417e-06,
+      "timestamp": "2025-06-13 18:29"
+    },
+    {
+      "rank": 3,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.301214603398614e-06,
+      "timestamp": "2025-06-13 18:29"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.83072950335906e-08,
+      "timestamp": "2025-06-13 18:29"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003860845024586534,
+      "timestamp": "2025-06-13 18:29"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3223968259822972e-05,
+      "timestamp": "2025-06-13 18:29"
+    },
+    {
+      "rank": 7,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.5591322749300623e-06,
+      "timestamp": "2025-06-13 18:29"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.735997217056204e-05,
+      "timestamp": "2025-06-13 18:29"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.420903848195226e-06,
+      "timestamp": "2025-06-13 18:29"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0952594961139654e-05,
+      "timestamp": "2025-06-13 18:29"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.759148377770602e-06,
+      "timestamp": "2025-06-13 18:29"
+    },
+    {
+      "rank": 12,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00018160520908434778,
+      "timestamp": "2025-06-13 18:29"
+    },
+    {
+      "rank": 13,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 9.540969629794332e-07,
+      "timestamp": "2025-06-13 18:29"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001381970612206395,
+      "timestamp": "2025-06-13 18:29"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024033660722608072,
+      "timestamp": "2025-06-13 18:29"
+    }
   ]
 }
