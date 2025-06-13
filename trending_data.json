@@ -146053,5 +146053,112 @@
       "price_btc": 0.024033660722608072,
       "timestamp": "2025-06-13 18:29"
     }
+  ],
+  "2025-06-13 19:16": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9218260290202792e-08,
+      "timestamp": "2025-06-13 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "ENTERBEAT",
+      "symbol": "EBT",
+      "price_btc": 1.7988724856509822e-06,
+      "timestamp": "2025-06-13 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.6037298084439036e-08,
+      "timestamp": "2025-06-13 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.2546371688068585e-06,
+      "timestamp": "2025-06-13 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00038521482384088433,
+      "timestamp": "2025-06-13 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013800616889908866,
+      "timestamp": "2025-06-13 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.54789858866612e-06,
+      "timestamp": "2025-06-13 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3137227496047875e-05,
+      "timestamp": "2025-06-13 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024056301240970995,
+      "timestamp": "2025-06-13 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.143311577642952e-08,
+      "timestamp": "2025-06-13 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 9.532304834215225e-07,
+      "timestamp": "2025-06-13 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7415391053650113e-05,
+      "timestamp": "2025-06-13 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.547318279267355e-05,
+      "timestamp": "2025-06-13 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.104276568551681e-05,
+      "timestamp": "2025-06-13 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.319094035505894e-06,
+      "timestamp": "2025-06-13 19:16"
+    }
   ]
 }
