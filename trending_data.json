@@ -144983,5 +144983,112 @@
       "price_btc": 1.9278462765677507e-05,
       "timestamp": "2025-06-13 08:28"
     }
+  ],
+  "2025-06-13 09:22": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9235299971069308e-08,
+      "timestamp": "2025-06-13 09:22"
+    },
+    {
+      "rank": 2,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.7530176273013579e-06,
+      "timestamp": "2025-06-13 09:22"
+    },
+    {
+      "rank": 3,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 5.95243615038407e-06,
+      "timestamp": "2025-06-13 09:22"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003740296250732883,
+      "timestamp": "2025-06-13 09:22"
+    },
+    {
+      "rank": 5,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3411146567008826e-05,
+      "timestamp": "2025-06-13 09:22"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.884762199174049e-05,
+      "timestamp": "2025-06-13 09:22"
+    },
+    {
+      "rank": 7,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.7259933561393684e-08,
+      "timestamp": "2025-06-13 09:22"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013829482726074671,
+      "timestamp": "2025-06-13 09:22"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003541173483655086,
+      "timestamp": "2025-06-13 09:22"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7558178125841903e-05,
+      "timestamp": "2025-06-13 09:22"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.063179659985395e-06,
+      "timestamp": "2025-06-13 09:22"
+    },
+    {
+      "rank": 12,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 1.5556078347478672e-06,
+      "timestamp": "2025-06-13 09:22"
+    },
+    {
+      "rank": 13,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 9.429551176668702e-07,
+      "timestamp": "2025-06-13 09:22"
+    },
+    {
+      "rank": 14,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.912543163624655e-08,
+      "timestamp": "2025-06-13 09:22"
+    },
+    {
+      "rank": 15,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.3135229725763376e-05,
+      "timestamp": "2025-06-13 09:22"
+    }
   ]
 }
