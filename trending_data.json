@@ -144234,5 +144234,112 @@
       "price_btc": 1.1622018112339975e-05,
       "timestamp": "2025-06-12 23:19"
     }
+  ],
+  "2025-06-13 01:46": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-13 01:46"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.011533051538789e-08,
+      "timestamp": "2025-06-13 01:46"
+    },
+    {
+      "rank": 3,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.674295336362925e-05,
+      "timestamp": "2025-06-13 01:46"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00036475714165217356,
+      "timestamp": "2025-06-13 01:46"
+    },
+    {
+      "rank": 5,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 5.7832792994312505e-06,
+      "timestamp": "2025-06-13 01:46"
+    },
+    {
+      "rank": 6,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.829521723441406e-05,
+      "timestamp": "2025-06-13 01:46"
+    },
+    {
+      "rank": 7,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.1791875240668605e-06,
+      "timestamp": "2025-06-13 01:46"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.8549406062200643e-05,
+      "timestamp": "2025-06-13 01:46"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013864841912472263,
+      "timestamp": "2025-06-13 01:46"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.512581362720722e-06,
+      "timestamp": "2025-06-13 01:46"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3902526899658947e-05,
+      "timestamp": "2025-06-13 01:46"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0529217521469922e-05,
+      "timestamp": "2025-06-13 01:46"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02409513233387027,
+      "timestamp": "2025-06-13 01:46"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0322973262747257e-05,
+      "timestamp": "2025-06-13 01:46"
+    },
+    {
+      "rank": 15,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 6.633573448310682e-05,
+      "timestamp": "2025-06-13 01:46"
+    }
   ]
 }
