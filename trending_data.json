@@ -145839,5 +145839,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-06-13 16:26"
     }
+  ],
+  "2025-06-13 17:18": [
+    {
+      "rank": 1,
+      "name": "ENTERBEAT",
+      "symbol": "EBT",
+      "price_btc": 1.9296145066152513e-06,
+      "timestamp": "2025-06-13 17:18"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.954259455888296e-08,
+      "timestamp": "2025-06-13 17:18"
+    },
+    {
+      "rank": 3,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.566842957309637e-06,
+      "timestamp": "2025-06-13 17:18"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.0251729071178116e-08,
+      "timestamp": "2025-06-13 17:18"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003925904661590909,
+      "timestamp": "2025-06-13 17:18"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0107884151146722e-05,
+      "timestamp": "2025-06-13 17:18"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.111856282167337e-05,
+      "timestamp": "2025-06-13 17:18"
+    },
+    {
+      "rank": 8,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.4534240338043545e-06,
+      "timestamp": "2025-06-13 17:18"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.507711330435805e-06,
+      "timestamp": "2025-06-13 17:18"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001393172237160381,
+      "timestamp": "2025-06-13 17:18"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.641781658942048e-06,
+      "timestamp": "2025-06-13 17:18"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3635985232491738e-05,
+      "timestamp": "2025-06-13 17:18"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.426711479405466e-06,
+      "timestamp": "2025-06-13 17:18"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.035582411202905e-05,
+      "timestamp": "2025-06-13 17:18"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-13 17:18"
+    }
   ]
 }
