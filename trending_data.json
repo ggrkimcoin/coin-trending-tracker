@@ -145625,5 +145625,112 @@
       "price_btc": 9.707571567545486e-06,
       "timestamp": "2025-06-13 14:20"
     }
+  ],
+  "2025-06-13 15:22": [
+    {
+      "rank": 1,
+      "name": "ENTERBEAT",
+      "symbol": "EBT",
+      "price_btc": 1.9402865204229156e-06,
+      "timestamp": "2025-06-13 15:22"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.933295548606031e-08,
+      "timestamp": "2025-06-13 15:22"
+    },
+    {
+      "rank": 3,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3262553497818506e-05,
+      "timestamp": "2025-06-13 15:22"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003849015868753542,
+      "timestamp": "2025-06-13 15:22"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.703231676107233e-08,
+      "timestamp": "2025-06-13 15:22"
+    },
+    {
+      "rank": 6,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.2027431505181935e-06,
+      "timestamp": "2025-06-13 15:22"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013895471526521063,
+      "timestamp": "2025-06-13 15:22"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.252896278432169e-06,
+      "timestamp": "2025-06-13 15:22"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024126871879831563,
+      "timestamp": "2025-06-13 15:22"
+    },
+    {
+      "rank": 10,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.4976445027472643e-06,
+      "timestamp": "2025-06-13 15:22"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7401647217883855e-05,
+      "timestamp": "2025-06-13 15:22"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1201804986103696e-05,
+      "timestamp": "2025-06-13 15:22"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.285407521315689e-06,
+      "timestamp": "2025-06-13 15:22"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.8637375245353203e-05,
+      "timestamp": "2025-06-13 15:22"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003480122076274447,
+      "timestamp": "2025-06-13 15:22"
+    }
   ]
 }
