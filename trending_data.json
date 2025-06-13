@@ -146374,5 +146374,112 @@
       "price_btc": 9.300309209167242e-07,
       "timestamp": "2025-06-13 21:19"
     }
+  ],
+  "2025-06-13 22:19": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.960776917124179e-08,
+      "timestamp": "2025-06-13 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "ENTERBEAT",
+      "symbol": "EBT",
+      "price_btc": 1.419827989288016e-06,
+      "timestamp": "2025-06-13 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.238365579689897e-08,
+      "timestamp": "2025-06-13 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0004011366957867496,
+      "timestamp": "2025-06-13 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4152453358220739e-05,
+      "timestamp": "2025-06-13 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.652758994414938e-06,
+      "timestamp": "2025-06-13 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.2028936875926592e-05,
+      "timestamp": "2025-06-13 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.377454099568446e-06,
+      "timestamp": "2025-06-13 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.9012535097929934e-05,
+      "timestamp": "2025-06-13 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.4222438920008819e-06,
+      "timestamp": "2025-06-13 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024241262749274226,
+      "timestamp": "2025-06-13 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.053285149919219e-10,
+      "timestamp": "2025-06-13 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.498512965315636e-06,
+      "timestamp": "2025-06-13 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013947119720199338,
+      "timestamp": "2025-06-13 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035121813337511505,
+      "timestamp": "2025-06-13 22:19"
+    }
   ]
 }
