@@ -145518,5 +145518,112 @@
       "price_btc": 0.0026844403975366006,
       "timestamp": "2025-06-13 13:32"
     }
+  ],
+  "2025-06-13 14:20": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9160048916200297e-08,
+      "timestamp": "2025-06-13 14:20"
+    },
+    {
+      "rank": 2,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.5542647312251487e-06,
+      "timestamp": "2025-06-13 14:20"
+    },
+    {
+      "rank": 3,
+      "name": "ENTERBEAT",
+      "symbol": "EBT",
+      "price_btc": 1.7820893915063019e-06,
+      "timestamp": "2025-06-13 14:20"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003829203981329736,
+      "timestamp": "2025-06-13 14:20"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.0976874104827795e-08,
+      "timestamp": "2025-06-13 14:20"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2747831834526672e-05,
+      "timestamp": "2025-06-13 14:20"
+    },
+    {
+      "rank": 7,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 5.984858505264756e-06,
+      "timestamp": "2025-06-13 14:20"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7361987541254052e-05,
+      "timestamp": "2025-06-13 14:20"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-13 14:20"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0770317238234304e-05,
+      "timestamp": "2025-06-13 14:20"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013886422234965128,
+      "timestamp": "2025-06-13 14:20"
+    },
+    {
+      "rank": 12,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0026828013403663257,
+      "timestamp": "2025-06-13 14:20"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0034981672818103775,
+      "timestamp": "2025-06-13 14:20"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0455873991417138e-05,
+      "timestamp": "2025-06-13 14:20"
+    },
+    {
+      "rank": 15,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.707571567545486e-06,
+      "timestamp": "2025-06-13 14:20"
+    }
   ]
 }
