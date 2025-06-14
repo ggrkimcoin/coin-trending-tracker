@@ -147444,5 +147444,112 @@
       "price_btc": 1.3911639204366071e-05,
       "timestamp": "2025-06-14 09:20"
     }
+  ],
+  "2025-06-14 10:20": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9834816054409988e-08,
+      "timestamp": "2025-06-14 10:20"
+    },
+    {
+      "rank": 2,
+      "name": "Neiro",
+      "symbol": "NEIRO",
+      "price_btc": 3.828101999009404e-09,
+      "timestamp": "2025-06-14 10:20"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.3195175860215126e-08,
+      "timestamp": "2025-06-14 10:20"
+    },
+    {
+      "rank": 4,
+      "name": "ENTERBEAT",
+      "symbol": "EBT",
+      "price_btc": 1.7166959593184008e-06,
+      "timestamp": "2025-06-14 10:20"
+    },
+    {
+      "rank": 5,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.8423892945384195e-06,
+      "timestamp": "2025-06-14 10:20"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003555884968957006,
+      "timestamp": "2025-06-14 10:20"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-14 10:20"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.380385785429394e-05,
+      "timestamp": "2025-06-14 10:20"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0004004270446744743,
+      "timestamp": "2025-06-14 10:20"
+    },
+    {
+      "rank": 10,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.92583949707689e-06,
+      "timestamp": "2025-06-14 10:20"
+    },
+    {
+      "rank": 11,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002614128438549772,
+      "timestamp": "2025-06-14 10:20"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024061895053862328,
+      "timestamp": "2025-06-14 10:20"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.554676021744573e-06,
+      "timestamp": "2025-06-14 10:20"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.149571339809895e-05,
+      "timestamp": "2025-06-14 10:20"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.2601423601166634e-06,
+      "timestamp": "2025-06-14 10:20"
+    }
   ]
 }
