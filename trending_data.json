@@ -147979,5 +147979,112 @@
       "price_btc": 1.754414258158258e-05,
       "timestamp": "2025-06-14 14:17"
     }
+  ],
+  "2025-06-14 15:19": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9895208504489452e-08,
+      "timestamp": "2025-06-14 15:19"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.6612139566452286e-08,
+      "timestamp": "2025-06-14 15:19"
+    },
+    {
+      "rank": 3,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 2.1116209758487403e-06,
+      "timestamp": "2025-06-14 15:19"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.806539117645211e-06,
+      "timestamp": "2025-06-14 15:19"
+    },
+    {
+      "rank": 5,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 9.375368520402426e-06,
+      "timestamp": "2025-06-14 15:19"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00038944014144210934,
+      "timestamp": "2025-06-14 15:19"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7475351560968242e-05,
+      "timestamp": "2025-06-14 15:19"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3415206712815122e-05,
+      "timestamp": "2025-06-14 15:19"
+    },
+    {
+      "rank": 9,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.855693227863666e-05,
+      "timestamp": "2025-06-14 15:19"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0632709022326075e-05,
+      "timestamp": "2025-06-14 15:19"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024098520099678788,
+      "timestamp": "2025-06-14 15:19"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1400821823311109e-05,
+      "timestamp": "2025-06-14 15:19"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.0562382572139841e-10,
+      "timestamp": "2025-06-14 15:19"
+    },
+    {
+      "rank": 14,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 7.14828744719389e-07,
+      "timestamp": "2025-06-14 15:19"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.2786184908619536e-06,
+      "timestamp": "2025-06-14 15:19"
+    }
   ]
 }
