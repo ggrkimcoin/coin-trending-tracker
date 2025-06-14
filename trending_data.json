@@ -147016,5 +147016,112 @@
       "price_btc": 1.1723122294388003e-05,
       "timestamp": "2025-06-14 05:20"
     }
+  ],
+  "2025-06-14 06:27": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.002430136394095e-08,
+      "timestamp": "2025-06-14 06:27"
+    },
+    {
+      "rank": 2,
+      "name": "ENTERBEAT",
+      "symbol": "EBT",
+      "price_btc": 1.7095478577650386e-06,
+      "timestamp": "2025-06-14 06:27"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.906191613742976e-08,
+      "timestamp": "2025-06-14 06:27"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.012119132496724e-06,
+      "timestamp": "2025-06-14 06:27"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0004037005299076046,
+      "timestamp": "2025-06-14 06:27"
+    },
+    {
+      "rank": 6,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.6485766467186509e-06,
+      "timestamp": "2025-06-14 06:27"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.5665070968253755e-06,
+      "timestamp": "2025-06-14 06:27"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4061855560484566e-05,
+      "timestamp": "2025-06-14 06:27"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035799755194555636,
+      "timestamp": "2025-06-14 06:27"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-14 06:27"
+    },
+    {
+      "rank": 11,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00018294304415461714,
+      "timestamp": "2025-06-14 06:27"
+    },
+    {
+      "rank": 12,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.5505658370043112e-05,
+      "timestamp": "2025-06-14 06:27"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.0645989766486034e-10,
+      "timestamp": "2025-06-14 06:27"
+    },
+    {
+      "rank": 14,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 2.7414556938042036e-07,
+      "timestamp": "2025-06-14 06:27"
+    },
+    {
+      "rank": 15,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 2.558339684839493e-06,
+      "timestamp": "2025-06-14 06:27"
+    }
   ]
 }
