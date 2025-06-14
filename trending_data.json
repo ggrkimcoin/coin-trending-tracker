@@ -147230,5 +147230,112 @@
       "price_btc": 0.02420575268984849,
       "timestamp": "2025-06-14 07:18"
     }
+  ],
+  "2025-06-14 08:24": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.0003730268335824e-08,
+      "timestamp": "2025-06-14 08:24"
+    },
+    {
+      "rank": 2,
+      "name": "ENTERBEAT",
+      "symbol": "EBT",
+      "price_btc": 1.7134644219334504e-06,
+      "timestamp": "2025-06-14 08:24"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.2092054728731463e-08,
+      "timestamp": "2025-06-14 08:24"
+    },
+    {
+      "rank": 4,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.8678906437678614e-06,
+      "timestamp": "2025-06-14 08:24"
+    },
+    {
+      "rank": 5,
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "price_btc": 3.644675265996607e-08,
+      "timestamp": "2025-06-14 08:24"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-14 08:24"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003566045743222513,
+      "timestamp": "2025-06-14 08:24"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.909467415659762e-06,
+      "timestamp": "2025-06-14 08:24"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.52727654127716e-06,
+      "timestamp": "2025-06-14 08:24"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024148454562870188,
+      "timestamp": "2025-06-14 08:24"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1647035841732968e-05,
+      "timestamp": "2025-06-14 08:24"
+    },
+    {
+      "rank": 12,
+      "name": "Sky",
+      "symbol": "SKY",
+      "price_btc": 8.448281103200449e-07,
+      "timestamp": "2025-06-14 08:24"
+    },
+    {
+      "rank": 13,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0341882134575535e-05,
+      "timestamp": "2025-06-14 08:24"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 1.960869671311796e-05,
+      "timestamp": "2025-06-14 08:24"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3836327635995929e-05,
+      "timestamp": "2025-06-14 08:24"
+    }
   ]
 }
