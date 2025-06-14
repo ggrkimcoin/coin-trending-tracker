@@ -146588,5 +146588,112 @@
       "price_btc": 3.244321544534242e-05,
       "timestamp": "2025-06-13 23:20"
     }
+  ],
+  "2025-06-14 01:42": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9657239321179004e-08,
+      "timestamp": "2025-06-14 01:42"
+    },
+    {
+      "rank": 2,
+      "name": "ENTERBEAT",
+      "symbol": "EBT",
+      "price_btc": 1.4212883157140809e-06,
+      "timestamp": "2025-06-14 01:42"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.0739612539937163e-08,
+      "timestamp": "2025-06-14 01:42"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.0634945537016095e-06,
+      "timestamp": "2025-06-14 01:42"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.878166077793935e-05,
+      "timestamp": "2025-06-14 01:42"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-14 01:42"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00039726865869361104,
+      "timestamp": "2025-06-14 01:42"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4437649868835478e-05,
+      "timestamp": "2025-06-14 01:42"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.789841422812031e-05,
+      "timestamp": "2025-06-14 01:42"
+    },
+    {
+      "rank": 10,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.6273376467515883e-06,
+      "timestamp": "2025-06-14 01:42"
+    },
+    {
+      "rank": 11,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0027352928010607076,
+      "timestamp": "2025-06-14 01:42"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1887722060661782e-05,
+      "timestamp": "2025-06-14 01:42"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.814720100626513e-06,
+      "timestamp": "2025-06-14 01:42"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02423637846184721,
+      "timestamp": "2025-06-14 01:42"
+    },
+    {
+      "rank": 15,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00011028424223273168,
+      "timestamp": "2025-06-14 01:42"
+    }
   ]
 }
