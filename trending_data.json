@@ -148728,5 +148728,112 @@
       "price_btc": 6.947212341326206e-07,
       "timestamp": "2025-06-14 21:18"
     }
+  ],
+  "2025-06-14 22:19": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.982798070320008e-08,
+      "timestamp": "2025-06-14 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.697863964276752e-06,
+      "timestamp": "2025-06-14 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 2.182668562278691e-06,
+      "timestamp": "2025-06-14 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 6.98723841421484e-07,
+      "timestamp": "2025-06-14 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.037533612406916e-08,
+      "timestamp": "2025-06-14 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.774166260719467e-06,
+      "timestamp": "2025-06-14 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00038019866371986135,
+      "timestamp": "2025-06-14 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7249908089448876e-05,
+      "timestamp": "2025-06-14 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001372906503515709,
+      "timestamp": "2025-06-14 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-14 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 1.2436612467843117e-06,
+      "timestamp": "2025-06-14 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1150183938844575e-05,
+      "timestamp": "2025-06-14 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.7066824370077476e-05,
+      "timestamp": "2025-06-14 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.5355720212864745e-06,
+      "timestamp": "2025-06-14 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 3.222725065823363e-05,
+      "timestamp": "2025-06-14 22:19"
+    }
   ]
 }
