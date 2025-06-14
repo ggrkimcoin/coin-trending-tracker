@@ -147123,5 +147123,112 @@
       "price_btc": 2.558339684839493e-06,
       "timestamp": "2025-06-14 06:27"
     }
+  ],
+  "2025-06-14 07:18": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.00066234249446e-08,
+      "timestamp": "2025-06-14 07:18"
+    },
+    {
+      "rank": 2,
+      "name": "ENTERBEAT",
+      "symbol": "EBT",
+      "price_btc": 1.7136171014498934e-06,
+      "timestamp": "2025-06-14 07:18"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.047323956182733e-08,
+      "timestamp": "2025-06-14 07:18"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.997923466513383e-06,
+      "timestamp": "2025-06-14 07:18"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0004009441907459705,
+      "timestamp": "2025-06-14 07:18"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3822057859397011e-05,
+      "timestamp": "2025-06-14 07:18"
+    },
+    {
+      "rank": 7,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.6525280401854457e-06,
+      "timestamp": "2025-06-14 07:18"
+    },
+    {
+      "rank": 8,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 2.6619166071331674e-07,
+      "timestamp": "2025-06-14 07:18"
+    },
+    {
+      "rank": 9,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.7325470649975204e-05,
+      "timestamp": "2025-06-14 07:18"
+    },
+    {
+      "rank": 10,
+      "name": "Sky",
+      "symbol": "SKY",
+      "price_btc": 8.488732054856314e-07,
+      "timestamp": "2025-06-14 07:18"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.8821014511068725e-05,
+      "timestamp": "2025-06-14 07:18"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003561237883887569,
+      "timestamp": "2025-06-14 07:18"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0027043173669240935,
+      "timestamp": "2025-06-14 07:18"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-14 07:18"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02420575268984849,
+      "timestamp": "2025-06-14 07:18"
+    }
   ]
 }
