@@ -148407,5 +148407,112 @@
       "price_btc": 9.52672322475362e-06,
       "timestamp": "2025-06-14 18:26"
     }
+  ],
+  "2025-06-14 19:15": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.953359730832251e-08,
+      "timestamp": "2025-06-14 19:15"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.169927738256775e-08,
+      "timestamp": "2025-06-14 19:15"
+    },
+    {
+      "rank": 3,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.8676737243389029e-06,
+      "timestamp": "2025-06-14 19:15"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.70152403619959e-06,
+      "timestamp": "2025-06-14 19:15"
+    },
+    {
+      "rank": 5,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 1.2365809715077605e-06,
+      "timestamp": "2025-06-14 19:15"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.7062390561538547e-05,
+      "timestamp": "2025-06-14 19:15"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00037633732728040023,
+      "timestamp": "2025-06-14 19:15"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.723469675066095e-05,
+      "timestamp": "2025-06-14 19:15"
+    },
+    {
+      "rank": 9,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3009611763614148e-05,
+      "timestamp": "2025-06-14 19:15"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1014647589804659e-05,
+      "timestamp": "2025-06-14 19:15"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013710892844577135,
+      "timestamp": "2025-06-14 19:15"
+    },
+    {
+      "rank": 12,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.14801838885659e-06,
+      "timestamp": "2025-06-14 19:15"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.375689566489323e-06,
+      "timestamp": "2025-06-14 19:15"
+    },
+    {
+      "rank": 14,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7948316815247594e-05,
+      "timestamp": "2025-06-14 19:15"
+    },
+    {
+      "rank": 15,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00012364128786226673,
+      "timestamp": "2025-06-14 19:15"
+    }
   ]
 }
