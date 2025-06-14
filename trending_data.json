@@ -146695,5 +146695,112 @@
       "price_btc": 0.00011028424223273168,
       "timestamp": "2025-06-14 01:42"
     }
+  ],
+  "2025-06-14 03:12": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9727196644023073e-08,
+      "timestamp": "2025-06-14 03:12"
+    },
+    {
+      "rank": 2,
+      "name": "ENTERBEAT",
+      "symbol": "EBT",
+      "price_btc": 1.2958345547667964e-06,
+      "timestamp": "2025-06-14 03:12"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.053361727490205e-08,
+      "timestamp": "2025-06-14 03:12"
+    },
+    {
+      "rank": 4,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.7028378087461572e-06,
+      "timestamp": "2025-06-14 03:12"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013927956218310695,
+      "timestamp": "2025-06-14 03:12"
+    },
+    {
+      "rank": 6,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.065670270218486e-06,
+      "timestamp": "2025-06-14 03:12"
+    },
+    {
+      "rank": 7,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0027448602021036337,
+      "timestamp": "2025-06-14 03:12"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1741839312521361e-05,
+      "timestamp": "2025-06-14 03:12"
+    },
+    {
+      "rank": 9,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0245206163587185e-05,
+      "timestamp": "2025-06-14 03:12"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.513420693647699e-06,
+      "timestamp": "2025-06-14 03:12"
+    },
+    {
+      "rank": 11,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.7101262708477203e-05,
+      "timestamp": "2025-06-14 03:12"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.517512763829983e-06,
+      "timestamp": "2025-06-14 03:12"
+    },
+    {
+      "rank": 13,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.651039809158512e-05,
+      "timestamp": "2025-06-14 03:12"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-14 03:12"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.8769488084245385e-05,
+      "timestamp": "2025-06-14 03:12"
+    }
   ]
 }
