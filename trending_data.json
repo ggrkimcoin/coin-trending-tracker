@@ -148621,5 +148621,112 @@
       "price_btc": 1.0833584097308634e-05,
       "timestamp": "2025-06-14 20:20"
     }
+  ],
+  "2025-06-14 21:18": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9508305050041416e-08,
+      "timestamp": "2025-06-14 21:18"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.0431702618488164e-08,
+      "timestamp": "2025-06-14 21:18"
+    },
+    {
+      "rank": 3,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 2.0310309813183626e-06,
+      "timestamp": "2025-06-14 21:18"
+    },
+    {
+      "rank": 4,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 1.2371077559328633e-06,
+      "timestamp": "2025-06-14 21:18"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00037433168298825714,
+      "timestamp": "2025-06-14 21:18"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2954343390671912e-05,
+      "timestamp": "2025-06-14 21:18"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013612334023664669,
+      "timestamp": "2025-06-14 21:18"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.704691701966836e-06,
+      "timestamp": "2025-06-14 21:18"
+    },
+    {
+      "rank": 9,
+      "name": "Everybody",
+      "symbol": "HOLD",
+      "price_btc": 1.3553710930768289e-08,
+      "timestamp": "2025-06-14 21:18"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.48899626073577e-06,
+      "timestamp": "2025-06-14 21:18"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.7493633599731803e-05,
+      "timestamp": "2025-06-14 21:18"
+    },
+    {
+      "rank": 12,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.3936837673533305e-06,
+      "timestamp": "2025-06-14 21:18"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023912205349247394,
+      "timestamp": "2025-06-14 21:18"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-14 21:18"
+    },
+    {
+      "rank": 15,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 6.947212341326206e-07,
+      "timestamp": "2025-06-14 21:18"
+    }
   ]
 }
