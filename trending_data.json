@@ -146802,5 +146802,112 @@
       "price_btc": 2.8769488084245385e-05,
       "timestamp": "2025-06-14 03:12"
     }
+  ],
+  "2025-06-14 04:25": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9853158674474826e-08,
+      "timestamp": "2025-06-14 04:25"
+    },
+    {
+      "rank": 2,
+      "name": "ENTERBEAT",
+      "symbol": "EBT",
+      "price_btc": 1.708746172881696e-06,
+      "timestamp": "2025-06-14 04:25"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.82235348784315e-08,
+      "timestamp": "2025-06-14 04:25"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.9913927519935215e-06,
+      "timestamp": "2025-06-14 04:25"
+    },
+    {
+      "rank": 5,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.6786228009412016e-06,
+      "timestamp": "2025-06-14 04:25"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013941461345186726,
+      "timestamp": "2025-06-14 04:25"
+    },
+    {
+      "rank": 7,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.039263535242425e-05,
+      "timestamp": "2025-06-14 04:25"
+    },
+    {
+      "rank": 8,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.3829259829694679e-05,
+      "timestamp": "2025-06-14 04:25"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.8804039324581386e-05,
+      "timestamp": "2025-06-14 04:25"
+    },
+    {
+      "rank": 10,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.5403007074211122e-05,
+      "timestamp": "2025-06-14 04:25"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003977152391007459,
+      "timestamp": "2025-06-14 04:25"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4137732909562657e-05,
+      "timestamp": "2025-06-14 04:25"
+    },
+    {
+      "rank": 13,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 7.362223462749553e-07,
+      "timestamp": "2025-06-14 04:25"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7746440886028158e-05,
+      "timestamp": "2025-06-14 04:25"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.51968706179637e-06,
+      "timestamp": "2025-06-14 04:25"
+    }
   ]
 }
