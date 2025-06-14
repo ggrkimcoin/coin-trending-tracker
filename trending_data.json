@@ -147337,5 +147337,112 @@
       "price_btc": 1.3836327635995929e-05,
       "timestamp": "2025-06-14 08:24"
     }
+  ],
+  "2025-06-14 09:20": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9937589843314646e-08,
+      "timestamp": "2025-06-14 09:20"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.43349192952028e-08,
+      "timestamp": "2025-06-14 09:20"
+    },
+    {
+      "rank": 3,
+      "name": "ENTERBEAT",
+      "symbol": "EBT",
+      "price_btc": 1.8001211365241723e-06,
+      "timestamp": "2025-06-14 09:20"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0004033329910430089,
+      "timestamp": "2025-06-14 09:20"
+    },
+    {
+      "rank": 5,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.8651104516073822e-06,
+      "timestamp": "2025-06-14 09:20"
+    },
+    {
+      "rank": 6,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.9060187077096135e-06,
+      "timestamp": "2025-06-14 09:20"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02412126925231531,
+      "timestamp": "2025-06-14 09:20"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003564633696817695,
+      "timestamp": "2025-06-14 09:20"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.75812924407408e-05,
+      "timestamp": "2025-06-14 09:20"
+    },
+    {
+      "rank": 10,
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "price_btc": 3.629377531000664e-08,
+      "timestamp": "2025-06-14 09:20"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1555088713926725e-05,
+      "timestamp": "2025-06-14 09:20"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013870205964384016,
+      "timestamp": "2025-06-14 09:20"
+    },
+    {
+      "rank": 13,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 2.585076674199598e-06,
+      "timestamp": "2025-06-14 09:20"
+    },
+    {
+      "rank": 14,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006189830216050971,
+      "timestamp": "2025-06-14 09:20"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3911639204366071e-05,
+      "timestamp": "2025-06-14 09:20"
+    }
   ]
 }
