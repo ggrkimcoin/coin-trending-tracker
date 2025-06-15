@@ -149477,5 +149477,112 @@
       "price_btc": 2.8540269878363256e-05,
       "timestamp": "2025-06-15 06:28"
     }
+  ],
+  "2025-06-15 07:18": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9866961770137274e-08,
+      "timestamp": "2025-06-15 07:18"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.148239380180291e-08,
+      "timestamp": "2025-06-15 07:18"
+    },
+    {
+      "rank": 3,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.105882842661695e-06,
+      "timestamp": "2025-06-15 07:18"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.850449592706979e-06,
+      "timestamp": "2025-06-15 07:18"
+    },
+    {
+      "rank": 5,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.367560159493637e-06,
+      "timestamp": "2025-06-15 07:18"
+    },
+    {
+      "rank": 6,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.070710244883146e-06,
+      "timestamp": "2025-06-15 07:18"
+    },
+    {
+      "rank": 7,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.8714705037576689e-06,
+      "timestamp": "2025-06-15 07:18"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0034836074177624116,
+      "timestamp": "2025-06-15 07:18"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003832812191496905,
+      "timestamp": "2025-06-15 07:18"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.4819522523976605e-06,
+      "timestamp": "2025-06-15 07:18"
+    },
+    {
+      "rank": 11,
+      "name": "Sky",
+      "symbol": "SKY",
+      "price_btc": 8.177511253221416e-07,
+      "timestamp": "2025-06-15 07:18"
+    },
+    {
+      "rank": 12,
+      "name": "AB",
+      "symbol": "AB",
+      "price_btc": 1.419247342795076e-07,
+      "timestamp": "2025-06-15 07:18"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.849913488176054e-05,
+      "timestamp": "2025-06-15 07:18"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.72272783932112e-05,
+      "timestamp": "2025-06-15 07:18"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0025903530298066026,
+      "timestamp": "2025-06-15 07:18"
+    }
   ]
 }
