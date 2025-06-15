@@ -149798,5 +149798,112 @@
       "price_btc": 9.536649147030029e-06,
       "timestamp": "2025-06-15 09:20"
     }
+  ],
+  "2025-06-15 10:22": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9773936320456776e-08,
+      "timestamp": "2025-06-15 10:22"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.149305066977601e-08,
+      "timestamp": "2025-06-15 10:22"
+    },
+    {
+      "rank": 3,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.81032929617128e-06,
+      "timestamp": "2025-06-15 10:22"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00037971955616013855,
+      "timestamp": "2025-06-15 10:22"
+    },
+    {
+      "rank": 5,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.990593075001343e-06,
+      "timestamp": "2025-06-15 10:22"
+    },
+    {
+      "rank": 6,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.8372638507612125e-06,
+      "timestamp": "2025-06-15 10:22"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.410799838739727e-06,
+      "timestamp": "2025-06-15 10:22"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3239785119577183e-05,
+      "timestamp": "2025-06-15 10:22"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013772612646628807,
+      "timestamp": "2025-06-15 10:22"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023942511431214737,
+      "timestamp": "2025-06-15 10:22"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0034519777933199737,
+      "timestamp": "2025-06-15 10:22"
+    },
+    {
+      "rank": 12,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 9.251331553313585e-06,
+      "timestamp": "2025-06-15 10:22"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7054327984118658e-05,
+      "timestamp": "2025-06-15 10:22"
+    },
+    {
+      "rank": 14,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006156543246124149,
+      "timestamp": "2025-06-15 10:22"
+    },
+    {
+      "rank": 15,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 6.902071065684621e-07,
+      "timestamp": "2025-06-15 10:22"
+    }
   ]
 }
