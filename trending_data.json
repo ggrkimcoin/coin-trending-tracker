@@ -149263,5 +149263,112 @@
       "price_btc": 6.999390709292335e-06,
       "timestamp": "2025-06-15 04:30"
     }
+  ],
+  "2025-06-15 05:19": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9912811746621027e-08,
+      "timestamp": "2025-06-15 05:19"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.904435840411675e-08,
+      "timestamp": "2025-06-15 05:19"
+    },
+    {
+      "rank": 3,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.7491696421563224e-06,
+      "timestamp": "2025-06-15 05:19"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-15 05:19"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.720285572058889e-05,
+      "timestamp": "2025-06-15 05:19"
+    },
+    {
+      "rank": 6,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0026207027781644213,
+      "timestamp": "2025-06-15 05:19"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00037807903731266893,
+      "timestamp": "2025-06-15 05:19"
+    },
+    {
+      "rank": 8,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 6.702862333901606e-07,
+      "timestamp": "2025-06-15 05:19"
+    },
+    {
+      "rank": 9,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.574883212579501e-06,
+      "timestamp": "2025-06-15 05:19"
+    },
+    {
+      "rank": 10,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.6879788714340367e-06,
+      "timestamp": "2025-06-15 05:19"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003484285271218501,
+      "timestamp": "2025-06-15 05:19"
+    },
+    {
+      "rank": 12,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 2.445610303357775e-06,
+      "timestamp": "2025-06-15 05:19"
+    },
+    {
+      "rank": 13,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00012566180401933112,
+      "timestamp": "2025-06-15 05:19"
+    },
+    {
+      "rank": 14,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 9.494535428444415e-05,
+      "timestamp": "2025-06-15 05:19"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024063105867479496,
+      "timestamp": "2025-06-15 05:19"
+    }
   ]
 }
