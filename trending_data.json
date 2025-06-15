@@ -149584,5 +149584,112 @@
       "price_btc": 0.0025903530298066026,
       "timestamp": "2025-06-15 07:18"
     }
+  ],
+  "2025-06-15 08:24": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9799446484105178e-08,
+      "timestamp": "2025-06-15 08:24"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.189184218653037e-08,
+      "timestamp": "2025-06-15 08:24"
+    },
+    {
+      "rank": 3,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.8852048417622963e-06,
+      "timestamp": "2025-06-15 08:24"
+    },
+    {
+      "rank": 4,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.748880810177073e-06,
+      "timestamp": "2025-06-15 08:24"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.831909491380469e-06,
+      "timestamp": "2025-06-15 08:24"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00038262297628167085,
+      "timestamp": "2025-06-15 08:24"
+    },
+    {
+      "rank": 7,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.0509801324093205e-06,
+      "timestamp": "2025-06-15 08:24"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013798329024249346,
+      "timestamp": "2025-06-15 08:24"
+    },
+    {
+      "rank": 9,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.4975380047905943e-05,
+      "timestamp": "2025-06-15 08:24"
+    },
+    {
+      "rank": 10,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 9.555350012435114e-07,
+      "timestamp": "2025-06-15 08:24"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.8333433461138285e-05,
+      "timestamp": "2025-06-15 08:24"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023956131170792594,
+      "timestamp": "2025-06-15 08:24"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7006609648742906e-05,
+      "timestamp": "2025-06-15 08:24"
+    },
+    {
+      "rank": 14,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.368695893422602e-05,
+      "timestamp": "2025-06-15 08:24"
+    },
+    {
+      "rank": 15,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 2.389009227550135e-06,
+      "timestamp": "2025-06-15 08:24"
+    }
   ]
 }
