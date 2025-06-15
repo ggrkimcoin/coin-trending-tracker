@@ -149049,5 +149049,112 @@
       "price_btc": 4.3700017712837e-06,
       "timestamp": "2025-06-15 01:55"
     }
+  ],
+  "2025-06-15 03:25": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9951999014325235e-08,
+      "timestamp": "2025-06-15 03:25"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.794867137440548e-08,
+      "timestamp": "2025-06-15 03:25"
+    },
+    {
+      "rank": 3,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.6988129801522332e-06,
+      "timestamp": "2025-06-15 03:25"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013807419420605246,
+      "timestamp": "2025-06-15 03:25"
+    },
+    {
+      "rank": 5,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00012552431326788902,
+      "timestamp": "2025-06-15 03:25"
+    },
+    {
+      "rank": 6,
+      "name": "USD1",
+      "symbol": "USD1",
+      "price_btc": 9.48828791692966e-06,
+      "timestamp": "2025-06-15 03:25"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-15 03:25"
+    },
+    {
+      "rank": 8,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.6843014338746385e-06,
+      "timestamp": "2025-06-15 03:25"
+    },
+    {
+      "rank": 9,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 1.3408599621470953e-06,
+      "timestamp": "2025-06-15 03:25"
+    },
+    {
+      "rank": 10,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 2.504429138819544e-06,
+      "timestamp": "2025-06-15 03:25"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003850914878148539,
+      "timestamp": "2025-06-15 03:25"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023993637145353863,
+      "timestamp": "2025-06-15 03:25"
+    },
+    {
+      "rank": 13,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.019683410437253e-06,
+      "timestamp": "2025-06-15 03:25"
+    },
+    {
+      "rank": 14,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.362792631370889e-05,
+      "timestamp": "2025-06-15 03:25"
+    },
+    {
+      "rank": 15,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 9.281852617028864e-06,
+      "timestamp": "2025-06-15 03:25"
+    }
   ]
 }
