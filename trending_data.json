@@ -151189,5 +151189,112 @@
       "price_btc": 6.865271449092974e-06,
       "timestamp": "2025-06-15 22:18"
     }
+  ],
+  "2025-06-15 23:18": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9763227271170983e-08,
+      "timestamp": "2025-06-15 23:18"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.987624971326619e-08,
+      "timestamp": "2025-06-15 23:18"
+    },
+    {
+      "rank": 3,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.206622176998454e-06,
+      "timestamp": "2025-06-15 23:18"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7579843516550742e-05,
+      "timestamp": "2025-06-15 23:18"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014448794752359626,
+      "timestamp": "2025-06-15 23:18"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.51516796312535e-06,
+      "timestamp": "2025-06-15 23:18"
+    },
+    {
+      "rank": 7,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.657135812321012e-05,
+      "timestamp": "2025-06-15 23:18"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.197742775660985e-06,
+      "timestamp": "2025-06-15 23:18"
+    },
+    {
+      "rank": 9,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.868855133021994e-06,
+      "timestamp": "2025-06-15 23:18"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024169606484324722,
+      "timestamp": "2025-06-15 23:18"
+    },
+    {
+      "rank": 11,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 7.681363550253691e-07,
+      "timestamp": "2025-06-15 23:18"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.853165370217864e-06,
+      "timestamp": "2025-06-15 23:18"
+    },
+    {
+      "rank": 13,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.5164216834814694e-06,
+      "timestamp": "2025-06-15 23:18"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00038982285501255095,
+      "timestamp": "2025-06-15 23:18"
+    },
+    {
+      "rank": 15,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.3385283583481042e-05,
+      "timestamp": "2025-06-15 23:18"
+    }
   ]
 }
