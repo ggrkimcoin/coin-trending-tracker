@@ -150119,5 +150119,112 @@
       "price_btc": 1.1781632351371743e-05,
       "timestamp": "2025-06-15 12:38"
     }
+  ],
+  "2025-06-15 13:27": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9853207204281377e-08,
+      "timestamp": "2025-06-15 13:27"
+    },
+    {
+      "rank": 2,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 1.1400929542455375e-05,
+      "timestamp": "2025-06-15 13:27"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.9473974209017236e-08,
+      "timestamp": "2025-06-15 13:27"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003817690346976726,
+      "timestamp": "2025-06-15 13:27"
+    },
+    {
+      "rank": 5,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.463597085108963e-06,
+      "timestamp": "2025-06-15 13:27"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02402191907234116,
+      "timestamp": "2025-06-15 13:27"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013980123586993178,
+      "timestamp": "2025-06-15 13:27"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7381159506812833e-05,
+      "timestamp": "2025-06-15 13:27"
+    },
+    {
+      "rank": 9,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.662331866304762e-06,
+      "timestamp": "2025-06-15 13:27"
+    },
+    {
+      "rank": 10,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.971737853317285e-06,
+      "timestamp": "2025-06-15 13:27"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.211180818740233e-06,
+      "timestamp": "2025-06-15 13:27"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-15 13:27"
+    },
+    {
+      "rank": 13,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 7.776859227736342e-07,
+      "timestamp": "2025-06-15 13:27"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.818338784907493e-05,
+      "timestamp": "2025-06-15 13:27"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.361479177297227e-05,
+      "timestamp": "2025-06-15 13:27"
+    }
   ]
 }
