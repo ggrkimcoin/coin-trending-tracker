@@ -150761,5 +150761,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-06-15 18:26"
     }
+  ],
+  "2025-06-15 19:15": [
+    {
+      "rank": 1,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 7.499293468024391e-06,
+      "timestamp": "2025-06-15 19:15"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.976919315812913e-08,
+      "timestamp": "2025-06-15 19:15"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.3735460705075223e-08,
+      "timestamp": "2025-06-15 19:15"
+    },
+    {
+      "rank": 4,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.9149378861019257e-06,
+      "timestamp": "2025-06-15 19:15"
+    },
+    {
+      "rank": 5,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.25851278292891e-06,
+      "timestamp": "2025-06-15 19:15"
+    },
+    {
+      "rank": 6,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.844504453988561e-06,
+      "timestamp": "2025-06-15 19:15"
+    },
+    {
+      "rank": 7,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 9.370818167412199e-07,
+      "timestamp": "2025-06-15 19:15"
+    },
+    {
+      "rank": 8,
+      "name": "KOGE",
+      "symbol": "KOGE",
+      "price_btc": 0.0002618572737455606,
+      "timestamp": "2025-06-15 19:15"
+    },
+    {
+      "rank": 9,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 8.632210379190936e-07,
+      "timestamp": "2025-06-15 19:15"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00039020444145036265,
+      "timestamp": "2025-06-15 19:15"
+    },
+    {
+      "rank": 11,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.0962083308577224e-05,
+      "timestamp": "2025-06-15 19:15"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.907672683183448e-06,
+      "timestamp": "2025-06-15 19:15"
+    },
+    {
+      "rank": 13,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4070064285294043e-05,
+      "timestamp": "2025-06-15 19:15"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.8719885311000315e-05,
+      "timestamp": "2025-06-15 19:15"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014474030420928686,
+      "timestamp": "2025-06-15 19:15"
+    }
   ]
 }
