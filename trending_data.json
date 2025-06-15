@@ -150226,5 +150226,112 @@
       "price_btc": 1.361479177297227e-05,
       "timestamp": "2025-06-15 13:27"
     }
+  ],
+  "2025-06-15 14:17": [
+    {
+      "rank": 1,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 7.251217042452734e-06,
+      "timestamp": "2025-06-15 14:17"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9707106121848756e-08,
+      "timestamp": "2025-06-15 14:17"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.8578697812873105e-08,
+      "timestamp": "2025-06-15 14:17"
+    },
+    {
+      "rank": 4,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.9461399291361485e-06,
+      "timestamp": "2025-06-15 14:17"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7356507845483824e-05,
+      "timestamp": "2025-06-15 14:17"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.856154741935246e-06,
+      "timestamp": "2025-06-15 14:17"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003845294617587243,
+      "timestamp": "2025-06-15 14:17"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.002927455821543e-06,
+      "timestamp": "2025-06-15 14:17"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.810085068085891e-05,
+      "timestamp": "2025-06-15 14:17"
+    },
+    {
+      "rank": 10,
+      "name": "KOGE",
+      "symbol": "KOGE",
+      "price_btc": 0.00023174195128282626,
+      "timestamp": "2025-06-15 14:17"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.462893349061162e-06,
+      "timestamp": "2025-06-15 14:17"
+    },
+    {
+      "rank": 12,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.6810613180040905e-05,
+      "timestamp": "2025-06-15 14:17"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-15 14:17"
+    },
+    {
+      "rank": 14,
+      "name": "PAX Gold",
+      "symbol": "PAXG",
+      "price_btc": 0.032996429560131844,
+      "timestamp": "2025-06-15 14:17"
+    },
+    {
+      "rank": 15,
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "price_btc": 1.018307816031588e-05,
+      "timestamp": "2025-06-15 14:17"
+    }
   ]
 }
