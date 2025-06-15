@@ -149370,5 +149370,112 @@
       "price_btc": 0.024063105867479496,
       "timestamp": "2025-06-15 05:19"
     }
+  ],
+  "2025-06-15 06:28": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9908505653289742e-08,
+      "timestamp": "2025-06-15 06:28"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.9375828125477614e-08,
+      "timestamp": "2025-06-15 06:28"
+    },
+    {
+      "rank": 3,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.353450688890651e-06,
+      "timestamp": "2025-06-15 06:28"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00038539805177511134,
+      "timestamp": "2025-06-15 06:28"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7329721089520593e-05,
+      "timestamp": "2025-06-15 06:28"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.4227728154269575e-06,
+      "timestamp": "2025-06-15 06:28"
+    },
+    {
+      "rank": 7,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.116272004048141e-06,
+      "timestamp": "2025-06-15 06:28"
+    },
+    {
+      "rank": 8,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.7911220436966862e-06,
+      "timestamp": "2025-06-15 06:28"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.8113682564439545e-06,
+      "timestamp": "2025-06-15 06:28"
+    },
+    {
+      "rank": 10,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.8204816045139255e-06,
+      "timestamp": "2025-06-15 06:28"
+    },
+    {
+      "rank": 11,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.2635250534635012e-05,
+      "timestamp": "2025-06-15 06:28"
+    },
+    {
+      "rank": 12,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 3.940817069563164e-06,
+      "timestamp": "2025-06-15 06:28"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013917614467060923,
+      "timestamp": "2025-06-15 06:28"
+    },
+    {
+      "rank": 14,
+      "name": "The Graph",
+      "symbol": "GRT",
+      "price_btc": 8.264939808024999e-07,
+      "timestamp": "2025-06-15 06:28"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.8540269878363256e-05,
+      "timestamp": "2025-06-15 06:28"
+    }
   ]
 }
