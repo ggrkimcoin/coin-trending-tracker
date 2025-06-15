@@ -150012,5 +150012,112 @@
       "price_btc": 0.003480694573380577,
       "timestamp": "2025-06-15 11:16"
     }
+  ],
+  "2025-06-15 12:38": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9839810030634697e-08,
+      "timestamp": "2025-06-15 12:38"
+    },
+    {
+      "rank": 2,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.611815125497799e-06,
+      "timestamp": "2025-06-15 12:38"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003830335249770578,
+      "timestamp": "2025-06-15 12:38"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.002581731165352e-08,
+      "timestamp": "2025-06-15 12:38"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-15 12:38"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013964692177092209,
+      "timestamp": "2025-06-15 12:38"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02398612150844651,
+      "timestamp": "2025-06-15 12:38"
+    },
+    {
+      "rank": 8,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0026283813797399846,
+      "timestamp": "2025-06-15 12:38"
+    },
+    {
+      "rank": 9,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00010764571262053049,
+      "timestamp": "2025-06-15 12:38"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.815751759522997e-05,
+      "timestamp": "2025-06-15 12:38"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 6.915798127914086e-07,
+      "timestamp": "2025-06-15 12:38"
+    },
+    {
+      "rank": 12,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 5.96634097019667e-06,
+      "timestamp": "2025-06-15 12:38"
+    },
+    {
+      "rank": 13,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00018039359651433288,
+      "timestamp": "2025-06-15 12:38"
+    },
+    {
+      "rank": 14,
+      "name": "USD1",
+      "symbol": "USD1",
+      "price_btc": 9.543658741623251e-06,
+      "timestamp": "2025-06-15 12:38"
+    },
+    {
+      "rank": 15,
+      "name": "Eigenlayer",
+      "symbol": "EIGEN",
+      "price_btc": 1.1781632351371743e-05,
+      "timestamp": "2025-06-15 12:38"
+    }
   ]
 }
