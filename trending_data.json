@@ -151082,5 +151082,112 @@
       "price_btc": 0.003420192575596867,
       "timestamp": "2025-06-15 21:18"
     }
+  ],
+  "2025-06-15 22:18": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.981151060506514e-08,
+      "timestamp": "2025-06-15 22:18"
+    },
+    {
+      "rank": 2,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.024775072922439e-06,
+      "timestamp": "2025-06-15 22:18"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.04536424919009e-08,
+      "timestamp": "2025-06-15 22:18"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014391434226672499,
+      "timestamp": "2025-06-15 22:18"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.8689417587154698e-05,
+      "timestamp": "2025-06-15 22:18"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.944044404271974e-06,
+      "timestamp": "2025-06-15 22:18"
+    },
+    {
+      "rank": 7,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.8512516653685436e-06,
+      "timestamp": "2025-06-15 22:18"
+    },
+    {
+      "rank": 8,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.844170374349385e-06,
+      "timestamp": "2025-06-15 22:18"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.752961012900863e-05,
+      "timestamp": "2025-06-15 22:18"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003838554474849133,
+      "timestamp": "2025-06-15 22:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02410210464829308,
+      "timestamp": "2025-06-15 22:18"
+    },
+    {
+      "rank": 12,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 4.734324282159384e-07,
+      "timestamp": "2025-06-15 22:18"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.061280900356615e-05,
+      "timestamp": "2025-06-15 22:18"
+    },
+    {
+      "rank": 14,
+      "name": "Constellation",
+      "symbol": "DAG",
+      "price_btc": 3.643600544078234e-07,
+      "timestamp": "2025-06-15 22:18"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.865271449092974e-06,
+      "timestamp": "2025-06-15 22:18"
+    }
   ]
 }
