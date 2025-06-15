@@ -150333,5 +150333,112 @@
       "price_btc": 1.018307816031588e-05,
       "timestamp": "2025-06-15 14:17"
     }
+  ],
+  "2025-06-15 15:19": [
+    {
+      "rank": 1,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 7.93220664799345e-06,
+      "timestamp": "2025-06-15 15:19"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9895995793158287e-08,
+      "timestamp": "2025-06-15 15:19"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014396061014043473,
+      "timestamp": "2025-06-15 15:19"
+    },
+    {
+      "rank": 4,
+      "name": "KOGE",
+      "symbol": "KOGE",
+      "price_btc": 0.00028354121397577606,
+      "timestamp": "2025-06-15 15:19"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003873566556660275,
+      "timestamp": "2025-06-15 15:19"
+    },
+    {
+      "rank": 6,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.8870132152656544e-06,
+      "timestamp": "2025-06-15 15:19"
+    },
+    {
+      "rank": 7,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.358648890416958e-06,
+      "timestamp": "2025-06-15 15:19"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4220746028183375e-05,
+      "timestamp": "2025-06-15 15:19"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024113106640682516,
+      "timestamp": "2025-06-15 15:19"
+    },
+    {
+      "rank": 10,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.963153848540595e-06,
+      "timestamp": "2025-06-15 15:19"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7614538623206842e-05,
+      "timestamp": "2025-06-15 15:19"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0035136722824065584,
+      "timestamp": "2025-06-15 15:19"
+    },
+    {
+      "rank": 13,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.5869709481796635e-08,
+      "timestamp": "2025-06-15 15:19"
+    },
+    {
+      "rank": 14,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 8.677489638314698e-07,
+      "timestamp": "2025-06-15 15:19"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-15 15:19"
+    }
   ]
 }
