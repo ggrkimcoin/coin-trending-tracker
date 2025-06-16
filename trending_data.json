@@ -151724,5 +151724,112 @@
       "price_btc": 2.8799148982323977e-06,
       "timestamp": "2025-06-16 05:22"
     }
+  ],
+  "2025-06-16 06:32": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.0067210567802082e-08,
+      "timestamp": "2025-06-16 06:32"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.40834665724193e-08,
+      "timestamp": "2025-06-16 06:32"
+    },
+    {
+      "rank": 3,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.094467259067372e-06,
+      "timestamp": "2025-06-16 06:32"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00041234927307524086,
+      "timestamp": "2025-06-16 06:32"
+    },
+    {
+      "rank": 5,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.6742063851487496e-06,
+      "timestamp": "2025-06-16 06:32"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.8037114900567685e-05,
+      "timestamp": "2025-06-16 06:32"
+    },
+    {
+      "rank": 7,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.689577037722538e-06,
+      "timestamp": "2025-06-16 06:32"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.459993604222309e-06,
+      "timestamp": "2025-06-16 06:32"
+    },
+    {
+      "rank": 9,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.291818934451376e-06,
+      "timestamp": "2025-06-16 06:32"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 1.0654101115536379e-10,
+      "timestamp": "2025-06-16 06:32"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4988242578874754e-05,
+      "timestamp": "2025-06-16 06:32"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0244958737167311,
+      "timestamp": "2025-06-16 06:32"
+    },
+    {
+      "rank": 13,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 7.408465703873444e-07,
+      "timestamp": "2025-06-16 06:32"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.930505383314445e-06,
+      "timestamp": "2025-06-16 06:32"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.2192354853072713e-06,
+      "timestamp": "2025-06-16 06:32"
+    }
   ]
 }
