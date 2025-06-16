@@ -151938,5 +151938,112 @@
       "price_btc": 1.6903675782674314e-05,
       "timestamp": "2025-06-16 07:22"
     }
+  ],
+  "2025-06-16 08:29": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00041381857065330395,
+      "timestamp": "2025-06-16 08:29"
+    },
+    {
+      "rank": 2,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.3705303744545607e-06,
+      "timestamp": "2025-06-16 08:29"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.0019270937089787e-08,
+      "timestamp": "2025-06-16 08:29"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.3069390017806755e-08,
+      "timestamp": "2025-06-16 08:29"
+    },
+    {
+      "rank": 5,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.7249068693553943e-06,
+      "timestamp": "2025-06-16 08:29"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0113589143353168e-05,
+      "timestamp": "2025-06-16 08:29"
+    },
+    {
+      "rank": 7,
+      "name": "Velo",
+      "symbol": "VELO",
+      "price_btc": 1.0585629435086766e-07,
+      "timestamp": "2025-06-16 08:29"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.5692665450206167e-05,
+      "timestamp": "2025-06-16 08:29"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1983170577844664e-05,
+      "timestamp": "2025-06-16 08:29"
+    },
+    {
+      "rank": 10,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.933139214087954e-06,
+      "timestamp": "2025-06-16 08:29"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001465966727730764,
+      "timestamp": "2025-06-16 08:29"
+    },
+    {
+      "rank": 12,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.6805907515645686e-05,
+      "timestamp": "2025-06-16 08:29"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.812086843971935e-05,
+      "timestamp": "2025-06-16 08:29"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.9164633623091506e-05,
+      "timestamp": "2025-06-16 08:29"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.566858973865117e-06,
+      "timestamp": "2025-06-16 08:29"
+    }
   ]
 }
