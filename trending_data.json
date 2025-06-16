@@ -151617,5 +151617,112 @@
       "price_btc": 2.2306074132169786e-05,
       "timestamp": "2025-06-16 04:32"
     }
+  ],
+  "2025-06-16 05:22": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9866545528784708e-08,
+      "timestamp": "2025-06-16 05:22"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.349277078742915e-08,
+      "timestamp": "2025-06-16 05:22"
+    },
+    {
+      "rank": 3,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.1623536771855616e-06,
+      "timestamp": "2025-06-16 05:22"
+    },
+    {
+      "rank": 4,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.6949783462299183e-06,
+      "timestamp": "2025-06-16 05:22"
+    },
+    {
+      "rank": 5,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 7.54997216963462e-07,
+      "timestamp": "2025-06-16 05:22"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4306782065465138e-05,
+      "timestamp": "2025-06-16 05:22"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014727227466842996,
+      "timestamp": "2025-06-16 05:22"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.643459570620047e-06,
+      "timestamp": "2025-06-16 05:22"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1878842481313886e-05,
+      "timestamp": "2025-06-16 05:22"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.816422529234204e-06,
+      "timestamp": "2025-06-16 05:22"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.875746145861409e-05,
+      "timestamp": "2025-06-16 05:22"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7707234675203876e-05,
+      "timestamp": "2025-06-16 05:22"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000404820030770548,
+      "timestamp": "2025-06-16 05:22"
+    },
+    {
+      "rank": 14,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.3971035101724094e-06,
+      "timestamp": "2025-06-16 05:22"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.8799148982323977e-06,
+      "timestamp": "2025-06-16 05:22"
+    }
   ]
 }
