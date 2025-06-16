@@ -151510,5 +151510,112 @@
       "price_btc": 2.899072890105945e-05,
       "timestamp": "2025-06-16 03:22"
     }
+  ],
+  "2025-06-16 04:32": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9904653606604207e-08,
+      "timestamp": "2025-06-16 04:32"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.307849341867402e-08,
+      "timestamp": "2025-06-16 04:32"
+    },
+    {
+      "rank": 3,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.1837488913851456e-06,
+      "timestamp": "2025-06-16 04:32"
+    },
+    {
+      "rank": 4,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 7.730200843773472e-07,
+      "timestamp": "2025-06-16 04:32"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003993255617417151,
+      "timestamp": "2025-06-16 04:32"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4264211853670202e-05,
+      "timestamp": "2025-06-16 04:32"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024197241344384727,
+      "timestamp": "2025-06-16 04:32"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.86084963961679e-06,
+      "timestamp": "2025-06-16 04:32"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1999176712933918e-05,
+      "timestamp": "2025-06-16 04:32"
+    },
+    {
+      "rank": 10,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.6399729338164484e-06,
+      "timestamp": "2025-06-16 04:32"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.783417713785835e-05,
+      "timestamp": "2025-06-16 04:32"
+    },
+    {
+      "rank": 12,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002623074140566001,
+      "timestamp": "2025-06-16 04:32"
+    },
+    {
+      "rank": 13,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.555959874546953e-05,
+      "timestamp": "2025-06-16 04:32"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.878166967095211e-06,
+      "timestamp": "2025-06-16 04:32"
+    },
+    {
+      "rank": 15,
+      "name": "Jito",
+      "symbol": "JTO",
+      "price_btc": 2.2306074132169786e-05,
+      "timestamp": "2025-06-16 04:32"
+    }
   ]
 }
