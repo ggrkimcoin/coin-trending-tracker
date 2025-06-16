@@ -151296,5 +151296,112 @@
       "price_btc": 1.3385283583481042e-05,
       "timestamp": "2025-06-15 23:18"
     }
+  ],
+  "2025-06-16 01:50": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9665218781192045e-08,
+      "timestamp": "2025-06-16 01:50"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.3610838664890636e-08,
+      "timestamp": "2025-06-16 01:50"
+    },
+    {
+      "rank": 3,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.1045307014678993e-06,
+      "timestamp": "2025-06-16 01:50"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003873652720477063,
+      "timestamp": "2025-06-16 01:50"
+    },
+    {
+      "rank": 5,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.7396172213676726e-06,
+      "timestamp": "2025-06-16 01:50"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.69557998935135e-06,
+      "timestamp": "2025-06-16 01:50"
+    },
+    {
+      "rank": 7,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.60916149362877e-06,
+      "timestamp": "2025-06-16 01:50"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.714494774554432e-05,
+      "timestamp": "2025-06-16 01:50"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.048529981583196e-05,
+      "timestamp": "2025-06-16 01:50"
+    },
+    {
+      "rank": 10,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.928443618277063e-06,
+      "timestamp": "2025-06-16 01:50"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.497538469845144e-06,
+      "timestamp": "2025-06-16 01:50"
+    },
+    {
+      "rank": 12,
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "price_btc": 1.1358418500279551e-10,
+      "timestamp": "2025-06-16 01:50"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014473121826470536,
+      "timestamp": "2025-06-16 01:50"
+    },
+    {
+      "rank": 14,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.6507662686316384e-05,
+      "timestamp": "2025-06-16 01:50"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1406532253916941e-05,
+      "timestamp": "2025-06-16 01:50"
+    }
   ]
 }
