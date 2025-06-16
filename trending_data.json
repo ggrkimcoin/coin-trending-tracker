@@ -152794,5 +152794,112 @@
       "price_btc": 3.676350056730191e-05,
       "timestamp": "2025-06-16 15:23"
     }
+  ],
+  "2025-06-16 16:27": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.0216565645095997e-08,
+      "timestamp": "2025-06-16 16:27"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 5.2828715598269483e-08,
+      "timestamp": "2025-06-16 16:27"
+    },
+    {
+      "rank": 3,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.850651263955016e-06,
+      "timestamp": "2025-06-16 16:27"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0004146502133130073,
+      "timestamp": "2025-06-16 16:27"
+    },
+    {
+      "rank": 5,
+      "name": "AltLayer",
+      "symbol": "ALT",
+      "price_btc": 3.3739672272179257e-07,
+      "timestamp": "2025-06-16 16:27"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.081896241079967e-06,
+      "timestamp": "2025-06-16 16:27"
+    },
+    {
+      "rank": 7,
+      "name": "TRON",
+      "symbol": "TRX",
+      "price_btc": 2.622746807117247e-06,
+      "timestamp": "2025-06-16 16:27"
+    },
+    {
+      "rank": 8,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.7153534152567965e-06,
+      "timestamp": "2025-06-16 16:27"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.822445698852782e-05,
+      "timestamp": "2025-06-16 16:27"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.8990209159168445e-05,
+      "timestamp": "2025-06-16 16:27"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.514094857617745e-06,
+      "timestamp": "2025-06-16 16:27"
+    },
+    {
+      "rank": 12,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.6430547369910616e-06,
+      "timestamp": "2025-06-16 16:27"
+    },
+    {
+      "rank": 13,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 6.055813089602705e-06,
+      "timestamp": "2025-06-16 16:27"
+    },
+    {
+      "rank": 14,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4507676353362546e-05,
+      "timestamp": "2025-06-16 16:27"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0036044414854045793,
+      "timestamp": "2025-06-16 16:27"
+    }
   ]
 }
