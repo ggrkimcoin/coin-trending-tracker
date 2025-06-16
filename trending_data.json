@@ -152366,5 +152366,112 @@
       "price_btc": 5.613539097303852e-06,
       "timestamp": "2025-06-16 11:18"
     }
+  ],
+  "2025-06-16 12:45": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9976385179585546e-08,
+      "timestamp": "2025-06-16 12:45"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.358224973953723e-08,
+      "timestamp": "2025-06-16 12:45"
+    },
+    {
+      "rank": 3,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.6274572774104484e-06,
+      "timestamp": "2025-06-16 12:45"
+    },
+    {
+      "rank": 4,
+      "name": "AltLayer",
+      "symbol": "ALT",
+      "price_btc": 3.5680457736227435e-07,
+      "timestamp": "2025-06-16 12:45"
+    },
+    {
+      "rank": 5,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 1.0109456934544658e-05,
+      "timestamp": "2025-06-16 12:45"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014594552027896647,
+      "timestamp": "2025-06-16 12:45"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0004136842305965929,
+      "timestamp": "2025-06-16 12:45"
+    },
+    {
+      "rank": 8,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.014212656924939e-06,
+      "timestamp": "2025-06-16 12:45"
+    },
+    {
+      "rank": 9,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.7898694241766248e-06,
+      "timestamp": "2025-06-16 12:45"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-16 12:45"
+    },
+    {
+      "rank": 11,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.393241604663077e-06,
+      "timestamp": "2025-06-16 12:45"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.8966780905531235e-05,
+      "timestamp": "2025-06-16 12:45"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0026679817529490233,
+      "timestamp": "2025-06-16 12:45"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.119831321882278e-05,
+      "timestamp": "2025-06-16 12:45"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.5198940437236758e-05,
+      "timestamp": "2025-06-16 12:45"
+    }
   ]
 }
