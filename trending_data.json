@@ -153008,5 +153008,112 @@
       "price_btc": 4.686988675911742e-08,
       "timestamp": "2025-06-16 17:18"
     }
+  ],
+  "2025-06-16 18:30": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.0161767393209066e-08,
+      "timestamp": "2025-06-16 18:30"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.8429859047945475e-08,
+      "timestamp": "2025-06-16 18:30"
+    },
+    {
+      "rank": 3,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.814231492208205e-06,
+      "timestamp": "2025-06-16 18:30"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00041120867144973667,
+      "timestamp": "2025-06-16 18:30"
+    },
+    {
+      "rank": 5,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.899917144820364e-06,
+      "timestamp": "2025-06-16 18:30"
+    },
+    {
+      "rank": 6,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.6371340001784245e-06,
+      "timestamp": "2025-06-16 18:30"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014610413954514558,
+      "timestamp": "2025-06-16 18:30"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-16 18:30"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.140457748649207e-05,
+      "timestamp": "2025-06-16 18:30"
+    },
+    {
+      "rank": 10,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4654254496578898e-05,
+      "timestamp": "2025-06-16 18:30"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.482218703540885e-06,
+      "timestamp": "2025-06-16 18:30"
+    },
+    {
+      "rank": 12,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.00266860784422847,
+      "timestamp": "2025-06-16 18:30"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024441809022944953,
+      "timestamp": "2025-06-16 18:30"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1656417665735158e-05,
+      "timestamp": "2025-06-16 18:30"
+    },
+    {
+      "rank": 15,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.6219373103803243e-06,
+      "timestamp": "2025-06-16 18:30"
+    }
   ]
 }
