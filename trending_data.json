@@ -153543,5 +153543,112 @@
       "price_btc": 6.0278957807231144e-06,
       "timestamp": "2025-06-16 22:19"
     }
+  ],
+  "2025-06-16 23:19": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9824560729267047e-08,
+      "timestamp": "2025-06-16 23:19"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.249481469585906e-08,
+      "timestamp": "2025-06-16 23:19"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00039827464077601076,
+      "timestamp": "2025-06-16 23:19"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.594815218859327e-06,
+      "timestamp": "2025-06-16 23:19"
+    },
+    {
+      "rank": 5,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 5.133745102585973e-06,
+      "timestamp": "2025-06-16 23:19"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.1486336536944364e-05,
+      "timestamp": "2025-06-16 23:19"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.532451090206705e-06,
+      "timestamp": "2025-06-16 23:19"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014246137542088448,
+      "timestamp": "2025-06-16 23:19"
+    },
+    {
+      "rank": 9,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.4229682091962852e-06,
+      "timestamp": "2025-06-16 23:19"
+    },
+    {
+      "rank": 10,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4174521550767879e-05,
+      "timestamp": "2025-06-16 23:19"
+    },
+    {
+      "rank": 11,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 9.078719962912389e-07,
+      "timestamp": "2025-06-16 23:19"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7487052156349423e-05,
+      "timestamp": "2025-06-16 23:19"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.81639039588558e-06,
+      "timestamp": "2025-06-16 23:19"
+    },
+    {
+      "rank": 14,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00012846073011393708,
+      "timestamp": "2025-06-16 23:19"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-16 23:19"
+    }
   ]
 }
