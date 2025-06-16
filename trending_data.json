@@ -152901,5 +152901,112 @@
       "price_btc": 0.0036044414854045793,
       "timestamp": "2025-06-16 16:27"
     }
+  ],
+  "2025-06-16 17:18": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.018552800900545e-08,
+      "timestamp": "2025-06-16 17:18"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.7871194063896626e-08,
+      "timestamp": "2025-06-16 17:18"
+    },
+    {
+      "rank": 3,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.87944781189503e-06,
+      "timestamp": "2025-06-16 17:18"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0004179705000081806,
+      "timestamp": "2025-06-16 17:18"
+    },
+    {
+      "rank": 5,
+      "name": "TRON",
+      "symbol": "TRX",
+      "price_btc": 2.60559465371261e-06,
+      "timestamp": "2025-06-16 17:18"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.997028160137629e-06,
+      "timestamp": "2025-06-16 17:18"
+    },
+    {
+      "rank": 7,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.5910303101441282e-06,
+      "timestamp": "2025-06-16 17:18"
+    },
+    {
+      "rank": 8,
+      "name": "AltLayer",
+      "symbol": "ALT",
+      "price_btc": 3.359545616111227e-07,
+      "timestamp": "2025-06-16 17:18"
+    },
+    {
+      "rank": 9,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.6982109326276653e-06,
+      "timestamp": "2025-06-16 17:18"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.8977728741624612e-05,
+      "timestamp": "2025-06-16 17:18"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001461465055491004,
+      "timestamp": "2025-06-16 17:18"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.70528593202658e-06,
+      "timestamp": "2025-06-16 17:18"
+    },
+    {
+      "rank": 13,
+      "name": "Morpho",
+      "symbol": "MORPHO",
+      "price_btc": 1.3796435664783896e-05,
+      "timestamp": "2025-06-16 17:18"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.1445990908016026e-05,
+      "timestamp": "2025-06-16 17:18"
+    },
+    {
+      "rank": 15,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.686988675911742e-08,
+      "timestamp": "2025-06-16 17:18"
+    }
   ]
 }
