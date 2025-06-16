@@ -153329,5 +153329,112 @@
       "price_btc": 2.5784099754968526e-06,
       "timestamp": "2025-06-16 20:23"
     }
+  ],
+  "2025-06-16 21:19": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 2.019422263453865e-08,
+      "timestamp": "2025-06-16 21:19"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.726375275395196e-08,
+      "timestamp": "2025-06-16 21:19"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0004056981349446256,
+      "timestamp": "2025-06-16 21:19"
+    },
+    {
+      "rank": 4,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.644665610120016e-06,
+      "timestamp": "2025-06-16 21:19"
+    },
+    {
+      "rank": 5,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.879471655093857e-06,
+      "timestamp": "2025-06-16 21:19"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024491036258533605,
+      "timestamp": "2025-06-16 21:19"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.8767544404050117e-05,
+      "timestamp": "2025-06-16 21:19"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.4944045847188606e-05,
+      "timestamp": "2025-06-16 21:19"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014475993185845176,
+      "timestamp": "2025-06-16 21:19"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.830090321004642e-05,
+      "timestamp": "2025-06-16 21:19"
+    },
+    {
+      "rank": 11,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002649575983684215,
+      "timestamp": "2025-06-16 21:19"
+    },
+    {
+      "rank": 12,
+      "name": "TRON",
+      "symbol": "TRX",
+      "price_btc": 2.575826070975748e-06,
+      "timestamp": "2025-06-16 21:19"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.136509852613944e-05,
+      "timestamp": "2025-06-16 21:19"
+    },
+    {
+      "rank": 14,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 9.485505619935953e-06,
+      "timestamp": "2025-06-16 21:19"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-16 21:19"
+    }
   ]
 }
