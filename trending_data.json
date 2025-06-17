@@ -155897,5 +155897,112 @@
       "price_btc": 1.0794088922708927e-05,
       "timestamp": "2025-06-17 22:19"
     }
+  ],
+  "2025-06-17 23:19": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8885139847828554e-08,
+      "timestamp": "2025-06-17 23:19"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.422426028813561e-08,
+      "timestamp": "2025-06-17 23:19"
+    },
+    {
+      "rank": 3,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 1.132833057561419e-06,
+      "timestamp": "2025-06-17 23:19"
+    },
+    {
+      "rank": 4,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 5.480503502320974e-07,
+      "timestamp": "2025-06-17 23:19"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.619580052421808e-05,
+      "timestamp": "2025-06-17 23:19"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00038142781083596526,
+      "timestamp": "2025-06-17 23:19"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0033428580546704836,
+      "timestamp": "2025-06-17 23:19"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.630233849511002e-06,
+      "timestamp": "2025-06-17 23:19"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.7082499165720764e-05,
+      "timestamp": "2025-06-17 23:19"
+    },
+    {
+      "rank": 10,
+      "name": "Eigenlayer",
+      "symbol": "EIGEN",
+      "price_btc": 1.1197643637274728e-05,
+      "timestamp": "2025-06-17 23:19"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0656603503315258e-05,
+      "timestamp": "2025-06-17 23:19"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.29223929446228e-06,
+      "timestamp": "2025-06-17 23:19"
+    },
+    {
+      "rank": 13,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.1445485950351019e-06,
+      "timestamp": "2025-06-17 23:19"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.0861506126196165e-06,
+      "timestamp": "2025-06-17 23:19"
+    },
+    {
+      "rank": 15,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.6191903169898632e-06,
+      "timestamp": "2025-06-17 23:19"
+    }
   ]
 }
