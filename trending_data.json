@@ -155148,5 +155148,112 @@
       "price_btc": 4.7512313060692336e-07,
       "timestamp": "2025-06-17 15:23"
     }
+  ],
+  "2025-06-17 16:27": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9230430558194033e-08,
+      "timestamp": "2025-06-17 16:27"
+    },
+    {
+      "rank": 2,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 5.056163365497399e-07,
+      "timestamp": "2025-06-17 16:27"
+    },
+    {
+      "rank": 3,
+      "name": "Eigenlayer",
+      "symbol": "EIGEN",
+      "price_btc": 1.1196379175951e-05,
+      "timestamp": "2025-06-17 16:27"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.776255872895939e-08,
+      "timestamp": "2025-06-17 16:27"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00038037865124303894,
+      "timestamp": "2025-06-17 16:27"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014135197988173337,
+      "timestamp": "2025-06-17 16:27"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.1326128331909335e-06,
+      "timestamp": "2025-06-17 16:27"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6570592396659388e-05,
+      "timestamp": "2025-06-17 16:27"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-17 16:27"
+    },
+    {
+      "rank": 10,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.7482317746956205e-06,
+      "timestamp": "2025-06-17 16:27"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023920502815463568,
+      "timestamp": "2025-06-17 16:27"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0033027082843254175,
+      "timestamp": "2025-06-17 16:27"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.882358377075532e-06,
+      "timestamp": "2025-06-17 16:27"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.235250514963966e-06,
+      "timestamp": "2025-06-17 16:27"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0677510260775688e-05,
+      "timestamp": "2025-06-17 16:27"
+    }
   ]
 }
