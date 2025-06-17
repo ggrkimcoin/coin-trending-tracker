@@ -153864,5 +153864,112 @@
       "price_btc": 8.348533108859295e-06,
       "timestamp": "2025-06-17 03:18"
     }
+  ],
+  "2025-06-17 04:28": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.98054774478882e-08,
+      "timestamp": "2025-06-17 04:28"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.71919773832252e-08,
+      "timestamp": "2025-06-17 04:28"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00040098701531297637,
+      "timestamp": "2025-06-17 04:28"
+    },
+    {
+      "rank": 4,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.925206604288684e-06,
+      "timestamp": "2025-06-17 04:28"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014237931540493777,
+      "timestamp": "2025-06-17 04:28"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.089454212998369e-05,
+      "timestamp": "2025-06-17 04:28"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024217072999735384,
+      "timestamp": "2025-06-17 04:28"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.428271605190776e-06,
+      "timestamp": "2025-06-17 04:28"
+    },
+    {
+      "rank": 9,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.7844797818998744e-05,
+      "timestamp": "2025-06-17 04:28"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.403863737364336e-06,
+      "timestamp": "2025-06-17 04:28"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3807641043743831e-05,
+      "timestamp": "2025-06-17 04:28"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0882986518458718e-05,
+      "timestamp": "2025-06-17 04:28"
+    },
+    {
+      "rank": 13,
+      "name": "AltLayer",
+      "symbol": "ALT",
+      "price_btc": 3.1112077606513864e-07,
+      "timestamp": "2025-06-17 04:28"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.958701317681873e-11,
+      "timestamp": "2025-06-17 04:28"
+    },
+    {
+      "rank": 15,
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "price_btc": 5.6610689758707834e-06,
+      "timestamp": "2025-06-17 04:28"
+    }
   ]
 }
