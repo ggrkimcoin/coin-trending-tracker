@@ -155469,5 +155469,112 @@
       "price_btc": 0.02381298556289294,
       "timestamp": "2025-06-17 18:30"
     }
+  ],
+  "2025-06-17 19:16": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.910821330680339e-08,
+      "timestamp": "2025-06-17 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.51019204283969e-08,
+      "timestamp": "2025-06-17 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00038113792694336227,
+      "timestamp": "2025-06-17 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 5.517271463014467e-07,
+      "timestamp": "2025-06-17 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.27946615159404e-06,
+      "timestamp": "2025-06-17 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014159041964029262,
+      "timestamp": "2025-06-17 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 1.626145997988359e-06,
+      "timestamp": "2025-06-17 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 1.1128434829678664e-06,
+      "timestamp": "2025-06-17 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-17 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.7448237521674738e-05,
+      "timestamp": "2025-06-17 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.957128076488349e-06,
+      "timestamp": "2025-06-17 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Eigenlayer",
+      "symbol": "EIGEN",
+      "price_btc": 1.1381902153128447e-05,
+      "timestamp": "2025-06-17 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 8.285913169431926e-07,
+      "timestamp": "2025-06-17 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0847238502003976e-05,
+      "timestamp": "2025-06-17 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.2297275639600413e-06,
+      "timestamp": "2025-06-17 19:16"
+    }
   ]
 }
