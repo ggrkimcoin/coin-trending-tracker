@@ -154185,5 +154185,112 @@
       "price_btc": 2.790306507615682e-05,
       "timestamp": "2025-06-17 06:31"
     }
+  ],
+  "2025-06-17 07:20": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9593376387116202e-08,
+      "timestamp": "2025-06-17 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.876026793690263e-06,
+      "timestamp": "2025-06-17 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.542903913352056e-08,
+      "timestamp": "2025-06-17 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.197066886339989e-06,
+      "timestamp": "2025-06-17 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.120825643005322e-06,
+      "timestamp": "2025-06-17 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0033544625770332752,
+      "timestamp": "2025-06-17 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.329346340917875e-06,
+      "timestamp": "2025-06-17 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000395627182460542,
+      "timestamp": "2025-06-17 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3485966935548547e-05,
+      "timestamp": "2025-06-17 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014339732524370462,
+      "timestamp": "2025-06-17 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.4969783611624442e-06,
+      "timestamp": "2025-06-17 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.2562710079461145e-06,
+      "timestamp": "2025-06-17 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-17 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "AltLayer",
+      "symbol": "ALT",
+      "price_btc": 3.227023695914427e-07,
+      "timestamp": "2025-06-17 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.7161453759336617e-05,
+      "timestamp": "2025-06-17 07:20"
+    }
   ]
 }
