@@ -154399,5 +154399,112 @@
       "price_btc": 9.920674926984971e-11,
       "timestamp": "2025-06-17 08:29"
     }
+  ],
+  "2025-06-17 09:24": [
+    {
+      "rank": 1,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 6.194793633474993e-07,
+      "timestamp": "2025-06-17 09:24"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9447483699536702e-08,
+      "timestamp": "2025-06-17 09:24"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003836616008719794,
+      "timestamp": "2025-06-17 09:24"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.550225006411127e-08,
+      "timestamp": "2025-06-17 09:24"
+    },
+    {
+      "rank": 5,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.234641068239712e-06,
+      "timestamp": "2025-06-17 09:24"
+    },
+    {
+      "rank": 6,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.190401153972768e-06,
+      "timestamp": "2025-06-17 09:24"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02414443320594259,
+      "timestamp": "2025-06-17 09:24"
+    },
+    {
+      "rank": 8,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.7885023741945374e-06,
+      "timestamp": "2025-06-17 09:24"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.696498691592123e-05,
+      "timestamp": "2025-06-17 09:24"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014247834683163985,
+      "timestamp": "2025-06-17 09:24"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0883193591284306e-05,
+      "timestamp": "2025-06-17 09:24"
+    },
+    {
+      "rank": 12,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 2.3387067333422266e-06,
+      "timestamp": "2025-06-17 09:24"
+    },
+    {
+      "rank": 13,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 6.990192285682197e-07,
+      "timestamp": "2025-06-17 09:24"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-17 09:24"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.7387237790340517e-06,
+      "timestamp": "2025-06-17 09:24"
+    }
   ]
 }
