@@ -155041,5 +155041,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-06-17 14:21"
     }
+  ],
+  "2025-06-17 15:23": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9388903288719523e-08,
+      "timestamp": "2025-06-17 15:23"
+    },
+    {
+      "rank": 2,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 5.141021156531091e-07,
+      "timestamp": "2025-06-17 15:23"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00038321614042912083,
+      "timestamp": "2025-06-17 15:23"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.825392712347769e-08,
+      "timestamp": "2025-06-17 15:23"
+    },
+    {
+      "rank": 5,
+      "name": "Eigenlayer",
+      "symbol": "EIGEN",
+      "price_btc": 1.1353661942770912e-05,
+      "timestamp": "2025-06-17 15:23"
+    },
+    {
+      "rank": 6,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.9224347401892985e-06,
+      "timestamp": "2025-06-17 15:23"
+    },
+    {
+      "rank": 7,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0936808102328263e-05,
+      "timestamp": "2025-06-17 15:23"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.0465162567025925e-06,
+      "timestamp": "2025-06-17 15:23"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0815073792455759e-05,
+      "timestamp": "2025-06-17 15:23"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.7502780960226777e-05,
+      "timestamp": "2025-06-17 15:23"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014220480626913636,
+      "timestamp": "2025-06-17 15:23"
+    },
+    {
+      "rank": 12,
+      "name": "TRON",
+      "symbol": "TRX",
+      "price_btc": 2.6328319235661957e-06,
+      "timestamp": "2025-06-17 15:23"
+    },
+    {
+      "rank": 13,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 3.4717493815943476e-07,
+      "timestamp": "2025-06-17 15:23"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.217469978574073e-06,
+      "timestamp": "2025-06-17 15:23"
+    },
+    {
+      "rank": 15,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 4.7512313060692336e-07,
+      "timestamp": "2025-06-17 15:23"
+    }
   ]
 }
