@@ -155362,5 +155362,112 @@
       "price_btc": 3.6996182071223715e-05,
       "timestamp": "2025-06-17 17:19"
     }
+  ],
+  "2025-06-17 18:30": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8957700105577985e-08,
+      "timestamp": "2025-06-17 18:30"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.424933737943319e-08,
+      "timestamp": "2025-06-17 18:30"
+    },
+    {
+      "rank": 3,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 5.370566291897553e-07,
+      "timestamp": "2025-06-17 18:30"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.837867325306416e-06,
+      "timestamp": "2025-06-17 18:30"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00037550794353168905,
+      "timestamp": "2025-06-17 18:30"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001409294552108041,
+      "timestamp": "2025-06-17 18:30"
+    },
+    {
+      "rank": 7,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 1.6033732703641469e-06,
+      "timestamp": "2025-06-17 18:30"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-17 18:30"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.7185847216618768e-05,
+      "timestamp": "2025-06-17 18:30"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.707548322225745e-06,
+      "timestamp": "2025-06-17 18:30"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.080465854956986e-05,
+      "timestamp": "2025-06-17 18:30"
+    },
+    {
+      "rank": 12,
+      "name": "Eigenlayer",
+      "symbol": "EIGEN",
+      "price_btc": 1.1057531619138872e-05,
+      "timestamp": "2025-06-17 18:30"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.830380655751039e-06,
+      "timestamp": "2025-06-17 18:30"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0032615862567333463,
+      "timestamp": "2025-06-17 18:30"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02381298556289294,
+      "timestamp": "2025-06-17 18:30"
+    }
   ]
 }
