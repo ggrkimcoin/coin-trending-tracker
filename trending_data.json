@@ -154292,5 +154292,112 @@
       "price_btc": 1.7161453759336617e-05,
       "timestamp": "2025-06-17 07:20"
     }
+  ],
+  "2025-06-17 08:29": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9553982586025464e-08,
+      "timestamp": "2025-06-17 08:29"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00039501971593905276,
+      "timestamp": "2025-06-17 08:29"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.5709854874305896e-08,
+      "timestamp": "2025-06-17 08:29"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.199531672832368e-06,
+      "timestamp": "2025-06-17 08:29"
+    },
+    {
+      "rank": 5,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.719817137097484e-06,
+      "timestamp": "2025-06-17 08:29"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-17 08:29"
+    },
+    {
+      "rank": 7,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0926351974075813e-05,
+      "timestamp": "2025-06-17 08:29"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014298493321876064,
+      "timestamp": "2025-06-17 08:29"
+    },
+    {
+      "rank": 9,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.4611181949433046e-06,
+      "timestamp": "2025-06-17 08:29"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.265003277645927e-06,
+      "timestamp": "2025-06-17 08:29"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3618758584099681e-05,
+      "timestamp": "2025-06-17 08:29"
+    },
+    {
+      "rank": 12,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.880401826976666e-06,
+      "timestamp": "2025-06-17 08:29"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0912201596856343e-05,
+      "timestamp": "2025-06-17 08:29"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.1629260143020464e-06,
+      "timestamp": "2025-06-17 08:29"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.920674926984971e-11,
+      "timestamp": "2025-06-17 08:29"
+    }
   ]
 }
