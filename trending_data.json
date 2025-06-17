@@ -154934,5 +154934,112 @@
       "price_btc": 7.257561520805559e-06,
       "timestamp": "2025-06-17 13:32"
     }
+  ],
+  "2025-06-17 14:21": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.958257801267327e-08,
+      "timestamp": "2025-06-17 14:21"
+    },
+    {
+      "rank": 2,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 5.44113707855021e-07,
+      "timestamp": "2025-06-17 14:21"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.979769823844269e-08,
+      "timestamp": "2025-06-17 14:21"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003783069376750381,
+      "timestamp": "2025-06-17 14:21"
+    },
+    {
+      "rank": 5,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.900835113589676e-06,
+      "timestamp": "2025-06-17 14:21"
+    },
+    {
+      "rank": 6,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.974693976243164e-06,
+      "timestamp": "2025-06-17 14:21"
+    },
+    {
+      "rank": 7,
+      "name": "Eigenlayer",
+      "symbol": "EIGEN",
+      "price_btc": 1.1367281711258152e-05,
+      "timestamp": "2025-06-17 14:21"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.761785766386939e-05,
+      "timestamp": "2025-06-17 14:21"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0733249969882388e-05,
+      "timestamp": "2025-06-17 14:21"
+    },
+    {
+      "rank": 10,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3008819330400776e-05,
+      "timestamp": "2025-06-17 14:21"
+    },
+    {
+      "rank": 11,
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price_btc": 1.8901605714145362e-06,
+      "timestamp": "2025-06-17 14:21"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024283531177407284,
+      "timestamp": "2025-06-17 14:21"
+    },
+    {
+      "rank": 13,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.6199166609206532e-05,
+      "timestamp": "2025-06-17 14:21"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.877865840742085e-11,
+      "timestamp": "2025-06-17 14:21"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-17 14:21"
+    }
   ]
 }
