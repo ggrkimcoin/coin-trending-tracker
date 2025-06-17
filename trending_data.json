@@ -154078,5 +154078,112 @@
       "price_btc": 1.0863432663363076e-05,
       "timestamp": "2025-06-17 05:20"
     }
+  ],
+  "2025-06-17 06:31": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9578371736019344e-08,
+      "timestamp": "2025-06-17 06:31"
+    },
+    {
+      "rank": 2,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.953052250663399e-06,
+      "timestamp": "2025-06-17 06:31"
+    },
+    {
+      "rank": 3,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.284181660717818e-06,
+      "timestamp": "2025-06-17 06:31"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.570359420149482e-08,
+      "timestamp": "2025-06-17 06:31"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003370067344500565,
+      "timestamp": "2025-06-17 06:31"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.089232229793592e-06,
+      "timestamp": "2025-06-17 06:31"
+    },
+    {
+      "rank": 7,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.222235032057825e-06,
+      "timestamp": "2025-06-17 06:31"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014363910035082488,
+      "timestamp": "2025-06-17 06:31"
+    },
+    {
+      "rank": 9,
+      "name": "TRON",
+      "symbol": "TRX",
+      "price_btc": 2.585556122342674e-06,
+      "timestamp": "2025-06-17 06:31"
+    },
+    {
+      "rank": 10,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.5564671264771491e-06,
+      "timestamp": "2025-06-17 06:31"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.251355223662323e-06,
+      "timestamp": "2025-06-17 06:31"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00039778409250432905,
+      "timestamp": "2025-06-17 06:31"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024142274631416674,
+      "timestamp": "2025-06-17 06:31"
+    },
+    {
+      "rank": 14,
+      "name": "AltLayer",
+      "symbol": "ALT",
+      "price_btc": 3.222604415387058e-07,
+      "timestamp": "2025-06-17 06:31"
+    },
+    {
+      "rank": 15,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.790306507615682e-05,
+      "timestamp": "2025-06-17 06:31"
+    }
   ]
 }
