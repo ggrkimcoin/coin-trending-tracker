@@ -154827,5 +154827,112 @@
       "price_btc": 2.7494762504461127e-05,
       "timestamp": "2025-06-17 12:44"
     }
+  ],
+  "2025-06-17 13:32": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9468036529497187e-08,
+      "timestamp": "2025-06-17 13:32"
+    },
+    {
+      "rank": 2,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 5.39336463681797e-07,
+      "timestamp": "2025-06-17 13:32"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.714604093936618e-08,
+      "timestamp": "2025-06-17 13:32"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00037707641215505136,
+      "timestamp": "2025-06-17 13:32"
+    },
+    {
+      "rank": 5,
+      "name": "Eigenlayer",
+      "symbol": "EIGEN",
+      "price_btc": 1.1336851962916691e-05,
+      "timestamp": "2025-06-17 13:32"
+    },
+    {
+      "rank": 6,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.930541919539099e-06,
+      "timestamp": "2025-06-17 13:32"
+    },
+    {
+      "rank": 7,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 6.9829000039280624e-06,
+      "timestamp": "2025-06-17 13:32"
+    },
+    {
+      "rank": 8,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002555898052687487,
+      "timestamp": "2025-06-17 13:32"
+    },
+    {
+      "rank": 9,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.6116542847481755e-05,
+      "timestamp": "2025-06-17 13:32"
+    },
+    {
+      "rank": 10,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00017945116597416704,
+      "timestamp": "2025-06-17 13:32"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.313116640668109e-06,
+      "timestamp": "2025-06-17 13:32"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0033358515561236627,
+      "timestamp": "2025-06-17 13:32"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024184483834865354,
+      "timestamp": "2025-06-17 13:32"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014177096899495552,
+      "timestamp": "2025-06-17 13:32"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.257561520805559e-06,
+      "timestamp": "2025-06-17 13:32"
+    }
   ]
 }
