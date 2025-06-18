@@ -157609,5 +157609,112 @@
       "price_btc": 1.5576259491025606e-05,
       "timestamp": "2025-06-18 16:27"
     }
+  ],
+  "2025-06-18 17:19": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7756838034548094e-05,
+      "timestamp": "2025-06-18 17:19"
+    },
+    {
+      "rank": 2,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.937755101263908e-06,
+      "timestamp": "2025-06-18 17:19"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00036996902681145664,
+      "timestamp": "2025-06-18 17:19"
+    },
+    {
+      "rank": 4,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.1503221311189431e-08,
+      "timestamp": "2025-06-18 17:19"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.718013059501695e-08,
+      "timestamp": "2025-06-18 17:19"
+    },
+    {
+      "rank": 6,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8677765395011232e-08,
+      "timestamp": "2025-06-18 17:19"
+    },
+    {
+      "rank": 7,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.675821663627386e-07,
+      "timestamp": "2025-06-18 17:19"
+    },
+    {
+      "rank": 8,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5608977788345683e-05,
+      "timestamp": "2025-06-18 17:19"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-18 17:19"
+    },
+    {
+      "rank": 10,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.7461724809872665e-06,
+      "timestamp": "2025-06-18 17:19"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 6.679151269677497e-07,
+      "timestamp": "2025-06-18 17:19"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0032916093739013674,
+      "timestamp": "2025-06-18 17:19"
+    },
+    {
+      "rank": 13,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 8.121429810997892e-07,
+      "timestamp": "2025-06-18 17:19"
+    },
+    {
+      "rank": 14,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.4613781081359065e-06,
+      "timestamp": "2025-06-18 17:19"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6623794235690635e-05,
+      "timestamp": "2025-06-18 17:19"
+    }
   ]
 }
