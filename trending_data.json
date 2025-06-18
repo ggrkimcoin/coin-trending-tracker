@@ -156432,5 +156432,112 @@
       "price_btc": 2.1310177714055383e-05,
       "timestamp": "2025-06-18 05:20"
     }
+  ],
+  "2025-06-18 06:31": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.901772313404618e-08,
+      "timestamp": "2025-06-18 06:31"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.463409959180223e-08,
+      "timestamp": "2025-06-18 06:31"
+    },
+    {
+      "rank": 3,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 5.338677921353485e-07,
+      "timestamp": "2025-06-18 06:31"
+    },
+    {
+      "rank": 4,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.714929867702613e-11,
+      "timestamp": "2025-06-18 06:31"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.739219375658812e-05,
+      "timestamp": "2025-06-18 06:31"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001402451175758937,
+      "timestamp": "2025-06-18 06:31"
+    },
+    {
+      "rank": 7,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.333987375827327e-06,
+      "timestamp": "2025-06-18 06:31"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.89208844357928e-06,
+      "timestamp": "2025-06-18 06:31"
+    },
+    {
+      "rank": 9,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 1.1881502945906941e-06,
+      "timestamp": "2025-06-18 06:31"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-18 06:31"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.29830264536579e-06,
+      "timestamp": "2025-06-18 06:31"
+    },
+    {
+      "rank": 12,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.6035893608064937e-05,
+      "timestamp": "2025-06-18 06:31"
+    },
+    {
+      "rank": 13,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.681763544406233e-06,
+      "timestamp": "2025-06-18 06:31"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00038905730467537797,
+      "timestamp": "2025-06-18 06:31"
+    },
+    {
+      "rank": 15,
+      "name": "Eigenlayer",
+      "symbol": "EIGEN",
+      "price_btc": 1.1331154485373052e-05,
+      "timestamp": "2025-06-18 06:31"
+    }
   ]
 }
