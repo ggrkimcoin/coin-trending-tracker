@@ -156325,5 +156325,112 @@
       "price_btc": 7.860874359909653e-06,
       "timestamp": "2025-06-18 04:29"
     }
+  ],
+  "2025-06-18 05:20": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9021331508616105e-08,
+      "timestamp": "2025-06-18 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.465291808535742e-08,
+      "timestamp": "2025-06-18 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003870810898742675,
+      "timestamp": "2025-06-18 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 5.460136550704614e-07,
+      "timestamp": "2025-06-18 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "AB",
+      "symbol": "AB",
+      "price_btc": 1.485988493343103e-07,
+      "timestamp": "2025-06-18 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3162013855723503e-05,
+      "timestamp": "2025-06-18 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.892254715873424e-06,
+      "timestamp": "2025-06-18 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 1.1652589563568684e-06,
+      "timestamp": "2025-06-18 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.6043849670769414e-05,
+      "timestamp": "2025-06-18 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "price_btc": 3.76949918385471e-06,
+      "timestamp": "2025-06-18 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0034079740857535816,
+      "timestamp": "2025-06-18 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "price_btc": 0.004499188555095274,
+      "timestamp": "2025-06-18 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.86960265400881e-08,
+      "timestamp": "2025-06-18 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.6816802561903436e-06,
+      "timestamp": "2025-06-18 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.1310177714055383e-05,
+      "timestamp": "2025-06-18 05:20"
+    }
   ]
 }
