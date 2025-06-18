@@ -156539,5 +156539,112 @@
       "price_btc": 1.1331154485373052e-05,
       "timestamp": "2025-06-18 06:31"
     }
+  ],
+  "2025-06-18 07:20": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.903622305178807e-08,
+      "timestamp": "2025-06-18 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 5.227899951178454e-07,
+      "timestamp": "2025-06-18 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.3879372267956886e-08,
+      "timestamp": "2025-06-18 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.557106752521564e-06,
+      "timestamp": "2025-06-18 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00038441002067352324,
+      "timestamp": "2025-06-18 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Eigenlayer",
+      "symbol": "EIGEN",
+      "price_btc": 1.1375464474003427e-05,
+      "timestamp": "2025-06-18 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.7315458970325906e-05,
+      "timestamp": "2025-06-18 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 8.295577874907736e-07,
+      "timestamp": "2025-06-18 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.290054036337681e-06,
+      "timestamp": "2025-06-18 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Tether Gold",
+      "symbol": "XAUT",
+      "price_btc": 0.03232383310490557,
+      "timestamp": "2025-06-18 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003401196510050397,
+      "timestamp": "2025-06-18 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.181168264899861e-06,
+      "timestamp": "2025-06-18 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 1.1904204046170211e-06,
+      "timestamp": "2025-06-18 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024079042296418364,
+      "timestamp": "2025-06-18 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3028747268455168e-05,
+      "timestamp": "2025-06-18 07:20"
+    }
   ]
 }
