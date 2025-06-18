@@ -157823,5 +157823,112 @@
       "price_btc": 3.732428190174956e-08,
       "timestamp": "2025-06-18 18:30"
     }
+  ],
+  "2025-06-18 19:16": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.795891493563082e-05,
+      "timestamp": "2025-06-18 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.797608769079097e-06,
+      "timestamp": "2025-06-18 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8779316588194396e-08,
+      "timestamp": "2025-06-18 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.1541241590235995e-08,
+      "timestamp": "2025-06-18 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00036901720976515974,
+      "timestamp": "2025-06-18 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.8370606799152524e-08,
+      "timestamp": "2025-06-18 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.0438939177259628e-06,
+      "timestamp": "2025-06-18 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-18 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.573208969143452e-05,
+      "timestamp": "2025-06-18 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.9770269514329206e-06,
+      "timestamp": "2025-06-18 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.787130030605409e-07,
+      "timestamp": "2025-06-18 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.3343299813515618e-05,
+      "timestamp": "2025-06-18 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.106984264962812e-06,
+      "timestamp": "2025-06-18 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 9.920533666933784e-07,
+      "timestamp": "2025-06-18 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.632921394251218e-06,
+      "timestamp": "2025-06-18 19:16"
+    }
   ]
 }
