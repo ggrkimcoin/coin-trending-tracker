@@ -156218,5 +156218,112 @@
       "price_btc": 0.0001238118705077779,
       "timestamp": "2025-06-18 03:17"
     }
+  ],
+  "2025-06-18 04:29": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8961589825420044e-08,
+      "timestamp": "2025-06-18 04:29"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.4776408129461887e-08,
+      "timestamp": "2025-06-18 04:29"
+    },
+    {
+      "rank": 3,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 5.52916220521001e-07,
+      "timestamp": "2025-06-18 04:29"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000381600725622807,
+      "timestamp": "2025-06-18 04:29"
+    },
+    {
+      "rank": 5,
+      "name": "0x0.ai: AI Smart Contract",
+      "symbol": "0X0",
+      "price_btc": 1.1698618534980234e-06,
+      "timestamp": "2025-06-18 04:29"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024059350432969886,
+      "timestamp": "2025-06-18 04:29"
+    },
+    {
+      "rank": 7,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.2708038063083e-06,
+      "timestamp": "2025-06-18 04:29"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.045739299306273e-05,
+      "timestamp": "2025-06-18 04:29"
+    },
+    {
+      "rank": 9,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.671649578044694e-06,
+      "timestamp": "2025-06-18 04:29"
+    },
+    {
+      "rank": 10,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.5970769869377647e-05,
+      "timestamp": "2025-06-18 04:29"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.058994461281041e-05,
+      "timestamp": "2025-06-18 04:29"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-18 04:29"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.7466843535644873e-05,
+      "timestamp": "2025-06-18 04:29"
+    },
+    {
+      "rank": 14,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 5.847315268982222e-06,
+      "timestamp": "2025-06-18 04:29"
+    },
+    {
+      "rank": 15,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.860874359909653e-06,
+      "timestamp": "2025-06-18 04:29"
+    }
   ]
 }
