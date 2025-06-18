@@ -157716,5 +157716,112 @@
       "price_btc": 2.6623794235690635e-05,
       "timestamp": "2025-06-18 17:19"
     }
+  ],
+  "2025-06-18 18:30": [
+    {
+      "rank": 1,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.799314671220571e-06,
+      "timestamp": "2025-06-18 18:30"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.794489398449297e-05,
+      "timestamp": "2025-06-18 18:30"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-18 18:30"
+    },
+    {
+      "rank": 4,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.1543340158822974e-08,
+      "timestamp": "2025-06-18 18:30"
+    },
+    {
+      "rank": 5,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8811327425664656e-08,
+      "timestamp": "2025-06-18 18:30"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003684764706335319,
+      "timestamp": "2025-06-18 18:30"
+    },
+    {
+      "rank": 7,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.000395096133268e-06,
+      "timestamp": "2025-06-18 18:30"
+    },
+    {
+      "rank": 8,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.0554782337899424e-06,
+      "timestamp": "2025-06-18 18:30"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5755776843837678e-05,
+      "timestamp": "2025-06-18 18:30"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0534337838025337e-05,
+      "timestamp": "2025-06-18 18:30"
+    },
+    {
+      "rank": 11,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.761936364035322e-07,
+      "timestamp": "2025-06-18 18:30"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2873080860958593e-05,
+      "timestamp": "2025-06-18 18:30"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.72544924109997e-06,
+      "timestamp": "2025-06-18 18:30"
+    },
+    {
+      "rank": 14,
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "price_btc": 1.1062779446043372e-10,
+      "timestamp": "2025-06-18 18:30"
+    },
+    {
+      "rank": 15,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.732428190174956e-08,
+      "timestamp": "2025-06-18 18:30"
+    }
   ]
 }
