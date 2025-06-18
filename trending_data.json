@@ -156753,5 +156753,112 @@
       "price_btc": 1.3310656262999025e-05,
       "timestamp": "2025-06-18 08:28"
     }
+  ],
+  "2025-06-18 09:23": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7982271486577814e-05,
+      "timestamp": "2025-06-18 09:23"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.888356078810775e-08,
+      "timestamp": "2025-06-18 09:23"
+    },
+    {
+      "rank": 3,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 5.015328429900766e-07,
+      "timestamp": "2025-06-18 09:23"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00038631250566971295,
+      "timestamp": "2025-06-18 09:23"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.2262231428127644e-08,
+      "timestamp": "2025-06-18 09:23"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014081456206552464,
+      "timestamp": "2025-06-18 09:23"
+    },
+    {
+      "rank": 7,
+      "name": "Eigenlayer",
+      "symbol": "EIGEN",
+      "price_btc": 1.1215662804699692e-05,
+      "timestamp": "2025-06-18 09:23"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024129366061816877,
+      "timestamp": "2025-06-18 09:23"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003384576360200553,
+      "timestamp": "2025-06-18 09:23"
+    },
+    {
+      "rank": 10,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 1.6339697060059487e-06,
+      "timestamp": "2025-06-18 09:23"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.812533060816688e-06,
+      "timestamp": "2025-06-18 09:23"
+    },
+    {
+      "rank": 12,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 2.0763221412734918e-06,
+      "timestamp": "2025-06-18 09:23"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6454109493367194e-05,
+      "timestamp": "2025-06-18 09:23"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6023405884147153e-05,
+      "timestamp": "2025-06-18 09:23"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.574153567911464e-06,
+      "timestamp": "2025-06-18 09:23"
+    }
   ]
 }
