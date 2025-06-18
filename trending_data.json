@@ -156004,5 +156004,112 @@
       "price_btc": 1.6191903169898632e-06,
       "timestamp": "2025-06-17 23:19"
     }
+  ],
+  "2025-06-18 01:45": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8988759534196652e-08,
+      "timestamp": "2025-06-18 01:45"
+    },
+    {
+      "rank": 2,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 5.540533424706795e-07,
+      "timestamp": "2025-06-18 01:45"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.53119850558434e-08,
+      "timestamp": "2025-06-18 01:45"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000383813077255352,
+      "timestamp": "2025-06-18 01:45"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014144717619079033,
+      "timestamp": "2025-06-18 01:45"
+    },
+    {
+      "rank": 6,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.122160287839742e-06,
+      "timestamp": "2025-06-18 01:45"
+    },
+    {
+      "rank": 7,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 6.837271404299896e-07,
+      "timestamp": "2025-06-18 01:45"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.165701549505337e-06,
+      "timestamp": "2025-06-18 01:45"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024101445350547084,
+      "timestamp": "2025-06-18 01:45"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0570514626874485e-05,
+      "timestamp": "2025-06-18 01:45"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2739582206614536e-05,
+      "timestamp": "2025-06-18 01:45"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.111769623347108e-06,
+      "timestamp": "2025-06-18 01:45"
+    },
+    {
+      "rank": 13,
+      "name": "Toshi",
+      "symbol": "TOSHI",
+      "price_btc": 4.731079346697369e-09,
+      "timestamp": "2025-06-18 01:45"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-18 01:45"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6261185880371437e-05,
+      "timestamp": "2025-06-18 01:45"
+    }
   ]
 }
