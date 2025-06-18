@@ -157502,5 +157502,112 @@
       "price_btc": 1.7555696909627162e-05,
       "timestamp": "2025-06-18 15:23"
     }
+  ],
+  "2025-06-18 16:27": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.14735291931156e-08,
+      "timestamp": "2025-06-18 16:27"
+    },
+    {
+      "rank": 2,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.01016484214301e-06,
+      "timestamp": "2025-06-18 16:27"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.768070089591631e-05,
+      "timestamp": "2025-06-18 16:27"
+    },
+    {
+      "rank": 4,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.86146358285703e-08,
+      "timestamp": "2025-06-18 16:27"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003710972843218066,
+      "timestamp": "2025-06-18 16:27"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.652419692405802e-05,
+      "timestamp": "2025-06-18 16:27"
+    },
+    {
+      "rank": 7,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.896478344074391e-08,
+      "timestamp": "2025-06-18 16:27"
+    },
+    {
+      "rank": 8,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.7131426409832084e-07,
+      "timestamp": "2025-06-18 16:27"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0517872154878073e-05,
+      "timestamp": "2025-06-18 16:27"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.063830997466036e-06,
+      "timestamp": "2025-06-18 16:27"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.548823939256794e-06,
+      "timestamp": "2025-06-18 16:27"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2668298403858079e-05,
+      "timestamp": "2025-06-18 16:27"
+    },
+    {
+      "rank": 13,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 7.132864356582148e-05,
+      "timestamp": "2025-06-18 16:27"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013876899143182783,
+      "timestamp": "2025-06-18 16:27"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5576259491025606e-05,
+      "timestamp": "2025-06-18 16:27"
+    }
   ]
 }
