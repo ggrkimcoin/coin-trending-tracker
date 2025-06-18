@@ -157181,5 +157181,112 @@
       "price_btc": 1.2754994710946553e-05,
       "timestamp": "2025-06-18 12:43"
     }
+  ],
+  "2025-06-18 13:34": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7495586228361668e-05,
+      "timestamp": "2025-06-18 13:34"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.826969170942131e-08,
+      "timestamp": "2025-06-18 13:34"
+    },
+    {
+      "rank": 3,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.605570820588719e-07,
+      "timestamp": "2025-06-18 13:34"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.623781410165465e-05,
+      "timestamp": "2025-06-18 13:34"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.827015866080611e-08,
+      "timestamp": "2025-06-18 13:34"
+    },
+    {
+      "rank": 6,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.758892511469369e-06,
+      "timestamp": "2025-06-18 13:34"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013887392752545363,
+      "timestamp": "2025-06-18 13:34"
+    },
+    {
+      "rank": 8,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.1500883839649873e-08,
+      "timestamp": "2025-06-18 13:34"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00036396266202231686,
+      "timestamp": "2025-06-18 13:34"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0129503758997676e-05,
+      "timestamp": "2025-06-18 13:34"
+    },
+    {
+      "rank": 11,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 9.273263808951089e-07,
+      "timestamp": "2025-06-18 13:34"
+    },
+    {
+      "rank": 12,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 6.523435784279201e-07,
+      "timestamp": "2025-06-18 13:34"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002471721753074143,
+      "timestamp": "2025-06-18 13:34"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5267871577948504e-05,
+      "timestamp": "2025-06-18 13:34"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2553301433635815e-05,
+      "timestamp": "2025-06-18 13:34"
+    }
   ]
 }
