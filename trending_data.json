@@ -156860,5 +156860,112 @@
       "price_btc": 7.574153567911464e-06,
       "timestamp": "2025-06-18 09:23"
     }
+  ],
+  "2025-06-18 10:22": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.877504931791264e-08,
+      "timestamp": "2025-06-18 10:22"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.994736550679888e-08,
+      "timestamp": "2025-06-18 10:22"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.791227789068336e-05,
+      "timestamp": "2025-06-18 10:22"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.548404534926665e-06,
+      "timestamp": "2025-06-18 10:22"
+    },
+    {
+      "rank": 5,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.878022080522866e-07,
+      "timestamp": "2025-06-18 10:22"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014074989880563384,
+      "timestamp": "2025-06-18 10:22"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5965833384858526e-05,
+      "timestamp": "2025-06-18 10:22"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003791162471039216,
+      "timestamp": "2025-06-18 10:22"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6289829408388034e-05,
+      "timestamp": "2025-06-18 10:22"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024110603333768608,
+      "timestamp": "2025-06-18 10:22"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 6.58769713769715e-07,
+      "timestamp": "2025-06-18 10:22"
+    },
+    {
+      "rank": 12,
+      "name": "Sky",
+      "symbol": "SKY",
+      "price_btc": 7.887601786831825e-07,
+      "timestamp": "2025-06-18 10:22"
+    },
+    {
+      "rank": 13,
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "price_btc": 1.2799484219607515e-05,
+      "timestamp": "2025-06-18 10:22"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.2183319543718705e-06,
+      "timestamp": "2025-06-18 10:22"
+    },
+    {
+      "rank": 15,
+      "name": "Eigenlayer",
+      "symbol": "EIGEN",
+      "price_btc": 1.1087554259295597e-05,
+      "timestamp": "2025-06-18 10:22"
+    }
   ]
 }
