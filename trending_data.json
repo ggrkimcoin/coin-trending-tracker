@@ -157288,5 +157288,112 @@
       "price_btc": 1.2553301433635815e-05,
       "timestamp": "2025-06-18 13:34"
     }
+  ],
+  "2025-06-18 14:21": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.760868848916989e-05,
+      "timestamp": "2025-06-18 14:21"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.863131698368565e-08,
+      "timestamp": "2025-06-18 14:21"
+    },
+    {
+      "rank": 3,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.141331287922291e-08,
+      "timestamp": "2025-06-18 14:21"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.020419476982119e-06,
+      "timestamp": "2025-06-18 14:21"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.973026614903561e-08,
+      "timestamp": "2025-06-18 14:21"
+    },
+    {
+      "rank": 6,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.817414084240365e-07,
+      "timestamp": "2025-06-18 14:21"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003742381219854735,
+      "timestamp": "2025-06-18 14:21"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013906352202678264,
+      "timestamp": "2025-06-18 14:21"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.661487997614534e-05,
+      "timestamp": "2025-06-18 14:21"
+    },
+    {
+      "rank": 10,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 9.96358378752775e-07,
+      "timestamp": "2025-06-18 14:21"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2959189424772489e-05,
+      "timestamp": "2025-06-18 14:21"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024086992641342383,
+      "timestamp": "2025-06-18 14:21"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.6291033881868122e-06,
+      "timestamp": "2025-06-18 14:21"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.104151112105912e-06,
+      "timestamp": "2025-06-18 14:21"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0518615746588756e-05,
+      "timestamp": "2025-06-18 14:21"
+    }
   ]
 }
