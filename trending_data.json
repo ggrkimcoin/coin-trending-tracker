@@ -159214,5 +159214,112 @@
       "price_btc": 1.6260172190724234e-05,
       "timestamp": "2025-06-19 09:23"
     }
+  ],
+  "2025-06-19 10:22": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.1563603472996167e-08,
+      "timestamp": "2025-06-19 10:22"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7852833638875487e-05,
+      "timestamp": "2025-06-19 10:22"
+    },
+    {
+      "rank": 3,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 9.024722274468992e-06,
+      "timestamp": "2025-06-19 10:22"
+    },
+    {
+      "rank": 4,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8943807417532542e-08,
+      "timestamp": "2025-06-19 10:22"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.215110591516486e-08,
+      "timestamp": "2025-06-19 10:22"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00036402253025814217,
+      "timestamp": "2025-06-19 10:22"
+    },
+    {
+      "rank": 7,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.4365777037715905e-07,
+      "timestamp": "2025-06-19 10:22"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0593096968229254e-05,
+      "timestamp": "2025-06-19 10:22"
+    },
+    {
+      "rank": 9,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.13253963423126e-06,
+      "timestamp": "2025-06-19 10:22"
+    },
+    {
+      "rank": 10,
+      "name": "CreatorBid",
+      "symbol": "BID",
+      "price_btc": 9.811606961550892e-07,
+      "timestamp": "2025-06-19 10:22"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6757016598798035e-05,
+      "timestamp": "2025-06-19 10:22"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3314561557441449e-05,
+      "timestamp": "2025-06-19 10:22"
+    },
+    {
+      "rank": 13,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.6762575883975814e-06,
+      "timestamp": "2025-06-19 10:22"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.943423332524828e-11,
+      "timestamp": "2025-06-19 10:22"
+    },
+    {
+      "rank": 15,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 6.6759018230429186e-06,
+      "timestamp": "2025-06-19 10:22"
+    }
   ]
 }
