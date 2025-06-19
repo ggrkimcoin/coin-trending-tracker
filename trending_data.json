@@ -158465,5 +158465,112 @@
       "price_btc": 3.5986518381041994e-05,
       "timestamp": "2025-06-19 01:47"
     }
+  ],
+  "2025-06-19 03:17": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8059954230725652e-05,
+      "timestamp": "2025-06-19 03:17"
+    },
+    {
+      "rank": 2,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.146693014783705e-08,
+      "timestamp": "2025-06-19 03:17"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.725563075946476e-08,
+      "timestamp": "2025-06-19 03:17"
+    },
+    {
+      "rank": 4,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9108046304498603e-08,
+      "timestamp": "2025-06-19 03:17"
+    },
+    {
+      "rank": 5,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.2424286277439645e-05,
+      "timestamp": "2025-06-19 03:17"
+    },
+    {
+      "rank": 6,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.514700975226525e-06,
+      "timestamp": "2025-06-19 03:17"
+    },
+    {
+      "rank": 7,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3758481313923794e-05,
+      "timestamp": "2025-06-19 03:17"
+    },
+    {
+      "rank": 8,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.725377903920844e-06,
+      "timestamp": "2025-06-19 03:17"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003662557594033082,
+      "timestamp": "2025-06-19 03:17"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.057855807563577e-05,
+      "timestamp": "2025-06-19 03:17"
+    },
+    {
+      "rank": 11,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001251583317017667,
+      "timestamp": "2025-06-19 03:17"
+    },
+    {
+      "rank": 12,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 7.196564126574865e-05,
+      "timestamp": "2025-06-19 03:17"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-19 03:17"
+    },
+    {
+      "rank": 14,
+      "name": "Forta",
+      "symbol": "FORT",
+      "price_btc": 8.233627930779934e-07,
+      "timestamp": "2025-06-19 03:17"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.699998185068888e-05,
+      "timestamp": "2025-06-19 03:17"
+    }
   ]
 }
