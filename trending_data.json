@@ -158786,5 +158786,112 @@
       "price_btc": 1.3668170531734604e-05,
       "timestamp": "2025-06-19 05:20"
     }
+  ],
+  "2025-06-19 06:31": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.800570474304433e-05,
+      "timestamp": "2025-06-19 06:31"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.909824961092195e-08,
+      "timestamp": "2025-06-19 06:31"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.651438905526208e-08,
+      "timestamp": "2025-06-19 06:31"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 9.053700904649081e-06,
+      "timestamp": "2025-06-19 06:31"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001389731301776375,
+      "timestamp": "2025-06-19 06:31"
+    },
+    {
+      "rank": 6,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.579350781084311e-07,
+      "timestamp": "2025-06-19 06:31"
+    },
+    {
+      "rank": 7,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.1654430351298962e-05,
+      "timestamp": "2025-06-19 06:31"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00036330451939345387,
+      "timestamp": "2025-06-19 06:31"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6966853712179795e-05,
+      "timestamp": "2025-06-19 06:31"
+    },
+    {
+      "rank": 10,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 3.257735367340221e-07,
+      "timestamp": "2025-06-19 06:31"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.14598738728136e-06,
+      "timestamp": "2025-06-19 06:31"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.622769844956806e-05,
+      "timestamp": "2025-06-19 06:31"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.852822095728564e-06,
+      "timestamp": "2025-06-19 06:31"
+    },
+    {
+      "rank": 14,
+      "name": "GAME by Virtuals",
+      "symbol": "GAME",
+      "price_btc": 5.644677462192908e-07,
+      "timestamp": "2025-06-19 06:31"
+    },
+    {
+      "rank": 15,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.8630364841048156e-08,
+      "timestamp": "2025-06-19 06:31"
+    }
   ]
 }
