@@ -158358,5 +158358,112 @@
       "price_btc": 2.606575431435858e-06,
       "timestamp": "2025-06-18 23:19"
     }
+  ],
+  "2025-06-19 01:47": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8141923242608575e-05,
+      "timestamp": "2025-06-19 01:47"
+    },
+    {
+      "rank": 2,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.1448813009393023e-08,
+      "timestamp": "2025-06-19 01:47"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.91939117500245e-08,
+      "timestamp": "2025-06-19 01:47"
+    },
+    {
+      "rank": 4,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.908778177344287e-08,
+      "timestamp": "2025-06-19 01:47"
+    },
+    {
+      "rank": 5,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.470870072996192e-06,
+      "timestamp": "2025-06-19 01:47"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3781754104163812e-05,
+      "timestamp": "2025-06-19 01:47"
+    },
+    {
+      "rank": 7,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.3674218559043775e-05,
+      "timestamp": "2025-06-19 01:47"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003707253155435273,
+      "timestamp": "2025-06-19 01:47"
+    },
+    {
+      "rank": 9,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.50357122184302e-07,
+      "timestamp": "2025-06-19 01:47"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024065572440575143,
+      "timestamp": "2025-06-19 01:47"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.705705329834406e-05,
+      "timestamp": "2025-06-19 01:47"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.399138886878861e-06,
+      "timestamp": "2025-06-19 01:47"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.154605677536448e-06,
+      "timestamp": "2025-06-19 01:47"
+    },
+    {
+      "rank": 14,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.117412016410308e-06,
+      "timestamp": "2025-06-19 01:47"
+    },
+    {
+      "rank": 15,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.5986518381041994e-05,
+      "timestamp": "2025-06-19 01:47"
+    }
   ]
 }
