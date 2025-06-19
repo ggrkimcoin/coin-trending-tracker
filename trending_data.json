@@ -160177,5 +160177,112 @@
       "price_btc": 1.287795794697131e-05,
       "timestamp": "2025-06-19 18:28"
     }
+  ],
+  "2025-06-19 19:15": [
+    {
+      "rank": 1,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.1547337485980969e-08,
+      "timestamp": "2025-06-19 19:15"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8319660061577133e-05,
+      "timestamp": "2025-06-19 19:15"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.870777518062605e-08,
+      "timestamp": "2025-06-19 19:15"
+    },
+    {
+      "rank": 4,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 6.483746852978916e-07,
+      "timestamp": "2025-06-19 19:15"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.899410980478877e-08,
+      "timestamp": "2025-06-19 19:15"
+    },
+    {
+      "rank": 6,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.466239542293446e-06,
+      "timestamp": "2025-06-19 19:15"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003519554790570456,
+      "timestamp": "2025-06-19 19:15"
+    },
+    {
+      "rank": 8,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 1.8091987229221817e-06,
+      "timestamp": "2025-06-19 19:15"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.724569715916258e-05,
+      "timestamp": "2025-06-19 19:15"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013934353470840255,
+      "timestamp": "2025-06-19 19:15"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.911103659415282e-11,
+      "timestamp": "2025-06-19 19:15"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-19 19:15"
+    },
+    {
+      "rank": 13,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 6.702335534433337e-07,
+      "timestamp": "2025-06-19 19:15"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.8891777501758e-06,
+      "timestamp": "2025-06-19 19:15"
+    },
+    {
+      "rank": 15,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 8.686737558978164e-07,
+      "timestamp": "2025-06-19 19:15"
+    }
   ]
 }
