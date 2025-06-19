@@ -160605,5 +160605,112 @@
       "price_btc": 1.609935716327547e-05,
       "timestamp": "2025-06-19 22:19"
     }
+  ],
+  "2025-06-19 23:20": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8367136050743474e-05,
+      "timestamp": "2025-06-19 23:20"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.867533116265378e-08,
+      "timestamp": "2025-06-19 23:20"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.777099287392561e-08,
+      "timestamp": "2025-06-19 23:20"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003507437035976718,
+      "timestamp": "2025-06-19 23:20"
+    },
+    {
+      "rank": 5,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 4.429585661532672e-07,
+      "timestamp": "2025-06-19 23:20"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.11166865908636e-06,
+      "timestamp": "2025-06-19 23:20"
+    },
+    {
+      "rank": 7,
+      "name": "Velo",
+      "symbol": "VELO",
+      "price_btc": 1.1283210304743239e-07,
+      "timestamp": "2025-06-19 23:20"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0694043127908924e-05,
+      "timestamp": "2025-06-19 23:20"
+    },
+    {
+      "rank": 9,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 7.584031978995838e-06,
+      "timestamp": "2025-06-19 23:20"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014023350366224444,
+      "timestamp": "2025-06-19 23:20"
+    },
+    {
+      "rank": 11,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.2799792701596749e-05,
+      "timestamp": "2025-06-19 23:20"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.70599054425706e-06,
+      "timestamp": "2025-06-19 23:20"
+    },
+    {
+      "rank": 13,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.072965072713596e-07,
+      "timestamp": "2025-06-19 23:20"
+    },
+    {
+      "rank": 14,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2491545945841152e-05,
+      "timestamp": "2025-06-19 23:20"
+    },
+    {
+      "rank": 15,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 3.883539248678042e-08,
+      "timestamp": "2025-06-19 23:20"
+    }
   ]
 }
