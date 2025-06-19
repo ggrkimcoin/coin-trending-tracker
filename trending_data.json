@@ -159535,5 +159535,112 @@
       "price_btc": 4.747623822887111e-06,
       "timestamp": "2025-06-19 12:42"
     }
+  ],
+  "2025-06-19 13:32": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.81296123902248e-05,
+      "timestamp": "2025-06-19 13:32"
+    },
+    {
+      "rank": 2,
+      "name": "Matchain",
+      "symbol": "MAT",
+      "price_btc": 2.4541103029244954e-05,
+      "timestamp": "2025-06-19 13:32"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8873971406928347e-08,
+      "timestamp": "2025-06-19 13:32"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 9.0138978154847e-06,
+      "timestamp": "2025-06-19 13:32"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035412259815388917,
+      "timestamp": "2025-06-19 13:32"
+    },
+    {
+      "rank": 6,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.1616288193016895e-08,
+      "timestamp": "2025-06-19 13:32"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6772473211349375e-05,
+      "timestamp": "2025-06-19 13:32"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003402302931814812,
+      "timestamp": "2025-06-19 13:32"
+    },
+    {
+      "rank": 9,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.5668109284844864e-05,
+      "timestamp": "2025-06-19 13:32"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024081456504165523,
+      "timestamp": "2025-06-19 13:32"
+    },
+    {
+      "rank": 11,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 1.792824254194036e-06,
+      "timestamp": "2025-06-19 13:32"
+    },
+    {
+      "rank": 12,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.400379589155663e-07,
+      "timestamp": "2025-06-19 13:32"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002503292827748812,
+      "timestamp": "2025-06-19 13:32"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.938293311153806e-11,
+      "timestamp": "2025-06-19 13:32"
+    },
+    {
+      "rank": 15,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.8407098893393925e-08,
+      "timestamp": "2025-06-19 13:32"
+    }
   ]
 }
