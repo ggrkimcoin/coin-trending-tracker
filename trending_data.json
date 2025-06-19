@@ -159107,5 +159107,112 @@
       "price_btc": 7.468935512213605e-06,
       "timestamp": "2025-06-19 08:28"
     }
+  ],
+  "2025-06-19 09:23": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7859266969398135e-05,
+      "timestamp": "2025-06-19 09:23"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.891808023475975e-08,
+      "timestamp": "2025-06-19 09:23"
+    },
+    {
+      "rank": 3,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.744067434818801e-06,
+      "timestamp": "2025-06-19 09:23"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.165981804847949e-08,
+      "timestamp": "2025-06-19 09:23"
+    },
+    {
+      "rank": 5,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.1551979036903814e-08,
+      "timestamp": "2025-06-19 09:23"
+    },
+    {
+      "rank": 6,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.447782816583113e-07,
+      "timestamp": "2025-06-19 09:23"
+    },
+    {
+      "rank": 7,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.6389455433180395e-06,
+      "timestamp": "2025-06-19 09:23"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003604669440980919,
+      "timestamp": "2025-06-19 09:23"
+    },
+    {
+      "rank": 9,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 6.50434991264308e-06,
+      "timestamp": "2025-06-19 09:23"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013873586885333282,
+      "timestamp": "2025-06-19 09:23"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6674654433334803e-05,
+      "timestamp": "2025-06-19 09:23"
+    },
+    {
+      "rank": 12,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.146873609800915e-05,
+      "timestamp": "2025-06-19 09:23"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0592852429269128e-05,
+      "timestamp": "2025-06-19 09:23"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024102600119940556,
+      "timestamp": "2025-06-19 09:23"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6260172190724234e-05,
+      "timestamp": "2025-06-19 09:23"
+    }
   ]
 }
