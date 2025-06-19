@@ -160070,5 +160070,112 @@
       "price_btc": 7.0133627849894736e-06,
       "timestamp": "2025-06-19 17:18"
     }
+  ],
+  "2025-06-19 18:28": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8279409729465056e-05,
+      "timestamp": "2025-06-19 18:28"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.881317751405864e-08,
+      "timestamp": "2025-06-19 18:28"
+    },
+    {
+      "rank": 3,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.1465014666563092e-08,
+      "timestamp": "2025-06-19 18:28"
+    },
+    {
+      "rank": 4,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 5.651253522830184e-07,
+      "timestamp": "2025-06-19 18:28"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003527602568660577,
+      "timestamp": "2025-06-19 18:28"
+    },
+    {
+      "rank": 6,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.8050816162282144e-08,
+      "timestamp": "2025-06-19 18:28"
+    },
+    {
+      "rank": 7,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.606200385736291e-06,
+      "timestamp": "2025-06-19 18:28"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013875856524827933,
+      "timestamp": "2025-06-19 18:28"
+    },
+    {
+      "rank": 9,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 1.8062631915078098e-06,
+      "timestamp": "2025-06-19 18:28"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.7208579142881202e-05,
+      "timestamp": "2025-06-19 18:28"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.9000699503653e-11,
+      "timestamp": "2025-06-19 18:28"
+    },
+    {
+      "rank": 12,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 1.8987674791258886e-06,
+      "timestamp": "2025-06-19 18:28"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.111440066741776e-06,
+      "timestamp": "2025-06-19 18:28"
+    },
+    {
+      "rank": 14,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.0001721452458972177,
+      "timestamp": "2025-06-19 18:28"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.287795794697131e-05,
+      "timestamp": "2025-06-19 18:28"
+    }
   ]
 }
