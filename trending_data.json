@@ -158679,5 +158679,112 @@
       "price_btc": 3.0935846305631633e-06,
       "timestamp": "2025-06-19 04:28"
     }
+  ],
+  "2025-06-19 05:20": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.806756616104057e-05,
+      "timestamp": "2025-06-19 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.276908950453057e-08,
+      "timestamp": "2025-06-19 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.9171442317052028e-08,
+      "timestamp": "2025-06-19 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.1506660203952275e-08,
+      "timestamp": "2025-06-19 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 9.066030067437122e-06,
+      "timestamp": "2025-06-19 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00036289510237342946,
+      "timestamp": "2025-06-19 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 1.7520293749185142e-06,
+      "timestamp": "2025-06-19 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013968779027660934,
+      "timestamp": "2025-06-19 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6279609949483375e-05,
+      "timestamp": "2025-06-19 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.1866516302409575e-05,
+      "timestamp": "2025-06-19 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.137935559598684e-06,
+      "timestamp": "2025-06-19 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024045981964773085,
+      "timestamp": "2025-06-19 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.7073555351022394e-05,
+      "timestamp": "2025-06-19 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.891583440833738e-06,
+      "timestamp": "2025-06-19 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.3668170531734604e-05,
+      "timestamp": "2025-06-19 05:20"
+    }
   ]
 }
