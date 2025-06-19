@@ -160391,5 +160391,112 @@
       "price_btc": 9.585508306804087e-06,
       "timestamp": "2025-06-19 20:24"
     }
+  ],
+  "2025-06-19 21:18": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.828741101253627e-05,
+      "timestamp": "2025-06-19 21:18"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.862278128272718e-08,
+      "timestamp": "2025-06-19 21:18"
+    },
+    {
+      "rank": 3,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 4.3791072274626346e-07,
+      "timestamp": "2025-06-19 21:18"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.049531196161918e-08,
+      "timestamp": "2025-06-19 21:18"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034434983312003973,
+      "timestamp": "2025-06-19 21:18"
+    },
+    {
+      "rank": 6,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 1.8607108966064474e-06,
+      "timestamp": "2025-06-19 21:18"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013955972530863903,
+      "timestamp": "2025-06-19 21:18"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.464134558692499e-06,
+      "timestamp": "2025-06-19 21:18"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.7157696345202228e-05,
+      "timestamp": "2025-06-19 21:18"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02405114840228205,
+      "timestamp": "2025-06-19 21:18"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.605371309872814e-05,
+      "timestamp": "2025-06-19 21:18"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.343181217212838e-06,
+      "timestamp": "2025-06-19 21:18"
+    },
+    {
+      "rank": 13,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 7.235814010261622e-05,
+      "timestamp": "2025-06-19 21:18"
+    },
+    {
+      "rank": 14,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.4931805282972395e-11,
+      "timestamp": "2025-06-19 21:18"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0745596925449844e-05,
+      "timestamp": "2025-06-19 21:18"
+    }
   ]
 }
