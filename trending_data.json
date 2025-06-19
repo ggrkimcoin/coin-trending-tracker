@@ -160284,5 +160284,112 @@
       "price_btc": 8.686737558978164e-07,
       "timestamp": "2025-06-19 19:15"
     }
+  ],
+  "2025-06-19 20:24": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.82680375589307e-05,
+      "timestamp": "2025-06-19 20:24"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8677319684187288e-08,
+      "timestamp": "2025-06-19 20:24"
+    },
+    {
+      "rank": 3,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 5.763790699378996e-07,
+      "timestamp": "2025-06-19 20:24"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.714786855440354e-08,
+      "timestamp": "2025-06-19 20:24"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003480720869562735,
+      "timestamp": "2025-06-19 20:24"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.7202321124113843e-05,
+      "timestamp": "2025-06-19 20:24"
+    },
+    {
+      "rank": 7,
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "price_btc": 1.1525056488581105e-08,
+      "timestamp": "2025-06-19 20:24"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013954266331546897,
+      "timestamp": "2025-06-19 20:24"
+    },
+    {
+      "rank": 9,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 1.8263990305007266e-06,
+      "timestamp": "2025-06-19 20:24"
+    },
+    {
+      "rank": 10,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.405476940532473e-06,
+      "timestamp": "2025-06-19 20:24"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.0736918078486422e-06,
+      "timestamp": "2025-06-19 20:24"
+    },
+    {
+      "rank": 12,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.702127711094461e-05,
+      "timestamp": "2025-06-19 20:24"
+    },
+    {
+      "rank": 13,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.127019432237299e-07,
+      "timestamp": "2025-06-19 20:24"
+    },
+    {
+      "rank": 14,
+      "name": "NEM",
+      "symbol": "XEM",
+      "price_btc": 5.160234979922613e-08,
+      "timestamp": "2025-06-19 20:24"
+    },
+    {
+      "rank": 15,
+      "name": "USDC",
+      "symbol": "USDC",
+      "price_btc": 9.585508306804087e-06,
+      "timestamp": "2025-06-19 20:24"
+    }
   ]
 }
