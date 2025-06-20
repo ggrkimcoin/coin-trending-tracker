@@ -162103,5 +162103,112 @@
       "price_btc": 9.751326879954294e-11,
       "timestamp": "2025-06-20 14:19"
     }
+  ],
+  "2025-06-20 15:21": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8450304248182262e-08,
+      "timestamp": "2025-06-20 15:21"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8521745992406964e-05,
+      "timestamp": "2025-06-20 15:21"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.566163075286801e-08,
+      "timestamp": "2025-06-20 15:21"
+    },
+    {
+      "rank": 4,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 3.9831734427593044e-07,
+      "timestamp": "2025-06-20 15:21"
+    },
+    {
+      "rank": 5,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 1.9580552176215325e-06,
+      "timestamp": "2025-06-20 15:21"
+    },
+    {
+      "rank": 6,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.266580860580675e-06,
+      "timestamp": "2025-06-20 15:21"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023946273796610774,
+      "timestamp": "2025-06-20 15:21"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1265482104428662e-05,
+      "timestamp": "2025-06-20 15:21"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6612953991276762e-05,
+      "timestamp": "2025-06-20 15:21"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034418969231869327,
+      "timestamp": "2025-06-20 15:21"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.129112238160753e-06,
+      "timestamp": "2025-06-20 15:21"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013832090211715548,
+      "timestamp": "2025-06-20 15:21"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-20 15:21"
+    },
+    {
+      "rank": 14,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 7.288467421829366e-05,
+      "timestamp": "2025-06-20 15:21"
+    },
+    {
+      "rank": 15,
+      "name": "Tether",
+      "symbol": "USDT",
+      "price_btc": 9.590161151413933e-06,
+      "timestamp": "2025-06-20 15:21"
+    }
   ]
 }
