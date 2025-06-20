@@ -161889,5 +161889,112 @@
       "price_btc": 9.805718166456204e-11,
       "timestamp": "2025-06-20 12:42"
     }
+  ],
+  "2025-06-20 13:31": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.821221678075753e-05,
+      "timestamp": "2025-06-20 13:31"
+    },
+    {
+      "rank": 2,
+      "name": "Bertram The Pomeranian",
+      "symbol": "BERT",
+      "price_btc": 2.5650870245523274e-07,
+      "timestamp": "2025-06-20 13:31"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.876014596126566e-08,
+      "timestamp": "2025-06-20 13:31"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 4.094152639653413e-08,
+      "timestamp": "2025-06-20 13:31"
+    },
+    {
+      "rank": 5,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 3.678510880861147e-07,
+      "timestamp": "2025-06-20 13:31"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003545950448355053,
+      "timestamp": "2025-06-20 13:31"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001392232707573161,
+      "timestamp": "2025-06-20 13:31"
+    },
+    {
+      "rank": 8,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 1.9479719482998993e-06,
+      "timestamp": "2025-06-20 13:31"
+    },
+    {
+      "rank": 9,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.471681121413659e-06,
+      "timestamp": "2025-06-20 13:31"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.2204182397915165e-06,
+      "timestamp": "2025-06-20 13:31"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.024075287018247054,
+      "timestamp": "2025-06-20 13:31"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6374609657013132e-05,
+      "timestamp": "2025-06-20 13:31"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024766332140254426,
+      "timestamp": "2025-06-20 13:31"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.644313287784856e-06,
+      "timestamp": "2025-06-20 13:31"
+    },
+    {
+      "rank": 15,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.3315170727279457e-07,
+      "timestamp": "2025-06-20 13:31"
+    }
   ]
 }
