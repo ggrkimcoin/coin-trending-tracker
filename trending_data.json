@@ -161675,5 +161675,112 @@
       "price_btc": 2.8979266516935616e-06,
       "timestamp": "2025-06-20 10:22"
     }
+  ],
+  "2025-06-20 11:18": [
+    {
+      "rank": 1,
+      "name": "Bertram The Pomeranian",
+      "symbol": "BERT",
+      "price_btc": 2.612397224128072e-07,
+      "timestamp": "2025-06-20 11:18"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.786735042378634e-05,
+      "timestamp": "2025-06-20 11:18"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8615770328260663e-08,
+      "timestamp": "2025-06-20 11:18"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.974041153208368e-08,
+      "timestamp": "2025-06-20 11:18"
+    },
+    {
+      "rank": 5,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.004664706574762e-06,
+      "timestamp": "2025-06-20 11:18"
+    },
+    {
+      "rank": 6,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 3.542948906074138e-07,
+      "timestamp": "2025-06-20 11:18"
+    },
+    {
+      "rank": 7,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.298879706343497e-06,
+      "timestamp": "2025-06-20 11:18"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035179956742235316,
+      "timestamp": "2025-06-20 11:18"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.687753415194648e-06,
+      "timestamp": "2025-06-20 11:18"
+    },
+    {
+      "rank": 10,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.1663619872087e-07,
+      "timestamp": "2025-06-20 11:18"
+    },
+    {
+      "rank": 11,
+      "name": "Gorbagana",
+      "symbol": "GOR",
+      "price_btc": 2.8531006342713433e-07,
+      "timestamp": "2025-06-20 11:18"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014016232563061604,
+      "timestamp": "2025-06-20 11:18"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6816181450046095e-05,
+      "timestamp": "2025-06-20 11:18"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-20 11:18"
+    },
+    {
+      "rank": 15,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 8.33887821019155e-07,
+      "timestamp": "2025-06-20 11:18"
+    }
   ]
 }
