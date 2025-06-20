@@ -161568,5 +161568,112 @@
       "price_btc": 5.097939043051628e-06,
       "timestamp": "2025-06-20 09:22"
     }
+  ],
+  "2025-06-20 10:22": [
+    {
+      "rank": 1,
+      "name": "Bertram The Pomeranian",
+      "symbol": "BERT",
+      "price_btc": 2.521751887001565e-07,
+      "timestamp": "2025-06-20 10:22"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8038940832054504e-05,
+      "timestamp": "2025-06-20 10:22"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.855995076598458e-08,
+      "timestamp": "2025-06-20 10:22"
+    },
+    {
+      "rank": 4,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 3.4976957540504796e-07,
+      "timestamp": "2025-06-20 10:22"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.9569043691116515e-08,
+      "timestamp": "2025-06-20 10:22"
+    },
+    {
+      "rank": 6,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 1.9647707512163006e-06,
+      "timestamp": "2025-06-20 10:22"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.101838696275152e-06,
+      "timestamp": "2025-06-20 10:22"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035058135245603645,
+      "timestamp": "2025-06-20 10:22"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6776352129286324e-05,
+      "timestamp": "2025-06-20 10:22"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6424339076555025e-05,
+      "timestamp": "2025-06-20 10:22"
+    },
+    {
+      "rank": 11,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 1.6937593200454236e-05,
+      "timestamp": "2025-06-20 10:22"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.159270760867082e-06,
+      "timestamp": "2025-06-20 10:22"
+    },
+    {
+      "rank": 13,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.26580629928137e-05,
+      "timestamp": "2025-06-20 10:22"
+    },
+    {
+      "rank": 14,
+      "name": "Avail",
+      "symbol": "AVAIL",
+      "price_btc": 2.437649409849019e-07,
+      "timestamp": "2025-06-20 10:22"
+    },
+    {
+      "rank": 15,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 2.8979266516935616e-06,
+      "timestamp": "2025-06-20 10:22"
+    }
   ]
 }
