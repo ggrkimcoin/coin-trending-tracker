@@ -162210,5 +162210,112 @@
       "price_btc": 9.590161151413933e-06,
       "timestamp": "2025-06-20 15:21"
     }
+  ],
+  "2025-06-20 16:26": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.844841147563337e-08,
+      "timestamp": "2025-06-20 16:26"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.870190475960664e-05,
+      "timestamp": "2025-06-20 16:26"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.4676625874888416e-08,
+      "timestamp": "2025-06-20 16:26"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 1.923610489809167e-06,
+      "timestamp": "2025-06-20 16:26"
+    },
+    {
+      "rank": 5,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 3.841728024324197e-07,
+      "timestamp": "2025-06-20 16:26"
+    },
+    {
+      "rank": 6,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 8.842478304904589e-06,
+      "timestamp": "2025-06-20 16:26"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003416129519379106,
+      "timestamp": "2025-06-20 16:26"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.274565007377372e-06,
+      "timestamp": "2025-06-20 16:26"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.649505948109879e-05,
+      "timestamp": "2025-06-20 16:26"
+    },
+    {
+      "rank": 10,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0901609872267611e-05,
+      "timestamp": "2025-06-20 16:26"
+    },
+    {
+      "rank": 11,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 8.421972217496504e-07,
+      "timestamp": "2025-06-20 16:26"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.8413695759072306e-06,
+      "timestamp": "2025-06-20 16:26"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.6784669256062186e-06,
+      "timestamp": "2025-06-20 16:26"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.571973628369765e-11,
+      "timestamp": "2025-06-20 16:26"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.884026338647819e-06,
+      "timestamp": "2025-06-20 16:26"
+    }
   ]
 }
