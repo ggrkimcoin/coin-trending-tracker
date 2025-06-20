@@ -161247,5 +161247,112 @@
       "price_btc": 0.0013878913070194782,
       "timestamp": "2025-06-20 06:30"
     }
+  ],
+  "2025-06-20 07:20": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8172263469700952e-05,
+      "timestamp": "2025-06-20 07:20"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.859592885567415e-08,
+      "timestamp": "2025-06-20 07:20"
+    },
+    {
+      "rank": 3,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 4.05780330583103e-07,
+      "timestamp": "2025-06-20 07:20"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.5954444597557016e-08,
+      "timestamp": "2025-06-20 07:20"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034916663388183996,
+      "timestamp": "2025-06-20 07:20"
+    },
+    {
+      "rank": 6,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 1.923404774320649e-06,
+      "timestamp": "2025-06-20 07:20"
+    },
+    {
+      "rank": 7,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 3.92987487594603e-07,
+      "timestamp": "2025-06-20 07:20"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.152244820364045e-06,
+      "timestamp": "2025-06-20 07:20"
+    },
+    {
+      "rank": 9,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 1.6994550088871217e-05,
+      "timestamp": "2025-06-20 07:20"
+    },
+    {
+      "rank": 10,
+      "name": "Matchain",
+      "symbol": "MAT",
+      "price_btc": 1.3925186026853626e-05,
+      "timestamp": "2025-06-20 07:20"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-20 07:20"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.650803102257511e-06,
+      "timestamp": "2025-06-20 07:20"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0033010805047407983,
+      "timestamp": "2025-06-20 07:20"
+    },
+    {
+      "rank": 14,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 3.827994393321405e-06,
+      "timestamp": "2025-06-20 07:20"
+    },
+    {
+      "rank": 15,
+      "name": "Kaia",
+      "symbol": "KAIA",
+      "price_btc": 1.8625939824132366e-06,
+      "timestamp": "2025-06-20 07:20"
+    }
   ]
 }
