@@ -161461,5 +161461,112 @@
       "price_btc": 1.2708778347056972e-05,
       "timestamp": "2025-06-20 08:28"
     }
+  ],
+  "2025-06-20 09:22": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.805721862151798e-05,
+      "timestamp": "2025-06-20 09:22"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.859636408320942e-08,
+      "timestamp": "2025-06-20 09:22"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.8183159055480605e-08,
+      "timestamp": "2025-06-20 09:22"
+    },
+    {
+      "rank": 4,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 3.6839507722234824e-07,
+      "timestamp": "2025-06-20 09:22"
+    },
+    {
+      "rank": 5,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 1.9189769109683074e-06,
+      "timestamp": "2025-06-20 09:22"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003530408229263973,
+      "timestamp": "2025-06-20 09:22"
+    },
+    {
+      "rank": 7,
+      "name": "Avail",
+      "symbol": "AVAIL",
+      "price_btc": 2.619844721456886e-07,
+      "timestamp": "2025-06-20 09:22"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.198003474539858e-06,
+      "timestamp": "2025-06-20 09:22"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.649103836907934e-05,
+      "timestamp": "2025-06-20 09:22"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0471575820218565e-05,
+      "timestamp": "2025-06-20 09:22"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-20 09:22"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013923170827602038,
+      "timestamp": "2025-06-20 09:22"
+    },
+    {
+      "rank": 13,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 3.8283883762807514e-06,
+      "timestamp": "2025-06-20 09:22"
+    },
+    {
+      "rank": 14,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2654607846241737e-05,
+      "timestamp": "2025-06-20 09:22"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.097939043051628e-06,
+      "timestamp": "2025-06-20 09:22"
+    }
   ]
 }
