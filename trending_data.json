@@ -160819,5 +160819,112 @@
       "price_btc": 4.1071213100066625e-07,
       "timestamp": "2025-06-20 01:46"
     }
+  ],
+  "2025-06-20 03:17": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.85582926468376e-08,
+      "timestamp": "2025-06-20 03:17"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8286831317371685e-05,
+      "timestamp": "2025-06-20 03:17"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.623643768350768e-08,
+      "timestamp": "2025-06-20 03:17"
+    },
+    {
+      "rank": 4,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 4.766871197045677e-07,
+      "timestamp": "2025-06-20 03:17"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-20 03:17"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.143238490068425e-06,
+      "timestamp": "2025-06-20 03:17"
+    },
+    {
+      "rank": 7,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.3734631573256e-06,
+      "timestamp": "2025-06-20 03:17"
+    },
+    {
+      "rank": 8,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.2733509058504374e-06,
+      "timestamp": "2025-06-20 03:17"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034987481004941016,
+      "timestamp": "2025-06-20 03:17"
+    },
+    {
+      "rank": 10,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 1.896744206015871e-06,
+      "timestamp": "2025-06-20 03:17"
+    },
+    {
+      "rank": 11,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 7.53496104635922e-06,
+      "timestamp": "2025-06-20 03:17"
+    },
+    {
+      "rank": 12,
+      "name": "Kaia",
+      "symbol": "KAIA",
+      "price_btc": 1.7560681831849902e-06,
+      "timestamp": "2025-06-20 03:17"
+    },
+    {
+      "rank": 13,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.6188639695646448e-06,
+      "timestamp": "2025-06-20 03:17"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6795758445099914e-05,
+      "timestamp": "2025-06-20 03:17"
+    },
+    {
+      "rank": 15,
+      "name": "Matchain",
+      "symbol": "MAT",
+      "price_btc": 1.934091722974224e-05,
+      "timestamp": "2025-06-20 03:17"
+    }
   ]
 }
