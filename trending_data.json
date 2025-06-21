@@ -165099,5 +165099,112 @@
       "price_btc": 5.161896351009455e-06,
       "timestamp": "2025-06-21 20:20"
     }
+  ],
+  "2025-06-21 21:17": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8189497053466644e-05,
+      "timestamp": "2025-06-21 21:17"
+    },
+    {
+      "rank": 2,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 6.853747709786563e-08,
+      "timestamp": "2025-06-21 21:17"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 2.703681896831453e-08,
+      "timestamp": "2025-06-21 21:17"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.1050301698083513e-06,
+      "timestamp": "2025-06-21 21:17"
+    },
+    {
+      "rank": 5,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.755644217273987e-08,
+      "timestamp": "2025-06-21 21:17"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031752237618159904,
+      "timestamp": "2025-06-21 21:17"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5228788434246042e-05,
+      "timestamp": "2025-06-21 21:17"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030549636954665424,
+      "timestamp": "2025-06-21 21:17"
+    },
+    {
+      "rank": 9,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002385243774581007,
+      "timestamp": "2025-06-21 21:17"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.382444796099426e-06,
+      "timestamp": "2025-06-21 21:17"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-21 21:17"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0324012209852826e-05,
+      "timestamp": "2025-06-21 21:17"
+    },
+    {
+      "rank": 13,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 1.0091145642062363e-06,
+      "timestamp": "2025-06-21 21:17"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.5820966098950823e-06,
+      "timestamp": "2025-06-21 21:17"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 6.80228339845275e-06,
+      "timestamp": "2025-06-21 21:17"
+    }
   ]
 }
