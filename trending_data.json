@@ -163387,5 +163387,112 @@
       "price_btc": 6.592138722600801e-06,
       "timestamp": "2025-06-21 04:25"
     }
+  ],
+  "2025-06-21 05:19": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8358144095896856e-08,
+      "timestamp": "2025-06-21 05:19"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.828922648725528e-05,
+      "timestamp": "2025-06-21 05:19"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033291528179204687,
+      "timestamp": "2025-06-21 05:19"
+    },
+    {
+      "rank": 4,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 3.6118166175846607e-07,
+      "timestamp": "2025-06-21 05:19"
+    },
+    {
+      "rank": 5,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.1163044364627586e-06,
+      "timestamp": "2025-06-21 05:19"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5088056958901219e-05,
+      "timestamp": "2025-06-21 05:19"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.142284107171735e-06,
+      "timestamp": "2025-06-21 05:19"
+    },
+    {
+      "rank": 8,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.3694328871767126e-08,
+      "timestamp": "2025-06-21 05:19"
+    },
+    {
+      "rank": 9,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 6.670946519992432e-07,
+      "timestamp": "2025-06-21 05:19"
+    },
+    {
+      "rank": 10,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.6995515973212686e-06,
+      "timestamp": "2025-06-21 05:19"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.554152357122723e-06,
+      "timestamp": "2025-06-21 05:19"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 1.73014237530081e-05,
+      "timestamp": "2025-06-21 05:19"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.236290644009463e-06,
+      "timestamp": "2025-06-21 05:19"
+    },
+    {
+      "rank": 14,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0391272622570663e-05,
+      "timestamp": "2025-06-21 05:19"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003300450558680521,
+      "timestamp": "2025-06-21 05:19"
+    }
   ]
 }
