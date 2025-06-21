@@ -164992,5 +164992,112 @@
       "price_btc": 0.003123209958172418,
       "timestamp": "2025-06-21 19:15"
     }
+  ],
+  "2025-06-21 20:20": [
+    {
+      "rank": 1,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 7.06678808578092e-08,
+      "timestamp": "2025-06-21 20:20"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.821395642389454e-05,
+      "timestamp": "2025-06-21 20:20"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 2.8135491689704427e-08,
+      "timestamp": "2025-06-21 20:20"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5172998740684117e-05,
+      "timestamp": "2025-06-21 20:20"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-21 20:20"
+    },
+    {
+      "rank": 6,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7477751391262683e-08,
+      "timestamp": "2025-06-21 20:20"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00031322598591957237,
+      "timestamp": "2025-06-21 20:20"
+    },
+    {
+      "rank": 8,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.0800161855444717e-06,
+      "timestamp": "2025-06-21 20:20"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.21571844195021e-06,
+      "timestamp": "2025-06-21 20:20"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013416212971975377,
+      "timestamp": "2025-06-21 20:20"
+    },
+    {
+      "rank": 11,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 8.155346931696498e-06,
+      "timestamp": "2025-06-21 20:20"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.271138781790543e-06,
+      "timestamp": "2025-06-21 20:20"
+    },
+    {
+      "rank": 13,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.5804790898321234e-06,
+      "timestamp": "2025-06-21 20:20"
+    },
+    {
+      "rank": 14,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.435697477264371e-06,
+      "timestamp": "2025-06-21 20:20"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.161896351009455e-06,
+      "timestamp": "2025-06-21 20:20"
+    }
   ]
 }
