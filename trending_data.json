@@ -163173,5 +163173,112 @@
       "price_btc": 6.135926405214429e-06,
       "timestamp": "2025-06-21 01:44"
     }
+  ],
+  "2025-06-21 03:13": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8431394203013347e-08,
+      "timestamp": "2025-06-21 03:13"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.829829412276871e-05,
+      "timestamp": "2025-06-21 03:13"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.154381983716147e-08,
+      "timestamp": "2025-06-21 03:13"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.1106803080160035e-06,
+      "timestamp": "2025-06-21 03:13"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033333952405085294,
+      "timestamp": "2025-06-21 03:13"
+    },
+    {
+      "rank": 6,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.6752112059886036e-06,
+      "timestamp": "2025-06-21 03:13"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-21 03:13"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.392296718765508e-06,
+      "timestamp": "2025-06-21 03:13"
+    },
+    {
+      "rank": 9,
+      "name": "Avail",
+      "symbol": "AVAIL",
+      "price_btc": 2.2487601193662036e-07,
+      "timestamp": "2025-06-21 03:13"
+    },
+    {
+      "rank": 10,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.859408320752329e-06,
+      "timestamp": "2025-06-21 03:13"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6363008122261678e-05,
+      "timestamp": "2025-06-21 03:13"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0512337457270978e-05,
+      "timestamp": "2025-06-21 03:13"
+    },
+    {
+      "rank": 13,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 5.644644470642358e-06,
+      "timestamp": "2025-06-21 03:13"
+    },
+    {
+      "rank": 14,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 3.9991738502494707e-07,
+      "timestamp": "2025-06-21 03:13"
+    },
+    {
+      "rank": 15,
+      "name": "Pixels",
+      "symbol": "PIXEL",
+      "price_btc": 3.181600327995009e-07,
+      "timestamp": "2025-06-21 03:13"
+    }
   ]
 }
