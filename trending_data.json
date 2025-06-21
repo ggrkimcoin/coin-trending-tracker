@@ -163066,5 +163066,112 @@
       "price_btc": 7.07934344728503e-06,
       "timestamp": "2025-06-20 23:19"
     }
+  ],
+  "2025-06-21 01:44": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8300766987902743e-08,
+      "timestamp": "2025-06-21 01:44"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.815688872917624e-05,
+      "timestamp": "2025-06-21 01:44"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.2749257302432045e-08,
+      "timestamp": "2025-06-21 01:44"
+    },
+    {
+      "rank": 4,
+      "name": "Avail",
+      "symbol": "AVAIL",
+      "price_btc": 2.2277233951915186e-07,
+      "timestamp": "2025-06-21 01:44"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00032974739951811084,
+      "timestamp": "2025-06-21 01:44"
+    },
+    {
+      "rank": 6,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.052036814183958e-06,
+      "timestamp": "2025-06-21 01:44"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.505491595004585e-05,
+      "timestamp": "2025-06-21 01:44"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013579411057589059,
+      "timestamp": "2025-06-21 01:44"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.673793583509167e-06,
+      "timestamp": "2025-06-21 01:44"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.239143044529978e-06,
+      "timestamp": "2025-06-21 01:44"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0562585562091387e-05,
+      "timestamp": "2025-06-21 01:44"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.873327496842337e-06,
+      "timestamp": "2025-06-21 01:44"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-21 01:44"
+    },
+    {
+      "rank": 14,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.058993014436269e-05,
+      "timestamp": "2025-06-21 01:44"
+    },
+    {
+      "rank": 15,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.135926405214429e-06,
+      "timestamp": "2025-06-21 01:44"
+    }
   ]
 }
