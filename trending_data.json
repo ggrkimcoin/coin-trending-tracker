@@ -164564,5 +164564,112 @@
       "price_btc": 0.023398899914740444,
       "timestamp": "2025-06-21 15:19"
     }
+  ],
+  "2025-06-21 16:24": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7833012215338498e-08,
+      "timestamp": "2025-06-21 16:24"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8223963289091652e-05,
+      "timestamp": "2025-06-21 16:24"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.660412832039199e-08,
+      "timestamp": "2025-06-21 16:24"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.149880470301319e-06,
+      "timestamp": "2025-06-21 16:24"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00032082491742872727,
+      "timestamp": "2025-06-21 16:24"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5457800957350483e-05,
+      "timestamp": "2025-06-21 16:24"
+    },
+    {
+      "rank": 7,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 3.563379397702431e-07,
+      "timestamp": "2025-06-21 16:24"
+    },
+    {
+      "rank": 8,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 6.476100349092681e-08,
+      "timestamp": "2025-06-21 16:24"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3952918457002753e-05,
+      "timestamp": "2025-06-21 16:24"
+    },
+    {
+      "rank": 10,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.65730625710164e-06,
+      "timestamp": "2025-06-21 16:24"
+    },
+    {
+      "rank": 11,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.921793806309953e-06,
+      "timestamp": "2025-06-21 16:24"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.303916597868604e-11,
+      "timestamp": "2025-06-21 16:24"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013526250169379648,
+      "timestamp": "2025-06-21 16:24"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.0089096031167035e-06,
+      "timestamp": "2025-06-21 16:24"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.144266064163713e-06,
+      "timestamp": "2025-06-21 16:24"
+    }
   ]
 }
