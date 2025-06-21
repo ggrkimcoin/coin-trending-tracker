@@ -164350,5 +164350,112 @@
       "price_btc": 1.4695125763485667e-05,
       "timestamp": "2025-06-21 13:27"
     }
+  ],
+  "2025-06-21 14:19": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8232045418893107e-05,
+      "timestamp": "2025-06-21 14:19"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.78592798634799e-08,
+      "timestamp": "2025-06-21 14:19"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5725245869212968e-05,
+      "timestamp": "2025-06-21 14:19"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.456193722466917e-08,
+      "timestamp": "2025-06-21 14:19"
+    },
+    {
+      "rank": 5,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.00610773964771e-06,
+      "timestamp": "2025-06-21 14:19"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02336139846305058,
+      "timestamp": "2025-06-21 14:19"
+    },
+    {
+      "rank": 7,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.115817483164489e-06,
+      "timestamp": "2025-06-21 14:19"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013596133812808515,
+      "timestamp": "2025-06-21 14:19"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.6344373173666406e-06,
+      "timestamp": "2025-06-21 14:19"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4229292631366224e-05,
+      "timestamp": "2025-06-21 14:19"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.925287090590308e-06,
+      "timestamp": "2025-06-21 14:19"
+    },
+    {
+      "rank": 12,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.5083149806539023e-05,
+      "timestamp": "2025-06-21 14:19"
+    },
+    {
+      "rank": 13,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 3.5908990524228186e-07,
+      "timestamp": "2025-06-21 14:19"
+    },
+    {
+      "rank": 14,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 7.82282149473629e-08,
+      "timestamp": "2025-06-21 14:19"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-21 14:19"
+    }
   ]
 }
