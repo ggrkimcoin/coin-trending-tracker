@@ -164885,5 +164885,112 @@
       "price_btc": 0.0013462994623856853,
       "timestamp": "2025-06-21 18:26"
     }
+  ],
+  "2025-06-21 19:15": [
+    {
+      "rank": 1,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 7.451732903975885e-08,
+      "timestamp": "2025-06-21 19:15"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8220957690940156e-05,
+      "timestamp": "2025-06-21 19:15"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7514423505792546e-08,
+      "timestamp": "2025-06-21 19:15"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.373603672881631e-08,
+      "timestamp": "2025-06-21 19:15"
+    },
+    {
+      "rank": 5,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.1372780825811376e-06,
+      "timestamp": "2025-06-21 19:15"
+    },
+    {
+      "rank": 6,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.5812465849783857e-06,
+      "timestamp": "2025-06-21 19:15"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5307550119701935e-05,
+      "timestamp": "2025-06-21 19:15"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.117600751795548e-06,
+      "timestamp": "2025-06-21 19:15"
+    },
+    {
+      "rank": 9,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 5.699128920503725e-06,
+      "timestamp": "2025-06-21 19:15"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003167271517461318,
+      "timestamp": "2025-06-21 19:15"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023271636489280725,
+      "timestamp": "2025-06-21 19:15"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.655100577411158e-06,
+      "timestamp": "2025-06-21 19:15"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013434123191326593,
+      "timestamp": "2025-06-21 19:15"
+    },
+    {
+      "rank": 14,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.402924368726403e-06,
+      "timestamp": "2025-06-21 19:15"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003123209958172418,
+      "timestamp": "2025-06-21 19:15"
+    }
   ]
 }
