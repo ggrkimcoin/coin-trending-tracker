@@ -163922,5 +163922,112 @@
       "price_btc": 0.0023905948578974295,
       "timestamp": "2025-06-21 09:19"
     }
+  ],
+  "2025-06-21 10:21": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8457871836590743e-05,
+      "timestamp": "2025-06-21 10:21"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8276180733591706e-08,
+      "timestamp": "2025-06-21 10:21"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.337493119435922e-08,
+      "timestamp": "2025-06-21 10:21"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.157462140821478e-06,
+      "timestamp": "2025-06-21 10:21"
+    },
+    {
+      "rank": 5,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.671073438907603e-06,
+      "timestamp": "2025-06-21 10:21"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.181786965006564e-06,
+      "timestamp": "2025-06-21 10:21"
+    },
+    {
+      "rank": 7,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.1499202659003612e-05,
+      "timestamp": "2025-06-21 10:21"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0205489660784928e-05,
+      "timestamp": "2025-06-21 10:21"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4979420765453436e-05,
+      "timestamp": "2025-06-21 10:21"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02352912084646264,
+      "timestamp": "2025-06-21 10:21"
+    },
+    {
+      "rank": 11,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 3.48206570514186e-07,
+      "timestamp": "2025-06-21 10:21"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.074844650458404e-06,
+      "timestamp": "2025-06-21 10:21"
+    },
+    {
+      "rank": 13,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 4.477636836972774e-05,
+      "timestamp": "2025-06-21 10:21"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6341316008663966e-05,
+      "timestamp": "2025-06-21 10:21"
+    },
+    {
+      "rank": 15,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 1.0379971059550972e-06,
+      "timestamp": "2025-06-21 10:21"
+    }
   ]
 }
