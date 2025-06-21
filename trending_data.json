@@ -163708,5 +163708,112 @@
       "price_btc": 3.818360796154599e-07,
       "timestamp": "2025-06-21 07:18"
     }
+  ],
+  "2025-06-21 08:25": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8572442762964923e-05,
+      "timestamp": "2025-06-21 08:25"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.838475268329769e-08,
+      "timestamp": "2025-06-21 08:25"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.353866219306263e-08,
+      "timestamp": "2025-06-21 08:25"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033776706177423204,
+      "timestamp": "2025-06-21 08:25"
+    },
+    {
+      "rank": 5,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0261407716370697e-05,
+      "timestamp": "2025-06-21 08:25"
+    },
+    {
+      "rank": 6,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 1.736816273572738e-05,
+      "timestamp": "2025-06-21 08:25"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6420787559298187e-05,
+      "timestamp": "2025-06-21 08:25"
+    },
+    {
+      "rank": 8,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 3.4958491058219127e-07,
+      "timestamp": "2025-06-21 08:25"
+    },
+    {
+      "rank": 9,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.1221889275573963e-06,
+      "timestamp": "2025-06-21 08:25"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02345962210383915,
+      "timestamp": "2025-06-21 08:25"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013590184952988703,
+      "timestamp": "2025-06-21 08:25"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.903367515622753e-06,
+      "timestamp": "2025-06-21 08:25"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003317113126636772,
+      "timestamp": "2025-06-21 08:25"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.710411162795214e-11,
+      "timestamp": "2025-06-21 08:25"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.195138490625432e-06,
+      "timestamp": "2025-06-21 08:25"
+    }
   ]
 }
