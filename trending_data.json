@@ -164136,5 +164136,112 @@
       "price_btc": 6.358815299023015e-06,
       "timestamp": "2025-06-21 11:17"
     }
+  ],
+  "2025-06-21 12:38": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.856672869332187e-05,
+      "timestamp": "2025-06-21 12:38"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8188945486214707e-08,
+      "timestamp": "2025-06-21 12:38"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.5532678756503715e-08,
+      "timestamp": "2025-06-21 12:38"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.1119212531017125e-06,
+      "timestamp": "2025-06-21 12:38"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003389926862907995,
+      "timestamp": "2025-06-21 12:38"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0255161132413933e-05,
+      "timestamp": "2025-06-21 12:38"
+    },
+    {
+      "rank": 7,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 3.660760701158332e-07,
+      "timestamp": "2025-06-21 12:38"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.33154941200991e-06,
+      "timestamp": "2025-06-21 12:38"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013671107370737783,
+      "timestamp": "2025-06-21 12:38"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02351395966251492,
+      "timestamp": "2025-06-21 12:38"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0584180646970484e-05,
+      "timestamp": "2025-06-21 12:38"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6239061856879103e-05,
+      "timestamp": "2025-06-21 12:38"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.617233464594509e-11,
+      "timestamp": "2025-06-21 12:38"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.6571594619150132e-06,
+      "timestamp": "2025-06-21 12:38"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.329773761366546e-06,
+      "timestamp": "2025-06-21 12:38"
+    }
   ]
 }
