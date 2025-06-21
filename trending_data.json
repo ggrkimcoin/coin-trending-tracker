@@ -164778,5 +164778,112 @@
       "price_btc": 9.635595773351603e-07,
       "timestamp": "2025-06-21 17:17"
     }
+  ],
+  "2025-06-21 18:26": [
+    {
+      "rank": 1,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 7.384942476531906e-08,
+      "timestamp": "2025-06-21 18:26"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.4573083806658855e-08,
+      "timestamp": "2025-06-21 18:26"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.798868421127243e-05,
+      "timestamp": "2025-06-21 18:26"
+    },
+    {
+      "rank": 4,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7571478978792104e-08,
+      "timestamp": "2025-06-21 18:26"
+    },
+    {
+      "rank": 5,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.1659299744042172e-06,
+      "timestamp": "2025-06-21 18:26"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.534719658680629e-05,
+      "timestamp": "2025-06-21 18:26"
+    },
+    {
+      "rank": 7,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.6191699289005684e-06,
+      "timestamp": "2025-06-21 18:26"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003174221455143069,
+      "timestamp": "2025-06-21 18:26"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3675975427135213e-05,
+      "timestamp": "2025-06-21 18:26"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.051515668804085e-06,
+      "timestamp": "2025-06-21 18:26"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.492920254543648e-06,
+      "timestamp": "2025-06-21 18:26"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.033093707083721e-05,
+      "timestamp": "2025-06-21 18:26"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-21 18:26"
+    },
+    {
+      "rank": 14,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 5.8927123500073536e-06,
+      "timestamp": "2025-06-21 18:26"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013462994623856853,
+      "timestamp": "2025-06-21 18:26"
+    }
   ]
 }
