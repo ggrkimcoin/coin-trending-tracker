@@ -163494,5 +163494,112 @@
       "price_btc": 0.003300450558680521,
       "timestamp": "2025-06-21 05:19"
     }
+  ],
+  "2025-06-21 06:28": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8411977717031837e-05,
+      "timestamp": "2025-06-21 06:28"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.844128334480942e-08,
+      "timestamp": "2025-06-21 06:28"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.3345833425191616e-08,
+      "timestamp": "2025-06-21 06:28"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.843303580246807e-06,
+      "timestamp": "2025-06-21 06:28"
+    },
+    {
+      "rank": 5,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.7174969936711485e-06,
+      "timestamp": "2025-06-21 06:28"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.1555867014754604e-06,
+      "timestamp": "2025-06-21 06:28"
+    },
+    {
+      "rank": 7,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.14919454203165e-06,
+      "timestamp": "2025-06-21 06:28"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033535994568576356,
+      "timestamp": "2025-06-21 06:28"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.004523451962216e-06,
+      "timestamp": "2025-06-21 06:28"
+    },
+    {
+      "rank": 10,
+      "name": "Gorbagana",
+      "symbol": "GOR",
+      "price_btc": 3.7752542415121067e-07,
+      "timestamp": "2025-06-21 06:28"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023444003400509898,
+      "timestamp": "2025-06-21 06:28"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.214955903456026e-06,
+      "timestamp": "2025-06-21 06:28"
+    },
+    {
+      "rank": 13,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.578259618810775e-06,
+      "timestamp": "2025-06-21 06:28"
+    },
+    {
+      "rank": 14,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.5524738527338618e-05,
+      "timestamp": "2025-06-21 06:28"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.5956165671184807e-06,
+      "timestamp": "2025-06-21 06:28"
+    }
   ]
 }
