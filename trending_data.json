@@ -163601,5 +163601,112 @@
       "price_btc": 2.5956165671184807e-06,
       "timestamp": "2025-06-21 06:28"
     }
+  ],
+  "2025-06-21 07:18": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8368613980161145e-08,
+      "timestamp": "2025-06-21 07:18"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8487660956225634e-05,
+      "timestamp": "2025-06-21 07:18"
+    },
+    {
+      "rank": 3,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.1097299848490013e-06,
+      "timestamp": "2025-06-21 07:18"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.354877019259938e-08,
+      "timestamp": "2025-06-21 07:18"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003344162561332003,
+      "timestamp": "2025-06-21 07:18"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0195316503821676e-05,
+      "timestamp": "2025-06-21 07:18"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001354607220087387,
+      "timestamp": "2025-06-21 07:18"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0574053995309644e-05,
+      "timestamp": "2025-06-21 07:18"
+    },
+    {
+      "rank": 9,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.793244684211687e-06,
+      "timestamp": "2025-06-21 07:18"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.196588658137141e-06,
+      "timestamp": "2025-06-21 07:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02342933514260621,
+      "timestamp": "2025-06-21 07:18"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-21 07:18"
+    },
+    {
+      "rank": 13,
+      "name": "Babylon",
+      "symbol": "BABY",
+      "price_btc": 4.4636882178808173e-07,
+      "timestamp": "2025-06-21 07:18"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.633610201081173e-05,
+      "timestamp": "2025-06-21 07:18"
+    },
+    {
+      "rank": 15,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 3.818360796154599e-07,
+      "timestamp": "2025-06-21 07:18"
+    }
   ]
 }
