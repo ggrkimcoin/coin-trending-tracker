@@ -164243,5 +164243,112 @@
       "price_btc": 4.329773761366546e-06,
       "timestamp": "2025-06-21 12:38"
     }
+  ],
+  "2025-06-21 13:27": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.8322877508546133e-05,
+      "timestamp": "2025-06-21 13:27"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.8018834820270254e-08,
+      "timestamp": "2025-06-21 13:27"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.562038678061382e-08,
+      "timestamp": "2025-06-21 13:27"
+    },
+    {
+      "rank": 4,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 3.6679043020385446e-07,
+      "timestamp": "2025-06-21 13:27"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003370626182513205,
+      "timestamp": "2025-06-21 13:27"
+    },
+    {
+      "rank": 6,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.1737373467732155e-06,
+      "timestamp": "2025-06-21 13:27"
+    },
+    {
+      "rank": 7,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0184038634806162e-05,
+      "timestamp": "2025-06-21 13:27"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.227493657286803e-06,
+      "timestamp": "2025-06-21 13:27"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023487155880599946,
+      "timestamp": "2025-06-21 13:27"
+    },
+    {
+      "rank": 10,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 5.6003766472189295e-06,
+      "timestamp": "2025-06-21 13:27"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.600809467433358e-05,
+      "timestamp": "2025-06-21 13:27"
+    },
+    {
+      "rank": 12,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.5619274375098498e-06,
+      "timestamp": "2025-06-21 13:27"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "price_btc": 0.004559434610608168,
+      "timestamp": "2025-06-21 13:27"
+    },
+    {
+      "rank": 14,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.5629225495803449e-06,
+      "timestamp": "2025-06-21 13:27"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4695125763485667e-05,
+      "timestamp": "2025-06-21 13:27"
+    }
   ]
 }
