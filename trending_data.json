@@ -164671,5 +164671,112 @@
       "price_btc": 5.144266064163713e-06,
       "timestamp": "2025-06-21 16:24"
     }
+  ],
+  "2025-06-21 17:17": [
+    {
+      "rank": 1,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 7.13112855761811e-08,
+      "timestamp": "2025-06-21 17:17"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7979197161009904e-05,
+      "timestamp": "2025-06-21 17:17"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7797740775187842e-08,
+      "timestamp": "2025-06-21 17:17"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.585423309188778e-08,
+      "timestamp": "2025-06-21 17:17"
+    },
+    {
+      "rank": 5,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.2131324196232367e-06,
+      "timestamp": "2025-06-21 17:17"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.564700864087586e-06,
+      "timestamp": "2025-06-21 17:17"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5454171526621046e-05,
+      "timestamp": "2025-06-21 17:17"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003177953116922833,
+      "timestamp": "2025-06-21 17:17"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001356002033706483,
+      "timestamp": "2025-06-21 17:17"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3850943051773733e-05,
+      "timestamp": "2025-06-21 17:17"
+    },
+    {
+      "rank": 11,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.917980016051421e-06,
+      "timestamp": "2025-06-21 17:17"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023357453646429466,
+      "timestamp": "2025-06-21 17:17"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.368098899497373e-11,
+      "timestamp": "2025-06-21 17:17"
+    },
+    {
+      "rank": 14,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0023409751736930585,
+      "timestamp": "2025-06-21 17:17"
+    },
+    {
+      "rank": 15,
+      "name": "CreatorBid",
+      "symbol": "BID",
+      "price_btc": 9.635595773351603e-07,
+      "timestamp": "2025-06-21 17:17"
+    }
   ]
 }
