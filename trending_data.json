@@ -167025,5 +167025,112 @@
       "price_btc": 8.76324743174062e-11,
       "timestamp": "2025-06-22 16:24"
     }
+  ],
+  "2025-06-22 17:17": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.693092663616043e-05,
+      "timestamp": "2025-06-22 17:17"
+    },
+    {
+      "rank": 2,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 6.313347927055395e-07,
+      "timestamp": "2025-06-22 17:17"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.639759604860466e-08,
+      "timestamp": "2025-06-22 17:17"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003357041997796722,
+      "timestamp": "2025-06-22 17:17"
+    },
+    {
+      "rank": 5,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 7.52329531096291e-08,
+      "timestamp": "2025-06-22 17:17"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-22 17:17"
+    },
+    {
+      "rank": 7,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.378227927610493e-08,
+      "timestamp": "2025-06-22 17:17"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.61130398958786e-06,
+      "timestamp": "2025-06-22 17:17"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4003419248734915e-05,
+      "timestamp": "2025-06-22 17:17"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.704207252571814e-11,
+      "timestamp": "2025-06-22 17:17"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0029996373998184543,
+      "timestamp": "2025-06-22 17:17"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 6.478955989868865e-06,
+      "timestamp": "2025-06-22 17:17"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0022248447379843825,
+      "timestamp": "2025-06-22 17:17"
+    },
+    {
+      "rank": 14,
+      "name": "PAX Gold",
+      "symbol": "PAXG",
+      "price_btc": 0.03452850715460543,
+      "timestamp": "2025-06-22 17:17"
+    },
+    {
+      "rank": 15,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 5.01010270585472e-06,
+      "timestamp": "2025-06-22 17:17"
+    }
   ]
 }
