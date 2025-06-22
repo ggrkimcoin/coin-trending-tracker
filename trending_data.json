@@ -166383,5 +166383,112 @@
       "price_btc": 2.48558611255078e-05,
       "timestamp": "2025-06-22 10:20"
     }
+  ],
+  "2025-06-22 11:16": [
+    {
+      "rank": 1,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 7.182319835921121e-07,
+      "timestamp": "2025-06-22 11:16"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.754098990134071e-05,
+      "timestamp": "2025-06-22 11:16"
+    },
+    {
+      "rank": 3,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 7.357468024488592e-08,
+      "timestamp": "2025-06-22 11:16"
+    },
+    {
+      "rank": 4,
+      "name": "Gains Network",
+      "symbol": "GNS",
+      "price_btc": 2.2422252532694825e-05,
+      "timestamp": "2025-06-22 11:16"
+    },
+    {
+      "rank": 5,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7048964709706286e-08,
+      "timestamp": "2025-06-22 11:16"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003301501337730324,
+      "timestamp": "2025-06-22 11:16"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002981593520636034,
+      "timestamp": "2025-06-22 11:16"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 6.570353768638917e-06,
+      "timestamp": "2025-06-22 11:16"
+    },
+    {
+      "rank": 9,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.3859713555509436e-05,
+      "timestamp": "2025-06-22 11:16"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.496791142366347e-05,
+      "timestamp": "2025-06-22 11:16"
+    },
+    {
+      "rank": 11,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.2709803950618234e-08,
+      "timestamp": "2025-06-22 11:16"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012995672645366766,
+      "timestamp": "2025-06-22 11:16"
+    },
+    {
+      "rank": 13,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.716756993102007e-06,
+      "timestamp": "2025-06-22 11:16"
+    },
+    {
+      "rank": 14,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 2.7808110449137424e-05,
+      "timestamp": "2025-06-22 11:16"
+    },
+    {
+      "rank": 15,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 8.202519247171798e-06,
+      "timestamp": "2025-06-22 11:16"
+    }
   ]
 }
