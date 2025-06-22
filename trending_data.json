@@ -166490,5 +166490,112 @@
       "price_btc": 8.202519247171798e-06,
       "timestamp": "2025-06-22 11:16"
     }
+  ],
+  "2025-06-22 12:38": [
+    {
+      "rank": 1,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 6.66455246651993e-07,
+      "timestamp": "2025-06-22 12:38"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7383763770221993e-05,
+      "timestamp": "2025-06-22 12:38"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.689467029074676e-08,
+      "timestamp": "2025-06-22 12:38"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.427716306973192e-08,
+      "timestamp": "2025-06-22 12:38"
+    },
+    {
+      "rank": 5,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 7.181594191525625e-08,
+      "timestamp": "2025-06-22 12:38"
+    },
+    {
+      "rank": 6,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.1632629072884e-06,
+      "timestamp": "2025-06-22 12:38"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003296855387001658,
+      "timestamp": "2025-06-22 12:38"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4635162050068433e-05,
+      "timestamp": "2025-06-22 12:38"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002955029234294061,
+      "timestamp": "2025-06-22 12:38"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.9619360999496e-05,
+      "timestamp": "2025-06-22 12:38"
+    },
+    {
+      "rank": 11,
+      "name": "SuperVerse",
+      "symbol": "SUPER",
+      "price_btc": 5.013012275640294e-06,
+      "timestamp": "2025-06-22 12:38"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.388940966624662e-06,
+      "timestamp": "2025-06-22 12:38"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001297530937001205,
+      "timestamp": "2025-06-22 12:38"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.274142273060591e-05,
+      "timestamp": "2025-06-22 12:38"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 1.5698843149662282e-05,
+      "timestamp": "2025-06-22 12:38"
+    }
   ]
 }
