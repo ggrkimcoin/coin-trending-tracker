@@ -166276,5 +166276,112 @@
       "price_btc": 6.257872644950583e-05,
       "timestamp": "2025-06-22 09:20"
     }
+  ],
+  "2025-06-22 10:20": [
+    {
+      "rank": 1,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 7.27313414452159e-08,
+      "timestamp": "2025-06-22 10:20"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.743095408301769e-05,
+      "timestamp": "2025-06-22 10:20"
+    },
+    {
+      "rank": 3,
+      "name": "Gains Network",
+      "symbol": "GNS",
+      "price_btc": 2.2715440650814254e-05,
+      "timestamp": "2025-06-22 10:20"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003261384071496077,
+      "timestamp": "2025-06-22 10:20"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.244438229607196e-08,
+      "timestamp": "2025-06-22 10:20"
+    },
+    {
+      "rank": 6,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3224250184590412e-05,
+      "timestamp": "2025-06-22 10:20"
+    },
+    {
+      "rank": 7,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.684290264700538e-06,
+      "timestamp": "2025-06-22 10:20"
+    },
+    {
+      "rank": 8,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.3765801639668098e-05,
+      "timestamp": "2025-06-22 10:20"
+    },
+    {
+      "rank": 9,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 2.77516566742909e-05,
+      "timestamp": "2025-06-22 10:20"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.818999722618843e-11,
+      "timestamp": "2025-06-22 10:20"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0029997028365635918,
+      "timestamp": "2025-06-22 10:20"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012982719334766381,
+      "timestamp": "2025-06-22 10:20"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.995441701775487e-05,
+      "timestamp": "2025-06-22 10:20"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 6.564322637267716e-06,
+      "timestamp": "2025-06-22 10:20"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.48558611255078e-05,
+      "timestamp": "2025-06-22 10:20"
+    }
   ]
 }
