@@ -165848,5 +165848,112 @@
       "price_btc": 0.0022783520155997467,
       "timestamp": "2025-06-22 05:19"
     }
+  ],
+  "2025-06-22 06:28": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7828934485872586e-05,
+      "timestamp": "2025-06-22 06:28"
+    },
+    {
+      "rank": 2,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 7.451390050081412e-08,
+      "timestamp": "2025-06-22 06:28"
+    },
+    {
+      "rank": 3,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.740489254795034e-06,
+      "timestamp": "2025-06-22 06:28"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-22 06:28"
+    },
+    {
+      "rank": 5,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.883460877993336e-06,
+      "timestamp": "2025-06-22 06:28"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003041287967613063,
+      "timestamp": "2025-06-22 06:28"
+    },
+    {
+      "rank": 7,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.6141850041328186e-08,
+      "timestamp": "2025-06-22 06:28"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003334938310603265,
+      "timestamp": "2025-06-22 06:28"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 4.959280757473036e-06,
+      "timestamp": "2025-06-22 06:28"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 5.33010459273592e-06,
+      "timestamp": "2025-06-22 06:28"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.5471492730565666e-06,
+      "timestamp": "2025-06-22 06:28"
+    },
+    {
+      "rank": 12,
+      "name": "PAX Gold",
+      "symbol": "PAXG",
+      "price_btc": 0.03315959187520561,
+      "timestamp": "2025-06-22 06:28"
+    },
+    {
+      "rank": 13,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 1.5996072045634816e-05,
+      "timestamp": "2025-06-22 06:28"
+    },
+    {
+      "rank": 14,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 1.0737032951201688e-06,
+      "timestamp": "2025-06-22 06:28"
+    },
+    {
+      "rank": 15,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.715871283677146e-08,
+      "timestamp": "2025-06-22 06:28"
+    }
   ]
 }
