@@ -167239,5 +167239,112 @@
       "price_btc": 1.5599497179579744e-05,
       "timestamp": "2025-06-22 18:27"
     }
+  ],
+  "2025-06-22 19:16": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6510008171974495e-08,
+      "timestamp": "2025-06-22 19:16"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7469188033417403e-05,
+      "timestamp": "2025-06-22 19:16"
+    },
+    {
+      "rank": 3,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 6.32484580923356e-07,
+      "timestamp": "2025-06-22 19:16"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.395439861349707e-08,
+      "timestamp": "2025-06-22 19:16"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034240379320913804,
+      "timestamp": "2025-06-22 19:16"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-22 19:16"
+    },
+    {
+      "rank": 7,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0243858867841852e-05,
+      "timestamp": "2025-06-22 19:16"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.021994708945240967,
+      "timestamp": "2025-06-22 19:16"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0029976324283409917,
+      "timestamp": "2025-06-22 19:16"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013048036602946326,
+      "timestamp": "2025-06-22 19:16"
+    },
+    {
+      "rank": 11,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.411587144347407e-06,
+      "timestamp": "2025-06-22 19:16"
+    },
+    {
+      "rank": 12,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 5.414914478951799e-06,
+      "timestamp": "2025-06-22 19:16"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 6.52365846049769e-06,
+      "timestamp": "2025-06-22 19:16"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.3951830821983288e-05,
+      "timestamp": "2025-06-22 19:16"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 1.562222097618288e-05,
+      "timestamp": "2025-06-22 19:16"
+    }
   ]
 }
