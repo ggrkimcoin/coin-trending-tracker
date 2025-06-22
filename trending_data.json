@@ -165527,5 +165527,112 @@
       "price_btc": 2.0149406045474204e-05,
       "timestamp": "2025-06-22 01:54"
     }
+  ],
+  "2025-06-22 03:26": [
+    {
+      "rank": 1,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 7.555637072892867e-08,
+      "timestamp": "2025-06-22 03:26"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7833660478677937e-05,
+      "timestamp": "2025-06-22 03:26"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.5569625909837075e-08,
+      "timestamp": "2025-06-22 03:26"
+    },
+    {
+      "rank": 4,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.711820828618283e-08,
+      "timestamp": "2025-06-22 03:26"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.499081009177203e-05,
+      "timestamp": "2025-06-22 03:26"
+    },
+    {
+      "rank": 6,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 1.6004275584216872e-05,
+      "timestamp": "2025-06-22 03:26"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003245498975715806,
+      "timestamp": "2025-06-22 03:26"
+    },
+    {
+      "rank": 8,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.0417987369602e-07,
+      "timestamp": "2025-06-22 03:26"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.505092342044566e-06,
+      "timestamp": "2025-06-22 03:26"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013194530349758522,
+      "timestamp": "2025-06-22 03:26"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3779969811682089e-05,
+      "timestamp": "2025-06-22 03:26"
+    },
+    {
+      "rank": 12,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 8.962699221015885e-07,
+      "timestamp": "2025-06-22 03:26"
+    },
+    {
+      "rank": 13,
+      "name": "CreatorBid",
+      "symbol": "BID",
+      "price_btc": 9.629798082530277e-07,
+      "timestamp": "2025-06-22 03:26"
+    },
+    {
+      "rank": 14,
+      "name": "Namada",
+      "symbol": "NAM",
+      "price_btc": 3.573945748430904e-07,
+      "timestamp": "2025-06-22 03:26"
+    },
+    {
+      "rank": 15,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 1.3865285525773809e-06,
+      "timestamp": "2025-06-22 03:26"
+    }
   ]
 }
