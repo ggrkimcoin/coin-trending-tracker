@@ -167132,5 +167132,112 @@
       "price_btc": 5.01010270585472e-06,
       "timestamp": "2025-06-22 17:17"
     }
+  ],
+  "2025-06-22 18:27": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7241540316264697e-05,
+      "timestamp": "2025-06-22 18:27"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6603593880459055e-08,
+      "timestamp": "2025-06-22 18:27"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.4492981327855425e-08,
+      "timestamp": "2025-06-22 18:27"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034189586351144165,
+      "timestamp": "2025-06-22 18:27"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-22 18:27"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4205406615419e-05,
+      "timestamp": "2025-06-22 18:27"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022019640933285657,
+      "timestamp": "2025-06-22 18:27"
+    },
+    {
+      "rank": 8,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 7.760152708339791e-08,
+      "timestamp": "2025-06-22 18:27"
+    },
+    {
+      "rank": 9,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 1.971421056026465e-06,
+      "timestamp": "2025-06-22 18:27"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.065387947806319e-08,
+      "timestamp": "2025-06-22 18:27"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.5462900244474086e-06,
+      "timestamp": "2025-06-22 18:27"
+    },
+    {
+      "rank": 12,
+      "name": "PAX Gold",
+      "symbol": "PAXG",
+      "price_btc": 0.034537746735322554,
+      "timestamp": "2025-06-22 18:27"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013128639281895207,
+      "timestamp": "2025-06-22 18:27"
+    },
+    {
+      "rank": 14,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 5.181378647635701e-06,
+      "timestamp": "2025-06-22 18:27"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 1.5599497179579744e-05,
+      "timestamp": "2025-06-22 18:27"
+    }
   ]
 }
