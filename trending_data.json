@@ -167667,5 +167667,112 @@
       "price_btc": 3.398197992977104e-06,
       "timestamp": "2025-06-22 22:18"
     }
+  ],
+  "2025-06-22 23:19": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7008089460790287e-05,
+      "timestamp": "2025-06-22 23:19"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6722981660351026e-08,
+      "timestamp": "2025-06-22 23:19"
+    },
+    {
+      "rank": 3,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 6.075096007775402e-07,
+      "timestamp": "2025-06-22 23:19"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.546974485044136e-08,
+      "timestamp": "2025-06-22 23:19"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.243077484080925e-06,
+      "timestamp": "2025-06-22 23:19"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003552456053398667,
+      "timestamp": "2025-06-22 23:19"
+    },
+    {
+      "rank": 7,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.735123254285851e-06,
+      "timestamp": "2025-06-22 23:19"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.259849373459473e-08,
+      "timestamp": "2025-06-22 23:19"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.995015918658035e-05,
+      "timestamp": "2025-06-22 23:19"
+    },
+    {
+      "rank": 10,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.043510141140618e-05,
+      "timestamp": "2025-06-22 23:19"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 6.633797922161777e-06,
+      "timestamp": "2025-06-22 23:19"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003019020135027302,
+      "timestamp": "2025-06-22 23:19"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013088540576590192,
+      "timestamp": "2025-06-22 23:19"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 1.5783137394258847e-05,
+      "timestamp": "2025-06-22 23:19"
+    },
+    {
+      "rank": 15,
+      "name": "AIOZ Network",
+      "symbol": "AIOZ",
+      "price_btc": 2.764809080937293e-06,
+      "timestamp": "2025-06-22 23:19"
+    }
   ]
 }
