@@ -166918,5 +166918,112 @@
       "price_btc": 7.470996380824288e-06,
       "timestamp": "2025-06-22 15:19"
     }
+  ],
+  "2025-06-22 16:24": [
+    {
+      "rank": 1,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 6.51158132172624e-07,
+      "timestamp": "2025-06-22 16:24"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7355179319317436e-05,
+      "timestamp": "2025-06-22 16:24"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.675361884074832e-08,
+      "timestamp": "2025-06-22 16:24"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-22 16:24"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.424936147485196e-05,
+      "timestamp": "2025-06-22 16:24"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003323386984913311,
+      "timestamp": "2025-06-22 16:24"
+    },
+    {
+      "rank": 7,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 7.569752964700082e-08,
+      "timestamp": "2025-06-22 16:24"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.99210187969713e-08,
+      "timestamp": "2025-06-22 16:24"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030009169680568297,
+      "timestamp": "2025-06-22 16:24"
+    },
+    {
+      "rank": 10,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 1.874533904350434e-05,
+      "timestamp": "2025-06-22 16:24"
+    },
+    {
+      "rank": 11,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.51609513986804e-08,
+      "timestamp": "2025-06-22 16:24"
+    },
+    {
+      "rank": 12,
+      "name": "Clearpool",
+      "symbol": "CPOOL",
+      "price_btc": 8.659518918436603e-07,
+      "timestamp": "2025-06-22 16:24"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 6.449965629741313e-06,
+      "timestamp": "2025-06-22 16:24"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.539539862978009e-06,
+      "timestamp": "2025-06-22 16:24"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.76324743174062e-11,
+      "timestamp": "2025-06-22 16:24"
+    }
   ]
 }
