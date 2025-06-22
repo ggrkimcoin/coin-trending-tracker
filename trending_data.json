@@ -165634,5 +165634,112 @@
       "price_btc": 1.3865285525773809e-06,
       "timestamp": "2025-06-22 03:26"
     }
+  ],
+  "2025-06-22 04:31": [
+    {
+      "rank": 1,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 7.315673313507512e-08,
+      "timestamp": "2025-06-22 04:31"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7737792490933193e-05,
+      "timestamp": "2025-06-22 04:31"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.709028361714546e-08,
+      "timestamp": "2025-06-22 04:31"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00032579525819016346,
+      "timestamp": "2025-06-22 04:31"
+    },
+    {
+      "rank": 5,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.006946480827539e-11,
+      "timestamp": "2025-06-22 04:31"
+    },
+    {
+      "rank": 6,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.71425981011956e-08,
+      "timestamp": "2025-06-22 04:31"
+    },
+    {
+      "rank": 7,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.550682503635493e-06,
+      "timestamp": "2025-06-22 04:31"
+    },
+    {
+      "rank": 8,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002268242124502848,
+      "timestamp": "2025-06-22 04:31"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 4.939698464986993e-06,
+      "timestamp": "2025-06-22 04:31"
+    },
+    {
+      "rank": 10,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 9.272916076983418e-07,
+      "timestamp": "2025-06-22 04:31"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5045213552662873e-05,
+      "timestamp": "2025-06-22 04:31"
+    },
+    {
+      "rank": 12,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.0200460973385154e-06,
+      "timestamp": "2025-06-22 04:31"
+    },
+    {
+      "rank": 13,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 5.382699044917715e-06,
+      "timestamp": "2025-06-22 04:31"
+    },
+    {
+      "rank": 14,
+      "name": "Tether",
+      "symbol": "USDT",
+      "price_btc": 9.744213972435365e-06,
+      "timestamp": "2025-06-22 04:31"
+    },
+    {
+      "rank": 15,
+      "name": "Cosmos Hub",
+      "symbol": "ATOM",
+      "price_btc": 3.6852271397471105e-05,
+      "timestamp": "2025-06-22 04:31"
+    }
   ]
 }
