@@ -166169,5 +166169,112 @@
       "price_btc": 3.939726183306466e-07,
       "timestamp": "2025-06-22 08:25"
     }
+  ],
+  "2025-06-22 09:20": [
+    {
+      "rank": 1,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 6.895269093436527e-08,
+      "timestamp": "2025-06-22 09:20"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.764034574522374e-05,
+      "timestamp": "2025-06-22 09:20"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7066765984459114e-08,
+      "timestamp": "2025-06-22 09:20"
+    },
+    {
+      "rank": 4,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 9.85821427187841e-06,
+      "timestamp": "2025-06-22 09:20"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033117707315702947,
+      "timestamp": "2025-06-22 09:20"
+    },
+    {
+      "rank": 6,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.2582193711939205e-08,
+      "timestamp": "2025-06-22 09:20"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5052980519522082e-05,
+      "timestamp": "2025-06-22 09:20"
+    },
+    {
+      "rank": 8,
+      "name": "Gains Network",
+      "symbol": "GNS",
+      "price_btc": 1.831011152223634e-05,
+      "timestamp": "2025-06-22 09:20"
+    },
+    {
+      "rank": 9,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 3.9193056898188116e-07,
+      "timestamp": "2025-06-22 09:20"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013130460994618285,
+      "timestamp": "2025-06-22 09:20"
+    },
+    {
+      "rank": 11,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 1.550808883183908e-05,
+      "timestamp": "2025-06-22 09:20"
+    },
+    {
+      "rank": 12,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002246504107563966,
+      "timestamp": "2025-06-22 09:20"
+    },
+    {
+      "rank": 13,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00016422926576568485,
+      "timestamp": "2025-06-22 09:20"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 6.662239407971932e-06,
+      "timestamp": "2025-06-22 09:20"
+    },
+    {
+      "rank": 15,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 6.257872644950583e-05,
+      "timestamp": "2025-06-22 09:20"
+    }
   ]
 }
