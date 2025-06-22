@@ -165420,5 +165420,112 @@
       "price_btc": 2.9712903229191344e-08,
       "timestamp": "2025-06-21 23:18"
     }
+  ],
+  "2025-06-22 01:54": [
+    {
+      "rank": 1,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 6.870908648560848e-08,
+      "timestamp": "2025-06-22 01:54"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7950039572666865e-05,
+      "timestamp": "2025-06-22 01:54"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00032612952429823285,
+      "timestamp": "2025-06-22 01:54"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.057299558338123e-08,
+      "timestamp": "2025-06-22 01:54"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.507347839200552e-05,
+      "timestamp": "2025-06-22 01:54"
+    },
+    {
+      "rank": 6,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7239755456856814e-08,
+      "timestamp": "2025-06-22 01:54"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003082867608018757,
+      "timestamp": "2025-06-22 01:54"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.718839025979277e-06,
+      "timestamp": "2025-06-22 01:54"
+    },
+    {
+      "rank": 9,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 8.720745937466787e-05,
+      "timestamp": "2025-06-22 01:54"
+    },
+    {
+      "rank": 10,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 8.385596337362708e-06,
+      "timestamp": "2025-06-22 01:54"
+    },
+    {
+      "rank": 11,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.1537363931711485e-07,
+      "timestamp": "2025-06-22 01:54"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.466554986706693e-06,
+      "timestamp": "2025-06-22 01:54"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002282349188110265,
+      "timestamp": "2025-06-22 01:54"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.3490740935552245e-06,
+      "timestamp": "2025-06-22 01:54"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0149406045474204e-05,
+      "timestamp": "2025-06-22 01:54"
+    }
   ]
 }
