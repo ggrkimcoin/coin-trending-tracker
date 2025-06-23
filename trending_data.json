@@ -168309,5 +168309,112 @@
       "price_btc": 1.6082114851738942e-05,
       "timestamp": "2025-06-23 06:33"
     }
+  ],
+  "2025-06-23 07:21": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6679677193572447e-08,
+      "timestamp": "2025-06-23 07:21"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7054595184331964e-05,
+      "timestamp": "2025-06-23 07:21"
+    },
+    {
+      "rank": 3,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.720538226880675e-07,
+      "timestamp": "2025-06-23 07:21"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.403761079001655e-08,
+      "timestamp": "2025-06-23 07:21"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013196543112885717,
+      "timestamp": "2025-06-23 07:21"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-23 07:21"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.0055384347060435e-06,
+      "timestamp": "2025-06-23 07:21"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003509389589958086,
+      "timestamp": "2025-06-23 07:21"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4776858845547046e-05,
+      "timestamp": "2025-06-23 07:21"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02218284828691045,
+      "timestamp": "2025-06-23 07:21"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030300975132175963,
+      "timestamp": "2025-06-23 07:21"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3693954363359495e-05,
+      "timestamp": "2025-06-23 07:21"
+    },
+    {
+      "rank": 13,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.2715190051477784e-05,
+      "timestamp": "2025-06-23 07:21"
+    },
+    {
+      "rank": 14,
+      "name": "CARV",
+      "symbol": "CARV",
+      "price_btc": 2.2842565081848756e-06,
+      "timestamp": "2025-06-23 07:21"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.00228971792397408,
+      "timestamp": "2025-06-23 07:21"
+    }
   ]
 }
