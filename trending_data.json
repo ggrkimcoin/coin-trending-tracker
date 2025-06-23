@@ -169700,5 +169700,112 @@
       "price_btc": 1.2616592435639336e-05,
       "timestamp": "2025-06-23 19:16"
     }
+  ],
+  "2025-06-23 20:23": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.763916719832104e-05,
+      "timestamp": "2025-06-23 20:23"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.703110756531969e-08,
+      "timestamp": "2025-06-23 20:23"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5536528755348155e-05,
+      "timestamp": "2025-06-23 20:23"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.466139913070992e-08,
+      "timestamp": "2025-06-23 20:23"
+    },
+    {
+      "rank": 5,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.234235060360552e-06,
+      "timestamp": "2025-06-23 20:23"
+    },
+    {
+      "rank": 6,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.75570268803811e-07,
+      "timestamp": "2025-06-23 20:23"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.62714419420046e-06,
+      "timestamp": "2025-06-23 20:23"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0031687727556232565,
+      "timestamp": "2025-06-23 20:23"
+    },
+    {
+      "rank": 9,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.863810371959848e-06,
+      "timestamp": "2025-06-23 20:23"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013522958863103536,
+      "timestamp": "2025-06-23 20:23"
+    },
+    {
+      "rank": 11,
+      "name": "Liquity",
+      "symbol": "LQTY",
+      "price_btc": 1.2690161352022457e-05,
+      "timestamp": "2025-06-23 20:23"
+    },
+    {
+      "rank": 12,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.4354754337485276e-06,
+      "timestamp": "2025-06-23 20:23"
+    },
+    {
+      "rank": 13,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 6.399872880667944e-05,
+      "timestamp": "2025-06-23 20:23"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003587857680037341,
+      "timestamp": "2025-06-23 20:23"
+    },
+    {
+      "rank": 15,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.184599869492171e-06,
+      "timestamp": "2025-06-23 20:23"
+    }
   ]
 }
