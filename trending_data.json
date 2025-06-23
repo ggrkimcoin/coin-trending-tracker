@@ -169486,5 +169486,112 @@
       "price_btc": 4.949164729154067e-06,
       "timestamp": "2025-06-23 17:18"
     }
+  ],
+  "2025-06-23 18:30": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7520286049125556e-05,
+      "timestamp": "2025-06-23 18:30"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6846824144762744e-08,
+      "timestamp": "2025-06-23 18:30"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.4144931801176245e-08,
+      "timestamp": "2025-06-23 18:30"
+    },
+    {
+      "rank": 4,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.810123769150011e-07,
+      "timestamp": "2025-06-23 18:30"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003543304495049494,
+      "timestamp": "2025-06-23 18:30"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.3287910397231015e-06,
+      "timestamp": "2025-06-23 18:30"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013450785473139032,
+      "timestamp": "2025-06-23 18:30"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.575663228628855e-08,
+      "timestamp": "2025-06-23 18:30"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.557692862727305e-06,
+      "timestamp": "2025-06-23 18:30"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030892242210388402,
+      "timestamp": "2025-06-23 18:30"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4872870613586884e-05,
+      "timestamp": "2025-06-23 18:30"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022268823378071918,
+      "timestamp": "2025-06-23 18:30"
+    },
+    {
+      "rank": 13,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 9.742891348905224e-05,
+      "timestamp": "2025-06-23 18:30"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-23 18:30"
+    },
+    {
+      "rank": 15,
+      "name": "Liquity",
+      "symbol": "LQTY",
+      "price_btc": 1.2122979722270832e-05,
+      "timestamp": "2025-06-23 18:30"
+    }
   ]
 }
