@@ -168737,5 +168737,112 @@
       "price_btc": 6.658066406750547e-06,
       "timestamp": "2025-06-23 10:24"
     }
+  ],
+  "2025-06-23 11:18": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.724926188757697e-05,
+      "timestamp": "2025-06-23 11:18"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6366662187613912e-08,
+      "timestamp": "2025-06-23 11:18"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.530488088484596e-08,
+      "timestamp": "2025-06-23 11:18"
+    },
+    {
+      "rank": 4,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.905163564111806e-07,
+      "timestamp": "2025-06-23 11:18"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003465836425345718,
+      "timestamp": "2025-06-23 11:18"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-23 11:18"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02215808388764753,
+      "timestamp": "2025-06-23 11:18"
+    },
+    {
+      "rank": 8,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 2.1129449025180074e-06,
+      "timestamp": "2025-06-23 11:18"
+    },
+    {
+      "rank": 9,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.053556432835883e-05,
+      "timestamp": "2025-06-23 11:18"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4634833260841042e-05,
+      "timestamp": "2025-06-23 11:18"
+    },
+    {
+      "rank": 11,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.421693789923315e-08,
+      "timestamp": "2025-06-23 11:18"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030383326729742713,
+      "timestamp": "2025-06-23 11:18"
+    },
+    {
+      "rank": 13,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 1.2121763871435038e-07,
+      "timestamp": "2025-06-23 11:18"
+    },
+    {
+      "rank": 14,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.414320243820413e-06,
+      "timestamp": "2025-06-23 11:18"
+    },
+    {
+      "rank": 15,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 1.219839426051665e-10,
+      "timestamp": "2025-06-23 11:18"
+    }
   ]
 }
