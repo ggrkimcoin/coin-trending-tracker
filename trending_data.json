@@ -169914,5 +169914,112 @@
       "price_btc": 1.1307264240952052e-05,
       "timestamp": "2025-06-23 21:19"
     }
+  ],
+  "2025-06-23 22:20": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.720298034712683e-08,
+      "timestamp": "2025-06-23 22:20"
+    },
+    {
+      "rank": 2,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.582723541120309e-07,
+      "timestamp": "2025-06-23 22:20"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.741527503210631e-05,
+      "timestamp": "2025-06-23 22:20"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.591281725732372e-08,
+      "timestamp": "2025-06-23 22:20"
+    },
+    {
+      "rank": 5,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.796203618470034e-06,
+      "timestamp": "2025-06-23 22:20"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.636207060812131e-05,
+      "timestamp": "2025-06-23 22:20"
+    },
+    {
+      "rank": 7,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.2485570077934585e-06,
+      "timestamp": "2025-06-23 22:20"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.916334034467247e-08,
+      "timestamp": "2025-06-23 22:20"
+    },
+    {
+      "rank": 9,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1567680895539959e-05,
+      "timestamp": "2025-06-23 22:20"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0121830326652865e-05,
+      "timestamp": "2025-06-23 22:20"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00036017891853595856,
+      "timestamp": "2025-06-23 22:20"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013636233256271648,
+      "timestamp": "2025-06-23 22:20"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.027796715110329e-06,
+      "timestamp": "2025-06-23 22:20"
+    },
+    {
+      "rank": 14,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 1.2629494625791622e-06,
+      "timestamp": "2025-06-23 22:20"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003278427333529842,
+      "timestamp": "2025-06-23 22:20"
+    }
   ]
 }
