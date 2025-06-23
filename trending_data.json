@@ -168202,5 +168202,112 @@
       "price_btc": 2.4560997833700316e-05,
       "timestamp": "2025-06-23 05:22"
     }
+  ],
+  "2025-06-23 06:33": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7069906064638415e-05,
+      "timestamp": "2025-06-23 06:33"
+    },
+    {
+      "rank": 2,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.729775933875965e-07,
+      "timestamp": "2025-06-23 06:33"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6672719079760156e-08,
+      "timestamp": "2025-06-23 06:33"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.398502376829139e-08,
+      "timestamp": "2025-06-23 06:33"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030300948957688832,
+      "timestamp": "2025-06-23 06:33"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-23 06:33"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.003961952540415e-06,
+      "timestamp": "2025-06-23 06:33"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4680420043697284e-05,
+      "timestamp": "2025-06-23 06:33"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022068376562204613,
+      "timestamp": "2025-06-23 06:33"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3719118462162585e-05,
+      "timestamp": "2025-06-23 06:33"
+    },
+    {
+      "rank": 11,
+      "name": "Story",
+      "symbol": "IP",
+      "price_btc": 2.9684582850339338e-05,
+      "timestamp": "2025-06-23 06:33"
+    },
+    {
+      "rank": 12,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 5.92920542891892e-06,
+      "timestamp": "2025-06-23 06:33"
+    },
+    {
+      "rank": 13,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 1.1768500949501232e-07,
+      "timestamp": "2025-06-23 06:33"
+    },
+    {
+      "rank": 14,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.3848289600108609e-05,
+      "timestamp": "2025-06-23 06:33"
+    },
+    {
+      "rank": 15,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 1.6082114851738942e-05,
+      "timestamp": "2025-06-23 06:33"
+    }
   ]
 }
