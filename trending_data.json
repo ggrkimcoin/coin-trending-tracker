@@ -169379,5 +169379,112 @@
       "price_btc": 1.1718570432570526e-06,
       "timestamp": "2025-06-23 16:27"
     }
+  ],
+  "2025-06-23 17:18": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7267713781280773e-05,
+      "timestamp": "2025-06-23 17:18"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.646796773416832e-08,
+      "timestamp": "2025-06-23 17:18"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.394027334930822e-08,
+      "timestamp": "2025-06-23 17:18"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.311817977177329e-08,
+      "timestamp": "2025-06-23 17:18"
+    },
+    {
+      "rank": 5,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 5.377832340842381e-06,
+      "timestamp": "2025-06-23 17:18"
+    },
+    {
+      "rank": 6,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.924898888826169e-07,
+      "timestamp": "2025-06-23 17:18"
+    },
+    {
+      "rank": 7,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.766126570203869e-06,
+      "timestamp": "2025-06-23 17:18"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013144246700325425,
+      "timestamp": "2025-06-23 17:18"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034152259064509184,
+      "timestamp": "2025-06-23 17:18"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002994601715956009,
+      "timestamp": "2025-06-23 17:18"
+    },
+    {
+      "rank": 11,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.364145676957562e-06,
+      "timestamp": "2025-06-23 17:18"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3612012402603065e-05,
+      "timestamp": "2025-06-23 17:18"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002240462581275765,
+      "timestamp": "2025-06-23 17:18"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-23 17:18"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 4.949164729154067e-06,
+      "timestamp": "2025-06-23 17:18"
+    }
   ]
 }
