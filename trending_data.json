@@ -169272,5 +169272,112 @@
       "price_btc": 2.4711149827409856e-05,
       "timestamp": "2025-06-23 15:23"
     }
+  ],
+  "2025-06-23 16:27": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.759859163436908e-05,
+      "timestamp": "2025-06-23 16:27"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.495286450129572e-08,
+      "timestamp": "2025-06-23 16:27"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.659858079944707e-08,
+      "timestamp": "2025-06-23 16:27"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.358611238925071e-08,
+      "timestamp": "2025-06-23 16:27"
+    },
+    {
+      "rank": 5,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.898487448073728e-07,
+      "timestamp": "2025-06-23 16:27"
+    },
+    {
+      "rank": 6,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.275437078703095e-06,
+      "timestamp": "2025-06-23 16:27"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00033935957524345006,
+      "timestamp": "2025-06-23 16:27"
+    },
+    {
+      "rank": 8,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.8486785973434533e-06,
+      "timestamp": "2025-06-23 16:27"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022109125666368846,
+      "timestamp": "2025-06-23 16:27"
+    },
+    {
+      "rank": 10,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002250310559551609,
+      "timestamp": "2025-06-23 16:27"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.591263921576193e-06,
+      "timestamp": "2025-06-23 16:27"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.4207848894553055e-06,
+      "timestamp": "2025-06-23 16:27"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-23 16:27"
+    },
+    {
+      "rank": 14,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.5167546772312513e-06,
+      "timestamp": "2025-06-23 16:27"
+    },
+    {
+      "rank": 15,
+      "name": "CreatorBid",
+      "symbol": "BID",
+      "price_btc": 1.1718570432570526e-06,
+      "timestamp": "2025-06-23 16:27"
+    }
   ]
 }
