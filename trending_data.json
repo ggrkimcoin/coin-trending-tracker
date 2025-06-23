@@ -168523,5 +168523,112 @@
       "price_btc": 0.0022729909989794637,
       "timestamp": "2025-06-23 08:30"
     }
+  ],
+  "2025-06-23 09:25": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.707251778720318e-05,
+      "timestamp": "2025-06-23 09:25"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6378238882844917e-08,
+      "timestamp": "2025-06-23 09:25"
+    },
+    {
+      "rank": 3,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.79219886532054e-07,
+      "timestamp": "2025-06-23 09:25"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.465660602802664e-08,
+      "timestamp": "2025-06-23 09:25"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034941915005651074,
+      "timestamp": "2025-06-23 09:25"
+    },
+    {
+      "rank": 6,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.6074112909884647e-07,
+      "timestamp": "2025-06-23 09:25"
+    },
+    {
+      "rank": 7,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 2.0643600093922916e-06,
+      "timestamp": "2025-06-23 09:25"
+    },
+    {
+      "rank": 8,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 1.274523373349142e-07,
+      "timestamp": "2025-06-23 09:25"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02220029532561986,
+      "timestamp": "2025-06-23 09:25"
+    },
+    {
+      "rank": 10,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.7576887813792778e-06,
+      "timestamp": "2025-06-23 09:25"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4576972169613813e-05,
+      "timestamp": "2025-06-23 09:25"
+    },
+    {
+      "rank": 12,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0022781969705196435,
+      "timestamp": "2025-06-23 09:25"
+    },
+    {
+      "rank": 13,
+      "name": "aura",
+      "symbol": "AURA",
+      "price_btc": 9.69597845751427e-07,
+      "timestamp": "2025-06-23 09:25"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013186143753166008,
+      "timestamp": "2025-06-23 09:25"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0510724232857605e-05,
+      "timestamp": "2025-06-23 09:25"
+    }
   ]
 }
