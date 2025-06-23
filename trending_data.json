@@ -167774,5 +167774,112 @@
       "price_btc": 2.764809080937293e-06,
       "timestamp": "2025-06-22 23:19"
     }
+  ],
+  "2025-06-23 01:53": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7024162968845634e-05,
+      "timestamp": "2025-06-23 01:53"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.677618478000477e-08,
+      "timestamp": "2025-06-23 01:53"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003507759071708149,
+      "timestamp": "2025-06-23 01:53"
+    },
+    {
+      "rank": 4,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 6.218392941517545e-07,
+      "timestamp": "2025-06-23 01:53"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.683646248130661e-08,
+      "timestamp": "2025-06-23 01:53"
+    },
+    {
+      "rank": 6,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.0089180904325705e-05,
+      "timestamp": "2025-06-23 01:53"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.305853721052598e-06,
+      "timestamp": "2025-06-23 01:53"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.451008430417526e-08,
+      "timestamp": "2025-06-23 01:53"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022152683842966578,
+      "timestamp": "2025-06-23 01:53"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-23 01:53"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 5.773676813468585e-06,
+      "timestamp": "2025-06-23 01:53"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003031258248269153,
+      "timestamp": "2025-06-23 01:53"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.021273455478989e-06,
+      "timestamp": "2025-06-23 01:53"
+    },
+    {
+      "rank": 14,
+      "name": "PAX Gold",
+      "symbol": "PAXG",
+      "price_btc": 0.03370268642134037,
+      "timestamp": "2025-06-23 01:53"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.2936913897388745e-06,
+      "timestamp": "2025-06-23 01:53"
+    }
   ]
 }
