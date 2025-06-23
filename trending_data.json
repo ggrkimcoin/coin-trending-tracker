@@ -169165,5 +169165,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-06-23 14:22"
     }
+  ],
+  "2025-06-23 15:23": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7651888079380556e-05,
+      "timestamp": "2025-06-23 15:23"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.688657298357631e-08,
+      "timestamp": "2025-06-23 15:23"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.5427502634471946e-08,
+      "timestamp": "2025-06-23 15:23"
+    },
+    {
+      "rank": 4,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.854511433090578e-07,
+      "timestamp": "2025-06-23 15:23"
+    },
+    {
+      "rank": 5,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.8181245804647564e-06,
+      "timestamp": "2025-06-23 15:23"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001326181595477316,
+      "timestamp": "2025-06-23 15:23"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003454297274217572,
+      "timestamp": "2025-06-23 15:23"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.689253934745609e-06,
+      "timestamp": "2025-06-23 15:23"
+    },
+    {
+      "rank": 9,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.485538106388543e-08,
+      "timestamp": "2025-06-23 15:23"
+    },
+    {
+      "rank": 10,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.277661926476316e-05,
+      "timestamp": "2025-06-23 15:23"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022396793290831416,
+      "timestamp": "2025-06-23 15:23"
+    },
+    {
+      "rank": 12,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.7278858916278364e-07,
+      "timestamp": "2025-06-23 15:23"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.992793164883517e-11,
+      "timestamp": "2025-06-23 15:23"
+    },
+    {
+      "rank": 14,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.412220640037658e-06,
+      "timestamp": "2025-06-23 15:23"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4711149827409856e-05,
+      "timestamp": "2025-06-23 15:23"
+    }
   ]
 }
