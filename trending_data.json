@@ -168630,5 +168630,112 @@
       "price_btc": 1.0510724232857605e-05,
       "timestamp": "2025-06-23 09:25"
     }
+  ],
+  "2025-06-23 10:24": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.714184290067662e-05,
+      "timestamp": "2025-06-23 10:24"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6280127968893713e-08,
+      "timestamp": "2025-06-23 10:24"
+    },
+    {
+      "rank": 3,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 6.126022250682554e-07,
+      "timestamp": "2025-06-23 10:24"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003492572070785816,
+      "timestamp": "2025-06-23 10:24"
+    },
+    {
+      "rank": 5,
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "price_btc": 2.106206578986017e-06,
+      "timestamp": "2025-06-23 10:24"
+    },
+    {
+      "rank": 6,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.536613517984241e-07,
+      "timestamp": "2025-06-23 10:24"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-23 10:24"
+    },
+    {
+      "rank": 8,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.597826293112326e-08,
+      "timestamp": "2025-06-23 10:24"
+    },
+    {
+      "rank": 9,
+      "name": "FUNToken",
+      "symbol": "FUN",
+      "price_btc": 1.265909851688519e-07,
+      "timestamp": "2025-06-23 10:24"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4726027167456703e-05,
+      "timestamp": "2025-06-23 10:24"
+    },
+    {
+      "rank": 11,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.4489656978035632e-06,
+      "timestamp": "2025-06-23 10:24"
+    },
+    {
+      "rank": 12,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.755917532148636e-06,
+      "timestamp": "2025-06-23 10:24"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013229130955732047,
+      "timestamp": "2025-06-23 10:24"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022169678163356608,
+      "timestamp": "2025-06-23 10:24"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 6.658066406750547e-06,
+      "timestamp": "2025-06-23 10:24"
+    }
   ]
 }
