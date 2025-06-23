@@ -168095,5 +168095,112 @@
       "price_btc": 1.0551261742942616e-10,
       "timestamp": "2025-06-23 04:34"
     }
+  ],
+  "2025-06-23 05:22": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6795544502435808e-08,
+      "timestamp": "2025-06-23 05:22"
+    },
+    {
+      "rank": 2,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.721338421607584e-07,
+      "timestamp": "2025-06-23 05:22"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7158773726117006e-05,
+      "timestamp": "2025-06-23 05:22"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.539176180525013e-08,
+      "timestamp": "2025-06-23 05:22"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003020500264450568,
+      "timestamp": "2025-06-23 05:22"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022069817691654368,
+      "timestamp": "2025-06-23 05:22"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003485249060605008,
+      "timestamp": "2025-06-23 05:22"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.073717144002788e-06,
+      "timestamp": "2025-06-23 05:22"
+    },
+    {
+      "rank": 9,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002269214844819607,
+      "timestamp": "2025-06-23 05:22"
+    },
+    {
+      "rank": 10,
+      "name": "CreatorBid",
+      "symbol": "BID",
+      "price_btc": 1.084216942492743e-06,
+      "timestamp": "2025-06-23 05:22"
+    },
+    {
+      "rank": 11,
+      "name": "MANTRA",
+      "symbol": "OM",
+      "price_btc": 1.9702257368727937e-06,
+      "timestamp": "2025-06-23 05:22"
+    },
+    {
+      "rank": 12,
+      "name": "Story",
+      "symbol": "IP",
+      "price_btc": 2.972545604447145e-05,
+      "timestamp": "2025-06-23 05:22"
+    },
+    {
+      "rank": 13,
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "price_btc": 1.3114508358840795e-06,
+      "timestamp": "2025-06-23 05:22"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3653421864569771e-05,
+      "timestamp": "2025-06-23 05:22"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4560997833700316e-05,
+      "timestamp": "2025-06-23 05:22"
+    }
   ]
 }
