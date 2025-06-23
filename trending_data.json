@@ -168844,5 +168844,112 @@
       "price_btc": 1.219839426051665e-10,
       "timestamp": "2025-06-23 11:18"
     }
+  ],
+  "2025-06-23 12:45": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.654624989893263e-08,
+      "timestamp": "2025-06-23 12:45"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7461055505795435e-05,
+      "timestamp": "2025-06-23 12:45"
+    },
+    {
+      "rank": 3,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.921690147743746e-07,
+      "timestamp": "2025-06-23 12:45"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.5248506618427835e-08,
+      "timestamp": "2025-06-23 12:45"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003433538335863774,
+      "timestamp": "2025-06-23 12:45"
+    },
+    {
+      "rank": 6,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.6032845199413577e-07,
+      "timestamp": "2025-06-23 12:45"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4544550923313267e-05,
+      "timestamp": "2025-06-23 12:45"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013239082693474852,
+      "timestamp": "2025-06-23 12:45"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.870091812289037e-06,
+      "timestamp": "2025-06-23 12:45"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 6.5949348021669595e-06,
+      "timestamp": "2025-06-23 12:45"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 5.8754400100674626e-06,
+      "timestamp": "2025-06-23 12:45"
+    },
+    {
+      "rank": 12,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 3.148046322621523e-05,
+      "timestamp": "2025-06-23 12:45"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022221739541478363,
+      "timestamp": "2025-06-23 12:45"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-23 12:45"
+    },
+    {
+      "rank": 15,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 3.965545297140301e-05,
+      "timestamp": "2025-06-23 12:45"
+    }
   ]
 }
