@@ -167988,5 +167988,112 @@
       "price_btc": 8.505562770463849e-08,
       "timestamp": "2025-06-23 03:26"
     }
+  ],
+  "2025-06-23 04:34": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6821189983211655e-08,
+      "timestamp": "2025-06-23 04:34"
+    },
+    {
+      "rank": 2,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.856309791640344e-07,
+      "timestamp": "2025-06-23 04:34"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7081529031818587e-05,
+      "timestamp": "2025-06-23 04:34"
+    },
+    {
+      "rank": 4,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.102638360321423e-06,
+      "timestamp": "2025-06-23 04:34"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.564871879842054e-08,
+      "timestamp": "2025-06-23 04:34"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013125581864522208,
+      "timestamp": "2025-06-23 04:34"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02208481539817779,
+      "timestamp": "2025-06-23 04:34"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034971744348121344,
+      "timestamp": "2025-06-23 04:34"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030238353042962886,
+      "timestamp": "2025-06-23 04:34"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.99497636491861e-05,
+      "timestamp": "2025-06-23 04:34"
+    },
+    {
+      "rank": 11,
+      "name": "Kaia",
+      "symbol": "KAIA",
+      "price_btc": 1.9115020608296884e-06,
+      "timestamp": "2025-06-23 04:34"
+    },
+    {
+      "rank": 12,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 1.5892253255880093e-05,
+      "timestamp": "2025-06-23 04:34"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-23 04:34"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 6.676028272288894e-06,
+      "timestamp": "2025-06-23 04:34"
+    },
+    {
+      "rank": 15,
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "price_btc": 1.0551261742942616e-10,
+      "timestamp": "2025-06-23 04:34"
+    }
   ]
 }
