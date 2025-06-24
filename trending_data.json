@@ -170877,5 +170877,112 @@
       "price_btc": 8.100564596142096e-06,
       "timestamp": "2025-06-24 08:29"
     }
+  ],
+  "2025-06-24 09:24": [
+    {
+      "rank": 1,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.6947070186975702e-06,
+      "timestamp": "2025-06-24 09:24"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.729893799255348e-08,
+      "timestamp": "2025-06-24 09:24"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7548731312140705e-05,
+      "timestamp": "2025-06-24 09:24"
+    },
+    {
+      "rank": 4,
+      "name": "Mango Network",
+      "symbol": "MGO",
+      "price_btc": 2.478501491635186e-07,
+      "timestamp": "2025-06-24 09:24"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.7538682935830866e-08,
+      "timestamp": "2025-06-24 09:24"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035071059961921247,
+      "timestamp": "2025-06-24 09:24"
+    },
+    {
+      "rank": 7,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1665039851211414e-05,
+      "timestamp": "2025-06-24 09:24"
+    },
+    {
+      "rank": 8,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.45130337466556e-07,
+      "timestamp": "2025-06-24 09:24"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.659224416334081e-05,
+      "timestamp": "2025-06-24 09:24"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02286036284456053,
+      "timestamp": "2025-06-24 09:24"
+    },
+    {
+      "rank": 11,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.234653997686234e-06,
+      "timestamp": "2025-06-24 09:24"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.045743809654909e-06,
+      "timestamp": "2025-06-24 09:24"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001371269341297302,
+      "timestamp": "2025-06-24 09:24"
+    },
+    {
+      "rank": 14,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.1178960300755163e-05,
+      "timestamp": "2025-06-24 09:24"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.782722785170178e-06,
+      "timestamp": "2025-06-24 09:24"
+    }
   ]
 }
