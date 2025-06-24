@@ -172268,5 +172268,112 @@
       "price_btc": 5.175139409563554e-06,
       "timestamp": "2025-06-24 21:20"
     }
+  ],
+  "2025-06-24 22:19": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7229470733739084e-08,
+      "timestamp": "2025-06-24 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7336574289170323e-05,
+      "timestamp": "2025-06-24 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.6796553097835007e-06,
+      "timestamp": "2025-06-24 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.017737720792553e-06,
+      "timestamp": "2025-06-24 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 4.3362760275929863e-07,
+      "timestamp": "2025-06-24 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00012610872266892553,
+      "timestamp": "2025-06-24 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.611961037998625e-08,
+      "timestamp": "2025-06-24 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003516795111985926,
+      "timestamp": "2025-06-24 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003251906383297443,
+      "timestamp": "2025-06-24 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.206934986345184e-06,
+      "timestamp": "2025-06-24 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013699277860668064,
+      "timestamp": "2025-06-24 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Mango Network",
+      "symbol": "MGO",
+      "price_btc": 1.698906669033921e-07,
+      "timestamp": "2025-06-24 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4882271329246266e-05,
+      "timestamp": "2025-06-24 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 4.579391575027463e-05,
+      "timestamp": "2025-06-24 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 3.92045686851207e-06,
+      "timestamp": "2025-06-24 22:19"
+    }
   ]
 }
