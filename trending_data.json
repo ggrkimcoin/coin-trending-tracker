@@ -170770,5 +170770,112 @@
       "price_btc": 1.6201761543588416e-05,
       "timestamp": "2025-06-24 07:21"
     }
+  ],
+  "2025-06-24 08:29": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7431878725694704e-08,
+      "timestamp": "2025-06-24 08:29"
+    },
+    {
+      "rank": 2,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.6843713878763955e-06,
+      "timestamp": "2025-06-24 08:29"
+    },
+    {
+      "rank": 3,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.466566255108033e-07,
+      "timestamp": "2025-06-24 08:29"
+    },
+    {
+      "rank": 4,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7567355214907028e-05,
+      "timestamp": "2025-06-24 08:29"
+    },
+    {
+      "rank": 5,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1702376282242709e-05,
+      "timestamp": "2025-06-24 08:29"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035338423819487386,
+      "timestamp": "2025-06-24 08:29"
+    },
+    {
+      "rank": 7,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.212828912590214e-06,
+      "timestamp": "2025-06-24 08:29"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013733197740476506,
+      "timestamp": "2025-06-24 08:29"
+    },
+    {
+      "rank": 9,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.828459132371394e-06,
+      "timestamp": "2025-06-24 08:29"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02279230673864862,
+      "timestamp": "2025-06-24 08:29"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.039525713228338e-06,
+      "timestamp": "2025-06-24 08:29"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.581775322916537e-05,
+      "timestamp": "2025-06-24 08:29"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-24 08:29"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0033667663341145917,
+      "timestamp": "2025-06-24 08:29"
+    },
+    {
+      "rank": 15,
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "price_btc": 8.100564596142096e-06,
+      "timestamp": "2025-06-24 08:29"
+    }
   ]
 }
