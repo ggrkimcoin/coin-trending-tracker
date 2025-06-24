@@ -170128,5 +170128,112 @@
       "price_btc": 4.775751180200798e-07,
       "timestamp": "2025-06-23 23:17"
     }
+  ],
+  "2025-06-24 01:47": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7538164594369743e-08,
+      "timestamp": "2025-06-24 01:47"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7693763050195723e-05,
+      "timestamp": "2025-06-24 01:47"
+    },
+    {
+      "rank": 3,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.530869790070287e-07,
+      "timestamp": "2025-06-24 01:47"
+    },
+    {
+      "rank": 4,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.588137586933232e-05,
+      "timestamp": "2025-06-24 01:47"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6798111897644796e-05,
+      "timestamp": "2025-06-24 01:47"
+    },
+    {
+      "rank": 6,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.469080161108063e-08,
+      "timestamp": "2025-06-24 01:47"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.670220044626467e-06,
+      "timestamp": "2025-06-24 01:47"
+    },
+    {
+      "rank": 8,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.4726848925882363e-06,
+      "timestamp": "2025-06-24 01:47"
+    },
+    {
+      "rank": 9,
+      "name": "Banana For Scale",
+      "symbol": "BANANAS31",
+      "price_btc": 1.164575504644608e-07,
+      "timestamp": "2025-06-24 01:47"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-24 01:47"
+    },
+    {
+      "rank": 11,
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "price_btc": 4.0163108176185144e-08,
+      "timestamp": "2025-06-24 01:47"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001369393344322974,
+      "timestamp": "2025-06-24 01:47"
+    },
+    {
+      "rank": 13,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.1164949150051522e-05,
+      "timestamp": "2025-06-24 01:47"
+    },
+    {
+      "rank": 14,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024408863802318037,
+      "timestamp": "2025-06-24 01:47"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0033507728573680708,
+      "timestamp": "2025-06-24 01:47"
+    }
   ]
 }
