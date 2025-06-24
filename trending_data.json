@@ -170235,5 +170235,112 @@
       "price_btc": 0.0033507728573680708,
       "timestamp": "2025-06-24 01:47"
     }
+  ],
+  "2025-06-24 03:19": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.748642248529331e-08,
+      "timestamp": "2025-06-24 03:19"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7594330447458002e-05,
+      "timestamp": "2025-06-24 03:19"
+    },
+    {
+      "rank": 3,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.5888784020140405e-06,
+      "timestamp": "2025-06-24 03:19"
+    },
+    {
+      "rank": 4,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003351583890718386,
+      "timestamp": "2025-06-24 03:19"
+    },
+    {
+      "rank": 5,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.509659187247638e-07,
+      "timestamp": "2025-06-24 03:19"
+    },
+    {
+      "rank": 6,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.235221838016156e-08,
+      "timestamp": "2025-06-24 03:19"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5474081551937537e-05,
+      "timestamp": "2025-06-24 03:19"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013612530346296143,
+      "timestamp": "2025-06-24 03:19"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6445689419293496e-05,
+      "timestamp": "2025-06-24 03:19"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.719465643882044e-06,
+      "timestamp": "2025-06-24 03:19"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-24 03:19"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.881832557860011e-06,
+      "timestamp": "2025-06-24 03:19"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0362503807317885e-05,
+      "timestamp": "2025-06-24 03:19"
+    },
+    {
+      "rank": 14,
+      "name": "Cookie DAO",
+      "symbol": "COOKIE",
+      "price_btc": 1.7220899779685061e-06,
+      "timestamp": "2025-06-24 03:19"
+    },
+    {
+      "rank": 15,
+      "name": "Cosmos Hub",
+      "symbol": "ATOM",
+      "price_btc": 3.8349772027845876e-05,
+      "timestamp": "2025-06-24 03:19"
+    }
   ]
 }
