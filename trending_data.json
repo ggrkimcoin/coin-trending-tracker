@@ -170342,5 +170342,112 @@
       "price_btc": 3.8349772027845876e-05,
       "timestamp": "2025-06-24 03:19"
     }
+  ],
+  "2025-06-24 04:30": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7429357471594998e-08,
+      "timestamp": "2025-06-24 04:30"
+    },
+    {
+      "rank": 2,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.506411275246887e-07,
+      "timestamp": "2025-06-24 04:30"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.753922378837109e-05,
+      "timestamp": "2025-06-24 04:30"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.5205344277662687e-06,
+      "timestamp": "2025-06-24 04:30"
+    },
+    {
+      "rank": 5,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024682550184706082,
+      "timestamp": "2025-06-24 04:30"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0033679498299091113,
+      "timestamp": "2025-06-24 04:30"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6523038436705882e-05,
+      "timestamp": "2025-06-24 04:30"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.732424626753802e-06,
+      "timestamp": "2025-06-24 04:30"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003516826366969262,
+      "timestamp": "2025-06-24 04:30"
+    },
+    {
+      "rank": 10,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.353035530204152e-08,
+      "timestamp": "2025-06-24 04:30"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022846664461972643,
+      "timestamp": "2025-06-24 04:30"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.83831368071134e-06,
+      "timestamp": "2025-06-24 04:30"
+    },
+    {
+      "rank": 13,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 6.490390615822868e-05,
+      "timestamp": "2025-06-24 04:30"
+    },
+    {
+      "rank": 14,
+      "name": "HOME",
+      "symbol": "HOME",
+      "price_btc": 2.078734286255588e-07,
+      "timestamp": "2025-06-24 04:30"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013638679228629483,
+      "timestamp": "2025-06-24 04:30"
+    }
   ]
 }
