@@ -170449,5 +170449,112 @@
       "price_btc": 0.0013638679228629483,
       "timestamp": "2025-06-24 04:30"
     }
+  ],
+  "2025-06-24 05:21": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.74752887686526e-08,
+      "timestamp": "2025-06-24 05:21"
+    },
+    {
+      "rank": 2,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.481296138995615e-07,
+      "timestamp": "2025-06-24 05:21"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.751300734560643e-05,
+      "timestamp": "2025-06-24 05:21"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.5741410428109973e-06,
+      "timestamp": "2025-06-24 05:21"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003501327709781491,
+      "timestamp": "2025-06-24 05:21"
+    },
+    {
+      "rank": 6,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.4009381363142416e-08,
+      "timestamp": "2025-06-24 05:21"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013653960926399962,
+      "timestamp": "2025-06-24 05:21"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.701602019734281e-06,
+      "timestamp": "2025-06-24 05:21"
+    },
+    {
+      "rank": 9,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.812925849988353e-06,
+      "timestamp": "2025-06-24 05:21"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022902360351064,
+      "timestamp": "2025-06-24 05:21"
+    },
+    {
+      "rank": 11,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024735400350682914,
+      "timestamp": "2025-06-24 05:21"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.232915596425745e-06,
+      "timestamp": "2025-06-24 05:21"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0033747968431657614,
+      "timestamp": "2025-06-24 05:21"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.026383909233761e-06,
+      "timestamp": "2025-06-24 05:21"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1968158432277624e-05,
+      "timestamp": "2025-06-24 05:21"
+    }
   ]
 }
