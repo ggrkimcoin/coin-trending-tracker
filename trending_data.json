@@ -171947,5 +171947,112 @@
       "price_btc": 5.174792086639119e-06,
       "timestamp": "2025-06-24 18:29"
     }
+  ],
+  "2025-06-24 19:17": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.715238102130263e-08,
+      "timestamp": "2025-06-24 19:17"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.743289151880117e-05,
+      "timestamp": "2025-06-24 19:17"
+    },
+    {
+      "rank": 3,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.6476570065915447e-06,
+      "timestamp": "2025-06-24 19:17"
+    },
+    {
+      "rank": 4,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 4.847897442077484e-07,
+      "timestamp": "2025-06-24 19:17"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023122095820259415,
+      "timestamp": "2025-06-24 19:17"
+    },
+    {
+      "rank": 6,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.508667017242532e-08,
+      "timestamp": "2025-06-24 19:17"
+    },
+    {
+      "rank": 7,
+      "name": "Mango Network",
+      "symbol": "MGO",
+      "price_btc": 1.8344096982902728e-07,
+      "timestamp": "2025-06-24 19:17"
+    },
+    {
+      "rank": 8,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0025189390650372182,
+      "timestamp": "2025-06-24 19:17"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.151524481783447e-06,
+      "timestamp": "2025-06-24 19:17"
+    },
+    {
+      "rank": 10,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2360535553452695e-05,
+      "timestamp": "2025-06-24 19:17"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035758253912736526,
+      "timestamp": "2025-06-24 19:17"
+    },
+    {
+      "rank": 12,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 3.4963675205258596e-08,
+      "timestamp": "2025-06-24 19:17"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013633257573881098,
+      "timestamp": "2025-06-24 19:17"
+    },
+    {
+      "rank": 14,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001271262364322291,
+      "timestamp": "2025-06-24 19:17"
+    },
+    {
+      "rank": 15,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 4.735404269590929e-05,
+      "timestamp": "2025-06-24 19:17"
+    }
   ]
 }
