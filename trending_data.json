@@ -170984,5 +170984,112 @@
       "price_btc": 9.782722785170178e-06,
       "timestamp": "2025-06-24 09:24"
     }
+  ],
+  "2025-06-24 10:23": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7276356137730326e-08,
+      "timestamp": "2025-06-24 10:23"
+    },
+    {
+      "rank": 2,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.6581096895841045e-06,
+      "timestamp": "2025-06-24 10:23"
+    },
+    {
+      "rank": 3,
+      "name": "Mango Network",
+      "symbol": "MGO",
+      "price_btc": 2.393365872793668e-07,
+      "timestamp": "2025-06-24 10:23"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02295412353556208,
+      "timestamp": "2025-06-24 10:23"
+    },
+    {
+      "rank": 5,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7535628120184744e-05,
+      "timestamp": "2025-06-24 10:23"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6546571750652468e-05,
+      "timestamp": "2025-06-24 10:23"
+    },
+    {
+      "rank": 7,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.656563907296969e-08,
+      "timestamp": "2025-06-24 10:23"
+    },
+    {
+      "rank": 8,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.449836724053143e-07,
+      "timestamp": "2025-06-24 10:23"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034776667685630766,
+      "timestamp": "2025-06-24 10:23"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.926399044534751e-06,
+      "timestamp": "2025-06-24 10:23"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013671129009142518,
+      "timestamp": "2025-06-24 10:23"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1752576718649015e-05,
+      "timestamp": "2025-06-24 10:23"
+    },
+    {
+      "rank": 13,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.434704076385733e-08,
+      "timestamp": "2025-06-24 10:23"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.2049114698357564e-06,
+      "timestamp": "2025-06-24 10:23"
+    },
+    {
+      "rank": 15,
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price_btc": 1.7241823911504217e-06,
+      "timestamp": "2025-06-24 10:23"
+    }
   ]
 }
