@@ -172161,5 +172161,112 @@
       "price_btc": 2.0841183548252832e-05,
       "timestamp": "2025-06-24 20:23"
     }
+  ],
+  "2025-06-24 21:20": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7308796311197866e-05,
+      "timestamp": "2025-06-24 21:20"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7173539344548172e-08,
+      "timestamp": "2025-06-24 21:20"
+    },
+    {
+      "rank": 3,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.644774888162881e-06,
+      "timestamp": "2025-06-24 21:20"
+    },
+    {
+      "rank": 4,
+      "name": "Mango Network",
+      "symbol": "MGO",
+      "price_btc": 1.7630591823606015e-07,
+      "timestamp": "2025-06-24 21:20"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.6303114948137454e-08,
+      "timestamp": "2025-06-24 21:20"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035395023974696817,
+      "timestamp": "2025-06-24 21:20"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.630803902883386e-05,
+      "timestamp": "2025-06-24 21:20"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.3413532385905485e-06,
+      "timestamp": "2025-06-24 21:20"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.210997408623555e-06,
+      "timestamp": "2025-06-24 21:20"
+    },
+    {
+      "rank": 10,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00012629408086486143,
+      "timestamp": "2025-06-24 21:20"
+    },
+    {
+      "rank": 11,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 4.3279610144710894e-07,
+      "timestamp": "2025-06-24 21:20"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-24 21:20"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.099261539914885e-06,
+      "timestamp": "2025-06-24 21:20"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0032575193754371917,
+      "timestamp": "2025-06-24 21:20"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.175139409563554e-06,
+      "timestamp": "2025-06-24 21:20"
+    }
   ]
 }
