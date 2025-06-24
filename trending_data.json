@@ -171091,5 +171091,112 @@
       "price_btc": 1.7241823911504217e-06,
       "timestamp": "2025-06-24 10:23"
     }
+  ],
+  "2025-06-24 11:18": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7260717246522746e-08,
+      "timestamp": "2025-06-24 11:18"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7506536161536427e-05,
+      "timestamp": "2025-06-24 11:18"
+    },
+    {
+      "rank": 3,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.44343874774792e-07,
+      "timestamp": "2025-06-24 11:18"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.6353888328205127e-06,
+      "timestamp": "2025-06-24 11:18"
+    },
+    {
+      "rank": 5,
+      "name": "Mango Network",
+      "symbol": "MGO",
+      "price_btc": 2.0409002166120244e-07,
+      "timestamp": "2025-06-24 11:18"
+    },
+    {
+      "rank": 6,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.669861031880525e-08,
+      "timestamp": "2025-06-24 11:18"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6508415366202236e-05,
+      "timestamp": "2025-06-24 11:18"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022932942960776984,
+      "timestamp": "2025-06-24 11:18"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013671404890093176,
+      "timestamp": "2025-06-24 11:18"
+    },
+    {
+      "rank": 10,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 8.109601595908717e-06,
+      "timestamp": "2025-06-24 11:18"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 4.920560026915519e-06,
+      "timestamp": "2025-06-24 11:18"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.726129886080401e-06,
+      "timestamp": "2025-06-24 11:18"
+    },
+    {
+      "rank": 13,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.845633233810867e-06,
+      "timestamp": "2025-06-24 11:18"
+    },
+    {
+      "rank": 14,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.0659666768518395e-05,
+      "timestamp": "2025-06-24 11:18"
+    },
+    {
+      "rank": 15,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 5.529924967480515e-06,
+      "timestamp": "2025-06-24 11:18"
+    }
   ]
 }
