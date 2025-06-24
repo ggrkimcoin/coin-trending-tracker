@@ -170663,5 +170663,112 @@
       "price_btc": 2.0942623507800526e-05,
       "timestamp": "2025-06-24 06:32"
     }
+  ],
+  "2025-06-24 07:21": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7601940309545188e-08,
+      "timestamp": "2025-06-24 07:21"
+    },
+    {
+      "rank": 2,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.6981998382258303e-06,
+      "timestamp": "2025-06-24 07:21"
+    },
+    {
+      "rank": 3,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.437487750423188e-07,
+      "timestamp": "2025-06-24 07:21"
+    },
+    {
+      "rank": 4,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.769495638395923e-05,
+      "timestamp": "2025-06-24 07:21"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.794179632539884e-08,
+      "timestamp": "2025-06-24 07:21"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035642931582724875,
+      "timestamp": "2025-06-24 07:21"
+    },
+    {
+      "rank": 7,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2324886027986847e-05,
+      "timestamp": "2025-06-24 07:21"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013829759527695473,
+      "timestamp": "2025-06-24 07:21"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0772106372915576e-05,
+      "timestamp": "2025-06-24 07:21"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.596484540245759e-08,
+      "timestamp": "2025-06-24 07:21"
+    },
+    {
+      "rank": 11,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 4.4276252905559193e-07,
+      "timestamp": "2025-06-24 07:21"
+    },
+    {
+      "rank": 12,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.811390762899506e-06,
+      "timestamp": "2025-06-24 07:21"
+    },
+    {
+      "rank": 13,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.68876782440603e-11,
+      "timestamp": "2025-06-24 07:21"
+    },
+    {
+      "rank": 14,
+      "name": "Berachain",
+      "symbol": "BERA",
+      "price_btc": 1.7086494853686293e-05,
+      "timestamp": "2025-06-24 07:21"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.6201761543588416e-05,
+      "timestamp": "2025-06-24 07:21"
+    }
   ]
 }
