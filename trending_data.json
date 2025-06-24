@@ -171733,5 +171733,112 @@
       "price_btc": 1.6738464803629634e-06,
       "timestamp": "2025-06-24 16:27"
     }
+  ],
+  "2025-06-24 17:20": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.73891764248867e-08,
+      "timestamp": "2025-06-24 17:20"
+    },
+    {
+      "rank": 2,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00012866433210059338,
+      "timestamp": "2025-06-24 17:20"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7576925522573916e-05,
+      "timestamp": "2025-06-24 17:20"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.6448350043460714e-06,
+      "timestamp": "2025-06-24 17:20"
+    },
+    {
+      "rank": 5,
+      "name": "Mango Network",
+      "symbol": "MGO",
+      "price_btc": 1.9934333726250215e-07,
+      "timestamp": "2025-06-24 17:20"
+    },
+    {
+      "rank": 6,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 4.84826869788815e-07,
+      "timestamp": "2025-06-24 17:20"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6501604247248526e-05,
+      "timestamp": "2025-06-24 17:20"
+    },
+    {
+      "rank": 8,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.675330203930642e-08,
+      "timestamp": "2025-06-24 17:20"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013747517406867697,
+      "timestamp": "2025-06-24 17:20"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00036443930762354034,
+      "timestamp": "2025-06-24 17:20"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.81059786014126e-06,
+      "timestamp": "2025-06-24 17:20"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.156376323258885e-06,
+      "timestamp": "2025-06-24 17:20"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003367203755773436,
+      "timestamp": "2025-06-24 17:20"
+    },
+    {
+      "rank": 14,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2930997220828419e-05,
+      "timestamp": "2025-06-24 17:20"
+    },
+    {
+      "rank": 15,
+      "name": "CreatorBid",
+      "symbol": "BID",
+      "price_btc": 1.16995496927247e-06,
+      "timestamp": "2025-06-24 17:20"
+    }
   ]
 }
