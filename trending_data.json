@@ -172054,5 +172054,112 @@
       "price_btc": 4.735404269590929e-05,
       "timestamp": "2025-06-24 19:17"
     }
+  ],
+  "2025-06-24 20:23": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7056039798623777e-08,
+      "timestamp": "2025-06-24 20:23"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.724821911412611e-05,
+      "timestamp": "2025-06-24 20:23"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.4208239308094574e-08,
+      "timestamp": "2025-06-24 20:23"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.632597565533062e-06,
+      "timestamp": "2025-06-24 20:23"
+    },
+    {
+      "rank": 5,
+      "name": "Mango Network",
+      "symbol": "MGO",
+      "price_btc": 1.8161260661449337e-07,
+      "timestamp": "2025-06-24 20:23"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0032500846598062997,
+      "timestamp": "2025-06-24 20:23"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5048920199770446e-05,
+      "timestamp": "2025-06-24 20:23"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6134491777599204e-05,
+      "timestamp": "2025-06-24 20:23"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.1839814845924975e-06,
+      "timestamp": "2025-06-24 20:23"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003518425783396466,
+      "timestamp": "2025-06-24 20:23"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023051200106325633,
+      "timestamp": "2025-06-24 20:23"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2248852768287514e-05,
+      "timestamp": "2025-06-24 20:23"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.1708979347186315e-06,
+      "timestamp": "2025-06-24 20:23"
+    },
+    {
+      "rank": 14,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.876744325337368e-06,
+      "timestamp": "2025-06-24 20:23"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0841183548252832e-05,
+      "timestamp": "2025-06-24 20:23"
+    }
   ]
 }
