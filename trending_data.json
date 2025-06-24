@@ -171519,5 +171519,112 @@
       "price_btc": 7.809002380962446e-06,
       "timestamp": "2025-06-24 14:21"
     }
+  ],
+  "2025-06-24 15:23": [
+    {
+      "rank": 1,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.5861834730301116e-06,
+      "timestamp": "2025-06-24 15:23"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.727414377473178e-08,
+      "timestamp": "2025-06-24 15:23"
+    },
+    {
+      "rank": 3,
+      "name": "Mango Network",
+      "symbol": "MGO",
+      "price_btc": 1.86174861525554e-07,
+      "timestamp": "2025-06-24 15:23"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035983938175383577,
+      "timestamp": "2025-06-24 15:23"
+    },
+    {
+      "rank": 5,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7603631089457368e-05,
+      "timestamp": "2025-06-24 15:23"
+    },
+    {
+      "rank": 6,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.20948589538654e-06,
+      "timestamp": "2025-06-24 15:23"
+    },
+    {
+      "rank": 7,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.066678652507307e-07,
+      "timestamp": "2025-06-24 15:23"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023031977127633087,
+      "timestamp": "2025-06-24 15:23"
+    },
+    {
+      "rank": 9,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024759473874984847,
+      "timestamp": "2025-06-24 15:23"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.462234664310504e-11,
+      "timestamp": "2025-06-24 15:23"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.5547420356381665e-06,
+      "timestamp": "2025-06-24 15:23"
+    },
+    {
+      "rank": 12,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00012584584434862923,
+      "timestamp": "2025-06-24 15:23"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0688719203603938e-05,
+      "timestamp": "2025-06-24 15:23"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6473198197211758e-05,
+      "timestamp": "2025-06-24 15:23"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-24 15:23"
+    }
   ]
 }
