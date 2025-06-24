@@ -171412,5 +171412,112 @@
       "price_btc": 1.1989653765838252e-05,
       "timestamp": "2025-06-24 13:34"
     }
+  ],
+  "2025-06-24 14:21": [
+    {
+      "rank": 1,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.6472695463119833e-06,
+      "timestamp": "2025-06-24 14:21"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7252725053673124e-08,
+      "timestamp": "2025-06-24 14:21"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7637470854391464e-05,
+      "timestamp": "2025-06-24 14:21"
+    },
+    {
+      "rank": 4,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.242638275533516e-07,
+      "timestamp": "2025-06-24 14:21"
+    },
+    {
+      "rank": 5,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.1985226585372812e-06,
+      "timestamp": "2025-06-24 14:21"
+    },
+    {
+      "rank": 6,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.816164069455561e-08,
+      "timestamp": "2025-06-24 14:21"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003529015166441208,
+      "timestamp": "2025-06-24 14:21"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.064761304762267e-06,
+      "timestamp": "2025-06-24 14:21"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6513674379508073e-05,
+      "timestamp": "2025-06-24 14:21"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5719294774734434e-05,
+      "timestamp": "2025-06-24 14:21"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.699034793108331e-06,
+      "timestamp": "2025-06-24 14:21"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023059522462823254,
+      "timestamp": "2025-06-24 14:21"
+    },
+    {
+      "rank": 13,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.347618419241533e-05,
+      "timestamp": "2025-06-24 14:21"
+    },
+    {
+      "rank": 14,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.006081078697145913,
+      "timestamp": "2025-06-24 14:21"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.809002380962446e-06,
+      "timestamp": "2025-06-24 14:21"
+    }
   ]
 }
