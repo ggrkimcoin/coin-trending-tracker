@@ -173124,5 +173124,112 @@
       "price_btc": 0.0031626059420271076,
       "timestamp": "2025-06-25 07:21"
     }
+  ],
+  "2025-06-25 08:29": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7295875530604863e-05,
+      "timestamp": "2025-06-25 08:29"
+    },
+    {
+      "rank": 2,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 4.190571767702138e-06,
+      "timestamp": "2025-06-25 08:29"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7230840471577566e-08,
+      "timestamp": "2025-06-25 08:29"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.5361374759930625e-08,
+      "timestamp": "2025-06-25 08:29"
+    },
+    {
+      "rank": 5,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.827546667812138e-06,
+      "timestamp": "2025-06-25 08:29"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.724984033233742e-06,
+      "timestamp": "2025-06-25 08:29"
+    },
+    {
+      "rank": 7,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 4.4962584030662876e-05,
+      "timestamp": "2025-06-25 08:29"
+    },
+    {
+      "rank": 8,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00012585468145256246,
+      "timestamp": "2025-06-25 08:29"
+    },
+    {
+      "rank": 9,
+      "name": "HashKey Platform Token",
+      "symbol": "HSK",
+      "price_btc": 6.247696480498769e-06,
+      "timestamp": "2025-06-25 08:29"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6195670374276922e-05,
+      "timestamp": "2025-06-25 08:29"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013764507758123317,
+      "timestamp": "2025-06-25 08:29"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000355641551792631,
+      "timestamp": "2025-06-25 08:29"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-25 08:29"
+    },
+    {
+      "rank": 14,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 3.965620056903093e-06,
+      "timestamp": "2025-06-25 08:29"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.886390846568353e-06,
+      "timestamp": "2025-06-25 08:29"
+    }
   ]
 }
