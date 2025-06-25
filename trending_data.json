@@ -173017,5 +173017,112 @@
       "price_btc": 6.960957377320416e-07,
       "timestamp": "2025-06-25 06:32"
     }
+  ],
+  "2025-06-25 07:21": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7244295548607355e-05,
+      "timestamp": "2025-06-25 07:21"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.704399780688559e-08,
+      "timestamp": "2025-06-25 07:21"
+    },
+    {
+      "rank": 3,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 4.300215799492116e-06,
+      "timestamp": "2025-06-25 07:21"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.855310775964796e-06,
+      "timestamp": "2025-06-25 07:21"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.554953940004408e-08,
+      "timestamp": "2025-06-25 07:21"
+    },
+    {
+      "rank": 6,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 4.507362723467004e-05,
+      "timestamp": "2025-06-25 07:21"
+    },
+    {
+      "rank": 7,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.598313278426319e-06,
+      "timestamp": "2025-06-25 07:21"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02297556851306425,
+      "timestamp": "2025-06-25 07:21"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.642734489213443e-06,
+      "timestamp": "2025-06-25 07:21"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-25 07:21"
+    },
+    {
+      "rank": 11,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 6.3281038968337805e-06,
+      "timestamp": "2025-06-25 07:21"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013752232484953084,
+      "timestamp": "2025-06-25 07:21"
+    },
+    {
+      "rank": 13,
+      "name": "Mango Network",
+      "symbol": "MGO",
+      "price_btc": 1.6974558273248792e-07,
+      "timestamp": "2025-06-25 07:21"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003540337406133341,
+      "timestamp": "2025-06-25 07:21"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0031626059420271076,
+      "timestamp": "2025-06-25 07:21"
+    }
   ]
 }
