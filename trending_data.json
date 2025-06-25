@@ -173873,5 +173873,112 @@
       "price_btc": 0.005987835054097746,
       "timestamp": "2025-06-25 14:21"
     }
+  ],
+  "2025-06-25 15:23": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6589809194712135e-05,
+      "timestamp": "2025-06-25 15:23"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.667010255332816e-08,
+      "timestamp": "2025-06-25 15:23"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.851273431763122e-08,
+      "timestamp": "2025-06-25 15:23"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.7014186007261743e-06,
+      "timestamp": "2025-06-25 15:23"
+    },
+    {
+      "rank": 5,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.675357668424892e-06,
+      "timestamp": "2025-06-25 15:23"
+    },
+    {
+      "rank": 6,
+      "name": "Humanity",
+      "symbol": "H",
+      "price_btc": 4.560750392949128e-07,
+      "timestamp": "2025-06-25 15:23"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003490392386537884,
+      "timestamp": "2025-06-25 15:23"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 6.058611765040564e-06,
+      "timestamp": "2025-06-25 15:23"
+    },
+    {
+      "rank": 9,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 4.2665108830899205e-06,
+      "timestamp": "2025-06-25 15:23"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013490277337876453,
+      "timestamp": "2025-06-25 15:23"
+    },
+    {
+      "rank": 11,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001221867138959954,
+      "timestamp": "2025-06-25 15:23"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6007351871185167e-05,
+      "timestamp": "2025-06-25 15:23"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003118432954026006,
+      "timestamp": "2025-06-25 15:23"
+    },
+    {
+      "rank": 14,
+      "name": "SQD",
+      "symbol": "SQD",
+      "price_btc": 1.230595340027346e-06,
+      "timestamp": "2025-06-25 15:23"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4092528391833458e-05,
+      "timestamp": "2025-06-25 15:23"
+    }
   ]
 }
