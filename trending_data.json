@@ -172910,5 +172910,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-06-25 05:21"
     }
+  ],
+  "2025-06-25 06:32": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7197789049168046e-05,
+      "timestamp": "2025-06-25 06:32"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.715021675092167e-08,
+      "timestamp": "2025-06-25 06:32"
+    },
+    {
+      "rank": 3,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 4.395766507081348e-06,
+      "timestamp": "2025-06-25 06:32"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.562420539758216e-08,
+      "timestamp": "2025-06-25 06:32"
+    },
+    {
+      "rank": 5,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.848980044183649e-06,
+      "timestamp": "2025-06-25 06:32"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02291915923919429,
+      "timestamp": "2025-06-25 06:32"
+    },
+    {
+      "rank": 7,
+      "name": "Mango Network",
+      "symbol": "MGO",
+      "price_btc": 1.7805922186811753e-07,
+      "timestamp": "2025-06-25 06:32"
+    },
+    {
+      "rank": 8,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 4.5340357083871474e-05,
+      "timestamp": "2025-06-25 06:32"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.58610367973613e-06,
+      "timestamp": "2025-06-25 06:32"
+    },
+    {
+      "rank": 10,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.533077622404151e-06,
+      "timestamp": "2025-06-25 06:32"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003164600376625452,
+      "timestamp": "2025-06-25 06:32"
+    },
+    {
+      "rank": 12,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4671500538419625e-05,
+      "timestamp": "2025-06-25 06:32"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-25 06:32"
+    },
+    {
+      "rank": 14,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00012534499489064865,
+      "timestamp": "2025-06-25 06:32"
+    },
+    {
+      "rank": 15,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 6.960957377320416e-07,
+      "timestamp": "2025-06-25 06:32"
+    }
   ]
 }
