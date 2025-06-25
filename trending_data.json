@@ -173338,5 +173338,112 @@
       "price_btc": 0.0024788471172173168,
       "timestamp": "2025-06-25 09:25"
     }
+  ],
+  "2025-06-25 10:23": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6944955303871454e-05,
+      "timestamp": "2025-06-25 10:23"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.690067373736849e-08,
+      "timestamp": "2025-06-25 10:23"
+    },
+    {
+      "rank": 3,
+      "name": "HashKey Platform Token",
+      "symbol": "HSK",
+      "price_btc": 6.565385540493641e-06,
+      "timestamp": "2025-06-25 10:23"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.8200824922614565e-06,
+      "timestamp": "2025-06-25 10:23"
+    },
+    {
+      "rank": 5,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 4.251153410802838e-06,
+      "timestamp": "2025-06-25 10:23"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.688267569948245e-06,
+      "timestamp": "2025-06-25 10:23"
+    },
+    {
+      "rank": 7,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.579384897289775e-08,
+      "timestamp": "2025-06-25 10:23"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.604424919218089e-05,
+      "timestamp": "2025-06-25 10:23"
+    },
+    {
+      "rank": 9,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.7162203529229389e-06,
+      "timestamp": "2025-06-25 10:23"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001363315764181847,
+      "timestamp": "2025-06-25 10:23"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0031518110579546277,
+      "timestamp": "2025-06-25 10:23"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022687198120979878,
+      "timestamp": "2025-06-25 10:23"
+    },
+    {
+      "rank": 13,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00012456906189381344,
+      "timestamp": "2025-06-25 10:23"
+    },
+    {
+      "rank": 14,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.70846903634889e-06,
+      "timestamp": "2025-06-25 10:23"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-25 10:23"
+    }
   ]
 }
