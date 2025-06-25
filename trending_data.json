@@ -174408,5 +174408,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-06-25 19:15"
     }
+  ],
+  "2025-06-25 20:24": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.664224057337969e-08,
+      "timestamp": "2025-06-25 20:24"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6477289257964607e-05,
+      "timestamp": "2025-06-25 20:24"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.533542302971954e-08,
+      "timestamp": "2025-06-25 20:24"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.661840037436147e-06,
+      "timestamp": "2025-06-25 20:24"
+    },
+    {
+      "rank": 5,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 4.142046147423055e-06,
+      "timestamp": "2025-06-25 20:24"
+    },
+    {
+      "rank": 6,
+      "name": "Humanity",
+      "symbol": "H",
+      "price_btc": 3.936673562025187e-07,
+      "timestamp": "2025-06-25 20:24"
+    },
+    {
+      "rank": 7,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.6187792497400865e-06,
+      "timestamp": "2025-06-25 20:24"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013421586865771337,
+      "timestamp": "2025-06-25 20:24"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.046157060107283e-05,
+      "timestamp": "2025-06-25 20:24"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3650881058465446e-05,
+      "timestamp": "2025-06-25 20:24"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2219491609507788e-05,
+      "timestamp": "2025-06-25 20:24"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.569305070944434e-05,
+      "timestamp": "2025-06-25 20:24"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.795902272471639e-06,
+      "timestamp": "2025-06-25 20:24"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.129280976382683e-06,
+      "timestamp": "2025-06-25 20:24"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.9424418639179354e-06,
+      "timestamp": "2025-06-25 20:24"
+    }
   ]
 }
