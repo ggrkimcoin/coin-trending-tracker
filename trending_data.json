@@ -172696,5 +172696,112 @@
       "price_btc": 1.5192629648403372e-05,
       "timestamp": "2025-06-25 03:20"
     }
+  ],
+  "2025-06-25 04:30": [
+    {
+      "rank": 1,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 4.446663778889107e-06,
+      "timestamp": "2025-06-25 04:30"
+    },
+    {
+      "rank": 2,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.9371091448866855e-06,
+      "timestamp": "2025-06-25 04:30"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7273270212195255e-05,
+      "timestamp": "2025-06-25 04:30"
+    },
+    {
+      "rank": 4,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.709807721396526e-08,
+      "timestamp": "2025-06-25 04:30"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.641143441051724e-08,
+      "timestamp": "2025-06-25 04:30"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.65705839934413e-06,
+      "timestamp": "2025-06-25 04:30"
+    },
+    {
+      "rank": 7,
+      "name": "Mango Network",
+      "symbol": "MGO",
+      "price_btc": 1.726125832267872e-07,
+      "timestamp": "2025-06-25 04:30"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.996105015059448e-06,
+      "timestamp": "2025-06-25 04:30"
+    },
+    {
+      "rank": 9,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 4.659332144936656e-05,
+      "timestamp": "2025-06-25 04:30"
+    },
+    {
+      "rank": 10,
+      "name": "Banana For Scale",
+      "symbol": "BANANAS31",
+      "price_btc": 1.4764555245490795e-07,
+      "timestamp": "2025-06-25 04:30"
+    },
+    {
+      "rank": 11,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00017061446728362196,
+      "timestamp": "2025-06-25 04:30"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6274724086934522e-05,
+      "timestamp": "2025-06-25 04:30"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035939592846965444,
+      "timestamp": "2025-06-25 04:30"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.473575246002939e-11,
+      "timestamp": "2025-06-25 04:30"
+    },
+    {
+      "rank": 15,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00012544882992058168,
+      "timestamp": "2025-06-25 04:30"
+    }
   ]
 }
