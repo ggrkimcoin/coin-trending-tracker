@@ -173445,5 +173445,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-06-25 10:23"
     }
+  ],
+  "2025-06-25 11:18": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.693670218145792e-05,
+      "timestamp": "2025-06-25 11:18"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6857371618847154e-08,
+      "timestamp": "2025-06-25 11:18"
+    },
+    {
+      "rank": 3,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 4.212903013200261e-06,
+      "timestamp": "2025-06-25 11:18"
+    },
+    {
+      "rank": 4,
+      "name": "HashKey Platform Token",
+      "symbol": "HSK",
+      "price_btc": 6.948193086653774e-06,
+      "timestamp": "2025-06-25 11:18"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.651004443758684e-08,
+      "timestamp": "2025-06-25 11:18"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.755781898632164e-06,
+      "timestamp": "2025-06-25 11:18"
+    },
+    {
+      "rank": 7,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.8200147396513293e-06,
+      "timestamp": "2025-06-25 11:18"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013613020356444093,
+      "timestamp": "2025-06-25 11:18"
+    },
+    {
+      "rank": 9,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00012401473250509576,
+      "timestamp": "2025-06-25 11:18"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003587837528930354,
+      "timestamp": "2025-06-25 11:18"
+    },
+    {
+      "rank": 11,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 3.58713931167651e-07,
+      "timestamp": "2025-06-25 11:18"
+    },
+    {
+      "rank": 12,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 4.144008332010745e-07,
+      "timestamp": "2025-06-25 11:18"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0031378477685306792,
+      "timestamp": "2025-06-25 11:18"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.23802179401485e-06,
+      "timestamp": "2025-06-25 11:18"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024409433472781066,
+      "timestamp": "2025-06-25 11:18"
+    }
   ]
 }
