@@ -173766,5 +173766,112 @@
       "price_btc": 2.993826493953332e-06,
       "timestamp": "2025-06-25 13:34"
     }
+  ],
+  "2025-06-25 14:21": [
+    {
+      "rank": 1,
+      "name": "Cheems Token",
+      "symbol": "CHEEMS",
+      "price_btc": 1.1662676206148129e-11,
+      "timestamp": "2025-06-25 14:21"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6709771413200344e-05,
+      "timestamp": "2025-06-25 14:21"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.692801397080089e-08,
+      "timestamp": "2025-06-25 14:21"
+    },
+    {
+      "rank": 4,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 6.0129507087850405e-06,
+      "timestamp": "2025-06-25 14:21"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035951085412291666,
+      "timestamp": "2025-06-25 14:21"
+    },
+    {
+      "rank": 6,
+      "name": "Humanity",
+      "symbol": "H",
+      "price_btc": 4.5421626417695805e-07,
+      "timestamp": "2025-06-25 14:21"
+    },
+    {
+      "rank": 7,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 4.214778597250865e-06,
+      "timestamp": "2025-06-25 14:21"
+    },
+    {
+      "rank": 8,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.9153108033540627e-08,
+      "timestamp": "2025-06-25 14:21"
+    },
+    {
+      "rank": 9,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.782990185105145e-06,
+      "timestamp": "2025-06-25 14:21"
+    },
+    {
+      "rank": 10,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.84775508584502e-06,
+      "timestamp": "2025-06-25 14:21"
+    },
+    {
+      "rank": 11,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4602172974390093e-05,
+      "timestamp": "2025-06-25 14:21"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6254319289294754e-05,
+      "timestamp": "2025-06-25 14:21"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022536754692922895,
+      "timestamp": "2025-06-25 14:21"
+    },
+    {
+      "rank": 14,
+      "name": "Tether",
+      "symbol": "USDT",
+      "price_btc": 9.253386624081482e-06,
+      "timestamp": "2025-06-25 14:21"
+    },
+    {
+      "rank": 15,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.005987835054097746,
+      "timestamp": "2025-06-25 14:21"
+    }
   ]
 }
