@@ -174515,5 +174515,112 @@
       "price_btc": 2.9424418639179354e-06,
       "timestamp": "2025-06-25 20:24"
     }
+  ],
+  "2025-06-25 21:19": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6515316235252173e-05,
+      "timestamp": "2025-06-25 21:19"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6742847434091016e-08,
+      "timestamp": "2025-06-25 21:19"
+    },
+    {
+      "rank": 3,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 4.139091663885431e-06,
+      "timestamp": "2025-06-25 21:19"
+    },
+    {
+      "rank": 4,
+      "name": "Humanity",
+      "symbol": "H",
+      "price_btc": 3.9644095998618474e-07,
+      "timestamp": "2025-06-25 21:19"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034918041215682027,
+      "timestamp": "2025-06-25 21:19"
+    },
+    {
+      "rank": 6,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.6357169380565977e-06,
+      "timestamp": "2025-06-25 21:19"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.069004733495043e-08,
+      "timestamp": "2025-06-25 21:19"
+    },
+    {
+      "rank": 8,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.602249361861787e-06,
+      "timestamp": "2025-06-25 21:19"
+    },
+    {
+      "rank": 9,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.551114078163521e-08,
+      "timestamp": "2025-06-25 21:19"
+    },
+    {
+      "rank": 10,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3752627800320356e-05,
+      "timestamp": "2025-06-25 21:19"
+    },
+    {
+      "rank": 11,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 2.0077768129484245e-05,
+      "timestamp": "2025-06-25 21:19"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-25 21:19"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030432633827786894,
+      "timestamp": "2025-06-25 21:19"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.591175957648419e-05,
+      "timestamp": "2025-06-25 21:19"
+    },
+    {
+      "rank": 15,
+      "name": "Cosmos Hub",
+      "symbol": "ATOM",
+      "price_btc": 3.747413645982328e-05,
+      "timestamp": "2025-06-25 21:19"
+    }
   ]
 }
