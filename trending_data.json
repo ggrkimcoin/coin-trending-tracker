@@ -172803,5 +172803,112 @@
       "price_btc": 0.00012544882992058168,
       "timestamp": "2025-06-25 04:30"
     }
+  ],
+  "2025-06-25 05:21": [
+    {
+      "rank": 1,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 4.303481743514232e-06,
+      "timestamp": "2025-06-25 05:21"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.705481676630161e-08,
+      "timestamp": "2025-06-25 05:21"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.723717931105193e-05,
+      "timestamp": "2025-06-25 05:21"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.9271501511955408e-06,
+      "timestamp": "2025-06-25 05:21"
+    },
+    {
+      "rank": 5,
+      "name": "Mango Network",
+      "symbol": "MGO",
+      "price_btc": 1.8556761821402948e-07,
+      "timestamp": "2025-06-25 05:21"
+    },
+    {
+      "rank": 6,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 4.6079023554572827e-05,
+      "timestamp": "2025-06-25 05:21"
+    },
+    {
+      "rank": 7,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.592209373474073e-06,
+      "timestamp": "2025-06-25 05:21"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022931337209192694,
+      "timestamp": "2025-06-25 05:21"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.1866583672316857e-06,
+      "timestamp": "2025-06-25 05:21"
+    },
+    {
+      "rank": 10,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.5664684508518606e-08,
+      "timestamp": "2025-06-25 05:21"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0317696322902162e-05,
+      "timestamp": "2025-06-25 05:21"
+    },
+    {
+      "rank": 12,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00012532711818109588,
+      "timestamp": "2025-06-25 05:21"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002493006779576641,
+      "timestamp": "2025-06-25 05:21"
+    },
+    {
+      "rank": 14,
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN",
+      "price_btc": 1.1559562688960058e-06,
+      "timestamp": "2025-06-25 05:21"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-25 05:21"
+    }
   ]
 }
