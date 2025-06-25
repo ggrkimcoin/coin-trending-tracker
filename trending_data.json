@@ -172482,5 +172482,112 @@
       "price_btc": 9.39094202237629e-11,
       "timestamp": "2025-06-24 23:20"
     }
+  ],
+  "2025-06-25 01:47": [
+    {
+      "rank": 1,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.9534331267217835e-06,
+      "timestamp": "2025-06-25 01:47"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7362788116836474e-05,
+      "timestamp": "2025-06-25 01:47"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.7172871155587518e-08,
+      "timestamp": "2025-06-25 01:47"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.599283144508622e-08,
+      "timestamp": "2025-06-25 01:47"
+    },
+    {
+      "rank": 5,
+      "name": "Mango Network",
+      "symbol": "MGO",
+      "price_btc": 1.6943926161597774e-07,
+      "timestamp": "2025-06-25 01:47"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.150693143238829e-06,
+      "timestamp": "2025-06-25 01:47"
+    },
+    {
+      "rank": 7,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 3.589075399093613e-08,
+      "timestamp": "2025-06-25 01:47"
+    },
+    {
+      "rank": 8,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.266432059906029e-06,
+      "timestamp": "2025-06-25 01:47"
+    },
+    {
+      "rank": 9,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 8.225141299632678e-07,
+      "timestamp": "2025-06-25 01:47"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023110136372790697,
+      "timestamp": "2025-06-25 01:47"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.639649218752757e-05,
+      "timestamp": "2025-06-25 01:47"
+    },
+    {
+      "rank": 12,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 1.275880490347619e-06,
+      "timestamp": "2025-06-25 01:47"
+    },
+    {
+      "rank": 13,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001263219780888827,
+      "timestamp": "2025-06-25 01:47"
+    },
+    {
+      "rank": 14,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 1.935811840344397e-05,
+      "timestamp": "2025-06-25 01:47"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-25 01:47"
+    }
   ]
 }
