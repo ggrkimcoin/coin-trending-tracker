@@ -173552,5 +173552,112 @@
       "price_btc": 0.0024409433472781066,
       "timestamp": "2025-06-25 11:18"
     }
+  ],
+  "2025-06-25 12:45": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6997118961408106e-05,
+      "timestamp": "2025-06-25 12:45"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.690306277198367e-08,
+      "timestamp": "2025-06-25 12:45"
+    },
+    {
+      "rank": 3,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 4.208525122179093e-06,
+      "timestamp": "2025-06-25 12:45"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.87379239201363e-08,
+      "timestamp": "2025-06-25 12:45"
+    },
+    {
+      "rank": 5,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.837586433961267e-06,
+      "timestamp": "2025-06-25 12:45"
+    },
+    {
+      "rank": 6,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.8488379355313702e-06,
+      "timestamp": "2025-06-25 12:45"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003568602171403393,
+      "timestamp": "2025-06-25 12:45"
+    },
+    {
+      "rank": 8,
+      "name": "HashKey Platform Token",
+      "symbol": "HSK",
+      "price_btc": 7.494069598987932e-06,
+      "timestamp": "2025-06-25 12:45"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.43537331647859e-05,
+      "timestamp": "2025-06-25 12:45"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 9.32373098482493e-11,
+      "timestamp": "2025-06-25 12:45"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00136192747957804,
+      "timestamp": "2025-06-25 12:45"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5947871810301638e-05,
+      "timestamp": "2025-06-25 12:45"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022632160885359742,
+      "timestamp": "2025-06-25 12:45"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 3.0120750412086207e-06,
+      "timestamp": "2025-06-25 12:45"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.770420629310969e-06,
+      "timestamp": "2025-06-25 12:45"
+    }
   ]
 }
