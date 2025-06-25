@@ -172589,5 +172589,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-06-25 01:47"
     }
+  ],
+  "2025-06-25 03:20": [
+    {
+      "rank": 1,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 4.511402647101809e-06,
+      "timestamp": "2025-06-25 03:20"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.715168094227263e-08,
+      "timestamp": "2025-06-25 03:20"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.7300733279782885e-05,
+      "timestamp": "2025-06-25 03:20"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 3.084026320940993e-06,
+      "timestamp": "2025-06-25 03:20"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.675301457259252e-08,
+      "timestamp": "2025-06-25 03:20"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.641249823472057e-06,
+      "timestamp": "2025-06-25 03:20"
+    },
+    {
+      "rank": 7,
+      "name": "Mango Network",
+      "symbol": "MGO",
+      "price_btc": 1.641455335790676e-07,
+      "timestamp": "2025-06-25 03:20"
+    },
+    {
+      "rank": 8,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.500954353291735e-06,
+      "timestamp": "2025-06-25 03:20"
+    },
+    {
+      "rank": 9,
+      "name": "Banana For Scale",
+      "symbol": "BANANAS31",
+      "price_btc": 1.3609069871093083e-07,
+      "timestamp": "2025-06-25 03:20"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0508173987931417e-05,
+      "timestamp": "2025-06-25 03:20"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0263738001751104e-05,
+      "timestamp": "2025-06-25 03:20"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.130066354792473e-06,
+      "timestamp": "2025-06-25 03:20"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023031535209784976,
+      "timestamp": "2025-06-25 03:20"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6378719422473512e-05,
+      "timestamp": "2025-06-25 03:20"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.5192629648403372e-05,
+      "timestamp": "2025-06-25 03:20"
+    }
   ]
 }
