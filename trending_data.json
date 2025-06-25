@@ -174729,5 +174729,112 @@
       "price_btc": 9.389094673539285e-06,
       "timestamp": "2025-06-25 22:19"
     }
+  ],
+  "2025-06-25 23:19": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.649965583104584e-08,
+      "timestamp": "2025-06-25 23:19"
+    },
+    {
+      "rank": 2,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.5775062890006316e-06,
+      "timestamp": "2025-06-25 23:19"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.636236062922809e-05,
+      "timestamp": "2025-06-25 23:19"
+    },
+    {
+      "rank": 4,
+      "name": "Humanity",
+      "symbol": "H",
+      "price_btc": 3.5714442396689895e-07,
+      "timestamp": "2025-06-25 23:19"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.479263171946567e-08,
+      "timestamp": "2025-06-25 23:19"
+    },
+    {
+      "rank": 6,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 4.027987759282105e-06,
+      "timestamp": "2025-06-25 23:19"
+    },
+    {
+      "rank": 7,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3434319369301884e-05,
+      "timestamp": "2025-06-25 23:19"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.038110862481472e-08,
+      "timestamp": "2025-06-25 23:19"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.388660518545628e-06,
+      "timestamp": "2025-06-25 23:19"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003440011270540327,
+      "timestamp": "2025-06-25 23:19"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.537233680107831e-05,
+      "timestamp": "2025-06-25 23:19"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013348001204457254,
+      "timestamp": "2025-06-25 23:19"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0023795343302259516,
+      "timestamp": "2025-06-25 23:19"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030193171797340468,
+      "timestamp": "2025-06-25 23:19"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.896484725875169e-06,
+      "timestamp": "2025-06-25 23:19"
+    }
   ]
 }
