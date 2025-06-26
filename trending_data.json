@@ -176548,5 +176548,112 @@
       "price_btc": 1.96153585293858e-05,
       "timestamp": "2025-06-26 17:18"
     }
+  ],
+  "2025-06-26 18:30": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.616173234480207e-05,
+      "timestamp": "2025-06-26 18:30"
+    },
+    {
+      "rank": 2,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 8.257165186570142e-07,
+      "timestamp": "2025-06-26 18:30"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.5981249947974822e-08,
+      "timestamp": "2025-06-26 18:30"
+    },
+    {
+      "rank": 4,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.524647128962538e-07,
+      "timestamp": "2025-06-26 18:30"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 2.9619891017420534e-08,
+      "timestamp": "2025-06-26 18:30"
+    },
+    {
+      "rank": 6,
+      "name": "Wormhole",
+      "symbol": "W",
+      "price_btc": 6.560752266151434e-07,
+      "timestamp": "2025-06-26 18:30"
+    },
+    {
+      "rank": 7,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.446251294088496e-06,
+      "timestamp": "2025-06-26 18:30"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002973126030624796,
+      "timestamp": "2025-06-26 18:30"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-26 18:30"
+    },
+    {
+      "rank": 10,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.674997789120647e-06,
+      "timestamp": "2025-06-26 18:30"
+    },
+    {
+      "rank": 11,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.281622199106371e-06,
+      "timestamp": "2025-06-26 18:30"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.239181453851625e-06,
+      "timestamp": "2025-06-26 18:30"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02258860045506712,
+      "timestamp": "2025-06-26 18:30"
+    },
+    {
+      "rank": 14,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.1633727519995746e-08,
+      "timestamp": "2025-06-26 18:30"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.931069521908609e-06,
+      "timestamp": "2025-06-26 18:30"
+    }
   ]
 }
