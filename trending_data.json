@@ -176334,5 +176334,112 @@
       "price_btc": 2.4637866959804736e-05,
       "timestamp": "2025-06-26 15:22"
     }
+  ],
+  "2025-06-26 16:26": [
+    {
+      "rank": 1,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 8.956624446508529e-07,
+      "timestamp": "2025-06-26 16:26"
+    },
+    {
+      "rank": 2,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.642587378861441e-07,
+      "timestamp": "2025-06-26 16:26"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6138187935251785e-05,
+      "timestamp": "2025-06-26 16:26"
+    },
+    {
+      "rank": 4,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.5951116068534275e-08,
+      "timestamp": "2025-06-26 16:26"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.1809554091283505e-08,
+      "timestamp": "2025-06-26 16:26"
+    },
+    {
+      "rank": 6,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.4782389110959784e-06,
+      "timestamp": "2025-06-26 16:26"
+    },
+    {
+      "rank": 7,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.457421779403793e-06,
+      "timestamp": "2025-06-26 16:26"
+    },
+    {
+      "rank": 8,
+      "name": "Humanity",
+      "symbol": "H",
+      "price_btc": 1.7750379087145124e-07,
+      "timestamp": "2025-06-26 16:26"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013310395617789647,
+      "timestamp": "2025-06-26 16:26"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.443079203025621e-05,
+      "timestamp": "2025-06-26 16:26"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022662057582439474,
+      "timestamp": "2025-06-26 16:26"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.013276229056176e-06,
+      "timestamp": "2025-06-26 16:26"
+    },
+    {
+      "rank": 13,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.272019989568522e-06,
+      "timestamp": "2025-06-26 16:26"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-26 16:26"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.665305809506109e-06,
+      "timestamp": "2025-06-26 16:26"
+    }
   ]
 }
