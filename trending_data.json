@@ -177083,5 +177083,112 @@
       "price_btc": 6.232730238110233e-06,
       "timestamp": "2025-06-26 22:19"
     }
+  ],
+  "2025-06-26 23:19": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6295545260417297e-05,
+      "timestamp": "2025-06-26 23:19"
+    },
+    {
+      "rank": 2,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.545587677051039e-07,
+      "timestamp": "2025-06-26 23:19"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.5904744632925974e-08,
+      "timestamp": "2025-06-26 23:19"
+    },
+    {
+      "rank": 4,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 8.608606838481771e-07,
+      "timestamp": "2025-06-26 23:19"
+    },
+    {
+      "rank": 5,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.3685271524416172e-06,
+      "timestamp": "2025-06-26 23:19"
+    },
+    {
+      "rank": 6,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4280822012738027e-05,
+      "timestamp": "2025-06-26 23:19"
+    },
+    {
+      "rank": 7,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.18816771924481e-08,
+      "timestamp": "2025-06-26 23:19"
+    },
+    {
+      "rank": 8,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.2788926257829546e-08,
+      "timestamp": "2025-06-26 23:19"
+    },
+    {
+      "rank": 9,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.327210603167841e-06,
+      "timestamp": "2025-06-26 23:19"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02256432737484931,
+      "timestamp": "2025-06-26 23:19"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.563891051913005e-06,
+      "timestamp": "2025-06-26 23:19"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003375116007708742,
+      "timestamp": "2025-06-26 23:19"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013012225019773443,
+      "timestamp": "2025-06-26 23:19"
+    },
+    {
+      "rank": 14,
+      "name": "Humanity",
+      "symbol": "H",
+      "price_btc": 1.9212350350759845e-07,
+      "timestamp": "2025-06-26 23:19"
+    },
+    {
+      "rank": 15,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.1014947489537054e-05,
+      "timestamp": "2025-06-26 23:19"
+    }
   ]
 }
