@@ -175799,5 +175799,112 @@
       "price_btc": 7.490429757029024e-07,
       "timestamp": "2025-06-26 10:22"
     }
+  ],
+  "2025-06-26 11:18": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.630356295551449e-05,
+      "timestamp": "2025-06-26 11:18"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.647654900351515e-08,
+      "timestamp": "2025-06-26 11:18"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.089282966923659e-08,
+      "timestamp": "2025-06-26 11:18"
+    },
+    {
+      "rank": 4,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.561412732706697e-06,
+      "timestamp": "2025-06-26 11:18"
+    },
+    {
+      "rank": 5,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.186596320317067e-07,
+      "timestamp": "2025-06-26 11:18"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001336641101957841,
+      "timestamp": "2025-06-26 11:18"
+    },
+    {
+      "rank": 7,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.554998339416569e-06,
+      "timestamp": "2025-06-26 11:18"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022865487003155455,
+      "timestamp": "2025-06-26 11:18"
+    },
+    {
+      "rank": 9,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.6510049421084077e-06,
+      "timestamp": "2025-06-26 11:18"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4918398969464865e-05,
+      "timestamp": "2025-06-26 11:18"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-26 11:18"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034758111875803023,
+      "timestamp": "2025-06-26 11:18"
+    },
+    {
+      "rank": 13,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.0060136618993224455,
+      "timestamp": "2025-06-26 11:18"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0256126777996132e-05,
+      "timestamp": "2025-06-26 11:18"
+    },
+    {
+      "rank": 15,
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price_btc": 1.6432941505275365e-06,
+      "timestamp": "2025-06-26 11:18"
+    }
   ]
 }
