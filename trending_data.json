@@ -174836,5 +174836,112 @@
       "price_btc": 2.896484725875169e-06,
       "timestamp": "2025-06-25 23:19"
     }
+  ],
+  "2025-06-26 01:46": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6475123180641302e-05,
+      "timestamp": "2025-06-26 01:46"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6720086388931428e-08,
+      "timestamp": "2025-06-26 01:46"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.3516124502157415e-08,
+      "timestamp": "2025-06-26 01:46"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.5448489209795773e-06,
+      "timestamp": "2025-06-26 01:46"
+    },
+    {
+      "rank": 5,
+      "name": "Humanity",
+      "symbol": "H",
+      "price_btc": 3.4562311752184797e-07,
+      "timestamp": "2025-06-26 01:46"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.3794125951048065e-06,
+      "timestamp": "2025-06-26 01:46"
+    },
+    {
+      "rank": 7,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.944090794813077e-06,
+      "timestamp": "2025-06-26 01:46"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.550406696889532e-05,
+      "timestamp": "2025-06-26 01:46"
+    },
+    {
+      "rank": 9,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3584158276198748e-05,
+      "timestamp": "2025-06-26 01:46"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-26 01:46"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.357201400680737e-06,
+      "timestamp": "2025-06-26 01:46"
+    },
+    {
+      "rank": 12,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.1520573711710448e-05,
+      "timestamp": "2025-06-26 01:46"
+    },
+    {
+      "rank": 13,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 3.1264643310100574e-05,
+      "timestamp": "2025-06-26 01:46"
+    },
+    {
+      "rank": 14,
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "price_btc": 1.3961276403922548e-06,
+      "timestamp": "2025-06-26 01:46"
+    },
+    {
+      "rank": 15,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 4.487620111370808e-05,
+      "timestamp": "2025-06-26 01:46"
+    }
   ]
 }
