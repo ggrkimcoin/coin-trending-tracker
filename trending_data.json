@@ -176441,5 +176441,112 @@
       "price_btc": 5.665305809506109e-06,
       "timestamp": "2025-06-26 16:26"
     }
+  ],
+  "2025-06-26 17:18": [
+    {
+      "rank": 1,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 9.354419444184856e-07,
+      "timestamp": "2025-06-26 17:18"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.5959768974753043e-08,
+      "timestamp": "2025-06-26 17:18"
+    },
+    {
+      "rank": 3,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.52147991360569e-07,
+      "timestamp": "2025-06-26 17:18"
+    },
+    {
+      "rank": 4,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6092029782972763e-05,
+      "timestamp": "2025-06-26 17:18"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.172611454830236e-08,
+      "timestamp": "2025-06-26 17:18"
+    },
+    {
+      "rank": 6,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.4544940490098015e-06,
+      "timestamp": "2025-06-26 17:18"
+    },
+    {
+      "rank": 7,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.42482335987315e-06,
+      "timestamp": "2025-06-26 17:18"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013262168165712703,
+      "timestamp": "2025-06-26 17:18"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.767632677121594e-06,
+      "timestamp": "2025-06-26 17:18"
+    },
+    {
+      "rank": 10,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0023522992738255377,
+      "timestamp": "2025-06-26 17:18"
+    },
+    {
+      "rank": 11,
+      "name": "Humanity",
+      "symbol": "H",
+      "price_btc": 2.0189960834043714e-07,
+      "timestamp": "2025-06-26 17:18"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.252845602426237e-06,
+      "timestamp": "2025-06-26 17:18"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.434775418903048e-05,
+      "timestamp": "2025-06-26 17:18"
+    },
+    {
+      "rank": 14,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 1.605055372233344e-05,
+      "timestamp": "2025-06-26 17:18"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.96153585293858e-05,
+      "timestamp": "2025-06-26 17:18"
+    }
   ]
 }
