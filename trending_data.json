@@ -176120,5 +176120,112 @@
       "price_btc": 9.031802354751474e-06,
       "timestamp": "2025-06-26 13:33"
     }
+  ],
+  "2025-06-26 14:20": [
+    {
+      "rank": 1,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 1.0760685370820348e-06,
+      "timestamp": "2025-06-26 14:20"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6196264942881413e-05,
+      "timestamp": "2025-06-26 14:20"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.5942295824647292e-08,
+      "timestamp": "2025-06-26 14:20"
+    },
+    {
+      "rank": 4,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.749132654654747e-07,
+      "timestamp": "2025-06-26 14:20"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.1751936239833784e-08,
+      "timestamp": "2025-06-26 14:20"
+    },
+    {
+      "rank": 6,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.4290233158725027e-06,
+      "timestamp": "2025-06-26 14:20"
+    },
+    {
+      "rank": 7,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.5389716986472504e-06,
+      "timestamp": "2025-06-26 14:20"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.159803915408576e-06,
+      "timestamp": "2025-06-26 14:20"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003516211684585186,
+      "timestamp": "2025-06-26 14:20"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013265201500845156,
+      "timestamp": "2025-06-26 14:20"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-26 14:20"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.9886458502362856e-05,
+      "timestamp": "2025-06-26 14:20"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3049107966312995e-05,
+      "timestamp": "2025-06-26 14:20"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 6.876352401431272e-06,
+      "timestamp": "2025-06-26 14:20"
+    },
+    {
+      "rank": 15,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.513827125157662e-08,
+      "timestamp": "2025-06-26 14:20"
+    }
   ]
 }
