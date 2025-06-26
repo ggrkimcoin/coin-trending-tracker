@@ -175692,5 +175692,112 @@
       "price_btc": 0.0024370529182113805,
       "timestamp": "2025-06-26 09:23"
     }
+  ],
+  "2025-06-26 10:22": [
+    {
+      "rank": 1,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 4.999631755139038e-07,
+      "timestamp": "2025-06-26 10:22"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6550948256500427e-08,
+      "timestamp": "2025-06-26 10:22"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6329486946395514e-05,
+      "timestamp": "2025-06-26 10:22"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.1365106129253804e-08,
+      "timestamp": "2025-06-26 10:22"
+    },
+    {
+      "rank": 5,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.545398715792908e-06,
+      "timestamp": "2025-06-26 10:22"
+    },
+    {
+      "rank": 6,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.6789610314290815e-06,
+      "timestamp": "2025-06-26 10:22"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003463454231845979,
+      "timestamp": "2025-06-26 10:22"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013403119230158752,
+      "timestamp": "2025-06-26 10:22"
+    },
+    {
+      "rank": 9,
+      "name": "Humanity",
+      "symbol": "H",
+      "price_btc": 2.4328512265544446e-07,
+      "timestamp": "2025-06-26 10:22"
+    },
+    {
+      "rank": 10,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.545338077079995e-06,
+      "timestamp": "2025-06-26 10:22"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.2579628239696645e-06,
+      "timestamp": "2025-06-26 10:22"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-26 10:22"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 8.942800995789031e-06,
+      "timestamp": "2025-06-26 10:22"
+    },
+    {
+      "rank": 14,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.7326782900789498e-06,
+      "timestamp": "2025-06-26 10:22"
+    },
+    {
+      "rank": 15,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 7.490429757029024e-07,
+      "timestamp": "2025-06-26 10:22"
+    }
   ]
 }
