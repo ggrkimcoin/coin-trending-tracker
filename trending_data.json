@@ -175264,5 +175264,112 @@
       "price_btc": 1.208885199091533e-05,
       "timestamp": "2025-06-26 05:21"
     }
+  ],
+  "2025-06-26 06:32": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6439866377680144e-05,
+      "timestamp": "2025-06-26 06:32"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6665455810036954e-08,
+      "timestamp": "2025-06-26 06:32"
+    },
+    {
+      "rank": 3,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.443131677588027e-06,
+      "timestamp": "2025-06-26 06:32"
+    },
+    {
+      "rank": 4,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.858454316274695e-06,
+      "timestamp": "2025-06-26 06:32"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.2822730774479786e-08,
+      "timestamp": "2025-06-26 06:32"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023024774273897878,
+      "timestamp": "2025-06-26 06:32"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003446662788769135,
+      "timestamp": "2025-06-26 06:32"
+    },
+    {
+      "rank": 8,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.7312164316047794e-06,
+      "timestamp": "2025-06-26 06:32"
+    },
+    {
+      "rank": 9,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 4.916604210580383e-07,
+      "timestamp": "2025-06-26 06:32"
+    },
+    {
+      "rank": 10,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.608636556200158e-06,
+      "timestamp": "2025-06-26 06:32"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013429468733882955,
+      "timestamp": "2025-06-26 06:32"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5231388824535336e-05,
+      "timestamp": "2025-06-26 06:32"
+    },
+    {
+      "rank": 13,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3926939930134662e-05,
+      "timestamp": "2025-06-26 06:32"
+    },
+    {
+      "rank": 14,
+      "name": "Mango Network",
+      "symbol": "MGO",
+      "price_btc": 1.5659417089953455e-07,
+      "timestamp": "2025-06-26 06:32"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-26 06:32"
+    }
   ]
 }
