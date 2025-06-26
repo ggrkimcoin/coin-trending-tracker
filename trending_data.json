@@ -175371,5 +175371,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-06-26 06:32"
     }
+  ],
+  "2025-06-26 07:21": [
+    {
+      "rank": 1,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 4.916144010799412e-07,
+      "timestamp": "2025-06-26 07:21"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.642170842710766e-05,
+      "timestamp": "2025-06-26 07:21"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6903519427787607e-08,
+      "timestamp": "2025-06-26 07:21"
+    },
+    {
+      "rank": 4,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.431805260566843e-06,
+      "timestamp": "2025-06-26 07:21"
+    },
+    {
+      "rank": 5,
+      "name": "Movement",
+      "symbol": "MOVE",
+      "price_btc": 1.8121142824858453e-06,
+      "timestamp": "2025-06-26 07:21"
+    },
+    {
+      "rank": 6,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.229530776455239e-08,
+      "timestamp": "2025-06-26 07:21"
+    },
+    {
+      "rank": 7,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.59820290129082e-06,
+      "timestamp": "2025-06-26 07:21"
+    },
+    {
+      "rank": 8,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.773499962355813e-06,
+      "timestamp": "2025-06-26 07:21"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.338048330465796e-06,
+      "timestamp": "2025-06-26 07:21"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.023036128165332265,
+      "timestamp": "2025-06-26 07:21"
+    },
+    {
+      "rank": 11,
+      "name": "VeChain",
+      "symbol": "VET",
+      "price_btc": 1.9633221963461465e-07,
+      "timestamp": "2025-06-26 07:21"
+    },
+    {
+      "rank": 12,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 3.178588081250483e-05,
+      "timestamp": "2025-06-26 07:21"
+    },
+    {
+      "rank": 13,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 7.377500127669589e-07,
+      "timestamp": "2025-06-26 07:21"
+    },
+    {
+      "rank": 14,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1763161954697583e-05,
+      "timestamp": "2025-06-26 07:21"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013440192919955635,
+      "timestamp": "2025-06-26 07:21"
+    }
   ]
 }
