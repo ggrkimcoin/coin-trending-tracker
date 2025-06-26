@@ -175050,5 +175050,112 @@
       "price_btc": 2.041403855107791e-05,
       "timestamp": "2025-06-26 03:18"
     }
+  ],
+  "2025-06-26 04:29": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6439758168578122e-05,
+      "timestamp": "2025-06-26 04:29"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6683979978362483e-08,
+      "timestamp": "2025-06-26 04:29"
+    },
+    {
+      "rank": 3,
+      "name": "HashKey Platform Token",
+      "symbol": "HSK",
+      "price_btc": 6.9232045653399766e-06,
+      "timestamp": "2025-06-26 04:29"
+    },
+    {
+      "rank": 4,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.8756932501573185e-06,
+      "timestamp": "2025-06-26 04:29"
+    },
+    {
+      "rank": 5,
+      "name": "Humanity",
+      "symbol": "H",
+      "price_btc": 3.0193459471620034e-07,
+      "timestamp": "2025-06-26 04:29"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.54999177705996e-06,
+      "timestamp": "2025-06-26 04:29"
+    },
+    {
+      "rank": 7,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.333691543352965e-08,
+      "timestamp": "2025-06-26 04:29"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013495499638072693,
+      "timestamp": "2025-06-26 04:29"
+    },
+    {
+      "rank": 9,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 1.9900167027594564e-05,
+      "timestamp": "2025-06-26 04:29"
+    },
+    {
+      "rank": 10,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00012344494274848546,
+      "timestamp": "2025-06-26 04:29"
+    },
+    {
+      "rank": 11,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.561735994399077e-06,
+      "timestamp": "2025-06-26 04:29"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003475261174388935,
+      "timestamp": "2025-06-26 04:29"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.703303301134173e-06,
+      "timestamp": "2025-06-26 04:29"
+    },
+    {
+      "rank": 14,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.152982537605985e-06,
+      "timestamp": "2025-06-26 04:29"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3940772522707253e-05,
+      "timestamp": "2025-06-26 04:29"
+    }
   ]
 }
