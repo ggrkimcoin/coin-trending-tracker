@@ -176227,5 +176227,112 @@
       "price_btc": 8.513827125157662e-08,
       "timestamp": "2025-06-26 14:20"
     }
+  ],
+  "2025-06-26 15:22": [
+    {
+      "rank": 1,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 9.341515224344826e-07,
+      "timestamp": "2025-06-26 15:22"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6194453641234278e-05,
+      "timestamp": "2025-06-26 15:22"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6043269654545252e-08,
+      "timestamp": "2025-06-26 15:22"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.187292320055779e-08,
+      "timestamp": "2025-06-26 15:22"
+    },
+    {
+      "rank": 5,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.5115445243369018e-06,
+      "timestamp": "2025-06-26 15:22"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035089114578385833,
+      "timestamp": "2025-06-26 15:22"
+    },
+    {
+      "rank": 7,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.471172304377401e-06,
+      "timestamp": "2025-06-26 15:22"
+    },
+    {
+      "rank": 8,
+      "name": "Wormhole",
+      "symbol": "W",
+      "price_btc": 6.205797313055542e-07,
+      "timestamp": "2025-06-26 15:22"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.600995072224223e-06,
+      "timestamp": "2025-06-26 15:22"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022773495382397556,
+      "timestamp": "2025-06-26 15:22"
+    },
+    {
+      "rank": 11,
+      "name": "Humanity",
+      "symbol": "H",
+      "price_btc": 1.8893815124677809e-07,
+      "timestamp": "2025-06-26 15:22"
+    },
+    {
+      "rank": 12,
+      "name": "Spark",
+      "symbol": "SPK",
+      "price_btc": 3.304580656545403e-07,
+      "timestamp": "2025-06-26 15:22"
+    },
+    {
+      "rank": 13,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 7.056023575107007e-07,
+      "timestamp": "2025-06-26 15:22"
+    },
+    {
+      "rank": 14,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.43109028998443e-06,
+      "timestamp": "2025-06-26 15:22"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4637866959804736e-05,
+      "timestamp": "2025-06-26 15:22"
+    }
   ]
 }
