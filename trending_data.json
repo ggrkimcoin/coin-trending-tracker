@@ -175157,5 +175157,112 @@
       "price_btc": 1.3940772522707253e-05,
       "timestamp": "2025-06-26 04:29"
     }
+  ],
+  "2025-06-26 05:21": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6409199447288086e-05,
+      "timestamp": "2025-06-26 05:21"
+    },
+    {
+      "rank": 2,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.303246201374912e-08,
+      "timestamp": "2025-06-26 05:21"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.661722446212383e-08,
+      "timestamp": "2025-06-26 05:21"
+    },
+    {
+      "rank": 4,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 4.836051428484515e-07,
+      "timestamp": "2025-06-26 05:21"
+    },
+    {
+      "rank": 5,
+      "name": "HashKey Platform Token",
+      "symbol": "HSK",
+      "price_btc": 7.09576988357336e-06,
+      "timestamp": "2025-06-26 05:21"
+    },
+    {
+      "rank": 6,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.851086248768957e-06,
+      "timestamp": "2025-06-26 05:21"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.044812702443816e-06,
+      "timestamp": "2025-06-26 05:21"
+    },
+    {
+      "rank": 8,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.476826294712451e-06,
+      "timestamp": "2025-06-26 05:21"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003448293967458034,
+      "timestamp": "2025-06-26 05:21"
+    },
+    {
+      "rank": 10,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0024144839884172194,
+      "timestamp": "2025-06-26 05:21"
+    },
+    {
+      "rank": 11,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 1.1353109414990304e-05,
+      "timestamp": "2025-06-26 05:21"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-26 05:21"
+    },
+    {
+      "rank": 13,
+      "name": "Humanity",
+      "symbol": "H",
+      "price_btc": 3.009236211461318e-07,
+      "timestamp": "2025-06-26 05:21"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.392007653944983e-05,
+      "timestamp": "2025-06-26 05:21"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.208885199091533e-05,
+      "timestamp": "2025-06-26 05:21"
+    }
   ]
 }
