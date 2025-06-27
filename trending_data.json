@@ -178581,5 +178581,112 @@
       "price_btc": 9.46681514513969e-06,
       "timestamp": "2025-06-27 14:20"
     }
+  ],
+  "2025-06-27 15:22": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6696298301740243e-05,
+      "timestamp": "2025-06-27 15:22"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6079234472420797e-08,
+      "timestamp": "2025-06-27 15:22"
+    },
+    {
+      "rank": 3,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 4.829178710761474e-07,
+      "timestamp": "2025-06-27 15:22"
+    },
+    {
+      "rank": 4,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.214809689791743e-08,
+      "timestamp": "2025-06-27 15:22"
+    },
+    {
+      "rank": 5,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.6558112225166e-06,
+      "timestamp": "2025-06-27 15:22"
+    },
+    {
+      "rank": 6,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 7.690903515480873e-07,
+      "timestamp": "2025-06-27 15:22"
+    },
+    {
+      "rank": 7,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.332594702552417e-08,
+      "timestamp": "2025-06-27 15:22"
+    },
+    {
+      "rank": 8,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.507030816842746e-06,
+      "timestamp": "2025-06-27 15:22"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.310798283056366e-06,
+      "timestamp": "2025-06-27 15:22"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022731499721304064,
+      "timestamp": "2025-06-27 15:22"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.51610896895458e-05,
+      "timestamp": "2025-06-27 15:22"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.090576195248999e-06,
+      "timestamp": "2025-06-27 15:22"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034142996766934176,
+      "timestamp": "2025-06-27 15:22"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013308681562174557,
+      "timestamp": "2025-06-27 15:22"
+    },
+    {
+      "rank": 15,
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "price_btc": 5.29695017710592e-07,
+      "timestamp": "2025-06-27 15:22"
+    }
   ]
 }
