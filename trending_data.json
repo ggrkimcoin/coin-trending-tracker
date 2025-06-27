@@ -177618,5 +177618,112 @@
       "price_btc": 1.5626548609928681e-06,
       "timestamp": "2025-06-27 05:21"
     }
+  ],
+  "2025-06-27 06:31": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.592347648037868e-08,
+      "timestamp": "2025-06-27 06:31"
+    },
+    {
+      "rank": 2,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.727500552766849e-07,
+      "timestamp": "2025-06-27 06:31"
+    },
+    {
+      "rank": 3,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 7.540102359698622e-07,
+      "timestamp": "2025-06-27 06:31"
+    },
+    {
+      "rank": 4,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6381416493916548e-05,
+      "timestamp": "2025-06-27 06:31"
+    },
+    {
+      "rank": 5,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.671363067779118e-06,
+      "timestamp": "2025-06-27 06:31"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-27 06:31"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4470075325777416e-05,
+      "timestamp": "2025-06-27 06:31"
+    },
+    {
+      "rank": 8,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.263485289861052e-08,
+      "timestamp": "2025-06-27 06:31"
+    },
+    {
+      "rank": 9,
+      "name": "Across Protocol",
+      "symbol": "ACX",
+      "price_btc": 1.2588124126003857e-06,
+      "timestamp": "2025-06-27 06:31"
+    },
+    {
+      "rank": 10,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0023940677601435134,
+      "timestamp": "2025-06-27 06:31"
+    },
+    {
+      "rank": 11,
+      "name": "Euler",
+      "symbol": "EUL",
+      "price_btc": 9.63514105646259e-05,
+      "timestamp": "2025-06-27 06:31"
+    },
+    {
+      "rank": 12,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.078947329740843e-08,
+      "timestamp": "2025-06-27 06:31"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003415340992775645,
+      "timestamp": "2025-06-27 06:31"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002971786414916926,
+      "timestamp": "2025-06-27 06:31"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.6371277332940165e-06,
+      "timestamp": "2025-06-27 06:31"
+    }
   ]
 }
