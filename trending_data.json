@@ -178795,5 +178795,112 @@
       "price_btc": 0.00010162823837206171,
       "timestamp": "2025-06-27 16:26"
     }
+  ],
+  "2025-06-27 17:18": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6538404670777105e-05,
+      "timestamp": "2025-06-27 17:18"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6220219077510558e-08,
+      "timestamp": "2025-06-27 17:18"
+    },
+    {
+      "rank": 3,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 4.83405975576874e-07,
+      "timestamp": "2025-06-27 17:18"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.322415616786388e-08,
+      "timestamp": "2025-06-27 17:18"
+    },
+    {
+      "rank": 5,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 7.706122208395239e-07,
+      "timestamp": "2025-06-27 17:18"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003443706925401055,
+      "timestamp": "2025-06-27 17:18"
+    },
+    {
+      "rank": 7,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.6265468016278352e-06,
+      "timestamp": "2025-06-27 17:18"
+    },
+    {
+      "rank": 8,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 3.879209833776785e-08,
+      "timestamp": "2025-06-27 17:18"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.263141802301221e-06,
+      "timestamp": "2025-06-27 17:18"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013377708538506192,
+      "timestamp": "2025-06-27 17:18"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-27 17:18"
+    },
+    {
+      "rank": 12,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.735812290096945e-06,
+      "timestamp": "2025-06-27 17:18"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5894390747107054e-05,
+      "timestamp": "2025-06-27 17:18"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030273043458830346,
+      "timestamp": "2025-06-27 17:18"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022639026731436866,
+      "timestamp": "2025-06-27 17:18"
+    }
   ]
 }
