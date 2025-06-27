@@ -178260,5 +178260,112 @@
       "price_btc": 4.200229208196251e-08,
       "timestamp": "2025-06-27 11:18"
     }
+  ],
+  "2025-06-27 12:42": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6641916459948388e-05,
+      "timestamp": "2025-06-27 12:42"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.602786202175052e-08,
+      "timestamp": "2025-06-27 12:42"
+    },
+    {
+      "rank": 3,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.047147339714082e-07,
+      "timestamp": "2025-06-27 12:42"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.744392269014053e-06,
+      "timestamp": "2025-06-27 12:42"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.346917977292094e-08,
+      "timestamp": "2025-06-27 12:42"
+    },
+    {
+      "rank": 6,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 7.872098889533303e-07,
+      "timestamp": "2025-06-27 12:42"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003462743843675486,
+      "timestamp": "2025-06-27 12:42"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02288450215898145,
+      "timestamp": "2025-06-27 12:42"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.733010140238464e-06,
+      "timestamp": "2025-06-27 12:42"
+    },
+    {
+      "rank": 10,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.296832860078214e-08,
+      "timestamp": "2025-06-27 12:42"
+    },
+    {
+      "rank": 11,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 7.417878009815598e-06,
+      "timestamp": "2025-06-27 12:42"
+    },
+    {
+      "rank": 12,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 2.82359132977907e-06,
+      "timestamp": "2025-06-27 12:42"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013311984838523447,
+      "timestamp": "2025-06-27 12:42"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.686527438668082e-11,
+      "timestamp": "2025-06-27 12:42"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1106782107173011e-05,
+      "timestamp": "2025-06-27 12:42"
+    }
   ]
 }
