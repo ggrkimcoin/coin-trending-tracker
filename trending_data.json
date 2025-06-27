@@ -178902,5 +178902,112 @@
       "price_btc": 0.022639026731436866,
       "timestamp": "2025-06-27 17:18"
     }
+  ],
+  "2025-06-27 18:29": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.606227856161272e-08,
+      "timestamp": "2025-06-27 18:29"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6513435566589905e-05,
+      "timestamp": "2025-06-27 18:29"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.3191646879210243e-08,
+      "timestamp": "2025-06-27 18:29"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.6370431647348475e-06,
+      "timestamp": "2025-06-27 18:29"
+    },
+    {
+      "rank": 5,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 7.852404218736981e-07,
+      "timestamp": "2025-06-27 18:29"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003411700433960511,
+      "timestamp": "2025-06-27 18:29"
+    },
+    {
+      "rank": 7,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 3.8484480719875914e-08,
+      "timestamp": "2025-06-27 18:29"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.201726689140899e-06,
+      "timestamp": "2025-06-27 18:29"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022500578198180448,
+      "timestamp": "2025-06-27 18:29"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5446951481994244e-05,
+      "timestamp": "2025-06-27 18:29"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003025067367461732,
+      "timestamp": "2025-06-27 18:29"
+    },
+    {
+      "rank": 12,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.33846436671745e-06,
+      "timestamp": "2025-06-27 18:29"
+    },
+    {
+      "rank": 13,
+      "name": "Liquity",
+      "symbol": "LQTY",
+      "price_btc": 1.5062930319423243e-05,
+      "timestamp": "2025-06-27 18:29"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.9567090546937604e-05,
+      "timestamp": "2025-06-27 18:29"
+    },
+    {
+      "rank": 15,
+      "name": "Drift Protocol",
+      "symbol": "DRIFT",
+      "price_btc": 3.547877904947369e-06,
+      "timestamp": "2025-06-27 18:29"
+    }
   ]
 }
