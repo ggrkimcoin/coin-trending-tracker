@@ -177297,5 +177297,112 @@
       "price_btc": 1.958414391185001e-05,
       "timestamp": "2025-06-27 01:47"
     }
+  ],
+  "2025-06-27 03:20": [
+    {
+      "rank": 1,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 7.893211286296651e-07,
+      "timestamp": "2025-06-27 03:20"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.596442356233898e-08,
+      "timestamp": "2025-06-27 03:20"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.643939615887919e-05,
+      "timestamp": "2025-06-27 03:20"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.178855667985004e-08,
+      "timestamp": "2025-06-27 03:20"
+    },
+    {
+      "rank": 5,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.62099631981825e-07,
+      "timestamp": "2025-06-27 03:20"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-27 03:20"
+    },
+    {
+      "rank": 7,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0023877690923466547,
+      "timestamp": "2025-06-27 03:20"
+    },
+    {
+      "rank": 8,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 4.599486860941727e-05,
+      "timestamp": "2025-06-27 03:20"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.9622482163180025e-05,
+      "timestamp": "2025-06-27 03:20"
+    },
+    {
+      "rank": 10,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.558581613533682e-06,
+      "timestamp": "2025-06-27 03:20"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013149353990126542,
+      "timestamp": "2025-06-27 03:20"
+    },
+    {
+      "rank": 12,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.182071394398155e-08,
+      "timestamp": "2025-06-27 03:20"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02273050819441611,
+      "timestamp": "2025-06-27 03:20"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030268328230281622,
+      "timestamp": "2025-06-27 03:20"
+    },
+    {
+      "rank": 15,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00012187441564466423,
+      "timestamp": "2025-06-27 03:20"
+    }
   ]
 }
