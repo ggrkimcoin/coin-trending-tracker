@@ -179009,5 +179009,112 @@
       "price_btc": 3.547877904947369e-06,
       "timestamp": "2025-06-27 18:29"
     }
+  ],
+  "2025-06-27 19:15": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.594208565047522e-08,
+      "timestamp": "2025-06-27 19:15"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6438894058820813e-05,
+      "timestamp": "2025-06-27 19:15"
+    },
+    {
+      "rank": 3,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.616268449217089e-06,
+      "timestamp": "2025-06-27 19:15"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.291615990070076e-08,
+      "timestamp": "2025-06-27 19:15"
+    },
+    {
+      "rank": 5,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 7.691357037232963e-07,
+      "timestamp": "2025-06-27 19:15"
+    },
+    {
+      "rank": 6,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 3.747016910949225e-08,
+      "timestamp": "2025-06-27 19:15"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013174162329683133,
+      "timestamp": "2025-06-27 19:15"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003369987299617079,
+      "timestamp": "2025-06-27 19:15"
+    },
+    {
+      "rank": 9,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.694159725895198e-08,
+      "timestamp": "2025-06-27 19:15"
+    },
+    {
+      "rank": 10,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.8354017699125644e-06,
+      "timestamp": "2025-06-27 19:15"
+    },
+    {
+      "rank": 11,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 3.0914361763123556e-05,
+      "timestamp": "2025-06-27 19:15"
+    },
+    {
+      "rank": 12,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 7.553743965337224e-07,
+      "timestamp": "2025-06-27 19:15"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5287014349611967e-05,
+      "timestamp": "2025-06-27 19:15"
+    },
+    {
+      "rank": 14,
+      "name": "Akash Network",
+      "symbol": "AKT",
+      "price_btc": 9.761396252450128e-06,
+      "timestamp": "2025-06-27 19:15"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.08179015658054e-06,
+      "timestamp": "2025-06-27 19:15"
+    }
   ]
 }
