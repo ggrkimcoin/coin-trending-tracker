@@ -177404,5 +177404,112 @@
       "price_btc": 0.00012187441564466423,
       "timestamp": "2025-06-27 03:20"
     }
+  ],
+  "2025-06-27 04:29": [
+    {
+      "rank": 1,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 7.421084900384251e-07,
+      "timestamp": "2025-06-27 04:29"
+    },
+    {
+      "rank": 2,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.654697255299992e-07,
+      "timestamp": "2025-06-27 04:29"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6409621326573793e-05,
+      "timestamp": "2025-06-27 04:29"
+    },
+    {
+      "rank": 4,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.5890893357417456e-08,
+      "timestamp": "2025-06-27 04:29"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.165774456944885e-08,
+      "timestamp": "2025-06-27 04:29"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-27 04:29"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.4426787119562264e-05,
+      "timestamp": "2025-06-27 04:29"
+    },
+    {
+      "rank": 8,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.379479985291065e-06,
+      "timestamp": "2025-06-27 04:29"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022747265553762032,
+      "timestamp": "2025-06-27 04:29"
+    },
+    {
+      "rank": 10,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001220962015345755,
+      "timestamp": "2025-06-27 04:29"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.584335120887204e-06,
+      "timestamp": "2025-06-27 04:29"
+    },
+    {
+      "rank": 12,
+      "name": "Ronin",
+      "symbol": "RON",
+      "price_btc": 4.055145747306977e-06,
+      "timestamp": "2025-06-27 04:29"
+    },
+    {
+      "rank": 13,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 1.5714493627396424e-05,
+      "timestamp": "2025-06-27 04:29"
+    },
+    {
+      "rank": 14,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.5629007188924796e-06,
+      "timestamp": "2025-06-27 04:29"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002994037179833279,
+      "timestamp": "2025-06-27 04:29"
+    }
   ]
 }
