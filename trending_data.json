@@ -179116,5 +179116,112 @@
       "price_btc": 9.08179015658054e-06,
       "timestamp": "2025-06-27 19:15"
     }
+  ],
+  "2025-06-27 20:22": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6493675370251073e-05,
+      "timestamp": "2025-06-27 20:22"
+    },
+    {
+      "rank": 2,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.639764287668819e-06,
+      "timestamp": "2025-06-27 20:22"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.60270363563463e-08,
+      "timestamp": "2025-06-27 20:22"
+    },
+    {
+      "rank": 4,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 7.672600573104304e-07,
+      "timestamp": "2025-06-27 20:22"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.234137688486442e-08,
+      "timestamp": "2025-06-27 20:22"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.53507333819088e-06,
+      "timestamp": "2025-06-27 20:22"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000337806655186331,
+      "timestamp": "2025-06-27 20:22"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022605302897483418,
+      "timestamp": "2025-06-27 20:22"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013297323512362097,
+      "timestamp": "2025-06-27 20:22"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-27 20:22"
+    },
+    {
+      "rank": 11,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 2.632226091292754e-07,
+      "timestamp": "2025-06-27 20:22"
+    },
+    {
+      "rank": 12,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.3181762594639075e-05,
+      "timestamp": "2025-06-27 20:22"
+    },
+    {
+      "rank": 13,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.8466057257984e-08,
+      "timestamp": "2025-06-27 20:22"
+    },
+    {
+      "rank": 14,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0023940011114790766,
+      "timestamp": "2025-06-27 20:22"
+    },
+    {
+      "rank": 15,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 7.568635237962419e-07,
+      "timestamp": "2025-06-27 20:22"
+    }
   ]
 }
