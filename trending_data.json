@@ -179437,5 +179437,112 @@
       "price_btc": 3.7199428992898246e-08,
       "timestamp": "2025-06-27 22:21"
     }
+  ],
+  "2025-06-27 23:20": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6582057844945228e-05,
+      "timestamp": "2025-06-27 23:20"
+    },
+    {
+      "rank": 2,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.718290935577704e-06,
+      "timestamp": "2025-06-27 23:20"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.162295648440149e-08,
+      "timestamp": "2025-06-27 23:20"
+    },
+    {
+      "rank": 4,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6241068543479197e-08,
+      "timestamp": "2025-06-27 23:20"
+    },
+    {
+      "rank": 5,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 7.828401786545551e-07,
+      "timestamp": "2025-06-27 23:20"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0098301162697715e-07,
+      "timestamp": "2025-06-27 23:20"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034017692071112906,
+      "timestamp": "2025-06-27 23:20"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5282553057275225e-05,
+      "timestamp": "2025-06-27 23:20"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013307927103770364,
+      "timestamp": "2025-06-27 23:20"
+    },
+    {
+      "rank": 10,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 5.444543131039442e-06,
+      "timestamp": "2025-06-27 23:20"
+    },
+    {
+      "rank": 11,
+      "name": "Stellar",
+      "symbol": "XLM",
+      "price_btc": 2.2099289895941756e-06,
+      "timestamp": "2025-06-27 23:20"
+    },
+    {
+      "rank": 12,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 3.799542738604729e-06,
+      "timestamp": "2025-06-27 23:20"
+    },
+    {
+      "rank": 13,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.345387636956374e-06,
+      "timestamp": "2025-06-27 23:20"
+    },
+    {
+      "rank": 14,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 3.6824452570946566e-08,
+      "timestamp": "2025-06-27 23:20"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 6.982402041656027e-06,
+      "timestamp": "2025-06-27 23:20"
+    }
   ]
 }
