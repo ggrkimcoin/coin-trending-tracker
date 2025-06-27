@@ -177511,5 +177511,112 @@
       "price_btc": 0.002994037179833279,
       "timestamp": "2025-06-27 04:29"
     }
+  ],
+  "2025-06-27 05:21": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6488607873401295e-05,
+      "timestamp": "2025-06-27 05:21"
+    },
+    {
+      "rank": 2,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 7.550362588432606e-07,
+      "timestamp": "2025-06-27 05:21"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.589525853916672e-08,
+      "timestamp": "2025-06-27 05:21"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.201098658682217e-08,
+      "timestamp": "2025-06-27 05:21"
+    },
+    {
+      "rank": 5,
+      "name": "Cross The Ages",
+      "symbol": "CTA",
+      "price_btc": 5.677814272229534e-07,
+      "timestamp": "2025-06-27 05:21"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-27 05:21"
+    },
+    {
+      "rank": 7,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.673073785714671e-06,
+      "timestamp": "2025-06-27 05:21"
+    },
+    {
+      "rank": 8,
+      "name": "Across Protocol",
+      "symbol": "ACX",
+      "price_btc": 1.2651195627765026e-06,
+      "timestamp": "2025-06-27 05:21"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02276475760566552,
+      "timestamp": "2025-06-27 05:21"
+    },
+    {
+      "rank": 10,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.087000829059006e-05,
+      "timestamp": "2025-06-27 05:21"
+    },
+    {
+      "rank": 11,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 3.7137407263846163e-06,
+      "timestamp": "2025-06-27 05:21"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00131504062683214,
+      "timestamp": "2025-06-27 05:21"
+    },
+    {
+      "rank": 13,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.274000280452198e-06,
+      "timestamp": "2025-06-27 05:21"
+    },
+    {
+      "rank": 14,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.623905049400449e-06,
+      "timestamp": "2025-06-27 05:21"
+    },
+    {
+      "rank": 15,
+      "name": "Zeta",
+      "symbol": "ZEX",
+      "price_btc": 1.5626548609928681e-06,
+      "timestamp": "2025-06-27 05:21"
+    }
   ]
 }
