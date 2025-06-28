@@ -180400,5 +180400,112 @@
       "price_btc": 0.0009902916303884722,
       "timestamp": "2025-06-28 09:22"
     }
+  ],
+  "2025-06-28 10:20": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.62538793856651e-08,
+      "timestamp": "2025-06-28 10:20"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6467438730707586e-05,
+      "timestamp": "2025-06-28 10:20"
+    },
+    {
+      "rank": 3,
+      "name": "deBridge",
+      "symbol": "DBR",
+      "price_btc": 2.5660038925688115e-07,
+      "timestamp": "2025-06-28 10:20"
+    },
+    {
+      "rank": 4,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 7.936083282588997e-07,
+      "timestamp": "2025-06-28 10:20"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0860552464989144e-07,
+      "timestamp": "2025-06-28 10:20"
+    },
+    {
+      "rank": 6,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.15507649314116e-08,
+      "timestamp": "2025-06-28 10:20"
+    },
+    {
+      "rank": 7,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.662142342438203e-06,
+      "timestamp": "2025-06-28 10:20"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-28 10:20"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003465905023604155,
+      "timestamp": "2025-06-28 10:20"
+    },
+    {
+      "rank": 10,
+      "name": "Wormhole",
+      "symbol": "W",
+      "price_btc": 7.116755407408538e-07,
+      "timestamp": "2025-06-28 10:20"
+    },
+    {
+      "rank": 11,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.066080301951754e-06,
+      "timestamp": "2025-06-28 10:20"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.0423804168445535e-06,
+      "timestamp": "2025-06-28 10:20"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.365627556952913e-06,
+      "timestamp": "2025-06-28 10:20"
+    },
+    {
+      "rank": 14,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 7.143504911774394e-07,
+      "timestamp": "2025-06-28 10:20"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0415146073595155e-05,
+      "timestamp": "2025-06-28 10:20"
+    }
   ]
 }
