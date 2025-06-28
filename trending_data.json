@@ -181684,5 +181684,112 @@
       "price_btc": 1.0061385373780555e-05,
       "timestamp": "2025-06-28 21:18"
     }
+  ],
+  "2025-06-28 22:18": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6585829998859898e-05,
+      "timestamp": "2025-06-28 22:18"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6867471639286595e-08,
+      "timestamp": "2025-06-28 22:18"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3143458857270447e-07,
+      "timestamp": "2025-06-28 22:18"
+    },
+    {
+      "rank": 4,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 8.220756241605541e-07,
+      "timestamp": "2025-06-28 22:18"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 2.3795403924493765e-08,
+      "timestamp": "2025-06-28 22:18"
+    },
+    {
+      "rank": 6,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.196121141834147e-08,
+      "timestamp": "2025-06-28 22:18"
+    },
+    {
+      "rank": 7,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.656423676490645e-06,
+      "timestamp": "2025-06-28 22:18"
+    },
+    {
+      "rank": 8,
+      "name": "Wormhole",
+      "symbol": "W",
+      "price_btc": 7.436864755685397e-07,
+      "timestamp": "2025-06-28 22:18"
+    },
+    {
+      "rank": 9,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 3.1754844532839476e-05,
+      "timestamp": "2025-06-28 22:18"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.090499569320166e-06,
+      "timestamp": "2025-06-28 22:18"
+    },
+    {
+      "rank": 11,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.047539172407107e-06,
+      "timestamp": "2025-06-28 22:18"
+    },
+    {
+      "rank": 12,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 3.0110291891848174e-05,
+      "timestamp": "2025-06-28 22:18"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022689318036459055,
+      "timestamp": "2025-06-28 22:18"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001405238193279665,
+      "timestamp": "2025-06-28 22:18"
+    },
+    {
+      "rank": 15,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.872237812094172e-11,
+      "timestamp": "2025-06-28 22:18"
+    }
   ]
 }
