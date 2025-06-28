@@ -181042,5 +181042,112 @@
       "price_btc": 0.0030389542691099925,
       "timestamp": "2025-06-28 15:19"
     }
+  ],
+  "2025-06-28 16:24": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.648034272934377e-08,
+      "timestamp": "2025-06-28 16:24"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6440508631061823e-05,
+      "timestamp": "2025-06-28 16:24"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1858630152103717e-07,
+      "timestamp": "2025-06-28 16:24"
+    },
+    {
+      "rank": 4,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.3063640615430715e-06,
+      "timestamp": "2025-06-28 16:24"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5722031154182053e-05,
+      "timestamp": "2025-06-28 16:24"
+    },
+    {
+      "rank": 6,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 3.705448844244903e-08,
+      "timestamp": "2025-06-28 16:24"
+    },
+    {
+      "rank": 7,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.069732139449557e-08,
+      "timestamp": "2025-06-28 16:24"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034458465100438857,
+      "timestamp": "2025-06-28 16:24"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003065971077666322,
+      "timestamp": "2025-06-28 16:24"
+    },
+    {
+      "rank": 10,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 8.0570308107822e-07,
+      "timestamp": "2025-06-28 16:24"
+    },
+    {
+      "rank": 11,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 9.895321245674042e-06,
+      "timestamp": "2025-06-28 16:24"
+    },
+    {
+      "rank": 12,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 2.8612471864855206e-06,
+      "timestamp": "2025-06-28 16:24"
+    },
+    {
+      "rank": 13,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.645594065611859e-06,
+      "timestamp": "2025-06-28 16:24"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3823362015862123e-05,
+      "timestamp": "2025-06-28 16:24"
+    },
+    {
+      "rank": 15,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1726342334931887e-05,
+      "timestamp": "2025-06-28 16:24"
+    }
   ]
 }
