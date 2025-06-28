@@ -181577,5 +181577,112 @@
       "price_btc": 0.00035076595513923735,
       "timestamp": "2025-06-28 20:21"
     }
+  ],
+  "2025-06-28 21:18": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.668605362251606e-08,
+      "timestamp": "2025-06-28 21:18"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2587528221329983e-07,
+      "timestamp": "2025-06-28 21:18"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.655302451458114e-05,
+      "timestamp": "2025-06-28 21:18"
+    },
+    {
+      "rank": 4,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 8.296995197533321e-07,
+      "timestamp": "2025-06-28 21:18"
+    },
+    {
+      "rank": 5,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 3.171062287651845e-05,
+      "timestamp": "2025-06-28 21:18"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 4.944403261722174e-06,
+      "timestamp": "2025-06-28 21:18"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014012578927465207,
+      "timestamp": "2025-06-28 21:18"
+    },
+    {
+      "rank": 8,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.1443829274459764e-08,
+      "timestamp": "2025-06-28 21:18"
+    },
+    {
+      "rank": 9,
+      "name": "Wormhole",
+      "symbol": "W",
+      "price_btc": 7.476318733199871e-07,
+      "timestamp": "2025-06-28 21:18"
+    },
+    {
+      "rank": 10,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2019556352498504e-05,
+      "timestamp": "2025-06-28 21:18"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022669292945150927,
+      "timestamp": "2025-06-28 21:18"
+    },
+    {
+      "rank": 12,
+      "name": "Jito",
+      "symbol": "JTO",
+      "price_btc": 2.079088264085643e-05,
+      "timestamp": "2025-06-28 21:18"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035052953440400697,
+      "timestamp": "2025-06-28 21:18"
+    },
+    {
+      "rank": 14,
+      "name": "Keeta",
+      "symbol": "KTA",
+      "price_btc": 6.8258001786432186e-06,
+      "timestamp": "2025-06-28 21:18"
+    },
+    {
+      "rank": 15,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0061385373780555e-05,
+      "timestamp": "2025-06-28 21:18"
+    }
   ]
 }
