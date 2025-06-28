@@ -181363,5 +181363,112 @@
       "price_btc": 0.00034644126464677716,
       "timestamp": "2025-06-28 18:27"
     }
+  ],
+  "2025-06-28 19:15": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6462927508110743e-05,
+      "timestamp": "2025-06-28 19:15"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.24977266535979e-07,
+      "timestamp": "2025-06-28 19:15"
+    },
+    {
+      "rank": 3,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.6472572645963574e-06,
+      "timestamp": "2025-06-28 19:15"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 2.5605188873609635e-08,
+      "timestamp": "2025-06-28 19:15"
+    },
+    {
+      "rank": 5,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6622038810556903e-08,
+      "timestamp": "2025-06-28 19:15"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02270127817536696,
+      "timestamp": "2025-06-28 19:15"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 4.985326790919721e-06,
+      "timestamp": "2025-06-28 19:15"
+    },
+    {
+      "rank": 8,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 8.162032833993114e-07,
+      "timestamp": "2025-06-28 19:15"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-28 19:15"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.112422068018036e-06,
+      "timestamp": "2025-06-28 19:15"
+    },
+    {
+      "rank": 11,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 3.1626605832623846e-05,
+      "timestamp": "2025-06-28 19:15"
+    },
+    {
+      "rank": 12,
+      "name": "Marinade",
+      "symbol": "MNDE",
+      "price_btc": 1.376511214529744e-06,
+      "timestamp": "2025-06-28 19:15"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003081524775829218,
+      "timestamp": "2025-06-28 19:15"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014072913352158347,
+      "timestamp": "2025-06-28 19:15"
+    },
+    {
+      "rank": 15,
+      "name": "Cloud",
+      "symbol": "CLOUD",
+      "price_btc": 1.0155895509717853e-06,
+      "timestamp": "2025-06-28 19:15"
+    }
   ]
 }
