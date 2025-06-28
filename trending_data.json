@@ -180828,5 +180828,112 @@
       "price_btc": 3.911877917213283e-06,
       "timestamp": "2025-06-28 13:28"
     }
+  ],
+  "2025-06-28 14:17": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.647056148009521e-05,
+      "timestamp": "2025-06-28 14:17"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1238034201397227e-07,
+      "timestamp": "2025-06-28 14:17"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6341880333055806e-08,
+      "timestamp": "2025-06-28 14:17"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.098677232622138e-08,
+      "timestamp": "2025-06-28 14:17"
+    },
+    {
+      "rank": 5,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 8.115286628805774e-07,
+      "timestamp": "2025-06-28 14:17"
+    },
+    {
+      "rank": 6,
+      "name": "Rekt",
+      "symbol": "REKT",
+      "price_btc": 2.2172462765417794e-12,
+      "timestamp": "2025-06-28 14:17"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001366506049928013,
+      "timestamp": "2025-06-28 14:17"
+    },
+    {
+      "rank": 8,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.5092715049221206e-06,
+      "timestamp": "2025-06-28 14:17"
+    },
+    {
+      "rank": 9,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3995335845614095e-11,
+      "timestamp": "2025-06-28 14:17"
+    },
+    {
+      "rank": 10,
+      "name": "deBridge",
+      "symbol": "DBR",
+      "price_btc": 2.2916764388832298e-07,
+      "timestamp": "2025-06-28 14:17"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-28 14:17"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.718524512795693e-11,
+      "timestamp": "2025-06-28 14:17"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.549700035009775e-05,
+      "timestamp": "2025-06-28 14:17"
+    },
+    {
+      "rank": 14,
+      "name": "Euler",
+      "symbol": "EUL",
+      "price_btc": 0.00010090025912977456,
+      "timestamp": "2025-06-28 14:17"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 4.919399005970104e-06,
+      "timestamp": "2025-06-28 14:17"
+    }
   ]
 }
