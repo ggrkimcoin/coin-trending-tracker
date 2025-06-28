@@ -180507,5 +180507,112 @@
       "price_btc": 2.0415146073595155e-05,
       "timestamp": "2025-06-28 10:20"
     }
+  ],
+  "2025-06-28 11:16": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6451278020000378e-05,
+      "timestamp": "2025-06-28 11:16"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6381565256130754e-08,
+      "timestamp": "2025-06-28 11:16"
+    },
+    {
+      "rank": 3,
+      "name": "deBridge",
+      "symbol": "DBR",
+      "price_btc": 2.585167394432774e-07,
+      "timestamp": "2025-06-28 11:16"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.6385620761229736e-06,
+      "timestamp": "2025-06-28 11:16"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1072311007915431e-07,
+      "timestamp": "2025-06-28 11:16"
+    },
+    {
+      "rank": 6,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.1504863429384105e-08,
+      "timestamp": "2025-06-28 11:16"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013707240597013626,
+      "timestamp": "2025-06-28 11:16"
+    },
+    {
+      "rank": 8,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 7.905515214635959e-07,
+      "timestamp": "2025-06-28 11:16"
+    },
+    {
+      "rank": 9,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0023765031550771155,
+      "timestamp": "2025-06-28 11:16"
+    },
+    {
+      "rank": 10,
+      "name": "Wormhole",
+      "symbol": "W",
+      "price_btc": 7.030379947060636e-07,
+      "timestamp": "2025-06-28 11:16"
+    },
+    {
+      "rank": 11,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.3496636081971677e-05,
+      "timestamp": "2025-06-28 11:16"
+    },
+    {
+      "rank": 12,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.277702822020527e-06,
+      "timestamp": "2025-06-28 11:16"
+    },
+    {
+      "rank": 13,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0028936927657217,
+      "timestamp": "2025-06-28 11:16"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034500790775772965,
+      "timestamp": "2025-06-28 11:16"
+    },
+    {
+      "rank": 15,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 1.908933201934651e-05,
+      "timestamp": "2025-06-28 11:16"
+    }
   ]
 }
