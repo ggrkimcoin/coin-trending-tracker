@@ -181470,5 +181470,112 @@
       "price_btc": 1.0155895509717853e-06,
       "timestamp": "2025-06-28 19:15"
     }
+  ],
+  "2025-06-28 20:21": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6670588829870176e-08,
+      "timestamp": "2025-06-28 20:21"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6537806854133914e-05,
+      "timestamp": "2025-06-28 20:21"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2510587670849998e-07,
+      "timestamp": "2025-06-28 20:21"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.648834274057327e-06,
+      "timestamp": "2025-06-28 20:21"
+    },
+    {
+      "rank": 5,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 8.357632519655285e-07,
+      "timestamp": "2025-06-28 20:21"
+    },
+    {
+      "rank": 6,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 2.5560531707960747e-08,
+      "timestamp": "2025-06-28 20:21"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 4.95219050134844e-06,
+      "timestamp": "2025-06-28 20:21"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014065629235351837,
+      "timestamp": "2025-06-28 20:21"
+    },
+    {
+      "rank": 9,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.209667929479552e-05,
+      "timestamp": "2025-06-28 20:21"
+    },
+    {
+      "rank": 10,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001241110446777377,
+      "timestamp": "2025-06-28 20:21"
+    },
+    {
+      "rank": 11,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 1.945531823953848e-05,
+      "timestamp": "2025-06-28 20:21"
+    },
+    {
+      "rank": 12,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 3.9737176909876615e-08,
+      "timestamp": "2025-06-28 20:21"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5780085322608524e-05,
+      "timestamp": "2025-06-28 20:21"
+    },
+    {
+      "rank": 14,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.526446847592599e-06,
+      "timestamp": "2025-06-28 20:21"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00035076595513923735,
+      "timestamp": "2025-06-28 20:21"
+    }
   ]
 }
