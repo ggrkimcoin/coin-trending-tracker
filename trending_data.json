@@ -179865,5 +179865,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-06-28 04:25"
     }
+  ],
+  "2025-06-28 05:20": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.655516321917259e-05,
+      "timestamp": "2025-06-28 05:20"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6135445664302055e-08,
+      "timestamp": "2025-06-28 05:20"
+    },
+    {
+      "rank": 3,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.6763893388987096e-06,
+      "timestamp": "2025-06-28 05:20"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.180133331021188e-08,
+      "timestamp": "2025-06-28 05:20"
+    },
+    {
+      "rank": 5,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 8.097348231124459e-07,
+      "timestamp": "2025-06-28 05:20"
+    },
+    {
+      "rank": 6,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 6.946217149861691e-06,
+      "timestamp": "2025-06-28 05:20"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.513170972920528e-05,
+      "timestamp": "2025-06-28 05:20"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013364449767873264,
+      "timestamp": "2025-06-28 05:20"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0029986443600576373,
+      "timestamp": "2025-06-28 05:20"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0241544229795264e-07,
+      "timestamp": "2025-06-28 05:20"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.34770023270919e-06,
+      "timestamp": "2025-06-28 05:20"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.089620354367794e-06,
+      "timestamp": "2025-06-28 05:20"
+    },
+    {
+      "rank": 13,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "price_btc": 2.6511036695286275e-07,
+      "timestamp": "2025-06-28 05:20"
+    },
+    {
+      "rank": 14,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 1.3436355962774481e-05,
+      "timestamp": "2025-06-28 05:20"
+    },
+    {
+      "rank": 15,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 1.9629122841299068e-05,
+      "timestamp": "2025-06-28 05:20"
+    }
   ]
 }
