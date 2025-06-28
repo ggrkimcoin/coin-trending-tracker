@@ -180935,5 +180935,112 @@
       "price_btc": 4.919399005970104e-06,
       "timestamp": "2025-06-28 14:17"
     }
+  ],
+  "2025-06-28 15:19": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1295173257941604e-07,
+      "timestamp": "2025-06-28 15:19"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6452153139776203e-05,
+      "timestamp": "2025-06-28 15:19"
+    },
+    {
+      "rank": 3,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6342238386260393e-08,
+      "timestamp": "2025-06-28 15:19"
+    },
+    {
+      "rank": 4,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 8.04528207148996e-07,
+      "timestamp": "2025-06-28 15:19"
+    },
+    {
+      "rank": 5,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.0038565720924574e-06,
+      "timestamp": "2025-06-28 15:19"
+    },
+    {
+      "rank": 6,
+      "name": "Rekt",
+      "symbol": "REKT",
+      "price_btc": 2.244535208923107e-12,
+      "timestamp": "2025-06-28 15:19"
+    },
+    {
+      "rank": 7,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.742147812556591e-11,
+      "timestamp": "2025-06-28 15:19"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02261647645287927,
+      "timestamp": "2025-06-28 15:19"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.260490691674729e-06,
+      "timestamp": "2025-06-28 15:19"
+    },
+    {
+      "rank": 10,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 3.6463147056848376e-08,
+      "timestamp": "2025-06-28 15:19"
+    },
+    {
+      "rank": 11,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.6528135245747235e-06,
+      "timestamp": "2025-06-28 15:19"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 4.933361235837079e-06,
+      "timestamp": "2025-06-28 15:19"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-28 15:19"
+    },
+    {
+      "rank": 14,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 7.078396936570081e-07,
+      "timestamp": "2025-06-28 15:19"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030389542691099925,
+      "timestamp": "2025-06-28 15:19"
+    }
   ]
 }
