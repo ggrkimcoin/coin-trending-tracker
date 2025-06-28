@@ -180186,5 +180186,112 @@
       "price_btc": 2.8388602147451547e-06,
       "timestamp": "2025-06-28 07:18"
     }
+  ],
+  "2025-06-28 08:25": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.0909204741101176e-07,
+      "timestamp": "2025-06-28 08:25"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.616029831070733e-08,
+      "timestamp": "2025-06-28 08:25"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.649241807972832e-05,
+      "timestamp": "2025-06-28 08:25"
+    },
+    {
+      "rank": 4,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.150881060457457e-08,
+      "timestamp": "2025-06-28 08:25"
+    },
+    {
+      "rank": 5,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 7.88626598919631e-07,
+      "timestamp": "2025-06-28 08:25"
+    },
+    {
+      "rank": 6,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 3.114183170645147e-05,
+      "timestamp": "2025-06-28 08:25"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003032160480966585,
+      "timestamp": "2025-06-28 08:25"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034522965059299605,
+      "timestamp": "2025-06-28 08:25"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.450652309489532e-06,
+      "timestamp": "2025-06-28 08:25"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.531490756701456e-05,
+      "timestamp": "2025-06-28 08:25"
+    },
+    {
+      "rank": 11,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.623143652972289e-06,
+      "timestamp": "2025-06-28 08:25"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0356117791600258e-05,
+      "timestamp": "2025-06-28 08:25"
+    },
+    {
+      "rank": 13,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 6.458839303331157e-05,
+      "timestamp": "2025-06-28 08:25"
+    },
+    {
+      "rank": 14,
+      "name": "Jito",
+      "symbol": "JTO",
+      "price_btc": 1.968130072277673e-05,
+      "timestamp": "2025-06-28 08:25"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 4.931146899516697e-06,
+      "timestamp": "2025-06-28 08:25"
+    }
   ]
 }
