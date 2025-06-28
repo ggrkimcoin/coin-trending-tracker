@@ -181149,5 +181149,112 @@
       "price_btc": 1.1726342334931887e-05,
       "timestamp": "2025-06-28 16:24"
     }
+  ],
+  "2025-06-28 17:17": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6373808440052075e-08,
+      "timestamp": "2025-06-28 17:17"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6368514601938707e-05,
+      "timestamp": "2025-06-28 17:17"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.1947489839750444e-07,
+      "timestamp": "2025-06-28 17:17"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.563653128783968e-05,
+      "timestamp": "2025-06-28 17:17"
+    },
+    {
+      "rank": 5,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 3.70268136515204e-08,
+      "timestamp": "2025-06-28 17:17"
+    },
+    {
+      "rank": 6,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.034021801856142e-08,
+      "timestamp": "2025-06-28 17:17"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00034445460136610807,
+      "timestamp": "2025-06-28 17:17"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013903533882103402,
+      "timestamp": "2025-06-28 17:17"
+    },
+    {
+      "rank": 9,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1661303097810656e-05,
+      "timestamp": "2025-06-28 17:17"
+    },
+    {
+      "rank": 10,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.634561516233465e-06,
+      "timestamp": "2025-06-28 17:17"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.324664718220844e-06,
+      "timestamp": "2025-06-28 17:17"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003055641774653308,
+      "timestamp": "2025-06-28 17:17"
+    },
+    {
+      "rank": 13,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 6.263452178888283e-06,
+      "timestamp": "2025-06-28 17:17"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-28 17:17"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022689991065748948,
+      "timestamp": "2025-06-28 17:17"
+    }
   ]
 }
