@@ -181791,5 +181791,112 @@
       "price_btc": 8.872237812094172e-11,
       "timestamp": "2025-06-28 22:18"
     }
+  ],
+  "2025-06-28 23:19": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6604457557672887e-05,
+      "timestamp": "2025-06-28 23:19"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.695854104310275e-08,
+      "timestamp": "2025-06-28 23:19"
+    },
+    {
+      "rank": 3,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.121652048824012e-08,
+      "timestamp": "2025-06-28 23:19"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3123270731384256e-07,
+      "timestamp": "2025-06-28 23:19"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014073870092235555,
+      "timestamp": "2025-06-28 23:19"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.748068737246536e-06,
+      "timestamp": "2025-06-28 23:19"
+    },
+    {
+      "rank": 7,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.691969687752232e-06,
+      "timestamp": "2025-06-28 23:19"
+    },
+    {
+      "rank": 8,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2010832561007268e-05,
+      "timestamp": "2025-06-28 23:19"
+    },
+    {
+      "rank": 9,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.5301856364920609e-06,
+      "timestamp": "2025-06-28 23:19"
+    },
+    {
+      "rank": 10,
+      "name": "Fluid",
+      "symbol": "FLUID",
+      "price_btc": 3.6311129865696605e-05,
+      "timestamp": "2025-06-28 23:19"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-28 23:19"
+    },
+    {
+      "rank": 12,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 3.176716334924321e-05,
+      "timestamp": "2025-06-28 23:19"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0352980374550016e-05,
+      "timestamp": "2025-06-28 23:19"
+    },
+    {
+      "rank": 14,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.0001680433896799903,
+      "timestamp": "2025-06-28 23:19"
+    },
+    {
+      "rank": 15,
+      "name": "Jito",
+      "symbol": "JTO",
+      "price_btc": 2.101992423698335e-05,
+      "timestamp": "2025-06-28 23:19"
+    }
   ]
 }
