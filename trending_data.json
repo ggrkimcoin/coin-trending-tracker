@@ -179544,5 +179544,112 @@
       "price_btc": 6.982402041656027e-06,
       "timestamp": "2025-06-27 23:20"
     }
+  ],
+  "2025-06-28 01:43": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6220689776951678e-08,
+      "timestamp": "2025-06-28 01:43"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6632355541670546e-05,
+      "timestamp": "2025-06-28 01:43"
+    },
+    {
+      "rank": 3,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.755433173430069e-06,
+      "timestamp": "2025-06-28 01:43"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003400325083519856,
+      "timestamp": "2025-06-28 01:43"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 3.197589951177907e-08,
+      "timestamp": "2025-06-28 01:43"
+    },
+    {
+      "rank": 6,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.8518817151042223e-06,
+      "timestamp": "2025-06-28 01:43"
+    },
+    {
+      "rank": 7,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 3.5986864561545336e-08,
+      "timestamp": "2025-06-28 01:43"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5143891717407132e-05,
+      "timestamp": "2025-06-28 01:43"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022561917559221895,
+      "timestamp": "2025-06-28 01:43"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-28 01:43"
+    },
+    {
+      "rank": 11,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.097490453288346e-06,
+      "timestamp": "2025-06-28 01:43"
+    },
+    {
+      "rank": 12,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.3842032431475346e-06,
+      "timestamp": "2025-06-28 01:43"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013225650617238042,
+      "timestamp": "2025-06-28 01:43"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 8.571180767400105e-11,
+      "timestamp": "2025-06-28 01:43"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 6.959016617425089e-06,
+      "timestamp": "2025-06-28 01:43"
+    }
   ]
 }
