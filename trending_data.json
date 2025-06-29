@@ -182540,5 +182540,112 @@
       "price_btc": 2.0354752776447075e-05,
       "timestamp": "2025-06-29 07:19"
     }
+  ],
+  "2025-06-29 08:26": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6532922776252518e-05,
+      "timestamp": "2025-06-29 08:26"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.671341270306087e-08,
+      "timestamp": "2025-06-29 08:26"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2531565775868e-07,
+      "timestamp": "2025-06-29 08:26"
+    },
+    {
+      "rank": 4,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 9.406634915170955e-07,
+      "timestamp": "2025-06-29 08:26"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 2.4777971244000396e-08,
+      "timestamp": "2025-06-29 08:26"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013984395183730296,
+      "timestamp": "2025-06-29 08:26"
+    },
+    {
+      "rank": 7,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.8469235495990763e-06,
+      "timestamp": "2025-06-29 08:26"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022713189601514118,
+      "timestamp": "2025-06-29 08:26"
+    },
+    {
+      "rank": 9,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.9379522111060973e-06,
+      "timestamp": "2025-06-29 08:26"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0031342553185321124,
+      "timestamp": "2025-06-29 08:26"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6041603674161047e-05,
+      "timestamp": "2025-06-29 08:26"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.1884720379145025e-06,
+      "timestamp": "2025-06-29 08:26"
+    },
+    {
+      "rank": 13,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.089360229339988e-05,
+      "timestamp": "2025-06-29 08:26"
+    },
+    {
+      "rank": 14,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 3.1752581160424896e-05,
+      "timestamp": "2025-06-29 08:26"
+    },
+    {
+      "rank": 15,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.754974164740708e-06,
+      "timestamp": "2025-06-29 08:26"
+    }
   ]
 }
