@@ -183824,5 +183824,112 @@
       "price_btc": 4.8958063871275456e-06,
       "timestamp": "2025-06-29 19:15"
     }
+  ],
+  "2025-06-29 20:21": [
+    {
+      "rank": 1,
+      "name": "MORI COIN",
+      "symbol": "MORI",
+      "price_btc": 8.327655332351942e-07,
+      "timestamp": "2025-06-29 20:21"
+    },
+    {
+      "rank": 2,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.34308039669367e-11,
+      "timestamp": "2025-06-29 20:21"
+    },
+    {
+      "rank": 3,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 3.240032931109463e-06,
+      "timestamp": "2025-06-29 20:21"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3378693971405076e-07,
+      "timestamp": "2025-06-29 20:21"
+    },
+    {
+      "rank": 5,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.8072404432212927e-06,
+      "timestamp": "2025-06-29 20:21"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014082963566754802,
+      "timestamp": "2025-06-29 20:21"
+    },
+    {
+      "rank": 7,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001242017890596498,
+      "timestamp": "2025-06-29 20:21"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0363136046388484e-05,
+      "timestamp": "2025-06-29 20:21"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.5841042444896115e-06,
+      "timestamp": "2025-06-29 20:21"
+    },
+    {
+      "rank": 10,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 3.194027550028094e-05,
+      "timestamp": "2025-06-29 20:21"
+    },
+    {
+      "rank": 11,
+      "name": "Supra",
+      "symbol": "SUPRA",
+      "price_btc": 2.3459421010398716e-08,
+      "timestamp": "2025-06-29 20:21"
+    },
+    {
+      "rank": 12,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.1752980895733794e-05,
+      "timestamp": "2025-06-29 20:21"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.604202683306095e-05,
+      "timestamp": "2025-06-29 20:21"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003556129409110374,
+      "timestamp": "2025-06-29 20:21"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02269012321376496,
+      "timestamp": "2025-06-29 20:21"
+    }
   ]
 }
