@@ -182968,5 +182968,112 @@
       "price_btc": 7.1959278297429055e-06,
       "timestamp": "2025-06-29 11:16"
     }
+  ],
+  "2025-06-29 12:39": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6527080908439943e-05,
+      "timestamp": "2025-06-29 12:39"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6516477683283784e-08,
+      "timestamp": "2025-06-29 12:39"
+    },
+    {
+      "rank": 3,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 9.65775243706644e-07,
+      "timestamp": "2025-06-29 12:39"
+    },
+    {
+      "rank": 4,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.8044165858014873e-06,
+      "timestamp": "2025-06-29 12:39"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2274256161274713e-07,
+      "timestamp": "2025-06-29 12:39"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 4.958010053693009e-06,
+      "timestamp": "2025-06-29 12:39"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.5996042925385492e-05,
+      "timestamp": "2025-06-29 12:39"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013959202043980132,
+      "timestamp": "2025-06-29 12:39"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.8129344206310436e-06,
+      "timestamp": "2025-06-29 12:39"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003586748140569167,
+      "timestamp": "2025-06-29 12:39"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-29 12:39"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.115907967814697e-06,
+      "timestamp": "2025-06-29 12:39"
+    },
+    {
+      "rank": 13,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.7466706900369995e-06,
+      "timestamp": "2025-06-29 12:39"
+    },
+    {
+      "rank": 14,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 7.385832952356981e-07,
+      "timestamp": "2025-06-29 12:39"
+    },
+    {
+      "rank": 15,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0029192273910623005,
+      "timestamp": "2025-06-29 12:39"
+    }
   ]
 }
