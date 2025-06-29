@@ -181898,5 +181898,112 @@
       "price_btc": 2.101992423698335e-05,
       "timestamp": "2025-06-28 23:19"
     }
+  ],
+  "2025-06-29 01:57": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6902098707881785e-08,
+      "timestamp": "2025-06-29 01:57"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6516467565697058e-05,
+      "timestamp": "2025-06-29 01:57"
+    },
+    {
+      "rank": 3,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 2.9383463889336563e-08,
+      "timestamp": "2025-06-29 01:57"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2590518355847475e-07,
+      "timestamp": "2025-06-29 01:57"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014022700447668395,
+      "timestamp": "2025-06-29 01:57"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022656568282154916,
+      "timestamp": "2025-06-29 01:57"
+    },
+    {
+      "rank": 7,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 1.4204683792613554e-06,
+      "timestamp": "2025-06-29 01:57"
+    },
+    {
+      "rank": 8,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.082668611373815e-08,
+      "timestamp": "2025-06-29 01:57"
+    },
+    {
+      "rank": 9,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.599636932728947e-06,
+      "timestamp": "2025-06-29 01:57"
+    },
+    {
+      "rank": 10,
+      "name": "Humanity",
+      "symbol": "H",
+      "price_btc": 1.989704123617908e-07,
+      "timestamp": "2025-06-29 01:57"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 2.0332128447298402e-05,
+      "timestamp": "2025-06-29 01:57"
+    },
+    {
+      "rank": 12,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.811062302738025e-06,
+      "timestamp": "2025-06-29 01:57"
+    },
+    {
+      "rank": 13,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.654871013005211e-06,
+      "timestamp": "2025-06-29 01:57"
+    },
+    {
+      "rank": 14,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 8.644585517514392e-07,
+      "timestamp": "2025-06-29 01:57"
+    },
+    {
+      "rank": 15,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.3934138591988147e-05,
+      "timestamp": "2025-06-29 01:57"
+    }
   ]
 }
