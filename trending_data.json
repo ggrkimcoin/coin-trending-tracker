@@ -183289,5 +183289,112 @@
       "price_btc": 1.0,
       "timestamp": "2025-06-29 14:17"
     }
+  ],
+  "2025-06-29 15:19": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.644502860370376e-08,
+      "timestamp": "2025-06-29 15:19"
+    },
+    {
+      "rank": 2,
+      "name": "MORI COIN",
+      "symbol": "MORI",
+      "price_btc": 4.840018176899984e-07,
+      "timestamp": "2025-06-29 15:19"
+    },
+    {
+      "rank": 3,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.658270928709833e-05,
+      "timestamp": "2025-06-29 15:19"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2571391019931712e-07,
+      "timestamp": "2025-06-29 15:19"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003605432167506628,
+      "timestamp": "2025-06-29 15:19"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014025654903826418,
+      "timestamp": "2025-06-29 15:19"
+    },
+    {
+      "rank": 7,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 9.982556530336118e-07,
+      "timestamp": "2025-06-29 15:19"
+    },
+    {
+      "rank": 8,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 4.906944207564079e-06,
+      "timestamp": "2025-06-29 15:19"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022619739659936546,
+      "timestamp": "2025-06-29 15:19"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0692368240942007e-05,
+      "timestamp": "2025-06-29 15:19"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.599526155266324e-06,
+      "timestamp": "2025-06-29 15:19"
+    },
+    {
+      "rank": 12,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.8287664652996516e-06,
+      "timestamp": "2025-06-29 15:19"
+    },
+    {
+      "rank": 13,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.150665855285824e-06,
+      "timestamp": "2025-06-29 15:19"
+    },
+    {
+      "rank": 14,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 3.156898757841188e-05,
+      "timestamp": "2025-06-29 15:19"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.917102879461654e-06,
+      "timestamp": "2025-06-29 15:19"
+    }
   ]
 }
