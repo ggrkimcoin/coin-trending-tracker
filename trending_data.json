@@ -182219,5 +182219,112 @@
       "price_btc": 0.022659283494867448,
       "timestamp": "2025-06-29 04:36"
     }
+  ],
+  "2025-06-29 05:23": [
+    {
+      "rank": 1,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6490230705618684e-05,
+      "timestamp": "2025-06-29 05:23"
+    },
+    {
+      "rank": 2,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6846013363796096e-08,
+      "timestamp": "2025-06-29 05:23"
+    },
+    {
+      "rank": 3,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 9.940769523889245e-07,
+      "timestamp": "2025-06-29 05:23"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2152896600827613e-07,
+      "timestamp": "2025-06-29 05:23"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003522232576513564,
+      "timestamp": "2025-06-29 05:23"
+    },
+    {
+      "rank": 6,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 2.5985233465999354e-08,
+      "timestamp": "2025-06-29 05:23"
+    },
+    {
+      "rank": 7,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 7.375278020115566e-07,
+      "timestamp": "2025-06-29 05:23"
+    },
+    {
+      "rank": 8,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.106560217447831e-08,
+      "timestamp": "2025-06-29 05:23"
+    },
+    {
+      "rank": 9,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.653193593837087e-06,
+      "timestamp": "2025-06-29 05:23"
+    },
+    {
+      "rank": 10,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 7.219330034457574e-07,
+      "timestamp": "2025-06-29 05:23"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.4324720008667185e-06,
+      "timestamp": "2025-06-29 05:23"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-29 05:23"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02265015192623239,
+      "timestamp": "2025-06-29 05:23"
+    },
+    {
+      "rank": 14,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 1.5191367405221296e-06,
+      "timestamp": "2025-06-29 05:23"
+    },
+    {
+      "rank": 15,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 1.4660342442231349e-06,
+      "timestamp": "2025-06-29 05:23"
+    }
   ]
 }
