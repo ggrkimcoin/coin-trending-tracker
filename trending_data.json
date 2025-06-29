@@ -183931,5 +183931,112 @@
       "price_btc": 0.02269012321376496,
       "timestamp": "2025-06-29 20:21"
     }
+  ],
+  "2025-06-29 21:18": [
+    {
+      "rank": 1,
+      "name": "MORI COIN",
+      "symbol": "MORI",
+      "price_btc": 8.227398657774423e-07,
+      "timestamp": "2025-06-29 21:18"
+    },
+    {
+      "rank": 2,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 3.1994960675346593e-06,
+      "timestamp": "2025-06-29 21:18"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014046848777839974,
+      "timestamp": "2025-06-29 21:18"
+    },
+    {
+      "rank": 4,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3140785222439893e-11,
+      "timestamp": "2025-06-29 21:18"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.324535351127063e-07,
+      "timestamp": "2025-06-29 21:18"
+    },
+    {
+      "rank": 6,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.79142558687312e-06,
+      "timestamp": "2025-06-29 21:18"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003550048501692537,
+      "timestamp": "2025-06-29 21:18"
+    },
+    {
+      "rank": 8,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0556307004118391e-05,
+      "timestamp": "2025-06-29 21:18"
+    },
+    {
+      "rank": 9,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 1.6530606497849255e-06,
+      "timestamp": "2025-06-29 21:18"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022577339003355665,
+      "timestamp": "2025-06-29 21:18"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.594855752852387e-05,
+      "timestamp": "2025-06-29 21:18"
+    },
+    {
+      "rank": 12,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00012371912303167895,
+      "timestamp": "2025-06-29 21:18"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003153107766978458,
+      "timestamp": "2025-06-29 21:18"
+    },
+    {
+      "rank": 14,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.4569729894308355e-05,
+      "timestamp": "2025-06-29 21:18"
+    },
+    {
+      "rank": 15,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.0028959983423278365,
+      "timestamp": "2025-06-29 21:18"
+    }
   ]
 }
