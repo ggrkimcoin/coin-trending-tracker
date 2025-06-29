@@ -184145,5 +184145,112 @@
       "price_btc": 9.023543875149995e-07,
       "timestamp": "2025-06-29 22:19"
     }
+  ],
+  "2025-06-29 23:19": [
+    {
+      "rank": 1,
+      "name": "MORI COIN",
+      "symbol": "MORI",
+      "price_btc": 1.3680792499563058e-06,
+      "timestamp": "2025-06-29 23:19"
+    },
+    {
+      "rank": 2,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 3.4937003893622444e-06,
+      "timestamp": "2025-06-29 23:19"
+    },
+    {
+      "rank": 3,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.8025222466310348e-06,
+      "timestamp": "2025-06-29 23:19"
+    },
+    {
+      "rank": 4,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 9.234308085713847e-07,
+      "timestamp": "2025-06-29 23:19"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.6926731638454695e-05,
+      "timestamp": "2025-06-29 23:19"
+    },
+    {
+      "rank": 6,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.3441423035476831e-11,
+      "timestamp": "2025-06-29 23:19"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001417712474380444,
+      "timestamp": "2025-06-29 23:19"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.516201660125029e-06,
+      "timestamp": "2025-06-29 23:19"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-29 23:19"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 7.3539769630627946e-06,
+      "timestamp": "2025-06-29 23:19"
+    },
+    {
+      "rank": 11,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.133791954754913e-08,
+      "timestamp": "2025-06-29 23:19"
+    },
+    {
+      "rank": 12,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.076048595100792e-05,
+      "timestamp": "2025-06-29 23:19"
+    },
+    {
+      "rank": 13,
+      "name": "Humanity",
+      "symbol": "H",
+      "price_btc": 4.735324509226967e-07,
+      "timestamp": "2025-06-29 23:19"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00036692362738326075,
+      "timestamp": "2025-06-29 23:19"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.67029295163783e-06,
+      "timestamp": "2025-06-29 23:19"
+    }
   ]
 }
