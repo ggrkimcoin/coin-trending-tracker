@@ -183075,5 +183075,112 @@
       "price_btc": 0.0029192273910623005,
       "timestamp": "2025-06-29 12:39"
     }
+  ],
+  "2025-06-29 13:28": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.655105372700199e-08,
+      "timestamp": "2025-06-29 13:28"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.661162363846407e-05,
+      "timestamp": "2025-06-29 13:28"
+    },
+    {
+      "rank": 3,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.806792497994628e-06,
+      "timestamp": "2025-06-29 13:28"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.245596966016508e-07,
+      "timestamp": "2025-06-29 13:28"
+    },
+    {
+      "rank": 5,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 9.563440313562847e-07,
+      "timestamp": "2025-06-29 13:28"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.650269743647541e-06,
+      "timestamp": "2025-06-29 13:28"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014022016127845944,
+      "timestamp": "2025-06-29 13:28"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.225560888033217e-06,
+      "timestamp": "2025-06-29 13:28"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0003600330727789847,
+      "timestamp": "2025-06-29 13:28"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 2.601540233294313e-05,
+      "timestamp": "2025-06-29 13:28"
+    },
+    {
+      "rank": 11,
+      "name": "Fuel Network",
+      "symbol": "FUEL",
+      "price_btc": 6.005203475052979e-08,
+      "timestamp": "2025-06-29 13:28"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003155725980711737,
+      "timestamp": "2025-06-29 13:28"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.002521153494338266,
+      "timestamp": "2025-06-29 13:28"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022681264260663,
+      "timestamp": "2025-06-29 13:28"
+    },
+    {
+      "rank": 15,
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "price_btc": 3.7708440920811164e-06,
+      "timestamp": "2025-06-29 13:28"
+    }
   ]
 }
