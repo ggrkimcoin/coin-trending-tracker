@@ -182112,5 +182112,112 @@
       "price_btc": 5.594777336214861e-07,
       "timestamp": "2025-06-29 03:38"
     }
+  ],
+  "2025-06-29 04:36": [
+    {
+      "rank": 1,
+      "name": "Notcoin",
+      "symbol": "NOT",
+      "price_btc": 1.6859500936292806e-08,
+      "timestamp": "2025-06-29 04:36"
+    },
+    {
+      "rank": 2,
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price_btc": 2.6491426032393372e-05,
+      "timestamp": "2025-06-29 04:36"
+    },
+    {
+      "rank": 3,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 9.929005486795577e-07,
+      "timestamp": "2025-06-29 04:36"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2346158311767301e-07,
+      "timestamp": "2025-06-29 04:36"
+    },
+    {
+      "rank": 5,
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "price_btc": 2.795865244026656e-08,
+      "timestamp": "2025-06-29 04:36"
+    },
+    {
+      "rank": 6,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.618155273232566e-06,
+      "timestamp": "2025-06-29 04:36"
+    },
+    {
+      "rank": 7,
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "price_btc": 4.108410391446019e-08,
+      "timestamp": "2025-06-29 04:36"
+    },
+    {
+      "rank": 8,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 2.8853368206923413e-06,
+      "timestamp": "2025-06-29 04:36"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-29 04:36"
+    },
+    {
+      "rank": 10,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.019556369179078e-05,
+      "timestamp": "2025-06-29 04:36"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000352898570109126,
+      "timestamp": "2025-06-29 04:36"
+    },
+    {
+      "rank": 12,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 1.4534929864347603e-06,
+      "timestamp": "2025-06-29 04:36"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013953328501638202,
+      "timestamp": "2025-06-29 04:36"
+    },
+    {
+      "rank": 14,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 7.388784118120131e-07,
+      "timestamp": "2025-06-29 04:36"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022659283494867448,
+      "timestamp": "2025-06-29 04:36"
+    }
   ]
 }
