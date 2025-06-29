@@ -184038,5 +184038,112 @@
       "price_btc": 0.0028959983423278365,
       "timestamp": "2025-06-29 21:18"
     }
+  ],
+  "2025-06-29 22:19": [
+    {
+      "rank": 1,
+      "name": "MORI COIN",
+      "symbol": "MORI",
+      "price_btc": 1.1195112961362287e-06,
+      "timestamp": "2025-06-29 22:19"
+    },
+    {
+      "rank": 2,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 3.5251152170389876e-06,
+      "timestamp": "2025-06-29 22:19"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.2800231974940793e-07,
+      "timestamp": "2025-06-29 22:19"
+    },
+    {
+      "rank": 4,
+      "name": "Qubic",
+      "symbol": "QUBIC",
+      "price_btc": 1.344389637543565e-11,
+      "timestamp": "2025-06-29 22:19"
+    },
+    {
+      "rank": 5,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 1.7155318869272279e-06,
+      "timestamp": "2025-06-29 22:19"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0014122934016415898,
+      "timestamp": "2025-06-29 22:19"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0668658187909586e-05,
+      "timestamp": "2025-06-29 22:19"
+    },
+    {
+      "rank": 8,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.7625329207435228e-06,
+      "timestamp": "2025-06-29 22:19"
+    },
+    {
+      "rank": 9,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.236466151547558e-06,
+      "timestamp": "2025-06-29 22:19"
+    },
+    {
+      "rank": 10,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.60239366957662e-06,
+      "timestamp": "2025-06-29 22:19"
+    },
+    {
+      "rank": 11,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0025409340087425743,
+      "timestamp": "2025-06-29 22:19"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 4.9282533198751295e-06,
+      "timestamp": "2025-06-29 22:19"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.022689582518535208,
+      "timestamp": "2025-06-29 22:19"
+    },
+    {
+      "rank": 14,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.375251893882894e-06,
+      "timestamp": "2025-06-29 22:19"
+    },
+    {
+      "rank": 15,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 9.023543875149995e-07,
+      "timestamp": "2025-06-29 22:19"
+    }
   ]
 }
