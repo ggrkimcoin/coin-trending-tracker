@@ -184252,5 +184252,112 @@
       "price_btc": 5.67029295163783e-06,
       "timestamp": "2025-06-29 23:19"
     }
+  ],
+  "2025-06-30 01:52": [
+    {
+      "rank": 1,
+      "name": "MORI COIN",
+      "symbol": "MORI",
+      "price_btc": 1.1096085002376352e-06,
+      "timestamp": "2025-06-30 01:52"
+    },
+    {
+      "rank": 2,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 3.330847428382824e-06,
+      "timestamp": "2025-06-30 01:52"
+    },
+    {
+      "rank": 3,
+      "name": "Humanity",
+      "symbol": "H",
+      "price_btc": 4.4522087869873963e-07,
+      "timestamp": "2025-06-30 01:52"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 1.3024728187877035e-07,
+      "timestamp": "2025-06-30 01:52"
+    },
+    {
+      "rank": 5,
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "price_btc": 1.468490422766585e-05,
+      "timestamp": "2025-06-30 01:52"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00036695501514188083,
+      "timestamp": "2025-06-30 01:52"
+    },
+    {
+      "rank": 7,
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "price_btc": 1.0525955852526644e-05,
+      "timestamp": "2025-06-30 01:52"
+    },
+    {
+      "rank": 8,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 9.504513673186621e-07,
+      "timestamp": "2025-06-30 01:52"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0,
+      "timestamp": "2025-06-30 01:52"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013993138511788335,
+      "timestamp": "2025-06-30 01:52"
+    },
+    {
+      "rank": 11,
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "price_btc": 1.2527872835392174e-05,
+      "timestamp": "2025-06-30 01:52"
+    },
+    {
+      "rank": 12,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 5.47352237768255e-06,
+      "timestamp": "2025-06-30 01:52"
+    },
+    {
+      "rank": 13,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 2.7633133628516644e-06,
+      "timestamp": "2025-06-30 01:52"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02312052879809337,
+      "timestamp": "2025-06-30 01:52"
+    },
+    {
+      "rank": 15,
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "price_btc": 1.6721612762320775e-06,
+      "timestamp": "2025-06-30 01:52"
+    }
   ]
 }
