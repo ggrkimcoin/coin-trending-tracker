@@ -1023132,5 +1023132,112 @@
       "price_btc": 2.9294321477807568e-05,
       "timestamp": "2026-10-11 19:58"
     }
+  ],
+  "2026-10-11 23:34": [
+    {
+      "rank": 1,
+      "name": "TAU FA",
+      "symbol": "TAUFA",
+      "price_btc": 3.1995705621971667e-07,
+      "timestamp": "2026-10-11 23:34"
+    },
+    {
+      "rank": 2,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 2.322308290174082e-05,
+      "timestamp": "2026-10-11 23:34"
+    },
+    {
+      "rank": 3,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 7.007721710620526e-05,
+      "timestamp": "2026-10-11 23:34"
+    },
+    {
+      "rank": 4,
+      "name": "Bunker Mode",
+      "symbol": "BUNKER",
+      "price_btc": 3.0727630828244667e-07,
+      "timestamp": "2026-10-11 23:34"
+    },
+    {
+      "rank": 5,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 1.410889193974363e-06,
+      "timestamp": "2026-10-11 23:34"
+    },
+    {
+      "rank": 6,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 9.87639326885824e-06,
+      "timestamp": "2026-10-11 23:34"
+    },
+    {
+      "rank": 7,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.1229661684008697e-05,
+      "timestamp": "2026-10-11 23:34"
+    },
+    {
+      "rank": 8,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.4258336026284487e-05,
+      "timestamp": "2026-10-11 23:34"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010342105386246493,
+      "timestamp": "2026-10-11 23:34"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9998404192432315,
+      "timestamp": "2026-10-11 23:34"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0013288062145596577,
+      "timestamp": "2026-10-11 23:34"
+    },
+    {
+      "rank": 12,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 5.9741279832192795e-06,
+      "timestamp": "2026-10-11 23:34"
+    },
+    {
+      "rank": 13,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0016247998486202404,
+      "timestamp": "2026-10-11 23:34"
+    },
+    {
+      "rank": 14,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.82306901773599e-08,
+      "timestamp": "2026-10-11 23:34"
+    },
+    {
+      "rank": 15,
+      "name": "Wormhole",
+      "symbol": "W",
+      "price_btc": 2.615808395079052e-07,
+      "timestamp": "2026-10-11 23:34"
+    }
   ]
 }
