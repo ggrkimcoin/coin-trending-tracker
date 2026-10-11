@@ -1023025,5 +1023025,112 @@
       "price_btc": 0.9990629213678299,
       "timestamp": "2026-10-11 15:22"
     }
+  ],
+  "2026-10-11 19:58": [
+    {
+      "rank": 1,
+      "name": "TAU FA",
+      "symbol": "TAUFA",
+      "price_btc": 3.076708301149411e-07,
+      "timestamp": "2026-10-11 19:58"
+    },
+    {
+      "rank": 2,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 2.3137139902010416e-05,
+      "timestamp": "2026-10-11 19:58"
+    },
+    {
+      "rank": 3,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 7.872227350207546e-07,
+      "timestamp": "2026-10-11 19:58"
+    },
+    {
+      "rank": 4,
+      "name": "cat wif hood",
+      "symbol": "HOODCAT",
+      "price_btc": 2.0313776606442472e-07,
+      "timestamp": "2026-10-11 19:58"
+    },
+    {
+      "rank": 5,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.798974410159753e-05,
+      "timestamp": "2026-10-11 19:58"
+    },
+    {
+      "rank": 6,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 1.399189502865105e-06,
+      "timestamp": "2026-10-11 19:58"
+    },
+    {
+      "rank": 7,
+      "name": "Quantum Inu",
+      "symbol": "QI",
+      "price_btc": 3.2179648704332113e-07,
+      "timestamp": "2026-10-11 19:58"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.80663261283847e-08,
+      "timestamp": "2026-10-11 19:58"
+    },
+    {
+      "rank": 9,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.001601235492394749,
+      "timestamp": "2026-10-11 19:58"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.3414109408407975e-05,
+      "timestamp": "2026-10-11 19:58"
+    },
+    {
+      "rank": 11,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 6.958807336400766e-06,
+      "timestamp": "2026-10-11 19:58"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.127219955387369e-05,
+      "timestamp": "2026-10-11 19:58"
+    },
+    {
+      "rank": 13,
+      "name": "Wormhole",
+      "symbol": "W",
+      "price_btc": 2.7611428464625144e-07,
+      "timestamp": "2026-10-11 19:58"
+    },
+    {
+      "rank": 14,
+      "name": "Basic Attention",
+      "symbol": "BAT",
+      "price_btc": 1.926585813290008e-06,
+      "timestamp": "2026-10-11 19:58"
+    },
+    {
+      "rank": 15,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.9294321477807568e-05,
+      "timestamp": "2026-10-11 19:58"
+    }
   ]
 }
