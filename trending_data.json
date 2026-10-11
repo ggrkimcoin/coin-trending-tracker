@@ -1022811,5 +1022811,112 @@
       "price_btc": 6.219536417815287e-06,
       "timestamp": "2026-10-11 01:36"
     }
+  ],
+  "2026-10-11 08:24": [
+    {
+      "rank": 1,
+      "name": "SWARM ENGINE",
+      "symbol": "SWARM",
+      "price_btc": 2.712573454955427e-07,
+      "timestamp": "2026-10-11 08:24"
+    },
+    {
+      "rank": 2,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 1.3072600914868626e-06,
+      "timestamp": "2026-10-11 08:24"
+    },
+    {
+      "rank": 3,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.001538492618376401,
+      "timestamp": "2026-10-11 08:24"
+    },
+    {
+      "rank": 4,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.290621771979525e-05,
+      "timestamp": "2026-10-11 08:24"
+    },
+    {
+      "rank": 5,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.014769911418625225,
+      "timestamp": "2026-10-11 08:24"
+    },
+    {
+      "rank": 6,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 7.286147721558868e-06,
+      "timestamp": "2026-10-11 08:24"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.857006765713136e-08,
+      "timestamp": "2026-10-11 08:24"
+    },
+    {
+      "rank": 8,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 1.6369585395442125e-05,
+      "timestamp": "2026-10-11 08:24"
+    },
+    {
+      "rank": 9,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 5.901237907138168e-06,
+      "timestamp": "2026-10-11 08:24"
+    },
+    {
+      "rank": 10,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 3.0398850231353033e-07,
+      "timestamp": "2026-10-11 08:24"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9992788032297085,
+      "timestamp": "2026-10-11 08:24"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.1622402586673018e-05,
+      "timestamp": "2026-10-11 08:24"
+    },
+    {
+      "rank": 13,
+      "name": "Nervos Network",
+      "symbol": "CKB",
+      "price_btc": 1.7729888989880343e-08,
+      "timestamp": "2026-10-11 08:24"
+    },
+    {
+      "rank": 14,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.310630420434178e-05,
+      "timestamp": "2026-10-11 08:24"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.6768614562456995e-05,
+      "timestamp": "2026-10-11 08:24"
+    }
   ]
 }
