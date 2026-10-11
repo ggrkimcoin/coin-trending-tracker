@@ -1022918,5 +1022918,112 @@
       "price_btc": 1.6768614562456995e-05,
       "timestamp": "2026-10-11 08:24"
     }
+  ],
+  "2026-10-11 15:22": [
+    {
+      "rank": 1,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 1.406223951317156e-06,
+      "timestamp": "2026-10-11 15:22"
+    },
+    {
+      "rank": 2,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 1.586994093935403e-05,
+      "timestamp": "2026-10-11 15:22"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.719881331854508e-08,
+      "timestamp": "2026-10-11 15:22"
+    },
+    {
+      "rank": 4,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0015819298870772924,
+      "timestamp": "2026-10-11 15:22"
+    },
+    {
+      "rank": 5,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 1.1254789735960163e-05,
+      "timestamp": "2026-10-11 15:22"
+    },
+    {
+      "rank": 6,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.1508883158213824e-05,
+      "timestamp": "2026-10-11 15:22"
+    },
+    {
+      "rank": 7,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.002909057542253882,
+      "timestamp": "2026-10-11 15:22"
+    },
+    {
+      "rank": 8,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 2.2731779796784697e-05,
+      "timestamp": "2026-10-11 15:22"
+    },
+    {
+      "rank": 9,
+      "name": "Nervos Network",
+      "symbol": "CKB",
+      "price_btc": 1.9490899265552935e-08,
+      "timestamp": "2026-10-11 15:22"
+    },
+    {
+      "rank": 10,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 8.82346436591067e-06,
+      "timestamp": "2026-10-11 15:22"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.3278533155653084e-05,
+      "timestamp": "2026-10-11 15:22"
+    },
+    {
+      "rank": 12,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 2.408716134975472e-07,
+      "timestamp": "2026-10-11 15:22"
+    },
+    {
+      "rank": 13,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.014774519339504267,
+      "timestamp": "2026-10-11 15:22"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 6.471081825028188e-07,
+      "timestamp": "2026-10-11 15:22"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9990629213678299,
+      "timestamp": "2026-10-11 15:22"
+    }
   ]
 }
