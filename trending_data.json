@@ -1023239,5 +1023239,112 @@
       "price_btc": 2.615808395079052e-07,
       "timestamp": "2026-10-11 23:34"
     }
+  ],
+  "2026-10-12 04:51": [
+    {
+      "rank": 1,
+      "name": "Wormhole",
+      "symbol": "W",
+      "price_btc": 3.4610067357710394e-07,
+      "timestamp": "2026-10-12 04:51"
+    },
+    {
+      "rank": 2,
+      "name": "Bunker Mode",
+      "symbol": "BUNKER",
+      "price_btc": 2.797424618530805e-07,
+      "timestamp": "2026-10-12 04:51"
+    },
+    {
+      "rank": 3,
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "price_btc": 4.202905103797307e-05,
+      "timestamp": "2026-10-12 04:51"
+    },
+    {
+      "rank": 4,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0016688766267339383,
+      "timestamp": "2026-10-12 04:51"
+    },
+    {
+      "rank": 5,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 1.287062556500485e-06,
+      "timestamp": "2026-10-12 04:51"
+    },
+    {
+      "rank": 6,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 9.977787582525953e-06,
+      "timestamp": "2026-10-12 04:51"
+    },
+    {
+      "rank": 7,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 7.031666974973939e-05,
+      "timestamp": "2026-10-12 04:51"
+    },
+    {
+      "rank": 8,
+      "name": "Data Network",
+      "symbol": "DATA",
+      "price_btc": 2.669577629834447e-06,
+      "timestamp": "2026-10-12 04:51"
+    },
+    {
+      "rank": 9,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 7.156242655014189e-06,
+      "timestamp": "2026-10-12 04:51"
+    },
+    {
+      "rank": 10,
+      "name": "io.net",
+      "symbol": "IO",
+      "price_btc": 2.2988267677008322e-06,
+      "timestamp": "2026-10-12 04:51"
+    },
+    {
+      "rank": 11,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 1.63510623348143e-05,
+      "timestamp": "2026-10-12 04:51"
+    },
+    {
+      "rank": 12,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 2.8727301854175556e-06,
+      "timestamp": "2026-10-12 04:51"
+    },
+    {
+      "rank": 13,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 2.741423292656162e-07,
+      "timestamp": "2026-10-12 04:51"
+    },
+    {
+      "rank": 14,
+      "name": "EigenCloud (prev. EigenLayer)",
+      "symbol": "EIGEN",
+      "price_btc": 3.3832346311879986e-06,
+      "timestamp": "2026-10-12 04:51"
+    },
+    {
+      "rank": 15,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 4.223508028308542e-06,
+      "timestamp": "2026-10-12 04:51"
+    }
   ]
 }
