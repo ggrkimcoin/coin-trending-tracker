@@ -1023346,5 +1023346,112 @@
       "price_btc": 4.223508028308542e-06,
       "timestamp": "2026-10-12 04:51"
     }
+  ],
+  "2026-10-12 12:50": [
+    {
+      "rank": 1,
+      "name": "Bunker Mode",
+      "symbol": "BUNKER",
+      "price_btc": 3.253338111961983e-07,
+      "timestamp": "2026-10-12 12:50"
+    },
+    {
+      "rank": 2,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 2.3061645065009578e-05,
+      "timestamp": "2026-10-12 12:50"
+    },
+    {
+      "rank": 3,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.817957260718934e-05,
+      "timestamp": "2026-10-12 12:50"
+    },
+    {
+      "rank": 4,
+      "name": "Wormhole",
+      "symbol": "W",
+      "price_btc": 3.1165842883581446e-07,
+      "timestamp": "2026-10-12 12:50"
+    },
+    {
+      "rank": 5,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 1.2502233460760378e-06,
+      "timestamp": "2026-10-12 12:50"
+    },
+    {
+      "rank": 6,
+      "name": "Gitcoin",
+      "symbol": "GTC",
+      "price_btc": 3.6135716918317266e-06,
+      "timestamp": "2026-10-12 12:50"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.631571232942673e-08,
+      "timestamp": "2026-10-12 12:50"
+    },
+    {
+      "rank": 8,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0016517212257447043,
+      "timestamp": "2026-10-12 12:50"
+    },
+    {
+      "rank": 9,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 9.52152488144295e-06,
+      "timestamp": "2026-10-12 12:50"
+    },
+    {
+      "rank": 10,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 1.730836931644067e-05,
+      "timestamp": "2026-10-12 12:50"
+    },
+    {
+      "rank": 11,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.0783482759078608e-05,
+      "timestamp": "2026-10-12 12:50"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.3176540880770459e-05,
+      "timestamp": "2026-10-12 12:50"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.731896691053128e-06,
+      "timestamp": "2026-10-12 12:50"
+    },
+    {
+      "rank": 14,
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "price_btc": 1.0488058547393887e-06,
+      "timestamp": "2026-10-12 12:50"
+    },
+    {
+      "rank": 15,
+      "name": "Reserve Rights",
+      "symbol": "RSR",
+      "price_btc": 2.971863856650645e-08,
+      "timestamp": "2026-10-12 12:50"
+    }
   ]
 }
