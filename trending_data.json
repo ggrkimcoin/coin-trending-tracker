@@ -1023667,5 +1023667,112 @@
       "price_btc": 7.07498044023493e-07,
       "timestamp": "2026-10-13 02:52"
     }
+  ],
+  "2026-10-13 10:13": [
+    {
+      "rank": 1,
+      "name": "Wisp",
+      "symbol": "WISP",
+      "price_btc": 2.874648777964416e-07,
+      "timestamp": "2026-10-13 10:13"
+    },
+    {
+      "rank": 2,
+      "name": "Crawlerpad",
+      "symbol": "CRAWLER",
+      "price_btc": 2.435323663998473e-07,
+      "timestamp": "2026-10-13 10:13"
+    },
+    {
+      "rank": 3,
+      "name": "Bunker Mode",
+      "symbol": "BUNKER",
+      "price_btc": 3.204522303225143e-07,
+      "timestamp": "2026-10-13 10:13"
+    },
+    {
+      "rank": 4,
+      "name": "Identity.md 6900",
+      "symbol": "IMD6900",
+      "price_btc": 2.4561132005983733e-07,
+      "timestamp": "2026-10-13 10:13"
+    },
+    {
+      "rank": 5,
+      "name": "Claudia",
+      "symbol": "CLAUDIA",
+      "price_btc": 1.99817720549679e-07,
+      "timestamp": "2026-10-13 10:13"
+    },
+    {
+      "rank": 6,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 1.982940196426095e-05,
+      "timestamp": "2026-10-13 10:13"
+    },
+    {
+      "rank": 7,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0014787640680621029,
+      "timestamp": "2026-10-13 10:13"
+    },
+    {
+      "rank": 8,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 1.0609032550558054e-06,
+      "timestamp": "2026-10-13 10:13"
+    },
+    {
+      "rank": 9,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.127316812166135e-05,
+      "timestamp": "2026-10-13 10:13"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.321310388126984e-08,
+      "timestamp": "2026-10-13 10:13"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2586843300533484e-05,
+      "timestamp": "2026-10-13 10:13"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.030058329328153298,
+      "timestamp": "2026-10-13 10:13"
+    },
+    {
+      "rank": 13,
+      "name": "Bitway",
+      "symbol": "BTW",
+      "price_btc": 2.2368468300281176e-05,
+      "timestamp": "2026-10-13 10:13"
+    },
+    {
+      "rank": 14,
+      "name": "AI Rig Complex",
+      "symbol": "ARC",
+      "price_btc": 2.844730261565623e-07,
+      "timestamp": "2026-10-13 10:13"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012814755855993405,
+      "timestamp": "2026-10-13 10:13"
+    }
   ]
 }
