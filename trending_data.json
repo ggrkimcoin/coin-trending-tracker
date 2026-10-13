@@ -1023774,5 +1023774,112 @@
       "price_btc": 0.0012814755855993405,
       "timestamp": "2026-10-13 10:13"
     }
+  ],
+  "2026-10-13 17:59": [
+    {
+      "rank": 1,
+      "name": "Wisp",
+      "symbol": "WISP",
+      "price_btc": 2.844735896280125e-07,
+      "timestamp": "2026-10-13 17:59"
+    },
+    {
+      "rank": 2,
+      "name": "Crawlerpad",
+      "symbol": "CRAWLER",
+      "price_btc": 2.1295330519617827e-07,
+      "timestamp": "2026-10-13 17:59"
+    },
+    {
+      "rank": 3,
+      "name": "Zylo Ecosystem",
+      "symbol": "ZYLO",
+      "price_btc": 2.7974947170171173e-07,
+      "timestamp": "2026-10-13 17:59"
+    },
+    {
+      "rank": 4,
+      "name": "Doge Pepe",
+      "symbol": "DOPE",
+      "price_btc": 2.3145853083421075e-07,
+      "timestamp": "2026-10-13 17:59"
+    },
+    {
+      "rank": 5,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.0797345920823302e-05,
+      "timestamp": "2026-10-13 17:59"
+    },
+    {
+      "rank": 6,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.2190573455353146e-05,
+      "timestamp": "2026-10-13 17:59"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.336650207739598e-08,
+      "timestamp": "2026-10-13 17:59"
+    },
+    {
+      "rank": 8,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 6.778392747034577e-07,
+      "timestamp": "2026-10-13 17:59"
+    },
+    {
+      "rank": 9,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.001529831408542364,
+      "timestamp": "2026-10-13 17:59"
+    },
+    {
+      "rank": 10,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 3.671206394360843e-06,
+      "timestamp": "2026-10-13 17:59"
+    },
+    {
+      "rank": 11,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.045328083077671e-05,
+      "timestamp": "2026-10-13 17:59"
+    },
+    {
+      "rank": 12,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.013260815772074e-05,
+      "timestamp": "2026-10-13 17:59"
+    },
+    {
+      "rank": 13,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0024642984082493945,
+      "timestamp": "2026-10-13 17:59"
+    },
+    {
+      "rank": 14,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 9.828651250539124e-05,
+      "timestamp": "2026-10-13 17:59"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2586004616192112e-05,
+      "timestamp": "2026-10-13 17:59"
+    }
   ]
 }
