@@ -1023560,5 +1023560,112 @@
       "price_btc": 0.9998977979436572,
       "timestamp": "2026-10-12 21:36"
     }
+  ],
+  "2026-10-13 02:52": [
+    {
+      "rank": 1,
+      "name": "Claudia",
+      "symbol": "CLAUDIA",
+      "price_btc": 2.7415291347073563e-07,
+      "timestamp": "2026-10-13 02:52"
+    },
+    {
+      "rank": 2,
+      "name": "Bunker Mode",
+      "symbol": "BUNKER",
+      "price_btc": 2.723017061925473e-07,
+      "timestamp": "2026-10-13 02:52"
+    },
+    {
+      "rank": 3,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 1.8284177763612644e-05,
+      "timestamp": "2026-10-13 02:52"
+    },
+    {
+      "rank": 4,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 1.0471310847856783e-06,
+      "timestamp": "2026-10-13 02:52"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012857687379232475,
+      "timestamp": "2026-10-13 02:52"
+    },
+    {
+      "rank": 6,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.315810138928018e-05,
+      "timestamp": "2026-10-13 02:52"
+    },
+    {
+      "rank": 7,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 2.5499824946503162e-05,
+      "timestamp": "2026-10-13 02:52"
+    },
+    {
+      "rank": 8,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 5.047588027195277e-06,
+      "timestamp": "2026-10-13 02:52"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009931275167465961,
+      "timestamp": "2026-10-13 02:52"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.000474654999039,
+      "timestamp": "2026-10-13 02:52"
+    },
+    {
+      "rank": 11,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0027313530170859344,
+      "timestamp": "2026-10-13 02:52"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2537888759849694e-05,
+      "timestamp": "2026-10-13 02:52"
+    },
+    {
+      "rank": 13,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0015256851749118824,
+      "timestamp": "2026-10-13 02:52"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 5.725167564796406e-06,
+      "timestamp": "2026-10-13 02:52"
+    },
+    {
+      "rank": 15,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 7.07498044023493e-07,
+      "timestamp": "2026-10-13 02:52"
+    }
   ]
 }
