@@ -1023881,5 +1023881,112 @@
       "price_btc": 1.2586004616192112e-05,
       "timestamp": "2026-10-13 17:59"
     }
+  ],
+  "2026-10-13 22:36": [
+    {
+      "rank": 1,
+      "name": "Wisp",
+      "symbol": "WISP",
+      "price_btc": 3.271280180956209e-07,
+      "timestamp": "2026-10-13 22:36"
+    },
+    {
+      "rank": 2,
+      "name": "Doge Pepe",
+      "symbol": "DOPE",
+      "price_btc": 2.3656772016014195e-07,
+      "timestamp": "2026-10-13 22:36"
+    },
+    {
+      "rank": 3,
+      "name": "Crawlerpad",
+      "symbol": "CRAWLER",
+      "price_btc": 2.3883784695892045e-07,
+      "timestamp": "2026-10-13 22:36"
+    },
+    {
+      "rank": 4,
+      "name": "Zylo Ecosystem",
+      "symbol": "ZYLO",
+      "price_btc": 2.7621604791070434e-07,
+      "timestamp": "2026-10-13 22:36"
+    },
+    {
+      "rank": 5,
+      "name": "Basic Attention",
+      "symbol": "BAT",
+      "price_btc": 2.40178093574463e-06,
+      "timestamp": "2026-10-13 22:36"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.030080626826954813,
+      "timestamp": "2026-10-13 22:36"
+    },
+    {
+      "rank": 7,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.2167756242191132e-05,
+      "timestamp": "2026-10-13 22:36"
+    },
+    {
+      "rank": 8,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0025589037071722543,
+      "timestamp": "2026-10-13 22:36"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9997329111609159,
+      "timestamp": "2026-10-13 22:36"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.35628690799192e-08,
+      "timestamp": "2026-10-13 22:36"
+    },
+    {
+      "rank": 11,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 1.0024272978497224e-06,
+      "timestamp": "2026-10-13 22:36"
+    },
+    {
+      "rank": 12,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00015475963204541525,
+      "timestamp": "2026-10-13 22:36"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.5240509414377495e-06,
+      "timestamp": "2026-10-13 22:36"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009794790679345938,
+      "timestamp": "2026-10-13 22:36"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2583498540612426e-05,
+      "timestamp": "2026-10-13 22:36"
+    }
   ]
 }
