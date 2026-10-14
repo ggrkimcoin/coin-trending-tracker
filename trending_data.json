@@ -1024416,5 +1024416,112 @@
       "price_btc": 9.415960732886932e-05,
       "timestamp": "2026-10-14 18:21"
     }
+  ],
+  "2026-10-14 22:05": [
+    {
+      "rank": 1,
+      "name": "Zylo Ecosystem",
+      "symbol": "ZYLO",
+      "price_btc": 2.812747955721126e-07,
+      "timestamp": "2026-10-14 22:05"
+    },
+    {
+      "rank": 2,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 7.966717430261834e-07,
+      "timestamp": "2026-10-14 22:05"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.380427812306536e-08,
+      "timestamp": "2026-10-14 22:05"
+    },
+    {
+      "rank": 4,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.251702360723672e-05,
+      "timestamp": "2026-10-14 22:05"
+    },
+    {
+      "rank": 5,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.001396932350901546,
+      "timestamp": "2026-10-14 22:05"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9992631764218157,
+      "timestamp": "2026-10-14 22:05"
+    },
+    {
+      "rank": 7,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0025189918904227984,
+      "timestamp": "2026-10-14 22:05"
+    },
+    {
+      "rank": 8,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.7953988939974576e-05,
+      "timestamp": "2026-10-14 22:05"
+    },
+    {
+      "rank": 9,
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price_btc": 1.1704148954453898e-06,
+      "timestamp": "2026-10-14 22:05"
+    },
+    {
+      "rank": 10,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.3229691521800215e-05,
+      "timestamp": "2026-10-14 22:05"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001279740074510511,
+      "timestamp": "2026-10-14 22:05"
+    },
+    {
+      "rank": 12,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 4.174612121983314e-06,
+      "timestamp": "2026-10-14 22:05"
+    },
+    {
+      "rank": 13,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.831861254168576e-08,
+      "timestamp": "2026-10-14 22:05"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.398230331976666e-06,
+      "timestamp": "2026-10-14 22:05"
+    },
+    {
+      "rank": 15,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.2269352759903444e-05,
+      "timestamp": "2026-10-14 22:05"
+    }
   ]
 }
