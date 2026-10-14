@@ -1024309,5 +1024309,112 @@
       "price_btc": 9.193916958896197e-08,
       "timestamp": "2026-10-14 13:23"
     }
+  ],
+  "2026-10-14 18:21": [
+    {
+      "rank": 1,
+      "name": "astronaut",
+      "symbol": "ASTRO",
+      "price_btc": 2.7774125434837056e-07,
+      "timestamp": "2026-10-14 18:21"
+    },
+    {
+      "rank": 2,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 7.388430989751832e-07,
+      "timestamp": "2026-10-14 18:21"
+    },
+    {
+      "rank": 3,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.3405496579605944e-05,
+      "timestamp": "2026-10-14 18:21"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.999555411754194,
+      "timestamp": "2026-10-14 18:21"
+    },
+    {
+      "rank": 5,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.911623400733107e-05,
+      "timestamp": "2026-10-14 18:21"
+    },
+    {
+      "rank": 6,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.014179168195571048,
+      "timestamp": "2026-10-14 18:21"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009750065135242928,
+      "timestamp": "2026-10-14 18:21"
+    },
+    {
+      "rank": 8,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 9.286005448756101e-07,
+      "timestamp": "2026-10-14 18:21"
+    },
+    {
+      "rank": 9,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.0676143870200425e-05,
+      "timestamp": "2026-10-14 18:21"
+    },
+    {
+      "rank": 10,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.870825936271529e-05,
+      "timestamp": "2026-10-14 18:21"
+    },
+    {
+      "rank": 11,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.316202506190176e-08,
+      "timestamp": "2026-10-14 18:21"
+    },
+    {
+      "rank": 12,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.813413193094149e-08,
+      "timestamp": "2026-10-14 18:21"
+    },
+    {
+      "rank": 13,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 3.874211518755625e-06,
+      "timestamp": "2026-10-14 18:21"
+    },
+    {
+      "rank": 14,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.002510488517583779,
+      "timestamp": "2026-10-14 18:21"
+    },
+    {
+      "rank": 15,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 9.415960732886932e-05,
+      "timestamp": "2026-10-14 18:21"
+    }
   ]
 }
