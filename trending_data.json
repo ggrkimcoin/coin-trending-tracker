@@ -1024202,5 +1024202,112 @@
       "price_btc": 5.3217702598380834e-06,
       "timestamp": "2026-10-14 07:13"
     }
+  ],
+  "2026-10-14 13:23": [
+    {
+      "rank": 1,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.2907508802160102e-05,
+      "timestamp": "2026-10-14 13:23"
+    },
+    {
+      "rank": 2,
+      "name": "Zylo Ecosystem",
+      "symbol": "ZYLO",
+      "price_btc": 2.807601978962133e-07,
+      "timestamp": "2026-10-14 13:23"
+    },
+    {
+      "rank": 3,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 9.536290477802902e-07,
+      "timestamp": "2026-10-14 13:23"
+    },
+    {
+      "rank": 4,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.266504735924123e-07,
+      "timestamp": "2026-10-14 13:23"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.240874236199954e-05,
+      "timestamp": "2026-10-14 13:23"
+    },
+    {
+      "rank": 6,
+      "name": "Bitway",
+      "symbol": "BTW",
+      "price_btc": 2.8625076354384734e-05,
+      "timestamp": "2026-10-14 13:23"
+    },
+    {
+      "rank": 7,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 3.930579757899314e-06,
+      "timestamp": "2026-10-14 13:23"
+    },
+    {
+      "rank": 8,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.97131646206544e-05,
+      "timestamp": "2026-10-14 13:23"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9986989692407102,
+      "timestamp": "2026-10-14 13:23"
+    },
+    {
+      "rank": 10,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.001439877833234373,
+      "timestamp": "2026-10-14 13:23"
+    },
+    {
+      "rank": 11,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 9.477477499971518e-05,
+      "timestamp": "2026-10-14 13:23"
+    },
+    {
+      "rank": 12,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.416059031946439e-06,
+      "timestamp": "2026-10-14 13:23"
+    },
+    {
+      "rank": 13,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.9114023428721764e-05,
+      "timestamp": "2026-10-14 13:23"
+    },
+    {
+      "rank": 14,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0002713564790277602,
+      "timestamp": "2026-10-14 13:23"
+    },
+    {
+      "rank": 15,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.193916958896197e-08,
+      "timestamp": "2026-10-14 13:23"
+    }
   ]
 }
