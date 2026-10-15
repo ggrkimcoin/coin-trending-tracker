@@ -1024630,5 +1024630,112 @@
       "price_btc": 0.9985260143135606,
       "timestamp": "2026-10-15 01:16"
     }
+  ],
+  "2026-10-15 07:05": [
+    {
+      "rank": 1,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.725173279353745e-05,
+      "timestamp": "2026-10-15 07:05"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.124240147051624e-08,
+      "timestamp": "2026-10-15 07:05"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9997034625632413,
+      "timestamp": "2026-10-15 07:05"
+    },
+    {
+      "rank": 4,
+      "name": "Puffer",
+      "symbol": "PUFFER",
+      "price_btc": 6.955231977333639e-07,
+      "timestamp": "2026-10-15 07:05"
+    },
+    {
+      "rank": 5,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 2.1665958971796543e-07,
+      "timestamp": "2026-10-15 07:05"
+    },
+    {
+      "rank": 6,
+      "name": "Bitway",
+      "symbol": "BTW",
+      "price_btc": 2.502797359851709e-05,
+      "timestamp": "2026-10-15 07:05"
+    },
+    {
+      "rank": 7,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.0879124725252917e-05,
+      "timestamp": "2026-10-15 07:05"
+    },
+    {
+      "rank": 8,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.002402985179661364,
+      "timestamp": "2026-10-15 07:05"
+    },
+    {
+      "rank": 9,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.01350353845531746,
+      "timestamp": "2026-10-15 07:05"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2171811889288168e-05,
+      "timestamp": "2026-10-15 07:05"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000983953011749741,
+      "timestamp": "2026-10-15 07:05"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012615914233265826,
+      "timestamp": "2026-10-15 07:05"
+    },
+    {
+      "rank": 13,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.662209282188399e-05,
+      "timestamp": "2026-10-15 07:05"
+    },
+    {
+      "rank": 14,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 4.673234183730771e-06,
+      "timestamp": "2026-10-15 07:05"
+    },
+    {
+      "rank": 15,
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "price_btc": 3.4374126462938004e-06,
+      "timestamp": "2026-10-15 07:05"
+    }
   ]
 }
