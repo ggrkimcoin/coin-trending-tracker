@@ -1024737,5 +1024737,112 @@
       "price_btc": 3.4374126462938004e-06,
       "timestamp": "2026-10-15 07:05"
     }
+  ],
+  "2026-10-15 13:08": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9977053558617323,
+      "timestamp": "2026-10-15 13:08"
+    },
+    {
+      "rank": 2,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.031990191324411e-05,
+      "timestamp": "2026-10-15 13:08"
+    },
+    {
+      "rank": 3,
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "price_btc": 5.851133872069824e-07,
+      "timestamp": "2026-10-15 13:08"
+    },
+    {
+      "rank": 4,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 9.611469922638605e-07,
+      "timestamp": "2026-10-15 13:08"
+    },
+    {
+      "rank": 5,
+      "name": "Zama",
+      "symbol": "ZAMA",
+      "price_btc": 9.075043947565082e-07,
+      "timestamp": "2026-10-15 13:08"
+    },
+    {
+      "rank": 6,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.299885807964372e-05,
+      "timestamp": "2026-10-15 13:08"
+    },
+    {
+      "rank": 7,
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "price_btc": 2.0400900927264544e-07,
+      "timestamp": "2026-10-15 13:08"
+    },
+    {
+      "rank": 8,
+      "name": "Bitway",
+      "symbol": "BTW",
+      "price_btc": 2.458983426967555e-05,
+      "timestamp": "2026-10-15 13:08"
+    },
+    {
+      "rank": 9,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 8.50132431141522e-05,
+      "timestamp": "2026-10-15 13:08"
+    },
+    {
+      "rank": 10,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.001369938779021812,
+      "timestamp": "2026-10-15 13:08"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2011783772294019e-05,
+      "timestamp": "2026-10-15 13:08"
+    },
+    {
+      "rank": 12,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.069876137401823e-08,
+      "timestamp": "2026-10-15 13:08"
+    },
+    {
+      "rank": 13,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 4.635946934476768e-06,
+      "timestamp": "2026-10-15 13:08"
+    },
+    {
+      "rank": 14,
+      "name": "Cash Cat",
+      "symbol": "CASHCAT",
+      "price_btc": 1.2699807253645689e-06,
+      "timestamp": "2026-10-15 13:08"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.029083914373088594,
+      "timestamp": "2026-10-15 13:08"
+    }
   ]
 }
