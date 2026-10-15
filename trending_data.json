@@ -1024951,5 +1024951,112 @@
       "price_btc": 3.0833809442509664e-06,
       "timestamp": "2026-10-15 18:04"
     }
+  ],
+  "2026-10-15 21:59": [
+    {
+      "rank": 1,
+      "name": "Altai the Tiger",
+      "symbol": "ALTAI",
+      "price_btc": 2.4379525722429337e-07,
+      "timestamp": "2026-10-15 21:59"
+    },
+    {
+      "rank": 2,
+      "name": "streamoors",
+      "symbol": "STREAM",
+      "price_btc": 2.5758345377839436e-07,
+      "timestamp": "2026-10-15 21:59"
+    },
+    {
+      "rank": 3,
+      "name": "Sword Inu",
+      "symbol": "SI",
+      "price_btc": 2.1484108999969099e-07,
+      "timestamp": "2026-10-15 21:59"
+    },
+    {
+      "rank": 4,
+      "name": "IGNITION",
+      "symbol": "IGNITION",
+      "price_btc": 2.090376071434775e-07,
+      "timestamp": "2026-10-15 21:59"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.3822750636826287e-05,
+      "timestamp": "2026-10-15 21:59"
+    },
+    {
+      "rank": 6,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.478894204685536e-05,
+      "timestamp": "2026-10-15 21:59"
+    },
+    {
+      "rank": 7,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0013518254478297861,
+      "timestamp": "2026-10-15 21:59"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.267933448548804e-08,
+      "timestamp": "2026-10-15 21:59"
+    },
+    {
+      "rank": 9,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00010262842842208033,
+      "timestamp": "2026-10-15 21:59"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9990144204709276,
+      "timestamp": "2026-10-15 21:59"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.255847768905509e-05,
+      "timestamp": "2026-10-15 21:59"
+    },
+    {
+      "rank": 12,
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "price_btc": 4.19126534687463e-06,
+      "timestamp": "2026-10-15 21:59"
+    },
+    {
+      "rank": 13,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 9.091268460128237e-05,
+      "timestamp": "2026-10-15 21:59"
+    },
+    {
+      "rank": 14,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 1.056867180194012e-06,
+      "timestamp": "2026-10-15 21:59"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.1108859800682934e-05,
+      "timestamp": "2026-10-15 21:59"
+    }
   ]
 }
