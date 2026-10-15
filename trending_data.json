@@ -1024523,5 +1024523,112 @@
       "price_btc": 1.2269352759903444e-05,
       "timestamp": "2026-10-14 22:05"
     }
+  ],
+  "2026-10-15 01:16": [
+    {
+      "rank": 1,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.255367973427732e-05,
+      "timestamp": "2026-10-15 01:16"
+    },
+    {
+      "rank": 2,
+      "name": "Bitway",
+      "symbol": "BTW",
+      "price_btc": 2.8921853111735097e-05,
+      "timestamp": "2026-10-15 01:16"
+    },
+    {
+      "rank": 3,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.013964591955935074,
+      "timestamp": "2026-10-15 01:16"
+    },
+    {
+      "rank": 4,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.0911109569470362e-05,
+      "timestamp": "2026-10-15 01:16"
+    },
+    {
+      "rank": 5,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.9104188148630074e-05,
+      "timestamp": "2026-10-15 01:16"
+    },
+    {
+      "rank": 6,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.911483664918076e-07,
+      "timestamp": "2026-10-15 01:16"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.289323273240467e-08,
+      "timestamp": "2026-10-15 01:16"
+    },
+    {
+      "rank": 8,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.8168003988650655e-08,
+      "timestamp": "2026-10-15 01:16"
+    },
+    {
+      "rank": 9,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 9.48161861034565e-07,
+      "timestamp": "2026-10-15 01:16"
+    },
+    {
+      "rank": 10,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.291380285312766e-05,
+      "timestamp": "2026-10-15 01:16"
+    },
+    {
+      "rank": 11,
+      "name": "Walrus",
+      "symbol": "WAL",
+      "price_btc": 6.948113584458314e-07,
+      "timestamp": "2026-10-15 01:16"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012766700816693277,
+      "timestamp": "2026-10-15 01:16"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2452895833922755e-05,
+      "timestamp": "2026-10-15 01:16"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 5.44503152436422e-06,
+      "timestamp": "2026-10-15 01:16"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9985260143135606,
+      "timestamp": "2026-10-15 01:16"
+    }
   ]
 }
