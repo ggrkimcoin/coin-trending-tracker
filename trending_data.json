@@ -1024844,5 +1024844,112 @@
       "price_btc": 0.029083914373088594,
       "timestamp": "2026-10-15 13:08"
     }
+  ],
+  "2026-10-15 18:04": [
+    {
+      "rank": 1,
+      "name": "IGNITION",
+      "symbol": "IGNITION",
+      "price_btc": 2.2521313748131045e-07,
+      "timestamp": "2026-10-15 18:04"
+    },
+    {
+      "rank": 2,
+      "name": "no crying in the casino",
+      "symbol": "CASINO",
+      "price_btc": 2.1553798192244026e-07,
+      "timestamp": "2026-10-15 18:04"
+    },
+    {
+      "rank": 3,
+      "name": "streamoors",
+      "symbol": "STREAM",
+      "price_btc": 2.9060572998359207e-07,
+      "timestamp": "2026-10-15 18:04"
+    },
+    {
+      "rank": 4,
+      "name": "Hood Sword Inu",
+      "symbol": "HOODINU",
+      "price_btc": 8.173481851701583e-07,
+      "timestamp": "2026-10-15 18:04"
+    },
+    {
+      "rank": 5,
+      "name": "Sword Inu",
+      "symbol": "SI",
+      "price_btc": 2.2700229605322405e-07,
+      "timestamp": "2026-10-15 18:04"
+    },
+    {
+      "rank": 6,
+      "name": "Altai the Tiger",
+      "symbol": "ALTAI",
+      "price_btc": 2.2391487847456303e-07,
+      "timestamp": "2026-10-15 18:04"
+    },
+    {
+      "rank": 7,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.1736002094170882e-05,
+      "timestamp": "2026-10-15 18:04"
+    },
+    {
+      "rank": 8,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 1.1170178215997616e-06,
+      "timestamp": "2026-10-15 18:04"
+    },
+    {
+      "rank": 9,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.247827404942479e-08,
+      "timestamp": "2026-10-15 18:04"
+    },
+    {
+      "rank": 10,
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "price_btc": 1.1356812275371264e-06,
+      "timestamp": "2026-10-15 18:04"
+    },
+    {
+      "rank": 11,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.384541300518831e-05,
+      "timestamp": "2026-10-15 18:04"
+    },
+    {
+      "rank": 12,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.7621306395204765e-05,
+      "timestamp": "2026-10-15 18:04"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0001602719062768,
+      "timestamp": "2026-10-15 18:04"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012864627571697867,
+      "timestamp": "2026-10-15 18:04"
+    },
+    {
+      "rank": 15,
+      "name": "Nexpace",
+      "symbol": "NXPC",
+      "price_btc": 3.0833809442509664e-06,
+      "timestamp": "2026-10-15 18:04"
+    }
   ]
 }
