@@ -1025272,5 +1025272,112 @@
       "price_btc": 4.190077333060775e-06,
       "timestamp": "2026-10-16 05:33"
     }
+  ],
+  "2026-10-16 10:55": [
+    {
+      "rank": 1,
+      "name": "streamoors",
+      "symbol": "STREAM",
+      "price_btc": 4.011644601850667e-07,
+      "timestamp": "2026-10-16 10:55"
+    },
+    {
+      "rank": 2,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 8.283915761849818e-06,
+      "timestamp": "2026-10-16 10:55"
+    },
+    {
+      "rank": 3,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00011298911041620293,
+      "timestamp": "2026-10-16 10:55"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.41164431653113e-08,
+      "timestamp": "2026-10-16 10:55"
+    },
+    {
+      "rank": 5,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.461243802804364e-05,
+      "timestamp": "2026-10-16 10:55"
+    },
+    {
+      "rank": 6,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.2756733094267847e-05,
+      "timestamp": "2026-10-16 10:55"
+    },
+    {
+      "rank": 7,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 9.366497448268591e-07,
+      "timestamp": "2026-10-16 10:55"
+    },
+    {
+      "rank": 8,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 5.151543544650283e-06,
+      "timestamp": "2026-10-16 10:55"
+    },
+    {
+      "rank": 9,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0002972054877584329,
+      "timestamp": "2026-10-16 10:55"
+    },
+    {
+      "rank": 10,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.451773250789811e-08,
+      "timestamp": "2026-10-16 10:55"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2776431252862767e-05,
+      "timestamp": "2026-10-16 10:55"
+    },
+    {
+      "rank": 12,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.6957020918469047e-05,
+      "timestamp": "2026-10-16 10:55"
+    },
+    {
+      "rank": 13,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.015060418854216611,
+      "timestamp": "2026-10-16 10:55"
+    },
+    {
+      "rank": 14,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 1.0662225321939847e-05,
+      "timestamp": "2026-10-16 10:55"
+    },
+    {
+      "rank": 15,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.2697180048601424e-05,
+      "timestamp": "2026-10-16 10:55"
+    }
   ]
 }
