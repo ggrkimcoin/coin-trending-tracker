@@ -1025165,5 +1025165,112 @@
       "price_btc": 0.000996332201977048,
       "timestamp": "2026-10-16 00:15"
     }
+  ],
+  "2026-10-16 05:33": [
+    {
+      "rank": 1,
+      "name": "streamoors",
+      "symbol": "STREAM",
+      "price_btc": 2.994342304702598e-07,
+      "timestamp": "2026-10-16 05:33"
+    },
+    {
+      "rank": 2,
+      "name": "IGNITION",
+      "symbol": "IGNITION",
+      "price_btc": 2.4270653124209885e-07,
+      "timestamp": "2026-10-16 05:33"
+    },
+    {
+      "rank": 3,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00011236432323780802,
+      "timestamp": "2026-10-16 05:33"
+    },
+    {
+      "rank": 4,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0013514996985347367,
+      "timestamp": "2026-10-16 05:33"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.2720836872950203e-05,
+      "timestamp": "2026-10-16 05:33"
+    },
+    {
+      "rank": 6,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.1181882971667165e-05,
+      "timestamp": "2026-10-16 05:33"
+    },
+    {
+      "rank": 7,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.359451057807692e-05,
+      "timestamp": "2026-10-16 05:33"
+    },
+    {
+      "rank": 8,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 1.0217280585051847e-06,
+      "timestamp": "2026-10-16 05:33"
+    },
+    {
+      "rank": 9,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.682235561228117e-05,
+      "timestamp": "2026-10-16 05:33"
+    },
+    {
+      "rank": 10,
+      "name": "Cosmos Hub",
+      "symbol": "ATOM",
+      "price_btc": 2.11601333332917e-05,
+      "timestamp": "2026-10-16 05:33"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009879056293362887,
+      "timestamp": "2026-10-16 05:33"
+    },
+    {
+      "rank": 12,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.828960926939376e-07,
+      "timestamp": "2026-10-16 05:33"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012897737982911672,
+      "timestamp": "2026-10-16 05:33"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.4677068928357425e-06,
+      "timestamp": "2026-10-16 05:33"
+    },
+    {
+      "rank": 15,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 4.190077333060775e-06,
+      "timestamp": "2026-10-16 05:33"
+    }
   ]
 }
