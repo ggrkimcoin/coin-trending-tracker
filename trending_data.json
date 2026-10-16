@@ -1025058,5 +1025058,112 @@
       "price_btc": 1.1108859800682934e-05,
       "timestamp": "2026-10-15 21:59"
     }
+  ],
+  "2026-10-16 00:15": [
+    {
+      "rank": 1,
+      "name": "IGNITION",
+      "symbol": "IGNITION",
+      "price_btc": 2.3817312903438235e-07,
+      "timestamp": "2026-10-16 00:15"
+    },
+    {
+      "rank": 2,
+      "name": "streamoors",
+      "symbol": "STREAM",
+      "price_btc": 2.924500228676222e-07,
+      "timestamp": "2026-10-16 00:15"
+    },
+    {
+      "rank": 3,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0013436754132861786,
+      "timestamp": "2026-10-16 00:15"
+    },
+    {
+      "rank": 4,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.014854276458128575,
+      "timestamp": "2026-10-16 00:15"
+    },
+    {
+      "rank": 5,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2576496741527255e-05,
+      "timestamp": "2026-10-16 00:15"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.029707889978291015,
+      "timestamp": "2026-10-16 00:15"
+    },
+    {
+      "rank": 7,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.2892808462759917e-05,
+      "timestamp": "2026-10-16 00:15"
+    },
+    {
+      "rank": 8,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.369921777487366e-05,
+      "timestamp": "2026-10-16 00:15"
+    },
+    {
+      "rank": 9,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0003015155465757045,
+      "timestamp": "2026-10-16 00:15"
+    },
+    {
+      "rank": 10,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.1400805215153072e-05,
+      "timestamp": "2026-10-16 00:15"
+    },
+    {
+      "rank": 11,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.681872791574542e-05,
+      "timestamp": "2026-10-16 00:15"
+    },
+    {
+      "rank": 12,
+      "name": "Osmosis",
+      "symbol": "OSMO",
+      "price_btc": 5.427035025283035e-07,
+      "timestamp": "2026-10-16 00:15"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0002017120355942,
+      "timestamp": "2026-10-16 00:15"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012814785000885604,
+      "timestamp": "2026-10-16 00:15"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000996332201977048,
+      "timestamp": "2026-10-16 00:15"
+    }
   ]
 }
