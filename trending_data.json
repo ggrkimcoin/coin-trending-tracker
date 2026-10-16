@@ -1025379,5 +1025379,112 @@
       "price_btc": 1.2697180048601424e-05,
       "timestamp": "2026-10-16 10:55"
     }
+  ],
+  "2026-10-16 15:16": [
+    {
+      "rank": 1,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.706936953189e-07,
+      "timestamp": "2026-10-16 15:16"
+    },
+    {
+      "rank": 2,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 8.526311383899145e-06,
+      "timestamp": "2026-10-16 15:16"
+    },
+    {
+      "rank": 3,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00010912522738204346,
+      "timestamp": "2026-10-16 15:16"
+    },
+    {
+      "rank": 4,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0014501915756854188,
+      "timestamp": "2026-10-16 15:16"
+    },
+    {
+      "rank": 5,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00345961208089974,
+      "timestamp": "2026-10-16 15:16"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.294927174998053e-08,
+      "timestamp": "2026-10-16 15:16"
+    },
+    {
+      "rank": 7,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.1984068034635222e-05,
+      "timestamp": "2026-10-16 15:16"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.0856830569165925e-05,
+      "timestamp": "2026-10-16 15:16"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012806423479976882,
+      "timestamp": "2026-10-16 15:16"
+    },
+    {
+      "rank": 10,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.894038502284006e-05,
+      "timestamp": "2026-10-16 15:16"
+    },
+    {
+      "rank": 11,
+      "name": "NeoSoul",
+      "symbol": "DNA",
+      "price_btc": 3.4220671852200123e-06,
+      "timestamp": "2026-10-16 15:16"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009736427092389181,
+      "timestamp": "2026-10-16 15:16"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2618499686514129e-05,
+      "timestamp": "2026-10-16 15:16"
+    },
+    {
+      "rank": 14,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.6246570018022498e-05,
+      "timestamp": "2026-10-16 15:16"
+    },
+    {
+      "rank": 15,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 9.160762504594242e-07,
+      "timestamp": "2026-10-16 15:16"
+    }
   ]
 }
