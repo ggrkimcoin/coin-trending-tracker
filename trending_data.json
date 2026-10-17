@@ -1026021,5 +1026021,112 @@
       "price_btc": 9.229332161386884e-08,
       "timestamp": "2026-10-17 11:26"
     }
+  ],
+  "2026-10-17 15:09": [
+    {
+      "rank": 1,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0013952435848973899,
+      "timestamp": "2026-10-17 15:09"
+    },
+    {
+      "rank": 2,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00010470283332584557,
+      "timestamp": "2026-10-17 15:09"
+    },
+    {
+      "rank": 3,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 8.384392232703625e-07,
+      "timestamp": "2026-10-17 15:09"
+    },
+    {
+      "rank": 4,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.068121322044379e-05,
+      "timestamp": "2026-10-17 15:09"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.231084734014174e-08,
+      "timestamp": "2026-10-17 15:09"
+    },
+    {
+      "rank": 6,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.150575265380376e-05,
+      "timestamp": "2026-10-17 15:09"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2183609806107847e-05,
+      "timestamp": "2026-10-17 15:09"
+    },
+    {
+      "rank": 8,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 8.119532812930337e-06,
+      "timestamp": "2026-10-17 15:09"
+    },
+    {
+      "rank": 9,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 5.0136925172329246e-06,
+      "timestamp": "2026-10-17 15:09"
+    },
+    {
+      "rank": 10,
+      "name": "Canton",
+      "symbol": "CC",
+      "price_btc": 1.2785032984427304e-06,
+      "timestamp": "2026-10-17 15:09"
+    },
+    {
+      "rank": 11,
+      "name": "Quack AI",
+      "symbol": "Q",
+      "price_btc": 1.0234744941771032e-06,
+      "timestamp": "2026-10-17 15:09"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.0631718292406964e-05,
+      "timestamp": "2026-10-17 15:09"
+    },
+    {
+      "rank": 13,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 2.7217383355305488e-06,
+      "timestamp": "2026-10-17 15:09"
+    },
+    {
+      "rank": 14,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.539977303798812e-08,
+      "timestamp": "2026-10-17 15:09"
+    },
+    {
+      "rank": 15,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.7201738043384434e-07,
+      "timestamp": "2026-10-17 15:09"
+    }
   ]
 }
