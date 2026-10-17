@@ -1025700,5 +1025700,112 @@
       "price_btc": 7.900660344941297e-07,
       "timestamp": "2026-10-16 22:37"
     }
+  ],
+  "2026-10-17 01:08": [
+    {
+      "rank": 1,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 3.211198411121736e-07,
+      "timestamp": "2026-10-17 01:08"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.284854769883704e-08,
+      "timestamp": "2026-10-17 01:08"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9994940363902539,
+      "timestamp": "2026-10-17 01:08"
+    },
+    {
+      "rank": 4,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.595128576007632e-08,
+      "timestamp": "2026-10-17 01:08"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.0930011399098612e-05,
+      "timestamp": "2026-10-17 01:08"
+    },
+    {
+      "rank": 6,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.014069033716833162,
+      "timestamp": "2026-10-17 01:08"
+    },
+    {
+      "rank": 7,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.7989763764739164e-07,
+      "timestamp": "2026-10-17 01:08"
+    },
+    {
+      "rank": 8,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.189277536206608e-05,
+      "timestamp": "2026-10-17 01:08"
+    },
+    {
+      "rank": 9,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 8.91773859932218e-07,
+      "timestamp": "2026-10-17 01:08"
+    },
+    {
+      "rank": 10,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0014168499805298973,
+      "timestamp": "2026-10-17 01:08"
+    },
+    {
+      "rank": 11,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00010673279602284585,
+      "timestamp": "2026-10-17 01:08"
+    },
+    {
+      "rank": 12,
+      "name": "STONK",
+      "symbol": "STONK",
+      "price_btc": 1.3693244372955855e-06,
+      "timestamp": "2026-10-17 01:08"
+    },
+    {
+      "rank": 13,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0024549619836213587,
+      "timestamp": "2026-10-17 01:08"
+    },
+    {
+      "rank": 14,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 3.7207020805493294e-06,
+      "timestamp": "2026-10-17 01:08"
+    },
+    {
+      "rank": 15,
+      "name": "Dash",
+      "symbol": "DASH",
+      "price_btc": 0.0006020664105322179,
+      "timestamp": "2026-10-17 01:08"
+    }
   ]
 }
