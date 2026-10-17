@@ -1026128,5 +1026128,112 @@
       "price_btc": 2.7201738043384434e-07,
       "timestamp": "2026-10-17 15:09"
     }
+  ],
+  "2026-10-17 18:14": [
+    {
+      "rank": 1,
+      "name": "Quack AI",
+      "symbol": "Q",
+      "price_btc": 1.4862415957430728e-06,
+      "timestamp": "2026-10-17 18:14"
+    },
+    {
+      "rank": 2,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.041396266870675e-05,
+      "timestamp": "2026-10-17 18:14"
+    },
+    {
+      "rank": 3,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0024459341725767162,
+      "timestamp": "2026-10-17 18:14"
+    },
+    {
+      "rank": 4,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 5.4092299468010685e-06,
+      "timestamp": "2026-10-17 18:14"
+    },
+    {
+      "rank": 5,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.01390381418928007,
+      "timestamp": "2026-10-17 18:14"
+    },
+    {
+      "rank": 6,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.3496134358698792e-05,
+      "timestamp": "2026-10-17 18:14"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2029984697317893e-05,
+      "timestamp": "2026-10-17 18:14"
+    },
+    {
+      "rank": 8,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.420801997446988e-08,
+      "timestamp": "2026-10-17 18:14"
+    },
+    {
+      "rank": 9,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014696251068446918,
+      "timestamp": "2026-10-17 18:14"
+    },
+    {
+      "rank": 10,
+      "name": "Canton",
+      "symbol": "CC",
+      "price_btc": 1.2730978298897175e-06,
+      "timestamp": "2026-10-17 18:14"
+    },
+    {
+      "rank": 11,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0013554250578073123,
+      "timestamp": "2026-10-17 18:14"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0032970073478248616,
+      "timestamp": "2026-10-17 18:14"
+    },
+    {
+      "rank": 13,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 4.3375171092352864e-07,
+      "timestamp": "2026-10-17 18:14"
+    },
+    {
+      "rank": 14,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 9.752990276631175e-07,
+      "timestamp": "2026-10-17 18:14"
+    },
+    {
+      "rank": 15,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 8.743378712617949e-05,
+      "timestamp": "2026-10-17 18:14"
+    }
   ]
 }
