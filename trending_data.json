@@ -1025807,5 +1025807,112 @@
       "price_btc": 0.0006020664105322179,
       "timestamp": "2026-10-17 01:08"
     }
+  ],
+  "2026-10-17 06:40": [
+    {
+      "rank": 1,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 3.211198411121736e-07,
+      "timestamp": "2026-10-17 06:40"
+    },
+    {
+      "rank": 2,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 9.196357176064104e-06,
+      "timestamp": "2026-10-17 06:40"
+    },
+    {
+      "rank": 3,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.001413704257702337,
+      "timestamp": "2026-10-17 06:40"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9987133065613413,
+      "timestamp": "2026-10-17 06:40"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.075182909785351e-05,
+      "timestamp": "2026-10-17 06:40"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009772368546234712,
+      "timestamp": "2026-10-17 06:40"
+    },
+    {
+      "rank": 7,
+      "name": "Impossible Cloud Network Token",
+      "symbol": "ICNT",
+      "price_btc": 2.6606259801498793e-06,
+      "timestamp": "2026-10-17 06:40"
+    },
+    {
+      "rank": 8,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.01423104571455444,
+      "timestamp": "2026-10-17 06:40"
+    },
+    {
+      "rank": 9,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 3.917761677969282e-06,
+      "timestamp": "2026-10-17 06:40"
+    },
+    {
+      "rank": 10,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.969700104786095e-05,
+      "timestamp": "2026-10-17 06:40"
+    },
+    {
+      "rank": 11,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00010920991718002986,
+      "timestamp": "2026-10-17 06:40"
+    },
+    {
+      "rank": 12,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 7.826273754728953e-07,
+      "timestamp": "2026-10-17 06:40"
+    },
+    {
+      "rank": 13,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0024989923608494903,
+      "timestamp": "2026-10-17 06:40"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.603136842789036e-05,
+      "timestamp": "2026-10-17 06:40"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0033668723461844777,
+      "timestamp": "2026-10-17 06:40"
+    }
   ]
 }
