@@ -1026342,5 +1026342,112 @@
       "price_btc": 5.450887941307062e-06,
       "timestamp": "2026-10-17 21:17"
     }
+  ],
+  "2026-10-17 23:49": [
+    {
+      "rank": 1,
+      "name": "Quack AI",
+      "symbol": "Q",
+      "price_btc": 1.5221445158871412e-06,
+      "timestamp": "2026-10-17 23:49"
+    },
+    {
+      "rank": 2,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.2875719181721548e-05,
+      "timestamp": "2026-10-17 23:49"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012686870206578404,
+      "timestamp": "2026-10-17 23:49"
+    },
+    {
+      "rank": 4,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.958577741305027e-05,
+      "timestamp": "2026-10-17 23:49"
+    },
+    {
+      "rank": 5,
+      "name": "Canton",
+      "symbol": "CC",
+      "price_btc": 1.2697090194012563e-06,
+      "timestamp": "2026-10-17 23:49"
+    },
+    {
+      "rank": 6,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.5880954303545783e-05,
+      "timestamp": "2026-10-17 23:49"
+    },
+    {
+      "rank": 7,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 4.921052116662231e-06,
+      "timestamp": "2026-10-17 23:49"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009588149017975929,
+      "timestamp": "2026-10-17 23:49"
+    },
+    {
+      "rank": 9,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.000105796127918775,
+      "timestamp": "2026-10-17 23:49"
+    },
+    {
+      "rank": 10,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.326387918830403e-08,
+      "timestamp": "2026-10-17 23:49"
+    },
+    {
+      "rank": 11,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0023959605490509257,
+      "timestamp": "2026-10-17 23:49"
+    },
+    {
+      "rank": 12,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.825299993056866e-05,
+      "timestamp": "2026-10-17 23:49"
+    },
+    {
+      "rank": 13,
+      "name": "Bitway",
+      "symbol": "BTW",
+      "price_btc": 3.0212504147718992e-05,
+      "timestamp": "2026-10-17 23:49"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 5.383975029759906e-06,
+      "timestamp": "2026-10-17 23:49"
+    },
+    {
+      "rank": 15,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.0001198809962062856,
+      "timestamp": "2026-10-17 23:49"
+    }
   ]
 }
