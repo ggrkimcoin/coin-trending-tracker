@@ -1026663,5 +1026663,112 @@
       "price_btc": 2.3497312973549217e-06,
       "timestamp": "2026-10-18 08:38"
     }
+  ],
+  "2026-10-18 13:02": [
+    {
+      "rank": 1,
+      "name": "Boomer",
+      "symbol": "BOOMER",
+      "price_btc": 2.3324502111847282e-07,
+      "timestamp": "2026-10-18 13:02"
+    },
+    {
+      "rank": 2,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.3753578118648474e-05,
+      "timestamp": "2026-10-18 13:02"
+    },
+    {
+      "rank": 3,
+      "name": "Minter",
+      "symbol": "MINTER",
+      "price_btc": 1.9543398933332715e-07,
+      "timestamp": "2026-10-18 13:02"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.112128901896606e-08,
+      "timestamp": "2026-10-18 13:02"
+    },
+    {
+      "rank": 5,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0013045357074043219,
+      "timestamp": "2026-10-18 13:02"
+    },
+    {
+      "rank": 6,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.208226715115196e-08,
+      "timestamp": "2026-10-18 13:02"
+    },
+    {
+      "rank": 7,
+      "name": "Quack AI",
+      "symbol": "Q",
+      "price_btc": 1.3439033575410378e-06,
+      "timestamp": "2026-10-18 13:02"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9997499396683005,
+      "timestamp": "2026-10-18 13:02"
+    },
+    {
+      "rank": 9,
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "price_btc": 1.079283634057736e-06,
+      "timestamp": "2026-10-18 13:02"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1983385486147955e-05,
+      "timestamp": "2026-10-18 13:02"
+    },
+    {
+      "rank": 11,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00010133172456675671,
+      "timestamp": "2026-10-18 13:02"
+    },
+    {
+      "rank": 12,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.013750819111196655,
+      "timestamp": "2026-10-18 13:02"
+    },
+    {
+      "rank": 13,
+      "name": "Bitway",
+      "symbol": "BTW",
+      "price_btc": 2.9885978878996306e-05,
+      "timestamp": "2026-10-18 13:02"
+    },
+    {
+      "rank": 14,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 4.759608465042245e-06,
+      "timestamp": "2026-10-18 13:02"
+    },
+    {
+      "rank": 15,
+      "name": "USD.AI",
+      "symbol": "CHIP",
+      "price_btc": 5.133634322943868e-07,
+      "timestamp": "2026-10-18 13:02"
+    }
   ]
 }
