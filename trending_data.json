@@ -1026877,5 +1026877,112 @@
       "price_btc": 2.2463974726292764e-06,
       "timestamp": "2026-10-18 17:07"
     }
+  ],
+  "2026-10-18 20:13": [
+    {
+      "rank": 1,
+      "name": "Boomer",
+      "symbol": "BOOMER",
+      "price_btc": 2.767099336700563e-07,
+      "timestamp": "2026-10-18 20:13"
+    },
+    {
+      "rank": 2,
+      "name": "hi",
+      "symbol": "HI",
+      "price_btc": 2.46634359473203e-07,
+      "timestamp": "2026-10-18 20:13"
+    },
+    {
+      "rank": 3,
+      "name": "Covenant x402",
+      "symbol": "COVENANT",
+      "price_btc": 2.856192268710316e-07,
+      "timestamp": "2026-10-18 20:13"
+    },
+    {
+      "rank": 4,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.428253886667294e-05,
+      "timestamp": "2026-10-18 20:13"
+    },
+    {
+      "rank": 5,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.7468322865440024e-05,
+      "timestamp": "2026-10-18 20:13"
+    },
+    {
+      "rank": 6,
+      "name": "Claudia",
+      "symbol": "CLAUDIA",
+      "price_btc": 2.6052980847429457e-07,
+      "timestamp": "2026-10-18 20:13"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012475443269395258,
+      "timestamp": "2026-10-18 20:13"
+    },
+    {
+      "rank": 8,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 9.775341726210431e-05,
+      "timestamp": "2026-10-18 20:13"
+    },
+    {
+      "rank": 9,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.00127575192436471,
+      "timestamp": "2026-10-18 20:13"
+    },
+    {
+      "rank": 10,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 4.802278980552707e-08,
+      "timestamp": "2026-10-18 20:13"
+    },
+    {
+      "rank": 11,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.783239616941058e-08,
+      "timestamp": "2026-10-18 20:13"
+    },
+    {
+      "rank": 12,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0022589732605255465,
+      "timestamp": "2026-10-18 20:13"
+    },
+    {
+      "rank": 13,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.013078814739196754,
+      "timestamp": "2026-10-18 20:13"
+    },
+    {
+      "rank": 14,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 7.314014849819048e-07,
+      "timestamp": "2026-10-18 20:13"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1683535050554955e-05,
+      "timestamp": "2026-10-18 20:13"
+    }
   ]
 }
