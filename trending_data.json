@@ -1026770,5 +1026770,112 @@
       "price_btc": 5.133634322943868e-07,
       "timestamp": "2026-10-18 13:02"
     }
+  ],
+  "2026-10-18 17:07": [
+    {
+      "rank": 1,
+      "name": "Boomer",
+      "symbol": "BOOMER",
+      "price_btc": 2.6258684396285846e-07,
+      "timestamp": "2026-10-18 17:07"
+    },
+    {
+      "rank": 2,
+      "name": "hi",
+      "symbol": "HI",
+      "price_btc": 2.274920429307773e-07,
+      "timestamp": "2026-10-18 17:07"
+    },
+    {
+      "rank": 3,
+      "name": "Covenant x402",
+      "symbol": "COVENANT",
+      "price_btc": 2.946525176441595e-07,
+      "timestamp": "2026-10-18 17:07"
+    },
+    {
+      "rank": 4,
+      "name": "Claudia",
+      "symbol": "CLAUDIA",
+      "price_btc": 2.2980848918079893e-07,
+      "timestamp": "2026-10-18 17:07"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.4409318574863097e-05,
+      "timestamp": "2026-10-18 17:07"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9995092958845961,
+      "timestamp": "2026-10-18 17:07"
+    },
+    {
+      "rank": 7,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0012901576270670924,
+      "timestamp": "2026-10-18 17:07"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1814738185991572e-05,
+      "timestamp": "2026-10-18 17:07"
+    },
+    {
+      "rank": 9,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.919633212261607e-08,
+      "timestamp": "2026-10-18 17:07"
+    },
+    {
+      "rank": 10,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 2.304352103141724e-06,
+      "timestamp": "2026-10-18 17:07"
+    },
+    {
+      "rank": 11,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 3.145876156613002e-06,
+      "timestamp": "2026-10-18 17:07"
+    },
+    {
+      "rank": 12,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.904079779510163e-05,
+      "timestamp": "2026-10-18 17:07"
+    },
+    {
+      "rank": 13,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.603673774873586e-05,
+      "timestamp": "2026-10-18 17:07"
+    },
+    {
+      "rank": 14,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 5.251727127172043e-06,
+      "timestamp": "2026-10-18 17:07"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.2463974726292764e-06,
+      "timestamp": "2026-10-18 17:07"
+    }
   ]
 }
