@@ -1027305,5 +1027305,112 @@
       "price_btc": 1.3544290897828565e-05,
       "timestamp": "2026-10-19 05:49"
     }
+  ],
+  "2026-10-19 12:26": [
+    {
+      "rank": 1,
+      "name": "Boomer",
+      "symbol": "BOOMER",
+      "price_btc": 2.4501423389157e-07,
+      "timestamp": "2026-10-19 12:26"
+    },
+    {
+      "rank": 2,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.2414021145967968e-05,
+      "timestamp": "2026-10-19 12:26"
+    },
+    {
+      "rank": 3,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0012046558244377802,
+      "timestamp": "2026-10-19 12:26"
+    },
+    {
+      "rank": 4,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.06372857893994e-05,
+      "timestamp": "2026-10-19 12:26"
+    },
+    {
+      "rank": 5,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.473401539147062e-08,
+      "timestamp": "2026-10-19 12:26"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.129670575772162e-08,
+      "timestamp": "2026-10-19 12:26"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0011188043561547,
+      "timestamp": "2026-10-19 12:26"
+    },
+    {
+      "rank": 8,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 7.079648186439614e-07,
+      "timestamp": "2026-10-19 12:26"
+    },
+    {
+      "rank": 9,
+      "name": "Quack AI",
+      "symbol": "Q",
+      "price_btc": 1.5665773661924163e-06,
+      "timestamp": "2026-10-19 12:26"
+    },
+    {
+      "rank": 10,
+      "name": "Osmosis",
+      "symbol": "OSMO",
+      "price_btc": 7.30375504380133e-07,
+      "timestamp": "2026-10-19 12:26"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012760859986146414,
+      "timestamp": "2026-10-19 12:26"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009648920863044479,
+      "timestamp": "2026-10-19 12:26"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2170153913664615e-05,
+      "timestamp": "2026-10-19 12:26"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.5891402398740513e-05,
+      "timestamp": "2026-10-19 12:26"
+    },
+    {
+      "rank": 15,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 2.404417098622745e-06,
+      "timestamp": "2026-10-19 12:26"
+    }
   ]
 }
