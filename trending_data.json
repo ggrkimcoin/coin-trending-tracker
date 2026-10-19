@@ -1027091,5 +1027091,112 @@
       "price_btc": 0.00010135779739265318,
       "timestamp": "2026-10-18 22:49"
     }
+  ],
+  "2026-10-19 00:53": [
+    {
+      "rank": 1,
+      "name": "Covenant x402",
+      "symbol": "COVENANT",
+      "price_btc": 3.23231065593352e-07,
+      "timestamp": "2026-10-19 00:53"
+    },
+    {
+      "rank": 2,
+      "name": "Tetsuo Super Intelligence",
+      "symbol": "TSI",
+      "price_btc": 2.2156495640789524e-07,
+      "timestamp": "2026-10-19 00:53"
+    },
+    {
+      "rank": 3,
+      "name": "Doge Pepe",
+      "symbol": "DOPE",
+      "price_btc": 3.403259297792872e-07,
+      "timestamp": "2026-10-19 00:53"
+    },
+    {
+      "rank": 4,
+      "name": "Boomer",
+      "symbol": "BOOMER",
+      "price_btc": 2.2288141524318072e-07,
+      "timestamp": "2026-10-19 00:53"
+    },
+    {
+      "rank": 5,
+      "name": "Claudia",
+      "symbol": "CLAUDIA",
+      "price_btc": 2.7409037757465757e-07,
+      "timestamp": "2026-10-19 00:53"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.130697763649654e-08,
+      "timestamp": "2026-10-19 00:53"
+    },
+    {
+      "rank": 7,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0012422336381183192,
+      "timestamp": "2026-10-19 00:53"
+    },
+    {
+      "rank": 8,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.3219833615056825e-05,
+      "timestamp": "2026-10-19 00:53"
+    },
+    {
+      "rank": 9,
+      "name": "hi",
+      "symbol": "HI",
+      "price_btc": 2.420551722707644e-07,
+      "timestamp": "2026-10-19 00:53"
+    },
+    {
+      "rank": 10,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.079282974075543e-05,
+      "timestamp": "2026-10-19 00:53"
+    },
+    {
+      "rank": 11,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0023139261253603905,
+      "timestamp": "2026-10-19 00:53"
+    },
+    {
+      "rank": 12,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.0947941952434126e-08,
+      "timestamp": "2026-10-19 00:53"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012655507466853373,
+      "timestamp": "2026-10-19 00:53"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0032815299403231458,
+      "timestamp": "2026-10-19 00:53"
+    },
+    {
+      "rank": 15,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 7.601344586356754e-06,
+      "timestamp": "2026-10-19 00:53"
+    }
   ]
 }
