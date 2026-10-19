@@ -1027198,5 +1027198,112 @@
       "price_btc": 7.601344586356754e-06,
       "timestamp": "2026-10-19 00:53"
     }
+  ],
+  "2026-10-19 05:49": [
+    {
+      "rank": 1,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 9.613858941340594e-06,
+      "timestamp": "2026-10-19 05:49"
+    },
+    {
+      "rank": 2,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 7.318689223967251e-07,
+      "timestamp": "2026-10-19 05:49"
+    },
+    {
+      "rank": 3,
+      "name": "Quack AI",
+      "symbol": "Q",
+      "price_btc": 2.115898790495569e-06,
+      "timestamp": "2026-10-19 05:49"
+    },
+    {
+      "rank": 4,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.122785915396671e-05,
+      "timestamp": "2026-10-19 05:49"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.190324709247261e-08,
+      "timestamp": "2026-10-19 05:49"
+    },
+    {
+      "rank": 6,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.3771917436197976e-08,
+      "timestamp": "2026-10-19 05:49"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2236789449891825e-05,
+      "timestamp": "2026-10-19 05:49"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009673525419851228,
+      "timestamp": "2026-10-19 05:49"
+    },
+    {
+      "rank": 9,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.278044636986964e-05,
+      "timestamp": "2026-10-19 05:49"
+    },
+    {
+      "rank": 10,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.002378411548941657,
+      "timestamp": "2026-10-19 05:49"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012812589641995437,
+      "timestamp": "2026-10-19 05:49"
+    },
+    {
+      "rank": 12,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.007171537412413259,
+      "timestamp": "2026-10-19 05:49"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0030641367967346,
+      "timestamp": "2026-10-19 05:49"
+    },
+    {
+      "rank": 14,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0012354574214734316,
+      "timestamp": "2026-10-19 05:49"
+    },
+    {
+      "rank": 15,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.3544290897828565e-05,
+      "timestamp": "2026-10-19 05:49"
+    }
   ]
 }
