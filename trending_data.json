@@ -1027519,5 +1027519,112 @@
       "price_btc": 7.091322649982266e-07,
       "timestamp": "2026-10-19 19:05"
     }
+  ],
+  "2026-10-19 23:23": [
+    {
+      "rank": 1,
+      "name": "startupSI",
+      "symbol": "STARTUPSI",
+      "price_btc": 2.7210687917348106e-07,
+      "timestamp": "2026-10-19 23:23"
+    },
+    {
+      "rank": 2,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.411265692741642e-05,
+      "timestamp": "2026-10-19 23:23"
+    },
+    {
+      "rank": 3,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0011345691791573894,
+      "timestamp": "2026-10-19 23:23"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009651153185057704,
+      "timestamp": "2026-10-19 23:23"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9988801306721451,
+      "timestamp": "2026-10-19 23:23"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001279885704783317,
+      "timestamp": "2026-10-19 23:23"
+    },
+    {
+      "rank": 7,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.4046708876299188e-05,
+      "timestamp": "2026-10-19 23:23"
+    },
+    {
+      "rank": 8,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 7.066656767510553e-07,
+      "timestamp": "2026-10-19 23:23"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2137067813166226e-05,
+      "timestamp": "2026-10-19 23:23"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.206673771122949e-08,
+      "timestamp": "2026-10-19 23:23"
+    },
+    {
+      "rank": 11,
+      "name": "STONK",
+      "symbol": "STONK",
+      "price_btc": 1.397735584604156e-06,
+      "timestamp": "2026-10-19 23:23"
+    },
+    {
+      "rank": 12,
+      "name": "ALEO",
+      "symbol": "ALEO",
+      "price_btc": 6.030171129706024e-07,
+      "timestamp": "2026-10-19 23:23"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.0293093878546812,
+      "timestamp": "2026-10-19 23:23"
+    },
+    {
+      "rank": 14,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 9.669177341746387e-06,
+      "timestamp": "2026-10-19 23:23"
+    },
+    {
+      "rank": 15,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.979643493580346e-05,
+      "timestamp": "2026-10-19 23:23"
+    }
   ]
 }
