@@ -1027626,5 +1027626,112 @@
       "price_btc": 5.979643493580346e-05,
       "timestamp": "2026-10-19 23:23"
     }
+  ],
+  "2026-10-20 03:53": [
+    {
+      "rank": 1,
+      "name": "startupSI",
+      "symbol": "STARTUPSI",
+      "price_btc": 2.511518635583966e-07,
+      "timestamp": "2026-10-20 03:53"
+    },
+    {
+      "rank": 2,
+      "name": "Pearl",
+      "symbol": "PRL",
+      "price_btc": 2.363235945121051e-05,
+      "timestamp": "2026-10-20 03:53"
+    },
+    {
+      "rank": 3,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0011001586150700933,
+      "timestamp": "2026-10-20 03:53"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.291533334780276e-08,
+      "timestamp": "2026-10-20 03:53"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012836313150341185,
+      "timestamp": "2026-10-20 03:53"
+    },
+    {
+      "rank": 6,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.922920997590174e-05,
+      "timestamp": "2026-10-20 03:53"
+    },
+    {
+      "rank": 7,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 3.3685382515604194e-06,
+      "timestamp": "2026-10-20 03:53"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 9.879217989082924e-06,
+      "timestamp": "2026-10-20 03:53"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 5.391184239585063e-06,
+      "timestamp": "2026-10-20 03:53"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2202031490661694e-05,
+      "timestamp": "2026-10-20 03:53"
+    },
+    {
+      "rank": 11,
+      "name": "Gitcoin",
+      "symbol": "GTC",
+      "price_btc": 3.946272250472378e-06,
+      "timestamp": "2026-10-20 03:53"
+    },
+    {
+      "rank": 12,
+      "name": "PHALA",
+      "symbol": "PHA",
+      "price_btc": 7.466235850615313e-07,
+      "timestamp": "2026-10-20 03:53"
+    },
+    {
+      "rank": 13,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9999399000456382,
+      "timestamp": "2026-10-20 03:53"
+    },
+    {
+      "rank": 14,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.013997973755588538,
+      "timestamp": "2026-10-20 03:53"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003278678652269873,
+      "timestamp": "2026-10-20 03:53"
+    }
   ]
 }
