@@ -1027947,5 +1027947,112 @@
       "price_btc": 1.0410547530955735e-05,
       "timestamp": "2026-10-20 14:45"
     }
+  ],
+  "2026-10-20 18:59": [
+    {
+      "rank": 1,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.5689772114096838e-05,
+      "timestamp": "2026-10-20 18:59"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.804404938912979e-08,
+      "timestamp": "2026-10-20 18:59"
+    },
+    {
+      "rank": 3,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.037403015567767e-05,
+      "timestamp": "2026-10-20 18:59"
+    },
+    {
+      "rank": 4,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.001038512428935706,
+      "timestamp": "2026-10-20 18:59"
+    },
+    {
+      "rank": 5,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0003083809990112621,
+      "timestamp": "2026-10-20 18:59"
+    },
+    {
+      "rank": 6,
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "price_btc": 4.142622805590826e-06,
+      "timestamp": "2026-10-20 18:59"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0001890302652794,
+      "timestamp": "2026-10-20 18:59"
+    },
+    {
+      "rank": 8,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.9508809004073524e-05,
+      "timestamp": "2026-10-20 18:59"
+    },
+    {
+      "rank": 9,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00010368803413668649,
+      "timestamp": "2026-10-20 18:59"
+    },
+    {
+      "rank": 10,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.58888189750299e-08,
+      "timestamp": "2026-10-20 18:59"
+    },
+    {
+      "rank": 11,
+      "name": "Zama",
+      "symbol": "ZAMA",
+      "price_btc": 8.881831604258924e-07,
+      "timestamp": "2026-10-20 18:59"
+    },
+    {
+      "rank": 12,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.00746727001581354,
+      "timestamp": "2026-10-20 18:59"
+    },
+    {
+      "rank": 13,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 6.857900101571981e-07,
+      "timestamp": "2026-10-20 18:59"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.230215425938572e-05,
+      "timestamp": "2026-10-20 18:59"
+    },
+    {
+      "rank": 15,
+      "name": "PHALA",
+      "symbol": "PHA",
+      "price_btc": 7.049659733479345e-07,
+      "timestamp": "2026-10-20 18:59"
+    }
   ]
 }
