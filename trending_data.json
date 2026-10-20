@@ -1028054,5 +1028054,112 @@
       "price_btc": 7.049659733479345e-07,
       "timestamp": "2026-10-20 18:59"
     }
+  ],
+  "2026-10-20 22:13": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.620355567397197e-08,
+      "timestamp": "2026-10-20 22:13"
+    },
+    {
+      "rank": 2,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.5413590569292178e-05,
+      "timestamp": "2026-10-20 22:13"
+    },
+    {
+      "rank": 3,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0010593368137951937,
+      "timestamp": "2026-10-20 22:13"
+    },
+    {
+      "rank": 4,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.01532898615283938,
+      "timestamp": "2026-10-20 22:13"
+    },
+    {
+      "rank": 5,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.0720744392787322e-05,
+      "timestamp": "2026-10-20 22:13"
+    },
+    {
+      "rank": 6,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0018709051032993753,
+      "timestamp": "2026-10-20 22:13"
+    },
+    {
+      "rank": 7,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 5.425756482151543e-11,
+      "timestamp": "2026-10-20 22:13"
+    },
+    {
+      "rank": 8,
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "price_btc": 4.164934671233719e-06,
+      "timestamp": "2026-10-20 22:13"
+    },
+    {
+      "rank": 9,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.00552566399894e-05,
+      "timestamp": "2026-10-20 22:13"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0003712114910122,
+      "timestamp": "2026-10-20 22:13"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 5.4755877691063625e-06,
+      "timestamp": "2026-10-20 22:13"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02964540268281634,
+      "timestamp": "2026-10-20 22:13"
+    },
+    {
+      "rank": 13,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.104177804132122e-05,
+      "timestamp": "2026-10-20 22:13"
+    },
+    {
+      "rank": 14,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 3.3914908864788127e-06,
+      "timestamp": "2026-10-20 22:13"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2451338805994517e-05,
+      "timestamp": "2026-10-20 22:13"
+    }
   ]
 }
