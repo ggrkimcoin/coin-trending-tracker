@@ -1027733,5 +1027733,112 @@
       "price_btc": 0.003278678652269873,
       "timestamp": "2026-10-20 03:53"
     }
+  ],
+  "2026-10-20 09:14": [
+    {
+      "rank": 1,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0010974552800552587,
+      "timestamp": "2026-10-20 09:14"
+    },
+    {
+      "rank": 2,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.790979505138376e-05,
+      "timestamp": "2026-10-20 09:14"
+    },
+    {
+      "rank": 3,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.4105570488389165e-05,
+      "timestamp": "2026-10-20 09:14"
+    },
+    {
+      "rank": 4,
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "price_btc": 3.958000060453225e-06,
+      "timestamp": "2026-10-20 09:14"
+    },
+    {
+      "rank": 5,
+      "name": "PHALA",
+      "symbol": "PHA",
+      "price_btc": 7.434170670204738e-07,
+      "timestamp": "2026-10-20 09:14"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9989854352150701,
+      "timestamp": "2026-10-20 09:14"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012758218663875894,
+      "timestamp": "2026-10-20 09:14"
+    },
+    {
+      "rank": 8,
+      "name": "Metaplex",
+      "symbol": "MPLX",
+      "price_btc": 1.399098258061705e-06,
+      "timestamp": "2026-10-20 09:14"
+    },
+    {
+      "rank": 9,
+      "name": "GRVT Token",
+      "symbol": "GRVT",
+      "price_btc": 3.184170178451261e-06,
+      "timestamp": "2026-10-20 09:14"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.178935244295411e-08,
+      "timestamp": "2026-10-20 09:14"
+    },
+    {
+      "rank": 11,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00011568828738880093,
+      "timestamp": "2026-10-20 09:14"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02921174172951453,
+      "timestamp": "2026-10-20 09:14"
+    },
+    {
+      "rank": 13,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.013850300004161193,
+      "timestamp": "2026-10-20 09:14"
+    },
+    {
+      "rank": 14,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.002354006053226124,
+      "timestamp": "2026-10-20 09:14"
+    },
+    {
+      "rank": 15,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00010416646257666566,
+      "timestamp": "2026-10-20 09:14"
+    }
   ]
 }
