@@ -1028375,5 +1028375,112 @@
       "price_btc": 1.0214525561456231e-05,
       "timestamp": "2026-10-21 07:11"
     }
+  ],
+  "2026-10-21 13:31": [
+    {
+      "rank": 1,
+      "name": "Universal High Income",
+      "symbol": "UHI",
+      "price_btc": 2.4930754041336e-07,
+      "timestamp": "2026-10-21 13:31"
+    },
+    {
+      "rank": 2,
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "price_btc": 3.882489009696129e-06,
+      "timestamp": "2026-10-21 13:31"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.695685382486429e-08,
+      "timestamp": "2026-10-21 13:31"
+    },
+    {
+      "rank": 4,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.9160407462324632e-05,
+      "timestamp": "2026-10-21 13:31"
+    },
+    {
+      "rank": 5,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0010771125904902481,
+      "timestamp": "2026-10-21 13:31"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9988902380239816,
+      "timestamp": "2026-10-21 13:31"
+    },
+    {
+      "rank": 7,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.0771500785675515e-05,
+      "timestamp": "2026-10-21 13:31"
+    },
+    {
+      "rank": 8,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0003124358043413626,
+      "timestamp": "2026-10-21 13:31"
+    },
+    {
+      "rank": 9,
+      "name": "Orbio.so",
+      "symbol": "ORBIO",
+      "price_btc": 5.623164944136659e-07,
+      "timestamp": "2026-10-21 13:31"
+    },
+    {
+      "rank": 10,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.034339769435545e-05,
+      "timestamp": "2026-10-21 13:31"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02960785228138665,
+      "timestamp": "2026-10-21 13:31"
+    },
+    {
+      "rank": 12,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.331080740443716e-05,
+      "timestamp": "2026-10-21 13:31"
+    },
+    {
+      "rank": 13,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.015772071757707375,
+      "timestamp": "2026-10-21 13:31"
+    },
+    {
+      "rank": 14,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 3.466036892299384e-06,
+      "timestamp": "2026-10-21 13:31"
+    },
+    {
+      "rank": 15,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.002350697115292701,
+      "timestamp": "2026-10-21 13:31"
+    }
   ]
 }
