@@ -1028161,5 +1028161,112 @@
       "price_btc": 1.2451338805994517e-05,
       "timestamp": "2026-10-20 22:13"
     }
+  ],
+  "2026-10-21 01:21": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.564097375619163e-08,
+      "timestamp": "2026-10-21 01:21"
+    },
+    {
+      "rank": 2,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2412719959395845e-05,
+      "timestamp": "2026-10-21 01:21"
+    },
+    {
+      "rank": 3,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.001064717958410415,
+      "timestamp": "2026-10-21 01:21"
+    },
+    {
+      "rank": 4,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.00031688581486005317,
+      "timestamp": "2026-10-21 01:21"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.5704587225541024e-05,
+      "timestamp": "2026-10-21 01:21"
+    },
+    {
+      "rank": 6,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.007010627723330213,
+      "timestamp": "2026-10-21 01:21"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9985806861312796,
+      "timestamp": "2026-10-21 01:21"
+    },
+    {
+      "rank": 8,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.8247312909589896e-08,
+      "timestamp": "2026-10-21 01:21"
+    },
+    {
+      "rank": 9,
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "price_btc": 4.161871044959387e-06,
+      "timestamp": "2026-10-21 01:21"
+    },
+    {
+      "rank": 10,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.0532879003722369e-05,
+      "timestamp": "2026-10-21 01:21"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009760334611850249,
+      "timestamp": "2026-10-21 01:21"
+    },
+    {
+      "rank": 12,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 7.671859733287423e-06,
+      "timestamp": "2026-10-21 01:21"
+    },
+    {
+      "rank": 13,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 3.773316135702329e-06,
+      "timestamp": "2026-10-21 01:21"
+    },
+    {
+      "rank": 14,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.015329264857299773,
+      "timestamp": "2026-10-21 01:21"
+    },
+    {
+      "rank": 15,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.9874366217474704e-05,
+      "timestamp": "2026-10-21 01:21"
+    }
   ]
 }
