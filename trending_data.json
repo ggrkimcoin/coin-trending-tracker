@@ -1028482,5 +1028482,112 @@
       "price_btc": 0.002350697115292701,
       "timestamp": "2026-10-21 13:31"
     }
+  ],
+  "2026-10-21 18:26": [
+    {
+      "rank": 1,
+      "name": "Universal High Income",
+      "symbol": "UHI",
+      "price_btc": 2.77882618472094e-07,
+      "timestamp": "2026-10-21 18:26"
+    },
+    {
+      "rank": 2,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 1.0187458726246192e-05,
+      "timestamp": "2026-10-21 18:26"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.87937498899466e-08,
+      "timestamp": "2026-10-21 18:26"
+    },
+    {
+      "rank": 4,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.637741020269009e-05,
+      "timestamp": "2026-10-21 18:26"
+    },
+    {
+      "rank": 5,
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "price_btc": 3.1651965486427192e-06,
+      "timestamp": "2026-10-21 18:26"
+    },
+    {
+      "rank": 6,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.01603680554699459,
+      "timestamp": "2026-10-21 18:26"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0001276045770846,
+      "timestamp": "2026-10-21 18:26"
+    },
+    {
+      "rank": 8,
+      "name": "Zama",
+      "symbol": "ZAMA",
+      "price_btc": 9.959082624906658e-07,
+      "timestamp": "2026-10-21 18:26"
+    },
+    {
+      "rank": 9,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0024180422108752986,
+      "timestamp": "2026-10-21 18:26"
+    },
+    {
+      "rank": 10,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 3.45985714822775e-06,
+      "timestamp": "2026-10-21 18:26"
+    },
+    {
+      "rank": 11,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.4921700008215725e-05,
+      "timestamp": "2026-10-21 18:26"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.6503802554856598e-05,
+      "timestamp": "2026-10-21 18:26"
+    },
+    {
+      "rank": 13,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 7.6186072448311e-07,
+      "timestamp": "2026-10-21 18:26"
+    },
+    {
+      "rank": 14,
+      "name": "IOST",
+      "symbol": "IOST",
+      "price_btc": 2.1111693028027022e-08,
+      "timestamp": "2026-10-21 18:26"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02972302078982298,
+      "timestamp": "2026-10-21 18:26"
+    }
   ]
 }
