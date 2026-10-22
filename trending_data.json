@@ -1029124,5 +1029124,112 @@
       "price_btc": 5.6274349346786406e-08,
       "timestamp": "2026-10-22 18:22"
     }
+  ],
+  "2026-10-22 22:09": [
+    {
+      "rank": 1,
+      "name": "Universal High Income",
+      "symbol": "UHI",
+      "price_btc": 3.2490698637438887e-07,
+      "timestamp": "2026-10-22 22:09"
+    },
+    {
+      "rank": 2,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.98476596592723e-07,
+      "timestamp": "2026-10-22 22:09"
+    },
+    {
+      "rank": 3,
+      "name": "OnlyAgent",
+      "symbol": "OA",
+      "price_btc": 2.129947999471206e-07,
+      "timestamp": "2026-10-22 22:09"
+    },
+    {
+      "rank": 4,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.690515674061356e-05,
+      "timestamp": "2026-10-22 22:09"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.594953169005219e-08,
+      "timestamp": "2026-10-22 22:09"
+    },
+    {
+      "rank": 6,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.026006931432174e-05,
+      "timestamp": "2026-10-22 22:09"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012721313054828653,
+      "timestamp": "2026-10-22 22:09"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 9.75229688289118e-06,
+      "timestamp": "2026-10-22 22:09"
+    },
+    {
+      "rank": 9,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 6.6835120387991615e-06,
+      "timestamp": "2026-10-22 22:09"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.198876197449364e-05,
+      "timestamp": "2026-10-22 22:09"
+    },
+    {
+      "rank": 11,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00011198373261063595,
+      "timestamp": "2026-10-22 22:09"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9995458457269061,
+      "timestamp": "2026-10-22 22:09"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003170073765797548,
+      "timestamp": "2026-10-22 22:09"
+    },
+    {
+      "rank": 14,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.5799383363195554e-07,
+      "timestamp": "2026-10-22 22:09"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009529683964416894,
+      "timestamp": "2026-10-22 22:09"
+    }
   ]
 }
