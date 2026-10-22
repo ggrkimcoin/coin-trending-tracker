@@ -1028696,5 +1028696,112 @@
       "price_btc": 0.0010899438498178237,
       "timestamp": "2026-10-21 22:10"
     }
+  ],
+  "2026-10-22 01:18": [
+    {
+      "rank": 1,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 9.874996507809401e-06,
+      "timestamp": "2026-10-22 01:18"
+    },
+    {
+      "rank": 2,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.299807898588361e-05,
+      "timestamp": "2026-10-22 01:18"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.674403266343676e-08,
+      "timestamp": "2026-10-22 01:18"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012738174835337263,
+      "timestamp": "2026-10-22 01:18"
+    },
+    {
+      "rank": 5,
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "price_btc": 3.438430717233605e-06,
+      "timestamp": "2026-10-22 01:18"
+    },
+    {
+      "rank": 6,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.8223016654969295e-05,
+      "timestamp": "2026-10-22 01:18"
+    },
+    {
+      "rank": 7,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.015762577052064148,
+      "timestamp": "2026-10-22 01:18"
+    },
+    {
+      "rank": 8,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0010950133229701382,
+      "timestamp": "2026-10-22 01:18"
+    },
+    {
+      "rank": 9,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 6.126212161292252e-08,
+      "timestamp": "2026-10-22 01:18"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.000154358999322,
+      "timestamp": "2026-10-22 01:18"
+    },
+    {
+      "rank": 11,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 6.83862215752708e-07,
+      "timestamp": "2026-10-22 01:18"
+    },
+    {
+      "rank": 12,
+      "name": "Orbio.so",
+      "symbol": "ORBIO",
+      "price_btc": 4.628766946322803e-07,
+      "timestamp": "2026-10-22 01:18"
+    },
+    {
+      "rank": 13,
+      "name": "Universal High Income",
+      "symbol": "UHI",
+      "price_btc": 2.494083008115857e-07,
+      "timestamp": "2026-10-22 01:18"
+    },
+    {
+      "rank": 14,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.620699863813877e-05,
+      "timestamp": "2026-10-22 01:18"
+    },
+    {
+      "rank": 15,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0003249444682202015,
+      "timestamp": "2026-10-22 01:18"
+    }
   ]
 }
