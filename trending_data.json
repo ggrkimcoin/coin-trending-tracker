@@ -1029231,5 +1029231,112 @@
       "price_btc": 0.0009529683964416894,
       "timestamp": "2026-10-22 22:09"
     }
+  ],
+  "2026-10-23 01:17": [
+    {
+      "rank": 1,
+      "name": "Universal High Income",
+      "symbol": "UHI",
+      "price_btc": 3.6573682453828394e-07,
+      "timestamp": "2026-10-23 01:17"
+    },
+    {
+      "rank": 2,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.6692518554807434e-07,
+      "timestamp": "2026-10-23 01:17"
+    },
+    {
+      "rank": 3,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 9.630363429469752e-06,
+      "timestamp": "2026-10-23 01:17"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9977323443280095,
+      "timestamp": "2026-10-23 01:17"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.587147519772756e-08,
+      "timestamp": "2026-10-23 01:17"
+    },
+    {
+      "rank": 6,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 8.593714117223596e-05,
+      "timestamp": "2026-10-23 01:17"
+    },
+    {
+      "rank": 7,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.0085594938817034e-05,
+      "timestamp": "2026-10-23 01:17"
+    },
+    {
+      "rank": 8,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.6859040823125972e-05,
+      "timestamp": "2026-10-23 01:17"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.606744020190889e-05,
+      "timestamp": "2026-10-23 01:17"
+    },
+    {
+      "rank": 10,
+      "name": "OnlyAgent",
+      "symbol": "OA",
+      "price_btc": 2.24756413927269e-07,
+      "timestamp": "2026-10-23 01:17"
+    },
+    {
+      "rank": 11,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 3.05535976089814e-06,
+      "timestamp": "2026-10-23 01:17"
+    },
+    {
+      "rank": 12,
+      "name": "Bitlayer",
+      "symbol": "BTR",
+      "price_btc": 8.363443336298264e-07,
+      "timestamp": "2026-10-23 01:17"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009514416861648083,
+      "timestamp": "2026-10-23 01:17"
+    },
+    {
+      "rank": 14,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 6.727063549214183e-06,
+      "timestamp": "2026-10-23 01:17"
+    },
+    {
+      "rank": 15,
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "price_btc": 4.296045646021855e-06,
+      "timestamp": "2026-10-23 01:17"
+    }
   ]
 }
