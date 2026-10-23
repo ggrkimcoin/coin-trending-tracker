@@ -1029445,5 +1029445,112 @@
       "price_btc": 2.4623296322025883e-06,
       "timestamp": "2026-10-23 07:05"
     }
+  ],
+  "2026-10-23 13:09": [
+    {
+      "rank": 1,
+      "name": "Universal High Income",
+      "symbol": "UHI",
+      "price_btc": 4.5370640227266417e-07,
+      "timestamp": "2026-10-23 13:09"
+    },
+    {
+      "rank": 2,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.409795697460726e-07,
+      "timestamp": "2026-10-23 13:09"
+    },
+    {
+      "rank": 3,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 6.20128825324963e-11,
+      "timestamp": "2026-10-23 13:09"
+    },
+    {
+      "rank": 4,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.007440246477106687,
+      "timestamp": "2026-10-23 13:09"
+    },
+    {
+      "rank": 5,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 6.051427109179006e-05,
+      "timestamp": "2026-10-23 13:09"
+    },
+    {
+      "rank": 6,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.549250067853827e-05,
+      "timestamp": "2026-10-23 13:09"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.942351816994e-08,
+      "timestamp": "2026-10-23 13:09"
+    },
+    {
+      "rank": 8,
+      "name": "Irys",
+      "symbol": "IRYS",
+      "price_btc": 4.890764699454914e-07,
+      "timestamp": "2026-10-23 13:09"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9997912257657767,
+      "timestamp": "2026-10-23 13:09"
+    },
+    {
+      "rank": 10,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 3.1551448024436756e-06,
+      "timestamp": "2026-10-23 13:09"
+    },
+    {
+      "rank": 11,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 9.578643787001138e-06,
+      "timestamp": "2026-10-23 13:09"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0031851421496702894,
+      "timestamp": "2026-10-23 13:09"
+    },
+    {
+      "rank": 13,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.015076090887059806,
+      "timestamp": "2026-10-23 13:09"
+    },
+    {
+      "rank": 14,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 4.634510990786883e-06,
+      "timestamp": "2026-10-23 13:09"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.2197722923859732e-05,
+      "timestamp": "2026-10-23 13:09"
+    }
   ]
 }
