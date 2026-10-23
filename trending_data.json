@@ -1029338,5 +1029338,112 @@
       "price_btc": 4.296045646021855e-06,
       "timestamp": "2026-10-23 01:17"
     }
+  ],
+  "2026-10-23 07:05": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9989906948509477,
+      "timestamp": "2026-10-23 07:05"
+    },
+    {
+      "rank": 2,
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "price_btc": 3.3557128491452973e-06,
+      "timestamp": "2026-10-23 07:05"
+    },
+    {
+      "rank": 3,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0010885178499848405,
+      "timestamp": "2026-10-23 07:05"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.720577787483164e-08,
+      "timestamp": "2026-10-23 07:05"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.5235883388417868e-05,
+      "timestamp": "2026-10-23 07:05"
+    },
+    {
+      "rank": 6,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.68232285898534e-08,
+      "timestamp": "2026-10-23 07:05"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02939746281247433,
+      "timestamp": "2026-10-23 07:05"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.6219777082810973e-05,
+      "timestamp": "2026-10-23 07:05"
+    },
+    {
+      "rank": 9,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.01506145138058991,
+      "timestamp": "2026-10-23 07:05"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 5.634382731195461e-11,
+      "timestamp": "2026-10-23 07:05"
+    },
+    {
+      "rank": 11,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.000321979719894288,
+      "timestamp": "2026-10-23 07:05"
+    },
+    {
+      "rank": 12,
+      "name": "Akedo",
+      "symbol": "AKE",
+      "price_btc": 3.770579939522071e-07,
+      "timestamp": "2026-10-23 07:05"
+    },
+    {
+      "rank": 13,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.191211671658062e-05,
+      "timestamp": "2026-10-23 07:05"
+    },
+    {
+      "rank": 14,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 4.6570066348136074e-07,
+      "timestamp": "2026-10-23 07:05"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.4623296322025883e-06,
+      "timestamp": "2026-10-23 07:05"
+    }
   ]
 }
