@@ -1029659,5 +1029659,112 @@
       "price_btc": 0.02951808237486855,
       "timestamp": "2026-10-23 18:08"
     }
+  ],
+  "2026-10-23 21:53": [
+    {
+      "rank": 1,
+      "name": "Universal High Income",
+      "symbol": "UHI",
+      "price_btc": 4.0872808133844616e-07,
+      "timestamp": "2026-10-23 21:53"
+    },
+    {
+      "rank": 2,
+      "name": "Irys",
+      "symbol": "IRYS",
+      "price_btc": 9.171002181744502e-07,
+      "timestamp": "2026-10-23 21:53"
+    },
+    {
+      "rank": 3,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.309857704815552e-07,
+      "timestamp": "2026-10-23 21:53"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9996989655792622,
+      "timestamp": "2026-10-23 21:53"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02948283712447302,
+      "timestamp": "2026-10-23 21:53"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.616294823542615e-08,
+      "timestamp": "2026-10-23 21:53"
+    },
+    {
+      "rank": 7,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 5.694571895654311e-11,
+      "timestamp": "2026-10-23 21:53"
+    },
+    {
+      "rank": 8,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.499598132476803e-05,
+      "timestamp": "2026-10-23 21:53"
+    },
+    {
+      "rank": 9,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 9.15015443992162e-06,
+      "timestamp": "2026-10-23 21:53"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012753424154000345,
+      "timestamp": "2026-10-23 21:53"
+    },
+    {
+      "rank": 11,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 6.143788395855125e-07,
+      "timestamp": "2026-10-23 21:53"
+    },
+    {
+      "rank": 12,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.2374744730734164e-05,
+      "timestamp": "2026-10-23 21:53"
+    },
+    {
+      "rank": 13,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0003076420522341717,
+      "timestamp": "2026-10-23 21:53"
+    },
+    {
+      "rank": 14,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 2.631838052116724e-06,
+      "timestamp": "2026-10-23 21:53"
+    },
+    {
+      "rank": 15,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.505010369872665e-08,
+      "timestamp": "2026-10-23 21:53"
+    }
   ]
 }
