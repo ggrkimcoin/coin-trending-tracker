@@ -1029552,5 +1029552,112 @@
       "price_btc": 1.2197722923859732e-05,
       "timestamp": "2026-10-23 13:09"
     }
+  ],
+  "2026-10-23 18:08": [
+    {
+      "rank": 1,
+      "name": "Universal High Income",
+      "symbol": "UHI",
+      "price_btc": 5.024844755993856e-07,
+      "timestamp": "2026-10-23 18:08"
+    },
+    {
+      "rank": 2,
+      "name": "Irys",
+      "symbol": "IRYS",
+      "price_btc": 1.4508385509165303e-06,
+      "timestamp": "2026-10-23 18:08"
+    },
+    {
+      "rank": 3,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.5498074255427196e-07,
+      "timestamp": "2026-10-23 18:08"
+    },
+    {
+      "rank": 4,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.4594126449326608e-05,
+      "timestamp": "2026-10-23 18:08"
+    },
+    {
+      "rank": 5,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 5.85873353829176e-11,
+      "timestamp": "2026-10-23 18:08"
+    },
+    {
+      "rank": 6,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 1.791025569615593e-06,
+      "timestamp": "2026-10-23 18:08"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009612117586874752,
+      "timestamp": "2026-10-23 18:08"
+    },
+    {
+      "rank": 8,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 9.376433328207682e-06,
+      "timestamp": "2026-10-23 18:08"
+    },
+    {
+      "rank": 9,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.841814324064154e-08,
+      "timestamp": "2026-10-23 18:08"
+    },
+    {
+      "rank": 10,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0010687498208215313,
+      "timestamp": "2026-10-23 18:08"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.5955401981780085e-06,
+      "timestamp": "2026-10-23 18:08"
+    },
+    {
+      "rank": 12,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 8.783886781971355e-05,
+      "timestamp": "2026-10-23 18:08"
+    },
+    {
+      "rank": 13,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0003123301043040928,
+      "timestamp": "2026-10-23 18:08"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0001946370122543,
+      "timestamp": "2026-10-23 18:08"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02951808237486855,
+      "timestamp": "2026-10-23 18:08"
+    }
   ]
 }
