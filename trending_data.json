@@ -1029980,5 +1029980,112 @@
       "price_btc": 2.9625074706978054e-06,
       "timestamp": "2026-10-24 05:28"
     }
+  ],
+  "2026-10-24 10:28": [
+    {
+      "rank": 1,
+      "name": "Universal High Income",
+      "symbol": "UHI",
+      "price_btc": 3.701447466289274e-07,
+      "timestamp": "2026-10-24 10:28"
+    },
+    {
+      "rank": 2,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.2576035935453677e-07,
+      "timestamp": "2026-10-24 10:28"
+    },
+    {
+      "rank": 3,
+      "name": "Binance Super CZ",
+      "symbol": "BSC",
+      "price_btc": 2.2635413514619998e-07,
+      "timestamp": "2026-10-24 10:28"
+    },
+    {
+      "rank": 4,
+      "name": "Orderly",
+      "symbol": "ORDER",
+      "price_btc": 1.0451719655125517e-06,
+      "timestamp": "2026-10-24 10:28"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.492212976666985e-08,
+      "timestamp": "2026-10-24 10:28"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009362401261982246,
+      "timestamp": "2026-10-24 10:28"
+    },
+    {
+      "rank": 7,
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "price_btc": 3.378924497984364e-06,
+      "timestamp": "2026-10-24 10:28"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9992513980873998,
+      "timestamp": "2026-10-24 10:28"
+    },
+    {
+      "rank": 9,
+      "name": "Irys",
+      "symbol": "IRYS",
+      "price_btc": 7.875108823696061e-07,
+      "timestamp": "2026-10-24 10:28"
+    },
+    {
+      "rank": 10,
+      "name": "Moonbirds",
+      "symbol": "BIRB",
+      "price_btc": 1.9488606327134194e-06,
+      "timestamp": "2026-10-24 10:28"
+    },
+    {
+      "rank": 11,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.467602853824633e-05,
+      "timestamp": "2026-10-24 10:28"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 5.4289839840039314e-11,
+      "timestamp": "2026-10-24 10:28"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.350157896177166e-06,
+      "timestamp": "2026-10-24 10:28"
+    },
+    {
+      "rank": 14,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0010179370510882777,
+      "timestamp": "2026-10-24 10:28"
+    },
+    {
+      "rank": 15,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 8.486840188057465e-05,
+      "timestamp": "2026-10-24 10:28"
+    }
   ]
 }
