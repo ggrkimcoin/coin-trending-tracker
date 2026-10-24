@@ -1030301,5 +1030301,112 @@
       "price_btc": 1.1494688604215294e-05,
       "timestamp": "2026-10-24 17:55"
     }
+  ],
+  "2026-10-24 20:24": [
+    {
+      "rank": 1,
+      "name": "Universal High Income",
+      "symbol": "UHI",
+      "price_btc": 3.9236933251374414e-07,
+      "timestamp": "2026-10-24 20:24"
+    },
+    {
+      "rank": 2,
+      "name": "Binance Super CZ",
+      "symbol": "BSC",
+      "price_btc": 2.6385269879532e-07,
+      "timestamp": "2026-10-24 20:24"
+    },
+    {
+      "rank": 3,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.766951340739746e-07,
+      "timestamp": "2026-10-24 20:24"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.439314497242302e-08,
+      "timestamp": "2026-10-24 20:24"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009478324345908274,
+      "timestamp": "2026-10-24 20:24"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9999138173815418,
+      "timestamp": "2026-10-24 20:24"
+    },
+    {
+      "rank": 7,
+      "name": "Tether",
+      "symbol": "USDT",
+      "price_btc": 1.2411629790110786e-05,
+      "timestamp": "2026-10-24 20:24"
+    },
+    {
+      "rank": 8,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.575247368669255e-05,
+      "timestamp": "2026-10-24 20:24"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012598456128616196,
+      "timestamp": "2026-10-24 20:24"
+    },
+    {
+      "rank": 10,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.3710918527478905e-05,
+      "timestamp": "2026-10-24 20:24"
+    },
+    {
+      "rank": 11,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.695201030936478e-06,
+      "timestamp": "2026-10-24 20:24"
+    },
+    {
+      "rank": 12,
+      "name": "Irys",
+      "symbol": "IRYS",
+      "price_btc": 5.542506914483334e-07,
+      "timestamp": "2026-10-24 20:24"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0017034248973421425,
+      "timestamp": "2026-10-24 20:24"
+    },
+    {
+      "rank": 14,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 2.5686037806870767e-06,
+      "timestamp": "2026-10-24 20:24"
+    },
+    {
+      "rank": 15,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 4.604457080410509e-06,
+      "timestamp": "2026-10-24 20:24"
+    }
   ]
 }
