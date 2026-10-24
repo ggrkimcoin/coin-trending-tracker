@@ -1029873,5 +1029873,112 @@
       "price_btc": 2.223035351813458e-05,
       "timestamp": "2026-10-24 00:20"
     }
+  ],
+  "2026-10-24 05:28": [
+    {
+      "rank": 1,
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "price_btc": 4.199509533153792e-06,
+      "timestamp": "2026-10-24 05:28"
+    },
+    {
+      "rank": 2,
+      "name": "Bubblemaps",
+      "symbol": "BMT",
+      "price_btc": 5.129385206292636e-07,
+      "timestamp": "2026-10-24 05:28"
+    },
+    {
+      "rank": 3,
+      "name": "Irys",
+      "symbol": "IRYS",
+      "price_btc": 1.0715963274699878e-06,
+      "timestamp": "2026-10-24 05:28"
+    },
+    {
+      "rank": 4,
+      "name": "Moonbirds",
+      "symbol": "BIRB",
+      "price_btc": 2.1373077979379146e-06,
+      "timestamp": "2026-10-24 05:28"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.4644929658382133e-05,
+      "timestamp": "2026-10-24 05:28"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9986369077645478,
+      "timestamp": "2026-10-24 05:28"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.517739202528285e-08,
+      "timestamp": "2026-10-24 05:28"
+    },
+    {
+      "rank": 8,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.717815124151294e-05,
+      "timestamp": "2026-10-24 05:28"
+    },
+    {
+      "rank": 9,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 9.032295475858557e-06,
+      "timestamp": "2026-10-24 05:28"
+    },
+    {
+      "rank": 10,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0003073256252465475,
+      "timestamp": "2026-10-24 05:28"
+    },
+    {
+      "rank": 11,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price_btc": 9.705246450831615e-07,
+      "timestamp": "2026-10-24 05:28"
+    },
+    {
+      "rank": 12,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.260981581387728e-08,
+      "timestamp": "2026-10-24 05:28"
+    },
+    {
+      "rank": 13,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 8.007711475147875e-06,
+      "timestamp": "2026-10-24 05:28"
+    },
+    {
+      "rank": 14,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001461592542892901,
+      "timestamp": "2026-10-24 05:28"
+    },
+    {
+      "rank": 15,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 2.9625074706978054e-06,
+      "timestamp": "2026-10-24 05:28"
+    }
   ]
 }
