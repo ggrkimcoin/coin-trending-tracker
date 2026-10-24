@@ -1030087,5 +1030087,112 @@
       "price_btc": 8.486840188057465e-05,
       "timestamp": "2026-10-24 10:28"
     }
+  ],
+  "2026-10-24 14:18": [
+    {
+      "rank": 1,
+      "name": "Universal High Income",
+      "symbol": "UHI",
+      "price_btc": 3.6280246445629785e-07,
+      "timestamp": "2026-10-24 14:18"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009412445247741597,
+      "timestamp": "2026-10-24 14:18"
+    },
+    {
+      "rank": 3,
+      "name": "Binance Super CZ",
+      "symbol": "BSC",
+      "price_btc": 2.5655609653456e-07,
+      "timestamp": "2026-10-24 14:18"
+    },
+    {
+      "rank": 4,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.486059414327602e-07,
+      "timestamp": "2026-10-24 14:18"
+    },
+    {
+      "rank": 5,
+      "name": "Irys",
+      "symbol": "IRYS",
+      "price_btc": 7.243060038661087e-07,
+      "timestamp": "2026-10-24 14:18"
+    },
+    {
+      "rank": 6,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.296934231500721e-05,
+      "timestamp": "2026-10-24 14:18"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00125469287706343,
+      "timestamp": "2026-10-24 14:18"
+    },
+    {
+      "rank": 8,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.3212124062909713e-06,
+      "timestamp": "2026-10-24 14:18"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1678760339932543e-05,
+      "timestamp": "2026-10-24 14:18"
+    },
+    {
+      "rank": 10,
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "price_btc": 3.3753679301773317e-06,
+      "timestamp": "2026-10-24 14:18"
+    },
+    {
+      "rank": 11,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9992273887820268,
+      "timestamp": "2026-10-24 14:18"
+    },
+    {
+      "rank": 12,
+      "name": "Orderly",
+      "symbol": "ORDER",
+      "price_btc": 9.218121797321014e-07,
+      "timestamp": "2026-10-24 14:18"
+    },
+    {
+      "rank": 13,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.481817978441218e-05,
+      "timestamp": "2026-10-24 14:18"
+    },
+    {
+      "rank": 14,
+      "name": "Tether",
+      "symbol": "USDT",
+      "price_btc": 1.2380105858690239e-05,
+      "timestamp": "2026-10-24 14:18"
+    },
+    {
+      "rank": 15,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 5.938982694565543e-07,
+      "timestamp": "2026-10-24 14:18"
+    }
   ]
 }
