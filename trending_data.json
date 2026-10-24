@@ -1029766,5 +1029766,112 @@
       "price_btc": 5.505010369872665e-08,
       "timestamp": "2026-10-23 21:53"
     }
+  ],
+  "2026-10-24 00:20": [
+    {
+      "rank": 1,
+      "name": "Irys",
+      "symbol": "IRYS",
+      "price_btc": 1.1644305568113628e-06,
+      "timestamp": "2026-10-24 00:20"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.550619626782972e-08,
+      "timestamp": "2026-10-24 00:20"
+    },
+    {
+      "rank": 3,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.857327338464312e-05,
+      "timestamp": "2026-10-24 00:20"
+    },
+    {
+      "rank": 4,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0010844127591264137,
+      "timestamp": "2026-10-24 00:20"
+    },
+    {
+      "rank": 5,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 4.869376804994505e-06,
+      "timestamp": "2026-10-24 00:20"
+    },
+    {
+      "rank": 6,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.777340766286727e-05,
+      "timestamp": "2026-10-24 00:20"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9990373193258133,
+      "timestamp": "2026-10-24 00:20"
+    },
+    {
+      "rank": 8,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 2.1369712810252973e-05,
+      "timestamp": "2026-10-24 00:20"
+    },
+    {
+      "rank": 9,
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "price_btc": 4.108752406302576e-06,
+      "timestamp": "2026-10-24 00:20"
+    },
+    {
+      "rank": 10,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.002232794674703833,
+      "timestamp": "2026-10-24 00:20"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1850664008592498e-05,
+      "timestamp": "2026-10-24 00:20"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 5.152477727937283e-06,
+      "timestamp": "2026-10-24 00:20"
+    },
+    {
+      "rank": 13,
+      "name": "Algorand",
+      "symbol": "ALGO",
+      "price_btc": 1.306328465225211e-06,
+      "timestamp": "2026-10-24 00:20"
+    },
+    {
+      "rank": 14,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.4275335405919407e-06,
+      "timestamp": "2026-10-24 00:20"
+    },
+    {
+      "rank": 15,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.223035351813458e-05,
+      "timestamp": "2026-10-24 00:20"
+    }
   ]
 }
