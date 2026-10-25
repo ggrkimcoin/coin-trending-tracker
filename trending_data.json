@@ -1030515,5 +1030515,112 @@
       "price_btc": 1.0000736919735438,
       "timestamp": "2026-10-24 22:57"
     }
+  ],
+  "2026-10-25 00:58": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009490085380428811,
+      "timestamp": "2026-10-25 00:58"
+    },
+    {
+      "rank": 2,
+      "name": "Binance Super CZ",
+      "symbol": "BSC",
+      "price_btc": 2.4996284987322e-07,
+      "timestamp": "2026-10-25 00:58"
+    },
+    {
+      "rank": 3,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.4190185568135743e-06,
+      "timestamp": "2026-10-25 00:58"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012666579877304873,
+      "timestamp": "2026-10-25 00:58"
+    },
+    {
+      "rank": 5,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0009612233959843956,
+      "timestamp": "2026-10-25 00:58"
+    },
+    {
+      "rank": 6,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.5734347999664355e-05,
+      "timestamp": "2026-10-25 00:58"
+    },
+    {
+      "rank": 7,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.344636102623899e-08,
+      "timestamp": "2026-10-25 00:58"
+    },
+    {
+      "rank": 8,
+      "name": "Irys",
+      "symbol": "IRYS",
+      "price_btc": 4.215956675506856e-07,
+      "timestamp": "2026-10-25 00:58"
+    },
+    {
+      "rank": 9,
+      "name": "Orderly",
+      "symbol": "ORDER",
+      "price_btc": 7.136814747983986e-07,
+      "timestamp": "2026-10-25 00:58"
+    },
+    {
+      "rank": 10,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0022512333710358852,
+      "timestamp": "2026-10-25 00:58"
+    },
+    {
+      "rank": 11,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.007615697973441574,
+      "timestamp": "2026-10-25 00:58"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9995841536775364,
+      "timestamp": "2026-10-25 00:58"
+    },
+    {
+      "rank": 13,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001438397826153394,
+      "timestamp": "2026-10-25 00:58"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.029186586484359678,
+      "timestamp": "2026-10-25 00:58"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.639331210391361e-06,
+      "timestamp": "2026-10-25 00:58"
+    }
   ]
 }
