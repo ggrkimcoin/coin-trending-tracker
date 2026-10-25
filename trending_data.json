@@ -1030836,5 +1030836,112 @@
       "price_btc": 0.0030741104324157075,
       "timestamp": "2026-10-25 10:55"
     }
+  ],
+  "2026-10-25 14:52": [
+    {
+      "rank": 1,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.5630073835220373e-07,
+      "timestamp": "2026-10-25 14:52"
+    },
+    {
+      "rank": 2,
+      "name": "evmzone",
+      "symbol": "EVMZONE",
+      "price_btc": 2.6916807240920306e-07,
+      "timestamp": "2026-10-25 14:52"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.184527402314134e-08,
+      "timestamp": "2026-10-25 14:52"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009509292853171367,
+      "timestamp": "2026-10-25 14:52"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.3087422959356715e-05,
+      "timestamp": "2026-10-25 14:52"
+    },
+    {
+      "rank": 6,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.5295669016317346e-05,
+      "timestamp": "2026-10-25 14:52"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0002043744738411,
+      "timestamp": "2026-10-25 14:52"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.029061966907776772,
+      "timestamp": "2026-10-25 14:52"
+    },
+    {
+      "rank": 9,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0009406299498778771,
+      "timestamp": "2026-10-25 14:52"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 5.4776167284980544e-11,
+      "timestamp": "2026-10-25 14:52"
+    },
+    {
+      "rank": 11,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.002295971323418146,
+      "timestamp": "2026-10-25 14:52"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 5.0043324707321e-06,
+      "timestamp": "2026-10-25 14:52"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1339691175629359e-05,
+      "timestamp": "2026-10-25 14:52"
+    },
+    {
+      "rank": 14,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.014976050416704415,
+      "timestamp": "2026-10-25 14:52"
+    },
+    {
+      "rank": 15,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.00030340202181137224,
+      "timestamp": "2026-10-25 14:52"
+    }
   ]
 }
