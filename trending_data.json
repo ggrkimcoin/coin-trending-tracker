@@ -1031050,5 +1031050,112 @@
       "price_btc": 1.2302041602325346e-05,
       "timestamp": "2026-10-25 18:12"
     }
+  ],
+  "2026-10-25 21:30": [
+    {
+      "rank": 1,
+      "name": "Pepina",
+      "symbol": "PEPINA",
+      "price_btc": 2.2537801679614938e-07,
+      "timestamp": "2026-10-25 21:30"
+    },
+    {
+      "rank": 2,
+      "name": "evmzone",
+      "symbol": "EVMZONE",
+      "price_btc": 1.841839557692218e-07,
+      "timestamp": "2026-10-25 21:30"
+    },
+    {
+      "rank": 3,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.1379045125242099e-07,
+      "timestamp": "2026-10-25 21:30"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9993420750077477,
+      "timestamp": "2026-10-25 21:30"
+    },
+    {
+      "rank": 5,
+      "name": "STONK",
+      "symbol": "STONK",
+      "price_btc": 1.6552476918265764e-06,
+      "timestamp": "2026-10-25 21:30"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.308310109061071e-08,
+      "timestamp": "2026-10-25 21:30"
+    },
+    {
+      "rank": 7,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0023817279741135686,
+      "timestamp": "2026-10-25 21:30"
+    },
+    {
+      "rank": 8,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.00031484380746347427,
+      "timestamp": "2026-10-25 21:30"
+    },
+    {
+      "rank": 9,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.5546943665480726e-06,
+      "timestamp": "2026-10-25 21:30"
+    },
+    {
+      "rank": 10,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.6920362078661605e-07,
+      "timestamp": "2026-10-25 21:30"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1464228089155628e-05,
+      "timestamp": "2026-10-25 21:30"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.613870140300549e-05,
+      "timestamp": "2026-10-25 21:30"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 5.0472319381559305e-06,
+      "timestamp": "2026-10-25 21:30"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009546891587582213,
+      "timestamp": "2026-10-25 21:30"
+    },
+    {
+      "rank": 15,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 9.788142533904362e-05,
+      "timestamp": "2026-10-25 21:30"
+    }
   ]
 }
