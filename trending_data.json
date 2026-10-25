@@ -1030943,5 +1030943,112 @@
       "price_btc": 0.00030340202181137224,
       "timestamp": "2026-10-25 14:52"
     }
+  ],
+  "2026-10-25 18:12": [
+    {
+      "rank": 1,
+      "name": "evmzone",
+      "symbol": "EVMZONE",
+      "price_btc": 2.569428096140211e-07,
+      "timestamp": "2026-10-25 18:12"
+    },
+    {
+      "rank": 2,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.423616691523855e-07,
+      "timestamp": "2026-10-25 18:12"
+    },
+    {
+      "rank": 3,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.748119966955216e-05,
+      "timestamp": "2026-10-25 18:12"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9985148574700807,
+      "timestamp": "2026-10-25 18:12"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.3207363130493228e-05,
+      "timestamp": "2026-10-25 18:12"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012593243414431936,
+      "timestamp": "2026-10-25 18:12"
+    },
+    {
+      "rank": 7,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.015206285538089254,
+      "timestamp": "2026-10-25 18:12"
+    },
+    {
+      "rank": 8,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 8.572754277611053e-05,
+      "timestamp": "2026-10-25 18:12"
+    },
+    {
+      "rank": 9,
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price_btc": 1.1103657802389734e-06,
+      "timestamp": "2026-10-25 18:12"
+    },
+    {
+      "rank": 10,
+      "name": "Cap",
+      "symbol": "CAP",
+      "price_btc": 1.3311082988242637e-06,
+      "timestamp": "2026-10-25 18:12"
+    },
+    {
+      "rank": 11,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.002460831098735952,
+      "timestamp": "2026-10-25 18:12"
+    },
+    {
+      "rank": 12,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.395858310752574e-08,
+      "timestamp": "2026-10-25 18:12"
+    },
+    {
+      "rank": 13,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.6518207209885377e-07,
+      "timestamp": "2026-10-25 18:12"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0031411173638555934,
+      "timestamp": "2026-10-25 18:12"
+    },
+    {
+      "rank": 15,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.2302041602325346e-05,
+      "timestamp": "2026-10-25 18:12"
+    }
   ]
 }
