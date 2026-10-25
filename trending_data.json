@@ -1030729,5 +1030729,112 @@
       "price_btc": 8.487394387883142e-06,
       "timestamp": "2026-10-25 05:53"
     }
+  ],
+  "2026-10-25 10:55": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009414960878612957,
+      "timestamp": "2026-10-25 10:55"
+    },
+    {
+      "rank": 2,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.797933726657437e-07,
+      "timestamp": "2026-10-25 10:55"
+    },
+    {
+      "rank": 3,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.188793529910545e-05,
+      "timestamp": "2026-10-25 10:55"
+    },
+    {
+      "rank": 4,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.488971642906765e-05,
+      "timestamp": "2026-10-25 10:55"
+    },
+    {
+      "rank": 5,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.6136338610754635e-07,
+      "timestamp": "2026-10-25 10:55"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9995611845169372,
+      "timestamp": "2026-10-25 10:55"
+    },
+    {
+      "rank": 7,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 2.7919941841433063e-06,
+      "timestamp": "2026-10-25 10:55"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.176647052855168e-08,
+      "timestamp": "2026-10-25 10:55"
+    },
+    {
+      "rank": 9,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.1371644001590736e-05,
+      "timestamp": "2026-10-25 10:55"
+    },
+    {
+      "rank": 10,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00010930744280261928,
+      "timestamp": "2026-10-25 10:55"
+    },
+    {
+      "rank": 11,
+      "name": "Celestia",
+      "symbol": "TIA",
+      "price_btc": 6.58683918123937e-06,
+      "timestamp": "2026-10-25 10:55"
+    },
+    {
+      "rank": 12,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 9.416778647226265e-05,
+      "timestamp": "2026-10-25 10:55"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.028964887174600204,
+      "timestamp": "2026-10-25 10:55"
+    },
+    {
+      "rank": 14,
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "price_btc": 3.155715114078002e-06,
+      "timestamp": "2026-10-25 10:55"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030741104324157075,
+      "timestamp": "2026-10-25 10:55"
+    }
   ]
 }
