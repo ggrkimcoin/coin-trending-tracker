@@ -1031157,5 +1031157,112 @@
       "price_btc": 9.788142533904362e-05,
       "timestamp": "2026-10-25 21:30"
     }
+  ],
+  "2026-10-25 23:54": [
+    {
+      "rank": 1,
+      "name": "evmzone",
+      "symbol": "EVMZONE",
+      "price_btc": 2.0815951742624021e-07,
+      "timestamp": "2026-10-25 23:54"
+    },
+    {
+      "rank": 2,
+      "name": "Pepina",
+      "symbol": "PEPINA",
+      "price_btc": 3.5970816824109534e-07,
+      "timestamp": "2026-10-25 23:54"
+    },
+    {
+      "rank": 3,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.0362946686520646e-07,
+      "timestamp": "2026-10-25 23:54"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.312464675692247e-08,
+      "timestamp": "2026-10-25 23:54"
+    },
+    {
+      "rank": 5,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.014928497668516918,
+      "timestamp": "2026-10-25 23:54"
+    },
+    {
+      "rank": 6,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.26699275383291e-08,
+      "timestamp": "2026-10-25 23:54"
+    },
+    {
+      "rank": 7,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.5771901864612804e-06,
+      "timestamp": "2026-10-25 23:54"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 5.32371416443061e-11,
+      "timestamp": "2026-10-25 23:54"
+    },
+    {
+      "rank": 9,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.423137442694113e-06,
+      "timestamp": "2026-10-25 23:54"
+    },
+    {
+      "rank": 10,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.701420658891884e-05,
+      "timestamp": "2026-10-25 23:54"
+    },
+    {
+      "rank": 11,
+      "name": "Canton",
+      "symbol": "CC",
+      "price_btc": 1.2574481853408982e-06,
+      "timestamp": "2026-10-25 23:54"
+    },
+    {
+      "rank": 12,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.3671721120736337e-05,
+      "timestamp": "2026-10-25 23:54"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 5.064963531794337e-06,
+      "timestamp": "2026-10-25 23:54"
+    },
+    {
+      "rank": 14,
+      "name": "ORE",
+      "symbol": "ORE",
+      "price_btc": 0.001955225739865461,
+      "timestamp": "2026-10-25 23:54"
+    },
+    {
+      "rank": 15,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0023605943007803764,
+      "timestamp": "2026-10-25 23:54"
+    }
   ]
 }
