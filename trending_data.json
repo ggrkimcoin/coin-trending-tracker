@@ -1031585,5 +1031585,112 @@
       "price_btc": 2.0887410321780742e-05,
       "timestamp": "2026-10-26 16:35"
     }
+  ],
+  "2026-10-26 21:26": [
+    {
+      "rank": 1,
+      "name": "Big Titty Coin",
+      "symbol": "BTC",
+      "price_btc": 3.1211110429409443e-07,
+      "timestamp": "2026-10-26 21:26"
+    },
+    {
+      "rank": 2,
+      "name": "Quack AI",
+      "symbol": "Q",
+      "price_btc": 1.784617254875272e-06,
+      "timestamp": "2026-10-26 21:26"
+    },
+    {
+      "rank": 3,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.422445112983196e-06,
+      "timestamp": "2026-10-26 21:26"
+    },
+    {
+      "rank": 4,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.3045693515714976e-05,
+      "timestamp": "2026-10-26 21:26"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009683899519972722,
+      "timestamp": "2026-10-26 21:26"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.30118468093038e-08,
+      "timestamp": "2026-10-26 21:26"
+    },
+    {
+      "rank": 7,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.015257350098328525,
+      "timestamp": "2026-10-26 21:26"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 5.1427818214736805e-06,
+      "timestamp": "2026-10-26 21:26"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1340387826655896e-05,
+      "timestamp": "2026-10-26 21:26"
+    },
+    {
+      "rank": 10,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.2223532956712653e-05,
+      "timestamp": "2026-10-26 21:26"
+    },
+    {
+      "rank": 11,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0009414268634754038,
+      "timestamp": "2026-10-26 21:26"
+    },
+    {
+      "rank": 12,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.7335172044905965e-05,
+      "timestamp": "2026-10-26 21:26"
+    },
+    {
+      "rank": 13,
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "price_btc": 3.387273419317413e-06,
+      "timestamp": "2026-10-26 21:26"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9992398556947266,
+      "timestamp": "2026-10-26 21:26"
+    },
+    {
+      "rank": 15,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.00031145005557155973,
+      "timestamp": "2026-10-26 21:26"
+    }
   ]
 }
