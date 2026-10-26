@@ -1031371,5 +1031371,112 @@
       "price_btc": 5.35989611777547e-11,
       "timestamp": "2026-10-26 03:42"
     }
+  ],
+  "2026-10-26 09:50": [
+    {
+      "rank": 1,
+      "name": "Big Titty Coin",
+      "symbol": "BTC",
+      "price_btc": 2.4390345996498097e-07,
+      "timestamp": "2026-10-26 09:50"
+    },
+    {
+      "rank": 2,
+      "name": "Pepina",
+      "symbol": "PEPINA",
+      "price_btc": 2.5114124525767597e-07,
+      "timestamp": "2026-10-26 09:50"
+    },
+    {
+      "rank": 3,
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "price_btc": 3.287560280823735e-06,
+      "timestamp": "2026-10-26 09:50"
+    },
+    {
+      "rank": 4,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.5678328153575774e-06,
+      "timestamp": "2026-10-26 09:50"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.20639909051974e-05,
+      "timestamp": "2026-10-26 09:50"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9994930242663139,
+      "timestamp": "2026-10-26 09:50"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.346068853097322e-08,
+      "timestamp": "2026-10-26 09:50"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.028970088800473498,
+      "timestamp": "2026-10-26 09:50"
+    },
+    {
+      "rank": 9,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.002580988879224423,
+      "timestamp": "2026-10-26 09:50"
+    },
+    {
+      "rank": 10,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.015259479962967384,
+      "timestamp": "2026-10-26 09:50"
+    },
+    {
+      "rank": 11,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0003074319645830112,
+      "timestamp": "2026-10-26 09:50"
+    },
+    {
+      "rank": 12,
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "price_btc": 3.2362726363551886e-05,
+      "timestamp": "2026-10-26 09:50"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.6004827819313615e-05,
+      "timestamp": "2026-10-26 09:50"
+    },
+    {
+      "rank": 14,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.241188889138502e-06,
+      "timestamp": "2026-10-26 09:50"
+    },
+    {
+      "rank": 15,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.6437373452475306e-05,
+      "timestamp": "2026-10-26 09:50"
+    }
   ]
 }
