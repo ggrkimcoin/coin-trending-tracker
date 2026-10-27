@@ -1032013,5 +1032013,112 @@
       "price_btc": 0.002458551733546981,
       "timestamp": "2026-10-27 14:05"
     }
+  ],
+  "2026-10-27 19:52": [
+    {
+      "rank": 1,
+      "name": "Infinity Ground",
+      "symbol": "AIN",
+      "price_btc": 1.9022240528838081e-06,
+      "timestamp": "2026-10-27 19:52"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.544344136055065e-08,
+      "timestamp": "2026-10-27 19:52"
+    },
+    {
+      "rank": 3,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1483620753268043e-05,
+      "timestamp": "2026-10-27 19:52"
+    },
+    {
+      "rank": 4,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.6396892293019607e-05,
+      "timestamp": "2026-10-27 19:52"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.140106042427784e-05,
+      "timestamp": "2026-10-27 19:52"
+    },
+    {
+      "rank": 6,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0024912680644526355,
+      "timestamp": "2026-10-27 19:52"
+    },
+    {
+      "rank": 7,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 4.533623494916551e-06,
+      "timestamp": "2026-10-27 19:52"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9995027130659953,
+      "timestamp": "2026-10-27 19:52"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012526349552287844,
+      "timestamp": "2026-10-27 19:52"
+    },
+    {
+      "rank": 10,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.740536208983685e-05,
+      "timestamp": "2026-10-27 19:52"
+    },
+    {
+      "rank": 11,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.839987585533328e-05,
+      "timestamp": "2026-10-27 19:52"
+    },
+    {
+      "rank": 12,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 3.192789354367812e-06,
+      "timestamp": "2026-10-27 19:52"
+    },
+    {
+      "rank": 13,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014225666939453514,
+      "timestamp": "2026-10-27 19:52"
+    },
+    {
+      "rank": 14,
+      "name": "USD.AI",
+      "symbol": "CHIP",
+      "price_btc": 6.752304897815959e-07,
+      "timestamp": "2026-10-27 19:52"
+    },
+    {
+      "rank": 15,
+      "name": "Osmosis",
+      "symbol": "OSMO",
+      "price_btc": 6.753601330235957e-07,
+      "timestamp": "2026-10-27 19:52"
+    }
   ]
 }
