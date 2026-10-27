@@ -1031692,5 +1031692,112 @@
       "price_btc": 0.00031145005557155973,
       "timestamp": "2026-10-26 21:26"
     }
+  ],
+  "2026-10-27 01:14": [
+    {
+      "rank": 1,
+      "name": "Quack AI",
+      "symbol": "Q",
+      "price_btc": 2.608235635912545e-06,
+      "timestamp": "2026-10-27 01:14"
+    },
+    {
+      "rank": 2,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.6299418276266275e-05,
+      "timestamp": "2026-10-27 01:14"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.354614481579543e-08,
+      "timestamp": "2026-10-27 01:14"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9991915823013051,
+      "timestamp": "2026-10-27 01:14"
+    },
+    {
+      "rank": 5,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.7712401303369706e-05,
+      "timestamp": "2026-10-27 01:14"
+    },
+    {
+      "rank": 6,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.2220961492213088e-05,
+      "timestamp": "2026-10-27 01:14"
+    },
+    {
+      "rank": 7,
+      "name": "Irys",
+      "symbol": "IRYS",
+      "price_btc": 4.102156714343451e-07,
+      "timestamp": "2026-10-27 01:14"
+    },
+    {
+      "rank": 8,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.5650648491248064e-05,
+      "timestamp": "2026-10-27 01:14"
+    },
+    {
+      "rank": 9,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0025392776481838026,
+      "timestamp": "2026-10-27 01:14"
+    },
+    {
+      "rank": 10,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.430273572812086e-06,
+      "timestamp": "2026-10-27 01:14"
+    },
+    {
+      "rank": 11,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.000941872529125196,
+      "timestamp": "2026-10-27 01:14"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000979875551606118,
+      "timestamp": "2026-10-27 01:14"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 5.145129529594369e-06,
+      "timestamp": "2026-10-27 01:14"
+    },
+    {
+      "rank": 14,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 9.928021271001547e-05,
+      "timestamp": "2026-10-27 01:14"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00312709463069663,
+      "timestamp": "2026-10-27 01:14"
+    }
   ]
 }
