@@ -1031799,5 +1031799,112 @@
       "price_btc": 0.00312709463069663,
       "timestamp": "2026-10-27 01:14"
     }
+  ],
+  "2026-10-27 07:26": [
+    {
+      "rank": 1,
+      "name": "Quack AI",
+      "symbol": "Q",
+      "price_btc": 1.7536141614953098e-06,
+      "timestamp": "2026-10-27 07:26"
+    },
+    {
+      "rank": 2,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.191548216427651e-05,
+      "timestamp": "2026-10-27 07:26"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.307147399858941e-08,
+      "timestamp": "2026-10-27 07:26"
+    },
+    {
+      "rank": 4,
+      "name": "Infinity Ground",
+      "symbol": "AIN",
+      "price_btc": 1.4443342414522054e-06,
+      "timestamp": "2026-10-27 07:26"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012499382338234273,
+      "timestamp": "2026-10-27 07:26"
+    },
+    {
+      "rank": 6,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.002549424881328929,
+      "timestamp": "2026-10-27 07:26"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9988302205693083,
+      "timestamp": "2026-10-27 07:26"
+    },
+    {
+      "rank": 8,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.546662447006882e-05,
+      "timestamp": "2026-10-27 07:26"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009735725567710003,
+      "timestamp": "2026-10-27 07:26"
+    },
+    {
+      "rank": 10,
+      "name": "Osmosis",
+      "symbol": "OSMO",
+      "price_btc": 7.833868021827845e-07,
+      "timestamp": "2026-10-27 07:26"
+    },
+    {
+      "rank": 11,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.009224133784678581,
+      "timestamp": "2026-10-27 07:26"
+    },
+    {
+      "rank": 12,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0009380148124711708,
+      "timestamp": "2026-10-27 07:26"
+    },
+    {
+      "rank": 13,
+      "name": "Plume",
+      "symbol": "PLUME",
+      "price_btc": 1.98378705684808e-07,
+      "timestamp": "2026-10-27 07:26"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.003111070916624517,
+      "timestamp": "2026-10-27 07:26"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0016477903488943547,
+      "timestamp": "2026-10-27 07:26"
+    }
   ]
 }
