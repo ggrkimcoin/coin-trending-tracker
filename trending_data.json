@@ -1031906,5 +1031906,112 @@
       "price_btc": 0.0016477903488943547,
       "timestamp": "2026-10-27 07:26"
     }
+  ],
+  "2026-10-27 14:05": [
+    {
+      "rank": 1,
+      "name": "Infinity Ground",
+      "symbol": "AIN",
+      "price_btc": 1.6713618971070569e-06,
+      "timestamp": "2026-10-27 14:05"
+    },
+    {
+      "rank": 2,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.1543129257377656e-05,
+      "timestamp": "2026-10-27 14:05"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9969387253401593,
+      "timestamp": "2026-10-27 14:05"
+    },
+    {
+      "rank": 4,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0009214971107982429,
+      "timestamp": "2026-10-27 14:05"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.338796761348872e-08,
+      "timestamp": "2026-10-27 14:05"
+    },
+    {
+      "rank": 6,
+      "name": "Akash Network",
+      "symbol": "AKT",
+      "price_btc": 8.534113316624906e-06,
+      "timestamp": "2026-10-27 14:05"
+    },
+    {
+      "rank": 7,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.015747903098121983,
+      "timestamp": "2026-10-27 14:05"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012476349348107942,
+      "timestamp": "2026-10-27 14:05"
+    },
+    {
+      "rank": 9,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.619741523376506e-05,
+      "timestamp": "2026-10-27 14:05"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009837115653508347,
+      "timestamp": "2026-10-27 14:05"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.5632762234707063e-06,
+      "timestamp": "2026-10-27 14:05"
+    },
+    {
+      "rank": 12,
+      "name": "Quack AI",
+      "symbol": "Q",
+      "price_btc": 8.793249939788046e-07,
+      "timestamp": "2026-10-27 14:05"
+    },
+    {
+      "rank": 13,
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "price_btc": 3.221076164505229e-07,
+      "timestamp": "2026-10-27 14:05"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.6363264462309554e-05,
+      "timestamp": "2026-10-27 14:05"
+    },
+    {
+      "rank": 15,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.002458551733546981,
+      "timestamp": "2026-10-27 14:05"
+    }
   ]
 }
