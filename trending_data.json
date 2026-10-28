@@ -1032334,5 +1032334,112 @@
       "price_btc": 1.844731339521167e-06,
       "timestamp": "2026-10-28 04:33"
     }
+  ],
+  "2026-10-28 11:02": [
+    {
+      "rank": 1,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 3.5780561306031607e-06,
+      "timestamp": "2026-10-28 11:02"
+    },
+    {
+      "rank": 2,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 6.054254330887636e-11,
+      "timestamp": "2026-10-28 11:02"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.566814950934285e-08,
+      "timestamp": "2026-10-28 11:02"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.998486711879044,
+      "timestamp": "2026-10-28 11:02"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.964553287750707e-05,
+      "timestamp": "2026-10-28 11:02"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010043369057135011,
+      "timestamp": "2026-10-28 11:02"
+    },
+    {
+      "rank": 7,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.016088059973054958,
+      "timestamp": "2026-10-28 11:02"
+    },
+    {
+      "rank": 8,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 5.156765544587118e-06,
+      "timestamp": "2026-10-28 11:02"
+    },
+    {
+      "rank": 9,
+      "name": "Stellar",
+      "symbol": "XLM",
+      "price_btc": 2.106403354164875e-06,
+      "timestamp": "2026-10-28 11:02"
+    },
+    {
+      "rank": 10,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.6005527257729e-06,
+      "timestamp": "2026-10-28 11:02"
+    },
+    {
+      "rank": 11,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0009287249536148229,
+      "timestamp": "2026-10-28 11:02"
+    },
+    {
+      "rank": 12,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.752083459923794e-05,
+      "timestamp": "2026-10-28 11:02"
+    },
+    {
+      "rank": 13,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 5.877717795134918e-07,
+      "timestamp": "2026-10-28 11:02"
+    },
+    {
+      "rank": 14,
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "price_btc": 9.380859162773792e-07,
+      "timestamp": "2026-10-28 11:02"
+    },
+    {
+      "rank": 15,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.664715065121191e-07,
+      "timestamp": "2026-10-28 11:02"
+    }
   ]
 }
