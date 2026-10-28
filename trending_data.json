@@ -1032441,5 +1032441,112 @@
       "price_btc": 2.664715065121191e-07,
       "timestamp": "2026-10-28 11:02"
     }
+  ],
+  "2026-10-28 17:59": [
+    {
+      "rank": 1,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012592145022480993,
+      "timestamp": "2026-10-28 17:59"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.571516920193638e-08,
+      "timestamp": "2026-10-28 17:59"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0005715688756713,
+      "timestamp": "2026-10-28 17:59"
+    },
+    {
+      "rank": 4,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 5.504448345953008e-06,
+      "timestamp": "2026-10-28 17:59"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "price_btc": 0.0035459796252422454,
+      "timestamp": "2026-10-28 17:59"
+    },
+    {
+      "rank": 6,
+      "name": "USD.AI",
+      "symbol": "CHIP",
+      "price_btc": 5.989942121492858e-07,
+      "timestamp": "2026-10-28 17:59"
+    },
+    {
+      "rank": 7,
+      "name": "Canton",
+      "symbol": "CC",
+      "price_btc": 1.2398478240045585e-06,
+      "timestamp": "2026-10-28 17:59"
+    },
+    {
+      "rank": 8,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.00029686702707650025,
+      "timestamp": "2026-10-28 17:59"
+    },
+    {
+      "rank": 9,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 2.6328610701109154e-06,
+      "timestamp": "2026-10-28 17:59"
+    },
+    {
+      "rank": 10,
+      "name": "Litecoin",
+      "symbol": "LTC",
+      "price_btc": 0.0007257931892282457,
+      "timestamp": "2026-10-28 17:59"
+    },
+    {
+      "rank": 11,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.2372623207830304e-08,
+      "timestamp": "2026-10-28 17:59"
+    },
+    {
+      "rank": 12,
+      "name": "Quack AI",
+      "symbol": "Q",
+      "price_btc": 9.075081217266611e-07,
+      "timestamp": "2026-10-28 17:59"
+    },
+    {
+      "rank": 13,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.706899721337764e-05,
+      "timestamp": "2026-10-28 17:59"
+    },
+    {
+      "rank": 14,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.015913442046797566,
+      "timestamp": "2026-10-28 17:59"
+    },
+    {
+      "rank": 15,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.4433504239386286e-06,
+      "timestamp": "2026-10-28 17:59"
+    }
   ]
 }
