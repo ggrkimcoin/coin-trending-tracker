@@ -1032655,5 +1032655,112 @@
       "price_btc": 5.393730153071985e-06,
       "timestamp": "2026-10-28 22:29"
     }
+  ],
+  "2026-10-29 02:11": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9984965377880618,
+      "timestamp": "2026-10-29 02:11"
+    },
+    {
+      "rank": 2,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 6.244112868190661e-11,
+      "timestamp": "2026-10-29 02:11"
+    },
+    {
+      "rank": 3,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 5.63612499998549e-06,
+      "timestamp": "2026-10-29 02:11"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012469717815083202,
+      "timestamp": "2026-10-29 02:11"
+    },
+    {
+      "rank": 5,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0002936363924735272,
+      "timestamp": "2026-10-29 02:11"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.60116064555448e-08,
+      "timestamp": "2026-10-29 02:11"
+    },
+    {
+      "rank": 7,
+      "name": "Gram (prev. Toncoin)",
+      "symbol": "GRAM",
+      "price_btc": 1.5164402946716398e-05,
+      "timestamp": "2026-10-29 02:11"
+    },
+    {
+      "rank": 8,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.4911347540774152e-06,
+      "timestamp": "2026-10-29 02:11"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0031130618442439307,
+      "timestamp": "2026-10-29 02:11"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1405296430711671e-05,
+      "timestamp": "2026-10-29 02:11"
+    },
+    {
+      "rank": 11,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.482727979775809e-05,
+      "timestamp": "2026-10-29 02:11"
+    },
+    {
+      "rank": 12,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 4.629764566207703e-06,
+      "timestamp": "2026-10-29 02:11"
+    },
+    {
+      "rank": 13,
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "price_btc": 6.076175174514885e-11,
+      "timestamp": "2026-10-29 02:11"
+    },
+    {
+      "rank": 14,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.414063927873833e-06,
+      "timestamp": "2026-10-29 02:11"
+    },
+    {
+      "rank": 15,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 6.452678792090497e-07,
+      "timestamp": "2026-10-29 02:11"
+    }
   ]
 }
