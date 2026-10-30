@@ -1033083,5 +1033083,112 @@
       "price_btc": 0.0016161855786273275,
       "timestamp": "2026-10-29 21:35"
     }
+  ],
+  "2026-10-30 01:38": [
+    {
+      "rank": 1,
+      "name": "Super Pepe",
+      "symbol": "SP",
+      "price_btc": 2.2307682878081698e-07,
+      "timestamp": "2026-10-30 01:38"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0011653100148368953,
+      "timestamp": "2026-10-30 01:38"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.997637546823684,
+      "timestamp": "2026-10-30 01:38"
+    },
+    {
+      "rank": 4,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.2469087996815594e-06,
+      "timestamp": "2026-10-30 01:38"
+    },
+    {
+      "rank": 5,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0015388757037488976,
+      "timestamp": "2026-10-30 01:38"
+    },
+    {
+      "rank": 6,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.009052660273184169,
+      "timestamp": "2026-10-30 01:38"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.028667975990721108,
+      "timestamp": "2026-10-30 01:38"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 5.966031525144595e-11,
+      "timestamp": "2026-10-30 01:38"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012185825526891921,
+      "timestamp": "2026-10-30 01:38"
+    },
+    {
+      "rank": 10,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.18344467300737e-05,
+      "timestamp": "2026-10-30 01:38"
+    },
+    {
+      "rank": 11,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.015655982174434e-05,
+      "timestamp": "2026-10-30 01:38"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0029706323787359575,
+      "timestamp": "2026-10-30 01:38"
+    },
+    {
+      "rank": 13,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.00082566896125e-08,
+      "timestamp": "2026-10-30 01:38"
+    },
+    {
+      "rank": 14,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 8.441932813085821e-05,
+      "timestamp": "2026-10-30 01:38"
+    },
+    {
+      "rank": 15,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001366483188982362,
+      "timestamp": "2026-10-30 01:38"
+    }
   ]
 }
