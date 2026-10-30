@@ -1033190,5 +1033190,112 @@
       "price_btc": 0.0001366483188982362,
       "timestamp": "2026-10-30 01:38"
     }
+  ],
+  "2026-10-30 08:12": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.001171152197687929,
+      "timestamp": "2026-10-30 08:12"
+    },
+    {
+      "rank": 2,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.6785529176216756e-05,
+      "timestamp": "2026-10-30 08:12"
+    },
+    {
+      "rank": 3,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.001605891140835029,
+      "timestamp": "2026-10-30 08:12"
+    },
+    {
+      "rank": 4,
+      "name": "Beam",
+      "symbol": "BEAM",
+      "price_btc": 5.539881898974379e-08,
+      "timestamp": "2026-10-30 08:12"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0004356259261526,
+      "timestamp": "2026-10-30 08:12"
+    },
+    {
+      "rank": 6,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 6.262949112720216e-11,
+      "timestamp": "2026-10-30 08:12"
+    },
+    {
+      "rank": 7,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.009071901405297251,
+      "timestamp": "2026-10-30 08:12"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.123161660276167e-08,
+      "timestamp": "2026-10-30 08:12"
+    },
+    {
+      "rank": 9,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 7.205118360471916e-06,
+      "timestamp": "2026-10-30 08:12"
+    },
+    {
+      "rank": 10,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.1504094894781136e-05,
+      "timestamp": "2026-10-30 08:12"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.4245114349583238e-06,
+      "timestamp": "2026-10-30 08:12"
+    },
+    {
+      "rank": 12,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001413532267842771,
+      "timestamp": "2026-10-30 08:12"
+    },
+    {
+      "rank": 13,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 8.584554647318916e-05,
+      "timestamp": "2026-10-30 08:12"
+    },
+    {
+      "rank": 14,
+      "name": "TRON",
+      "symbol": "TRX",
+      "price_btc": 4.31455913063354e-06,
+      "timestamp": "2026-10-30 08:12"
+    },
+    {
+      "rank": 15,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.956352646034632e-06,
+      "timestamp": "2026-10-30 08:12"
+    }
   ]
 }
