@@ -1033297,5 +1033297,112 @@
       "price_btc": 1.956352646034632e-06,
       "timestamp": "2026-10-30 08:12"
     }
+  ],
+  "2026-10-30 15:38": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0013852225530853,
+      "timestamp": "2026-10-30 15:38"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0012020918065539603,
+      "timestamp": "2026-10-30 15:38"
+    },
+    {
+      "rank": 3,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.9758914467917144e-05,
+      "timestamp": "2026-10-30 15:38"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.557417887670066e-08,
+      "timestamp": "2026-10-30 15:38"
+    },
+    {
+      "rank": 5,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.00903117733491965,
+      "timestamp": "2026-10-30 15:38"
+    },
+    {
+      "rank": 6,
+      "name": "Beam",
+      "symbol": "BEAM",
+      "price_btc": 6.181658709643559e-08,
+      "timestamp": "2026-10-30 15:38"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1601038193465048e-05,
+      "timestamp": "2026-10-30 15:38"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.00122471751381075,
+      "timestamp": "2026-10-30 15:38"
+    },
+    {
+      "rank": 9,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.643220491645216e-05,
+      "timestamp": "2026-10-30 15:38"
+    },
+    {
+      "rank": 10,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 6.775701901693806e-06,
+      "timestamp": "2026-10-30 15:38"
+    },
+    {
+      "rank": 11,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0016304673048422454,
+      "timestamp": "2026-10-30 15:38"
+    },
+    {
+      "rank": 12,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.016106681836019796,
+      "timestamp": "2026-10-30 15:38"
+    },
+    {
+      "rank": 13,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.157516507188462e-06,
+      "timestamp": "2026-10-30 15:38"
+    },
+    {
+      "rank": 14,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.3547003264002886e-08,
+      "timestamp": "2026-10-30 15:38"
+    },
+    {
+      "rank": 15,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014404682428865038,
+      "timestamp": "2026-10-30 15:38"
+    }
   ]
 }
