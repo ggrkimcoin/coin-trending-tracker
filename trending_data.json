@@ -1033832,5 +1033832,112 @@
       "price_btc": 1.8736088091625142e-05,
       "timestamp": "2026-10-31 13:23"
     }
+  ],
+  "2026-10-31 18:16": [
+    {
+      "rank": 1,
+      "name": "Super Pepe",
+      "symbol": "SP",
+      "price_btc": 2.308048699401534e-07,
+      "timestamp": "2026-10-31 18:16"
+    },
+    {
+      "rank": 2,
+      "name": "Super Inu",
+      "symbol": "SI",
+      "price_btc": 2.892505290062748e-07,
+      "timestamp": "2026-10-31 18:16"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.42290177947382e-08,
+      "timestamp": "2026-10-31 18:16"
+    },
+    {
+      "rank": 4,
+      "name": "Canton",
+      "symbol": "CC",
+      "price_btc": 1.2481437106114325e-06,
+      "timestamp": "2026-10-31 18:16"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0011332915923395097,
+      "timestamp": "2026-10-31 18:16"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0013717355801255,
+      "timestamp": "2026-10-31 18:16"
+    },
+    {
+      "rank": 7,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.8243355759152143e-05,
+      "timestamp": "2026-10-31 18:16"
+    },
+    {
+      "rank": 8,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.00910623139709213,
+      "timestamp": "2026-10-31 18:16"
+    },
+    {
+      "rank": 9,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.4757316997786364e-07,
+      "timestamp": "2026-10-31 18:16"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1598331646929926e-05,
+      "timestamp": "2026-10-31 18:16"
+    },
+    {
+      "rank": 11,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.827375066893089e-05,
+      "timestamp": "2026-10-31 18:16"
+    },
+    {
+      "rank": 12,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 7.053364189464465e-06,
+      "timestamp": "2026-10-31 18:16"
+    },
+    {
+      "rank": 13,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 2.9115762107455284e-06,
+      "timestamp": "2026-10-31 18:16"
+    },
+    {
+      "rank": 14,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0009502327277709583,
+      "timestamp": "2026-10-31 18:16"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 5.3190128712786205e-06,
+      "timestamp": "2026-10-31 18:16"
+    }
   ]
 }
