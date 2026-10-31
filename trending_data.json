@@ -1033618,5 +1033618,112 @@
       "price_btc": 2.4682098137155203e-06,
       "timestamp": "2026-10-31 00:29"
     }
+  ],
+  "2026-10-31 06:43": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0015279945693245,
+      "timestamp": "2026-10-31 06:43"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0011421732552250375,
+      "timestamp": "2026-10-31 06:43"
+    },
+    {
+      "rank": 3,
+      "name": "Infinity Ground",
+      "symbol": "AIN",
+      "price_btc": 3.4878281909123805e-06,
+      "timestamp": "2026-10-31 06:43"
+    },
+    {
+      "rank": 4,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.0162876463900248e-06,
+      "timestamp": "2026-10-31 06:43"
+    },
+    {
+      "rank": 5,
+      "name": "Quack AI",
+      "symbol": "Q",
+      "price_btc": 4.1875540581986413e-07,
+      "timestamp": "2026-10-31 06:43"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.47871371339369e-08,
+      "timestamp": "2026-10-31 06:43"
+    },
+    {
+      "rank": 7,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.505536465005215e-07,
+      "timestamp": "2026-10-31 06:43"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 6.451206189512758e-11,
+      "timestamp": "2026-10-31 06:43"
+    },
+    {
+      "rank": 9,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0017061100322088578,
+      "timestamp": "2026-10-31 06:43"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012423202321000066,
+      "timestamp": "2026-10-31 06:43"
+    },
+    {
+      "rank": 11,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001483832127539198,
+      "timestamp": "2026-10-31 06:43"
+    },
+    {
+      "rank": 12,
+      "name": "Aster",
+      "symbol": "ASTER",
+      "price_btc": 8.919713259450663e-06,
+      "timestamp": "2026-10-31 06:43"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.6142001911816112e-05,
+      "timestamp": "2026-10-31 06:43"
+    },
+    {
+      "rank": 14,
+      "name": "Sonic",
+      "symbol": "S",
+      "price_btc": 5.165225084847636e-07,
+      "timestamp": "2026-10-31 06:43"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.163747592849783e-05,
+      "timestamp": "2026-10-31 06:43"
+    }
   ]
 }
