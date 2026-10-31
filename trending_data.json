@@ -1033939,5 +1033939,112 @@
       "price_btc": 5.3190128712786205e-06,
       "timestamp": "2026-10-31 18:16"
     }
+  ],
+  "2026-10-31 22:16": [
+    {
+      "rank": 1,
+      "name": "Super Pepe",
+      "symbol": "SP",
+      "price_btc": 2.578715416488379e-07,
+      "timestamp": "2026-10-31 22:16"
+    },
+    {
+      "rank": 2,
+      "name": "Super Inu",
+      "symbol": "SI",
+      "price_btc": 3.3739564082445963e-07,
+      "timestamp": "2026-10-31 22:16"
+    },
+    {
+      "rank": 3,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.8923518359319876e-05,
+      "timestamp": "2026-10-31 22:16"
+    },
+    {
+      "rank": 4,
+      "name": "Canton",
+      "symbol": "CC",
+      "price_btc": 1.2716028409653242e-06,
+      "timestamp": "2026-10-31 22:16"
+    },
+    {
+      "rank": 5,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.079164131110134e-05,
+      "timestamp": "2026-10-31 22:16"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.443522034283099e-08,
+      "timestamp": "2026-10-31 22:16"
+    },
+    {
+      "rank": 7,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 7.3174344472475654e-06,
+      "timestamp": "2026-10-31 22:16"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0011372609448839419,
+      "timestamp": "2026-10-31 22:16"
+    },
+    {
+      "rank": 9,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.47359076841069e-08,
+      "timestamp": "2026-10-31 22:16"
+    },
+    {
+      "rank": 10,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.3861457305100283e-05,
+      "timestamp": "2026-10-31 22:16"
+    },
+    {
+      "rank": 11,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 3.0169988418273543e-06,
+      "timestamp": "2026-10-31 22:16"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030762837530542357,
+      "timestamp": "2026-10-31 22:16"
+    },
+    {
+      "rank": 13,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0025982724706535734,
+      "timestamp": "2026-10-31 22:16"
+    },
+    {
+      "rank": 14,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0011713873654682,
+      "timestamp": "2026-10-31 22:16"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012385579256511087,
+      "timestamp": "2026-10-31 22:16"
+    }
   ]
 }
