@@ -1034153,5 +1034153,112 @@
       "price_btc": 3.339968353710023e-06,
       "timestamp": "2026-11-01 01:56"
     }
+  ],
+  "2026-11-01 08:55": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0023756384110876,
+      "timestamp": "2026-11-01 08:55"
+    },
+    {
+      "rank": 2,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.003971137307856e-05,
+      "timestamp": "2026-11-01 08:55"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001226341946193673,
+      "timestamp": "2026-11-01 08:55"
+    },
+    {
+      "rank": 4,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.880235613076807e-05,
+      "timestamp": "2026-11-01 08:55"
+    },
+    {
+      "rank": 5,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.498446253500944e-07,
+      "timestamp": "2026-11-01 08:55"
+    },
+    {
+      "rank": 6,
+      "name": "Beam",
+      "symbol": "BEAM",
+      "price_btc": 7.202080061428815e-08,
+      "timestamp": "2026-11-01 08:55"
+    },
+    {
+      "rank": 7,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 6.803369319311409e-06,
+      "timestamp": "2026-11-01 08:55"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0011292770788623142,
+      "timestamp": "2026-11-01 08:55"
+    },
+    {
+      "rank": 9,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 6.436107339236995e-11,
+      "timestamp": "2026-11-01 08:55"
+    },
+    {
+      "rank": 10,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.1939970448632637e-05,
+      "timestamp": "2026-11-01 08:55"
+    },
+    {
+      "rank": 11,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.359070523213475e-08,
+      "timestamp": "2026-11-01 08:55"
+    },
+    {
+      "rank": 12,
+      "name": "TRON",
+      "symbol": "TRX",
+      "price_btc": 3.974787050441184e-06,
+      "timestamp": "2026-11-01 08:55"
+    },
+    {
+      "rank": 13,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 3.1242323320669694e-06,
+      "timestamp": "2026-11-01 08:55"
+    },
+    {
+      "rank": 14,
+      "name": "Plasma",
+      "symbol": "XPL",
+      "price_btc": 9.51988759032177e-07,
+      "timestamp": "2026-11-01 08:55"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.246779805262938e-06,
+      "timestamp": "2026-11-01 08:55"
+    }
   ]
 }
