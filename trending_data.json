@@ -1034046,5 +1034046,112 @@
       "price_btc": 0.0012385579256511087,
       "timestamp": "2026-10-31 22:16"
     }
+  ],
+  "2026-11-01 01:56": [
+    {
+      "rank": 1,
+      "name": "Super Pepe",
+      "symbol": "SP",
+      "price_btc": 2.479935852721646e-07,
+      "timestamp": "2026-11-01 01:56"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012337838115009634,
+      "timestamp": "2026-11-01 01:56"
+    },
+    {
+      "rank": 3,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 6.499139885239254e-11,
+      "timestamp": "2026-11-01 01:56"
+    },
+    {
+      "rank": 4,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.0838112310541304e-05,
+      "timestamp": "2026-11-01 01:56"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.8543913912348945e-05,
+      "timestamp": "2026-11-01 01:56"
+    },
+    {
+      "rank": 6,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 7.423446545844262e-06,
+      "timestamp": "2026-11-01 01:56"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.395470693849992e-08,
+      "timestamp": "2026-11-01 01:56"
+    },
+    {
+      "rank": 8,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.002583489838745317,
+      "timestamp": "2026-11-01 01:56"
+    },
+    {
+      "rank": 9,
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "price_btc": 2.4293074075821834e-05,
+      "timestamp": "2026-11-01 01:56"
+    },
+    {
+      "rank": 10,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0003087210268129796,
+      "timestamp": "2026-11-01 01:56"
+    },
+    {
+      "rank": 11,
+      "name": "RHEA",
+      "symbol": "RHEA",
+      "price_btc": 6.321924295460516e-07,
+      "timestamp": "2026-11-01 01:56"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0011409375220641244,
+      "timestamp": "2026-11-01 01:56"
+    },
+    {
+      "rank": 13,
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "price_btc": 3.1492795205560215e-06,
+      "timestamp": "2026-11-01 01:56"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030571392321220416,
+      "timestamp": "2026-11-01 01:56"
+    },
+    {
+      "rank": 15,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 3.339968353710023e-06,
+      "timestamp": "2026-11-01 01:56"
+    }
   ]
 }
