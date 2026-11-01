@@ -1034367,5 +1034367,112 @@
       "price_btc": 0.0009231438061523485,
       "timestamp": "2026-11-01 15:51"
     }
+  ],
+  "2026-11-01 20:17": [
+    {
+      "rank": 1,
+      "name": "Super Inu",
+      "symbol": "SI",
+      "price_btc": 3.2418140745277204e-07,
+      "timestamp": "2026-11-01 20:17"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0011198308875172349,
+      "timestamp": "2026-11-01 20:17"
+    },
+    {
+      "rank": 3,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.102744924827941e-05,
+      "timestamp": "2026-11-01 20:17"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0021095180160784,
+      "timestamp": "2026-11-01 20:17"
+    },
+    {
+      "rank": 5,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 6.976090219927131e-06,
+      "timestamp": "2026-11-01 20:17"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.259331477136837e-08,
+      "timestamp": "2026-11-01 20:17"
+    },
+    {
+      "rank": 7,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 3.0596882440469026e-06,
+      "timestamp": "2026-11-01 20:17"
+    },
+    {
+      "rank": 8,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.975205487904198e-05,
+      "timestamp": "2026-11-01 20:17"
+    },
+    {
+      "rank": 9,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 5.150065557116037e-06,
+      "timestamp": "2026-11-01 20:17"
+    },
+    {
+      "rank": 10,
+      "name": "Beam",
+      "symbol": "BEAM",
+      "price_btc": 6.877121406789824e-08,
+      "timestamp": "2026-11-01 20:17"
+    },
+    {
+      "rank": 11,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.00029267750342748576,
+      "timestamp": "2026-11-01 20:17"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1460721245312159e-05,
+      "timestamp": "2026-11-01 20:17"
+    },
+    {
+      "rank": 13,
+      "name": "BNB",
+      "symbol": "BNB",
+      "price_btc": 0.009104351324604921,
+      "timestamp": "2026-11-01 20:17"
+    },
+    {
+      "rank": 14,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02902842270029714,
+      "timestamp": "2026-11-01 20:17"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.089514621484005e-06,
+      "timestamp": "2026-11-01 20:17"
+    }
   ]
 }
