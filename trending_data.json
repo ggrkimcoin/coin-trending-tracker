@@ -1034474,5 +1034474,112 @@
       "price_btc": 8.089514621484005e-06,
       "timestamp": "2026-11-01 20:17"
     }
+  ],
+  "2026-11-02 00:21": [
+    {
+      "rank": 1,
+      "name": "AudaCity",
+      "symbol": "DACITYCOIN",
+      "price_btc": 2.423024342742444e-07,
+      "timestamp": "2026-11-02 00:21"
+    },
+    {
+      "rank": 2,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.9363378604053796e-05,
+      "timestamp": "2026-11-02 00:21"
+    },
+    {
+      "rank": 3,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.050161105571543e-05,
+      "timestamp": "2026-11-02 00:21"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.280026198021263e-08,
+      "timestamp": "2026-11-02 00:21"
+    },
+    {
+      "rank": 5,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 6.753176047943849e-06,
+      "timestamp": "2026-11-02 00:21"
+    },
+    {
+      "rank": 6,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 3.0464622360547084e-06,
+      "timestamp": "2026-11-02 00:21"
+    },
+    {
+      "rank": 7,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.001716837083049237,
+      "timestamp": "2026-11-02 00:21"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0011191197055610618,
+      "timestamp": "2026-11-02 00:21"
+    },
+    {
+      "rank": 9,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.015778514435972786,
+      "timestamp": "2026-11-02 00:21"
+    },
+    {
+      "rank": 10,
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "price_btc": 2.939100491840097e-06,
+      "timestamp": "2026-11-02 00:21"
+    },
+    {
+      "rank": 11,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.465040106839087e-05,
+      "timestamp": "2026-11-02 00:21"
+    },
+    {
+      "rank": 12,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 9.176068392527892e-05,
+      "timestamp": "2026-11-02 00:21"
+    },
+    {
+      "rank": 13,
+      "name": "Beam",
+      "symbol": "BEAM",
+      "price_btc": 7.198699727532598e-08,
+      "timestamp": "2026-11-02 00:21"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.5950260984913095e-05,
+      "timestamp": "2026-11-02 00:21"
+    },
+    {
+      "rank": 15,
+      "name": "Gram (prev. Toncoin)",
+      "symbol": "GRAM",
+      "price_btc": 1.5488103754024115e-05,
+      "timestamp": "2026-11-02 00:21"
+    }
   ]
 }
