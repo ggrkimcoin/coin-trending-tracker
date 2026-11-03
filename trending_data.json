@@ -1034795,5 +1034795,112 @@
       "price_btc": 0.0028906049578271173,
       "timestamp": "2026-11-02 17:55"
     }
+  ],
+  "2026-11-03 00:44": [
+    {
+      "rank": 1,
+      "name": "AudaCity",
+      "symbol": "DACITYCOIN",
+      "price_btc": 2.6883293748143205e-07,
+      "timestamp": "2026-11-03 00:44"
+    },
+    {
+      "rank": 2,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.2904007927299024e-07,
+      "timestamp": "2026-11-03 00:44"
+    },
+    {
+      "rank": 3,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.002525735348009037,
+      "timestamp": "2026-11-03 00:44"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.001095757623681121,
+      "timestamp": "2026-11-03 00:44"
+    },
+    {
+      "rank": 5,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.868053773125524e-06,
+      "timestamp": "2026-11-03 00:44"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.101729848292552e-08,
+      "timestamp": "2026-11-03 00:44"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011982002815511953,
+      "timestamp": "2026-11-03 00:44"
+    },
+    {
+      "rank": 8,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9988589265738154,
+      "timestamp": "2026-11-03 00:44"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.138121235981398e-05,
+      "timestamp": "2026-11-03 00:44"
+    },
+    {
+      "rank": 10,
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "price_btc": 8.155044342507379e-07,
+      "timestamp": "2026-11-03 00:44"
+    },
+    {
+      "rank": 11,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 5.051576518240055e-06,
+      "timestamp": "2026-11-03 00:44"
+    },
+    {
+      "rank": 12,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 6.089285768147189e-07,
+      "timestamp": "2026-11-03 00:44"
+    },
+    {
+      "rank": 13,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 7.306794185794596e-06,
+      "timestamp": "2026-11-03 00:44"
+    },
+    {
+      "rank": 14,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.2374866511917147e-05,
+      "timestamp": "2026-11-03 00:44"
+    },
+    {
+      "rank": 15,
+      "name": "Aztec",
+      "symbol": "AZTEC",
+      "price_btc": 1.8622149285915308e-07,
+      "timestamp": "2026-11-03 00:44"
+    }
   ]
 }
