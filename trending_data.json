@@ -1035009,5 +1035009,112 @@
       "price_btc": 0.0010913502374221035,
       "timestamp": "2026-11-03 07:39"
     }
+  ],
+  "2026-11-03 15:55": [
+    {
+      "rank": 1,
+      "name": "Super Pepe",
+      "symbol": "SP",
+      "price_btc": 2.4053375001693e-07,
+      "timestamp": "2026-11-03 15:55"
+    },
+    {
+      "rank": 2,
+      "name": "Super Inu",
+      "symbol": "SI",
+      "price_btc": 2.3745186805373357e-07,
+      "timestamp": "2026-11-03 15:55"
+    },
+    {
+      "rank": 3,
+      "name": "AudaCity",
+      "symbol": "DACITYCOIN",
+      "price_btc": 2.64073483893945e-07,
+      "timestamp": "2026-11-03 15:55"
+    },
+    {
+      "rank": 4,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.3093382038181515e-05,
+      "timestamp": "2026-11-03 15:55"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0011196361266123031,
+      "timestamp": "2026-11-03 15:55"
+    },
+    {
+      "rank": 6,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.242249497713164e-07,
+      "timestamp": "2026-11-03 15:55"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.047133878799069e-08,
+      "timestamp": "2026-11-03 15:55"
+    },
+    {
+      "rank": 8,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.8397457907647086e-05,
+      "timestamp": "2026-11-03 15:55"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9982083126844508,
+      "timestamp": "2026-11-03 15:55"
+    },
+    {
+      "rank": 10,
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "price_btc": 3.0978795418090154e-06,
+      "timestamp": "2026-11-03 15:55"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 6.283080669302071e-11,
+      "timestamp": "2026-11-03 15:55"
+    },
+    {
+      "rank": 12,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 6.326424758514513e-06,
+      "timestamp": "2026-11-03 15:55"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1565309063948769e-05,
+      "timestamp": "2026-11-03 15:55"
+    },
+    {
+      "rank": 14,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.439759242014988e-05,
+      "timestamp": "2026-11-03 15:55"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.938461588458812e-06,
+      "timestamp": "2026-11-03 15:55"
+    }
   ]
 }
