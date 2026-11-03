@@ -1035116,5 +1035116,112 @@
       "price_btc": 7.938461588458812e-06,
       "timestamp": "2026-11-03 15:55"
     }
+  ],
+  "2026-11-03 21:33": [
+    {
+      "rank": 1,
+      "name": "AudaCity",
+      "symbol": "DACITYCOIN",
+      "price_btc": 2.3759252534810963e-07,
+      "timestamp": "2026-11-03 21:33"
+    },
+    {
+      "rank": 2,
+      "name": "SNOWMOON",
+      "symbol": "SNOWMOON",
+      "price_btc": 2.767789653281957e-07,
+      "timestamp": "2026-11-03 21:33"
+    },
+    {
+      "rank": 3,
+      "name": "Super Pepe",
+      "symbol": "SP",
+      "price_btc": 2.536349718165283e-07,
+      "timestamp": "2026-11-03 21:33"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.114701104037465e-08,
+      "timestamp": "2026-11-03 21:33"
+    },
+    {
+      "rank": 5,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.378161533527938e-05,
+      "timestamp": "2026-11-03 21:33"
+    },
+    {
+      "rank": 6,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.008144803091201993,
+      "timestamp": "2026-11-03 21:33"
+    },
+    {
+      "rank": 7,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 2.011661550628968e-06,
+      "timestamp": "2026-11-03 21:33"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0011061484572920787,
+      "timestamp": "2026-11-03 21:33"
+    },
+    {
+      "rank": 9,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014305300196355326,
+      "timestamp": "2026-11-03 21:33"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9991604316964897,
+      "timestamp": "2026-11-03 21:33"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012029847310644618,
+      "timestamp": "2026-11-03 21:33"
+    },
+    {
+      "rank": 12,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.9633786213159684e-05,
+      "timestamp": "2026-11-03 21:33"
+    },
+    {
+      "rank": 13,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 6.379183061386032e-06,
+      "timestamp": "2026-11-03 21:33"
+    },
+    {
+      "rank": 14,
+      "name": "Starknet",
+      "symbol": "STRK",
+      "price_btc": 5.471482908021272e-07,
+      "timestamp": "2026-11-03 21:33"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.011423412442174e-06,
+      "timestamp": "2026-11-03 21:33"
+    }
   ]
 }
