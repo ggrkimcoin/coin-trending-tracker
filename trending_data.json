@@ -1034902,5 +1034902,112 @@
       "price_btc": 1.8622149285915308e-07,
       "timestamp": "2026-11-03 00:44"
     }
+  ],
+  "2026-11-03 07:39": [
+    {
+      "rank": 1,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.947380275606265e-05,
+      "timestamp": "2026-11-03 07:39"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0012002083474145725,
+      "timestamp": "2026-11-03 07:39"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0000832865974636,
+      "timestamp": "2026-11-03 07:39"
+    },
+    {
+      "rank": 4,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.008146392451820542,
+      "timestamp": "2026-11-03 07:39"
+    },
+    {
+      "rank": 5,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.206395102328727e-07,
+      "timestamp": "2026-11-03 07:39"
+    },
+    {
+      "rank": 6,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.001651488366978764,
+      "timestamp": "2026-11-03 07:39"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.956708998367866e-08,
+      "timestamp": "2026-11-03 07:39"
+    },
+    {
+      "rank": 8,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 2.5367399357470063e-06,
+      "timestamp": "2026-11-03 07:39"
+    },
+    {
+      "rank": 9,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014499227890497419,
+      "timestamp": "2026-11-03 07:39"
+    },
+    {
+      "rank": 10,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1309963907190473e-05,
+      "timestamp": "2026-11-03 07:39"
+    },
+    {
+      "rank": 11,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.151395373815118e-08,
+      "timestamp": "2026-11-03 07:39"
+    },
+    {
+      "rank": 12,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 3.1651667752142566e-06,
+      "timestamp": "2026-11-03 07:39"
+    },
+    {
+      "rank": 13,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 1.9957246196679073e-06,
+      "timestamp": "2026-11-03 07:39"
+    },
+    {
+      "rank": 14,
+      "name": "Dash",
+      "symbol": "DASH",
+      "price_btc": 0.0005950438703547558,
+      "timestamp": "2026-11-03 07:39"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010913502374221035,
+      "timestamp": "2026-11-03 07:39"
+    }
   ]
 }
