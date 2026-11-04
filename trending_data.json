@@ -1035437,5 +1035437,112 @@
       "price_btc": 8.043336998176724e-06,
       "timestamp": "2026-11-04 08:55"
     }
+  ],
+  "2026-11-04 16:55": [
+    {
+      "rank": 1,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.859356800881162e-05,
+      "timestamp": "2026-11-04 16:55"
+    },
+    {
+      "rank": 2,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.120928735976725e-05,
+      "timestamp": "2026-11-04 16:55"
+    },
+    {
+      "rank": 3,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.030212697173856037,
+      "timestamp": "2026-11-04 16:55"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9997023462833157,
+      "timestamp": "2026-11-04 16:55"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.215384834994392e-08,
+      "timestamp": "2026-11-04 16:55"
+    },
+    {
+      "rank": 6,
+      "name": "AudaCity",
+      "symbol": "DACITYCOIN",
+      "price_btc": 2.622704990416074e-07,
+      "timestamp": "2026-11-04 16:55"
+    },
+    {
+      "rank": 7,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 1.7506655454603775e-05,
+      "timestamp": "2026-11-04 16:55"
+    },
+    {
+      "rank": 8,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.25354673459408e-05,
+      "timestamp": "2026-11-04 16:55"
+    },
+    {
+      "rank": 9,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.543807603977798e-08,
+      "timestamp": "2026-11-04 16:55"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001199867806507907,
+      "timestamp": "2026-11-04 16:55"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1742809602797966e-05,
+      "timestamp": "2026-11-04 16:55"
+    },
+    {
+      "rank": 12,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.092499921687578e-06,
+      "timestamp": "2026-11-04 16:55"
+    },
+    {
+      "rank": 13,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0008991538599298554,
+      "timestamp": "2026-11-04 16:55"
+    },
+    {
+      "rank": 14,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.016372050481484563,
+      "timestamp": "2026-11-04 16:55"
+    },
+    {
+      "rank": 15,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.00787113946200634,
+      "timestamp": "2026-11-04 16:55"
+    }
   ]
 }
