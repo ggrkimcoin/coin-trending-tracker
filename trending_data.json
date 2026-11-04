@@ -1035544,5 +1035544,112 @@
       "price_btc": 0.00787113946200634,
       "timestamp": "2026-11-04 16:55"
     }
+  ],
+  "2026-11-04 22:28": [
+    {
+      "rank": 1,
+      "name": "FOCO",
+      "symbol": "FOCO",
+      "price_btc": 2.8533984266747996e-07,
+      "timestamp": "2026-11-04 22:28"
+    },
+    {
+      "rank": 2,
+      "name": "AudaCity",
+      "symbol": "DACITYCOIN",
+      "price_btc": 3.0476576958659996e-07,
+      "timestamp": "2026-11-04 22:28"
+    },
+    {
+      "rank": 3,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.007977459375793255,
+      "timestamp": "2026-11-04 22:28"
+    },
+    {
+      "rank": 4,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 6.224997273878278e-11,
+      "timestamp": "2026-11-04 22:28"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011838392980075573,
+      "timestamp": "2026-11-04 22:28"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.108381343128422e-08,
+      "timestamp": "2026-11-04 22:28"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0002713602749866,
+      "timestamp": "2026-11-04 22:28"
+    },
+    {
+      "rank": 8,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 1.584192220613486e-05,
+      "timestamp": "2026-11-04 22:28"
+    },
+    {
+      "rank": 9,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 9.915241838609944e-05,
+      "timestamp": "2026-11-04 22:28"
+    },
+    {
+      "rank": 10,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.9611452470908532e-05,
+      "timestamp": "2026-11-04 22:28"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1562709823277405e-05,
+      "timestamp": "2026-11-04 22:28"
+    },
+    {
+      "rank": 12,
+      "name": "Figure Heloc",
+      "symbol": "FIGR_HELOC",
+      "price_btc": 1.2796245412450997e-05,
+      "timestamp": "2026-11-04 22:28"
+    },
+    {
+      "rank": 13,
+      "name": "Elsa",
+      "symbol": "ELSA",
+      "price_btc": 1.3740826370716921e-06,
+      "timestamp": "2026-11-04 22:28"
+    },
+    {
+      "rank": 14,
+      "name": "Four",
+      "symbol": "FORM",
+      "price_btc": 2.5929041611917695e-06,
+      "timestamp": "2026-11-04 22:28"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.899025648368713e-06,
+      "timestamp": "2026-11-04 22:28"
+    }
   ]
 }
