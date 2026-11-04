@@ -1035330,5 +1035330,112 @@
       "price_btc": 1.8980872978294136e-05,
       "timestamp": "2026-11-04 01:57"
     }
+  ],
+  "2026-11-04 08:55": [
+    {
+      "rank": 1,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.1769842674385225e-05,
+      "timestamp": "2026-11-04 08:55"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.43390467559537e-08,
+      "timestamp": "2026-11-04 08:55"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010997515135738097,
+      "timestamp": "2026-11-04 08:55"
+    },
+    {
+      "rank": 4,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 6.539240842948158e-11,
+      "timestamp": "2026-11-04 08:55"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.8618681718207838e-05,
+      "timestamp": "2026-11-04 08:55"
+    },
+    {
+      "rank": 6,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 9.551653871119603e-05,
+      "timestamp": "2026-11-04 08:55"
+    },
+    {
+      "rank": 7,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.016423310911879926,
+      "timestamp": "2026-11-04 08:55"
+    },
+    {
+      "rank": 8,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0016735334222444246,
+      "timestamp": "2026-11-04 08:55"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02961112314690851,
+      "timestamp": "2026-11-04 08:55"
+    },
+    {
+      "rank": 10,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00295027321434665,
+      "timestamp": "2026-11-04 08:55"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.310772081105955e-06,
+      "timestamp": "2026-11-04 08:55"
+    },
+    {
+      "rank": 12,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9986484162620782,
+      "timestamp": "2026-11-04 08:55"
+    },
+    {
+      "rank": 13,
+      "name": "Sky",
+      "symbol": "SKY",
+      "price_btc": 8.494057499823946e-07,
+      "timestamp": "2026-11-04 08:55"
+    },
+    {
+      "rank": 14,
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "price_btc": 7.511971959943686e-06,
+      "timestamp": "2026-11-04 08:55"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 8.043336998176724e-06,
+      "timestamp": "2026-11-04 08:55"
+    }
   ]
 }
