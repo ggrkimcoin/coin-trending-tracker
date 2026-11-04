@@ -1035223,5 +1035223,112 @@
       "price_btc": 8.011423412442174e-06,
       "timestamp": "2026-11-03 21:33"
     }
+  ],
+  "2026-11-04 01:57": [
+    {
+      "rank": 1,
+      "name": "AudaCity",
+      "symbol": "DACITYCOIN",
+      "price_btc": 1.9876031343008533e-07,
+      "timestamp": "2026-11-04 01:57"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0003451289049334,
+      "timestamp": "2026-11-04 01:57"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.061312516121106e-08,
+      "timestamp": "2026-11-04 01:57"
+    },
+    {
+      "rank": 4,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.919620601354189e-05,
+      "timestamp": "2026-11-04 01:57"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010726411868428368,
+      "timestamp": "2026-11-04 01:57"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.029440688730380273,
+      "timestamp": "2026-11-04 01:57"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.143470936218951e-05,
+      "timestamp": "2026-11-04 01:57"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011950534990542618,
+      "timestamp": "2026-11-04 01:57"
+    },
+    {
+      "rank": 9,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 2.4335971686111857e-06,
+      "timestamp": "2026-11-04 01:57"
+    },
+    {
+      "rank": 10,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.258817529512391e-05,
+      "timestamp": "2026-11-04 01:57"
+    },
+    {
+      "rank": 11,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 6.231716684604659e-11,
+      "timestamp": "2026-11-04 01:57"
+    },
+    {
+      "rank": 12,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0016225597708859742,
+      "timestamp": "2026-11-04 01:57"
+    },
+    {
+      "rank": 13,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.2897482464877204e-07,
+      "timestamp": "2026-11-04 01:57"
+    },
+    {
+      "rank": 14,
+      "name": "Bubblemaps",
+      "symbol": "BMT",
+      "price_btc": 4.0118807231724063e-07,
+      "timestamp": "2026-11-04 01:57"
+    },
+    {
+      "rank": 15,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.8980872978294136e-05,
+      "timestamp": "2026-11-04 01:57"
+    }
   ]
 }
