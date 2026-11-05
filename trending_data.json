@@ -1035651,5 +1035651,112 @@
       "price_btc": 7.899025648368713e-06,
       "timestamp": "2026-11-04 22:28"
     }
+  ],
+  "2026-11-05 03:15": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 9.115874565802234e-08,
+      "timestamp": "2026-11-05 03:15"
+    },
+    {
+      "rank": 2,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 1.555194698843553e-05,
+      "timestamp": "2026-11-05 03:15"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9999946890153655,
+      "timestamp": "2026-11-05 03:15"
+    },
+    {
+      "rank": 4,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001423256023167895,
+      "timestamp": "2026-11-05 03:15"
+    },
+    {
+      "rank": 5,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.020039822692757e-05,
+      "timestamp": "2026-11-05 03:15"
+    },
+    {
+      "rank": 6,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.252819989853955e-05,
+      "timestamp": "2026-11-05 03:15"
+    },
+    {
+      "rank": 7,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.2659881107216317e-06,
+      "timestamp": "2026-11-05 03:15"
+    },
+    {
+      "rank": 8,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.9982518734803335e-05,
+      "timestamp": "2026-11-05 03:15"
+    },
+    {
+      "rank": 9,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.257684635481192e-07,
+      "timestamp": "2026-11-05 03:15"
+    },
+    {
+      "rank": 10,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.379676447213264e-08,
+      "timestamp": "2026-11-05 03:15"
+    },
+    {
+      "rank": 11,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 9.948518531890344e-05,
+      "timestamp": "2026-11-05 03:15"
+    },
+    {
+      "rank": 12,
+      "name": "Canton",
+      "symbol": "CC",
+      "price_btc": 1.2545720358984e-06,
+      "timestamp": "2026-11-05 03:15"
+    },
+    {
+      "rank": 13,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.030119252650684273,
+      "timestamp": "2026-11-05 03:15"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.001044270006126411,
+      "timestamp": "2026-11-05 03:15"
+    },
+    {
+      "rank": 15,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 2.4634922191921177e-06,
+      "timestamp": "2026-11-05 03:15"
+    }
   ]
 }
