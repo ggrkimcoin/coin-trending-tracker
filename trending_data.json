@@ -1035865,5 +1035865,112 @@
       "price_btc": 0.0025226128400215324,
       "timestamp": "2026-11-05 11:57"
     }
+  ],
+  "2026-11-05 19:46": [
+    {
+      "rank": 1,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010315608801478916,
+      "timestamp": "2026-11-05 19:46"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0028498637540173,
+      "timestamp": "2026-11-05 19:46"
+    },
+    {
+      "rank": 3,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.016398777589742116,
+      "timestamp": "2026-11-05 19:46"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011801348347267111,
+      "timestamp": "2026-11-05 19:46"
+    },
+    {
+      "rank": 5,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00010791930511574255,
+      "timestamp": "2026-11-05 19:46"
+    },
+    {
+      "rank": 6,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.539599516294449e-05,
+      "timestamp": "2026-11-05 19:46"
+    },
+    {
+      "rank": 7,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.84869552960042e-05,
+      "timestamp": "2026-11-05 19:46"
+    },
+    {
+      "rank": 8,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 1.5900061640115938e-05,
+      "timestamp": "2026-11-05 19:46"
+    },
+    {
+      "rank": 9,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.11597077301367e-05,
+      "timestamp": "2026-11-05 19:46"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.029702438866224323,
+      "timestamp": "2026-11-05 19:46"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.132800429721639e-05,
+      "timestamp": "2026-11-05 19:46"
+    },
+    {
+      "rank": 12,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 4.900587543216972e-06,
+      "timestamp": "2026-11-05 19:46"
+    },
+    {
+      "rank": 13,
+      "name": "Morpho",
+      "symbol": "MORPHO",
+      "price_btc": 2.7651091380097506e-05,
+      "timestamp": "2026-11-05 19:46"
+    },
+    {
+      "rank": 14,
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "price_btc": 3.418246305330354e-06,
+      "timestamp": "2026-11-05 19:46"
+    },
+    {
+      "rank": 15,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.619445535156374e-08,
+      "timestamp": "2026-11-05 19:46"
+    }
   ]
 }
