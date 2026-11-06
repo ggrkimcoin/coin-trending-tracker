@@ -1035972,5 +1035972,112 @@
       "price_btc": 8.619445535156374e-08,
       "timestamp": "2026-11-05 19:46"
     }
+  ],
+  "2026-11-06 00:51": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0003355315856926,
+      "timestamp": "2026-11-06 00:51"
+    },
+    {
+      "rank": 2,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.936594670755417e-05,
+      "timestamp": "2026-11-06 00:51"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00101963719269414,
+      "timestamp": "2026-11-06 00:51"
+    },
+    {
+      "rank": 4,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.01730036082305483,
+      "timestamp": "2026-11-06 00:51"
+    },
+    {
+      "rank": 5,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.948539682968529e-06,
+      "timestamp": "2026-11-06 00:51"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02944952399732968,
+      "timestamp": "2026-11-06 00:51"
+    },
+    {
+      "rank": 7,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.612616380196062e-05,
+      "timestamp": "2026-11-06 00:51"
+    },
+    {
+      "rank": 8,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 2.4743073590184364e-06,
+      "timestamp": "2026-11-06 00:51"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1247808098084736e-05,
+      "timestamp": "2026-11-06 00:51"
+    },
+    {
+      "rank": 10,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0009524917172783726,
+      "timestamp": "2026-11-06 00:51"
+    },
+    {
+      "rank": 11,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.150152211013626e-06,
+      "timestamp": "2026-11-06 00:51"
+    },
+    {
+      "rank": 12,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00011012452398070194,
+      "timestamp": "2026-11-06 00:51"
+    },
+    {
+      "rank": 13,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.67036006320777e-08,
+      "timestamp": "2026-11-06 00:51"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011829922898463482,
+      "timestamp": "2026-11-06 00:51"
+    },
+    {
+      "rank": 15,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 1.5884631318047965e-05,
+      "timestamp": "2026-11-06 00:51"
+    }
   ]
 }
