@@ -1036293,5 +1036293,112 @@
       "price_btc": 0.008226492924841263,
       "timestamp": "2026-11-06 15:44"
     }
+  ],
+  "2026-11-06 21:20": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.667898523428932e-08,
+      "timestamp": "2026-11-06 21:20"
+    },
+    {
+      "rank": 2,
+      "name": "Reboot",
+      "symbol": "REBOOT",
+      "price_btc": 2.3177845735732084e-07,
+      "timestamp": "2026-11-06 21:20"
+    },
+    {
+      "rank": 3,
+      "name": "DENIM",
+      "symbol": "DENIM",
+      "price_btc": 2.2582950601758778e-07,
+      "timestamp": "2026-11-06 21:20"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010332714589096348,
+      "timestamp": "2026-11-06 21:20"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.4627015570888518e-05,
+      "timestamp": "2026-11-06 21:20"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001186299006212118,
+      "timestamp": "2026-11-06 21:20"
+    },
+    {
+      "rank": 7,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00011202521886803701,
+      "timestamp": "2026-11-06 21:20"
+    },
+    {
+      "rank": 8,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.017612242317303167,
+      "timestamp": "2026-11-06 21:20"
+    },
+    {
+      "rank": 9,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0009102454989228881,
+      "timestamp": "2026-11-06 21:20"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9999255767536114,
+      "timestamp": "2026-11-06 21:20"
+    },
+    {
+      "rank": 11,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.9071269902468896e-05,
+      "timestamp": "2026-11-06 21:20"
+    },
+    {
+      "rank": 12,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0002774129218422903,
+      "timestamp": "2026-11-06 21:20"
+    },
+    {
+      "rank": 13,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 1.6274621263117e-05,
+      "timestamp": "2026-11-06 21:20"
+    },
+    {
+      "rank": 14,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.1442275932691005e-05,
+      "timestamp": "2026-11-06 21:20"
+    },
+    {
+      "rank": 15,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.008145310400249088,
+      "timestamp": "2026-11-06 21:20"
+    }
   ]
 }
