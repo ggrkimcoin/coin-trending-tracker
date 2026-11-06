@@ -1036186,5 +1036186,112 @@
       "price_btc": 5.15764928360345e-08,
       "timestamp": "2026-11-06 07:44"
     }
+  ],
+  "2026-11-06 15:44": [
+    {
+      "rank": 1,
+      "name": "Reboot",
+      "symbol": "REBOOT",
+      "price_btc": 2.1249030020435657e-07,
+      "timestamp": "2026-11-06 15:44"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9985060422197002,
+      "timestamp": "2026-11-06 15:44"
+    },
+    {
+      "rank": 3,
+      "name": "DENIM",
+      "symbol": "DENIM",
+      "price_btc": 2.3577817857928577e-07,
+      "timestamp": "2026-11-06 15:44"
+    },
+    {
+      "rank": 4,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.017884423740601115,
+      "timestamp": "2026-11-06 15:44"
+    },
+    {
+      "rank": 5,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00011061481777163167,
+      "timestamp": "2026-11-06 15:44"
+    },
+    {
+      "rank": 6,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.5017416980124006e-05,
+      "timestamp": "2026-11-06 15:44"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011977150097089182,
+      "timestamp": "2026-11-06 15:44"
+    },
+    {
+      "rank": 8,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.280792202380741e-07,
+      "timestamp": "2026-11-06 15:44"
+    },
+    {
+      "rank": 9,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.823145486280564e-08,
+      "timestamp": "2026-11-06 15:44"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010366924742943385,
+      "timestamp": "2026-11-06 15:44"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.029335085251547897,
+      "timestamp": "2026-11-06 15:44"
+    },
+    {
+      "rank": 12,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.1654029300759945e-05,
+      "timestamp": "2026-11-06 15:44"
+    },
+    {
+      "rank": 13,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.00027444187125261405,
+      "timestamp": "2026-11-06 15:44"
+    },
+    {
+      "rank": 14,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.9841381633804256e-05,
+      "timestamp": "2026-11-06 15:44"
+    },
+    {
+      "rank": 15,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.008226492924841263,
+      "timestamp": "2026-11-06 15:44"
+    }
   ]
 }
