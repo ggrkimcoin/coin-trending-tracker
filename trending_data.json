@@ -1036079,5 +1036079,112 @@
       "price_btc": 1.5884631318047965e-05,
       "timestamp": "2026-11-06 00:51"
     }
+  ],
+  "2026-11-06 07:44": [
+    {
+      "rank": 1,
+      "name": "DENIM",
+      "symbol": "DENIM",
+      "price_btc": 2.249520547724343e-07,
+      "timestamp": "2026-11-06 07:44"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9993650896979237,
+      "timestamp": "2026-11-06 07:44"
+    },
+    {
+      "rank": 3,
+      "name": "Akedo",
+      "symbol": "AKE",
+      "price_btc": 6.672939494946112e-08,
+      "timestamp": "2026-11-06 07:44"
+    },
+    {
+      "rank": 4,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.0001078722390581846,
+      "timestamp": "2026-11-06 07:44"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011831438711972227,
+      "timestamp": "2026-11-06 07:44"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.730975936187927e-08,
+      "timestamp": "2026-11-06 07:44"
+    },
+    {
+      "rank": 7,
+      "name": "Infinity Ground",
+      "symbol": "AIN",
+      "price_btc": 1.4433001975238253e-06,
+      "timestamp": "2026-11-06 07:44"
+    },
+    {
+      "rank": 8,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 2.4716289529669577e-06,
+      "timestamp": "2026-11-06 07:44"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1294189121683697e-05,
+      "timestamp": "2026-11-06 07:44"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010207132665006713,
+      "timestamp": "2026-11-06 07:44"
+    },
+    {
+      "rank": 11,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.166813509558851e-05,
+      "timestamp": "2026-11-06 07:44"
+    },
+    {
+      "rank": 12,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.4138790438317064e-05,
+      "timestamp": "2026-11-06 07:44"
+    },
+    {
+      "rank": 13,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.83080840053003e-05,
+      "timestamp": "2026-11-06 07:44"
+    },
+    {
+      "rank": 14,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0009414944864189233,
+      "timestamp": "2026-11-06 07:44"
+    },
+    {
+      "rank": 15,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 5.15764928360345e-08,
+      "timestamp": "2026-11-06 07:44"
+    }
   ]
 }
