@@ -1036400,5 +1036400,112 @@
       "price_btc": 0.008145310400249088,
       "timestamp": "2026-11-06 21:20"
     }
+  ],
+  "2026-11-07 01:41": [
+    {
+      "rank": 1,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.3767295807170792e-05,
+      "timestamp": "2026-11-07 01:41"
+    },
+    {
+      "rank": 2,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.017778066294172903,
+      "timestamp": "2026-11-07 01:41"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.999934937553589,
+      "timestamp": "2026-11-07 01:41"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.029561063136385634,
+      "timestamp": "2026-11-07 01:41"
+    },
+    {
+      "rank": 5,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00010972006474730616,
+      "timestamp": "2026-11-07 01:41"
+    },
+    {
+      "rank": 6,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014284744831225463,
+      "timestamp": "2026-11-07 01:41"
+    },
+    {
+      "rank": 7,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1472174947109426e-05,
+      "timestamp": "2026-11-07 01:41"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010418305449969763,
+      "timestamp": "2026-11-07 01:41"
+    },
+    {
+      "rank": 9,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.5553964730757555e-05,
+      "timestamp": "2026-11-07 01:41"
+    },
+    {
+      "rank": 10,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.934956757889726e-05,
+      "timestamp": "2026-11-07 01:41"
+    },
+    {
+      "rank": 11,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.2360346058973453e-07,
+      "timestamp": "2026-11-07 01:41"
+    },
+    {
+      "rank": 12,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 6.333837829566277e-06,
+      "timestamp": "2026-11-07 01:41"
+    },
+    {
+      "rank": 13,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 2.5670051056309438e-06,
+      "timestamp": "2026-11-07 01:41"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 6.618963889665661e-11,
+      "timestamp": "2026-11-07 01:41"
+    },
+    {
+      "rank": 15,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0009030605196050813,
+      "timestamp": "2026-11-07 01:41"
+    }
   ]
 }
