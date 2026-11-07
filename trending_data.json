@@ -1036614,5 +1036614,112 @@
       "price_btc": 1.7651527122501824e-07,
       "timestamp": "2026-11-07 08:27"
     }
+  ],
+  "2026-11-07 15:29": [
+    {
+      "rank": 1,
+      "name": "Reboot",
+      "symbol": "REBOOT",
+      "price_btc": 2.565823436562609e-07,
+      "timestamp": "2026-11-07 15:29"
+    },
+    {
+      "rank": 2,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.869931565181792e-07,
+      "timestamp": "2026-11-07 15:29"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.446495021003626e-08,
+      "timestamp": "2026-11-07 15:29"
+    },
+    {
+      "rank": 4,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.0166289453287662,
+      "timestamp": "2026-11-07 15:29"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.2549467280641783e-05,
+      "timestamp": "2026-11-07 15:29"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010250758975700117,
+      "timestamp": "2026-11-07 15:29"
+    },
+    {
+      "rank": 7,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002952326774870821,
+      "timestamp": "2026-11-07 15:29"
+    },
+    {
+      "rank": 8,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.263152555774481e-05,
+      "timestamp": "2026-11-07 15:29"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 9.84767286424582e-07,
+      "timestamp": "2026-11-07 15:29"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.999540640258998,
+      "timestamp": "2026-11-07 15:29"
+    },
+    {
+      "rank": 11,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.84573032154566e-06,
+      "timestamp": "2026-11-07 15:29"
+    },
+    {
+      "rank": 12,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00010739864623023869,
+      "timestamp": "2026-11-07 15:29"
+    },
+    {
+      "rank": 13,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.5287260864537722e-05,
+      "timestamp": "2026-11-07 15:29"
+    },
+    {
+      "rank": 14,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 6.248531769496774e-06,
+      "timestamp": "2026-11-07 15:29"
+    },
+    {
+      "rank": 15,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0008823365343581109,
+      "timestamp": "2026-11-07 15:29"
+    }
   ]
 }
