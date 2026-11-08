@@ -1036935,5 +1036935,112 @@
       "price_btc": 2.3234129822052327e-05,
       "timestamp": "2026-11-07 23:33"
     }
+  ],
+  "2026-11-08 04:57": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9994249465183467,
+      "timestamp": "2026-11-08 04:57"
+    },
+    {
+      "rank": 2,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 6.432318833703204e-11,
+      "timestamp": "2026-11-08 04:57"
+    },
+    {
+      "rank": 3,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 4.7180952196226585e-06,
+      "timestamp": "2026-11-08 04:57"
+    },
+    {
+      "rank": 4,
+      "name": "Aero",
+      "symbol": "AERO",
+      "price_btc": 7.939399497235761e-06,
+      "timestamp": "2026-11-08 04:57"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.330385869127385e-08,
+      "timestamp": "2026-11-08 04:57"
+    },
+    {
+      "rank": 6,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.963692116411932e-06,
+      "timestamp": "2026-11-08 04:57"
+    },
+    {
+      "rank": 7,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 6.312083408163712e-06,
+      "timestamp": "2026-11-08 04:57"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.5298841780778273e-05,
+      "timestamp": "2026-11-08 04:57"
+    },
+    {
+      "rank": 9,
+      "name": "Morpho",
+      "symbol": "MORPHO",
+      "price_btc": 2.746548846932838e-05,
+      "timestamp": "2026-11-08 04:57"
+    },
+    {
+      "rank": 10,
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price_btc": 4.361624604421945e-06,
+      "timestamp": "2026-11-08 04:57"
+    },
+    {
+      "rank": 11,
+      "name": "Linea",
+      "symbol": "LINEA",
+      "price_btc": 2.8384903116489736e-08,
+      "timestamp": "2026-11-08 04:57"
+    },
+    {
+      "rank": 12,
+      "name": "Meteora",
+      "symbol": "MET",
+      "price_btc": 4.229305691132999e-06,
+      "timestamp": "2026-11-08 04:57"
+    },
+    {
+      "rank": 13,
+      "name": "STONK",
+      "symbol": "STONK",
+      "price_btc": 9.291044325104845e-07,
+      "timestamp": "2026-11-08 04:57"
+    },
+    {
+      "rank": 14,
+      "name": "Geodnet",
+      "symbol": "GEOD",
+      "price_btc": 3.1557559647723474e-06,
+      "timestamp": "2026-11-08 04:57"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011732724564946753,
+      "timestamp": "2026-11-08 04:57"
+    }
   ]
 }
