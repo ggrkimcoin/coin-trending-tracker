@@ -1037149,5 +1037149,112 @@
       "price_btc": 7.901635383541152e-06,
       "timestamp": "2026-11-08 11:49"
     }
+  ],
+  "2026-11-08 17:43": [
+    {
+      "rank": 1,
+      "name": "Be Like José",
+      "symbol": "JOSÉ",
+      "price_btc": 2.217565117052122e-07,
+      "timestamp": "2026-11-08 17:43"
+    },
+    {
+      "rank": 2,
+      "name": "WASTED",
+      "symbol": "WASTED",
+      "price_btc": 3.1889142613995203e-07,
+      "timestamp": "2026-11-08 17:43"
+    },
+    {
+      "rank": 3,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.980609324885221e-07,
+      "timestamp": "2026-11-08 17:43"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9998964199804184,
+      "timestamp": "2026-11-08 17:43"
+    },
+    {
+      "rank": 5,
+      "name": "Janction",
+      "symbol": "JCT",
+      "price_btc": 1.634491985356167e-07,
+      "timestamp": "2026-11-08 17:43"
+    },
+    {
+      "rank": 6,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.3192442907394334e-05,
+      "timestamp": "2026-11-08 17:43"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010128902583948604,
+      "timestamp": "2026-11-08 17:43"
+    },
+    {
+      "rank": 8,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 5.880791457763372e-06,
+      "timestamp": "2026-11-08 17:43"
+    },
+    {
+      "rank": 9,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.000832297896295221,
+      "timestamp": "2026-11-08 17:43"
+    },
+    {
+      "rank": 10,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.309362433029559e-08,
+      "timestamp": "2026-11-08 17:43"
+    },
+    {
+      "rank": 11,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.763680256364601e-05,
+      "timestamp": "2026-11-08 17:43"
+    },
+    {
+      "rank": 12,
+      "name": "STONK",
+      "symbol": "STONK",
+      "price_btc": 6.675614009884687e-07,
+      "timestamp": "2026-11-08 17:43"
+    },
+    {
+      "rank": 13,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.17067894005763e-05,
+      "timestamp": "2026-11-08 17:43"
+    },
+    {
+      "rank": 14,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.1306136318957479e-07,
+      "timestamp": "2026-11-08 17:43"
+    },
+    {
+      "rank": 15,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0029471656560313866,
+      "timestamp": "2026-11-08 17:43"
+    }
   ]
 }
