@@ -1037042,5 +1037042,112 @@
       "price_btc": 0.0011732724564946753,
       "timestamp": "2026-11-08 04:57"
     }
+  ],
+  "2026-11-08 11:49": [
+    {
+      "rank": 1,
+      "name": "WASTED",
+      "symbol": "WASTED",
+      "price_btc": 2.8632675764222767e-07,
+      "timestamp": "2026-11-08 11:49"
+    },
+    {
+      "rank": 2,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.455171101219932e-07,
+      "timestamp": "2026-11-08 11:49"
+    },
+    {
+      "rank": 3,
+      "name": "Janction",
+      "symbol": "JCT",
+      "price_btc": 1.2347444704003289e-07,
+      "timestamp": "2026-11-08 11:49"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9995788179386288,
+      "timestamp": "2026-11-08 11:49"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.349880541116993e-05,
+      "timestamp": "2026-11-08 11:49"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.431138728465509e-08,
+      "timestamp": "2026-11-08 11:49"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010195981536722503,
+      "timestamp": "2026-11-08 11:49"
+    },
+    {
+      "rank": 8,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 3.8772735352689936e-07,
+      "timestamp": "2026-11-08 11:49"
+    },
+    {
+      "rank": 9,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0008378082398512529,
+      "timestamp": "2026-11-08 11:49"
+    },
+    {
+      "rank": 10,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.908184306328255e-05,
+      "timestamp": "2026-11-08 11:49"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.029472773411759443,
+      "timestamp": "2026-11-08 11:49"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001179438212285501,
+      "timestamp": "2026-11-08 11:49"
+    },
+    {
+      "rank": 13,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 6.615681679255381e-06,
+      "timestamp": "2026-11-08 11:49"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.5336196851231852e-05,
+      "timestamp": "2026-11-08 11:49"
+    },
+    {
+      "rank": 15,
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "price_btc": 7.901635383541152e-06,
+      "timestamp": "2026-11-08 11:49"
+    }
   ]
 }
