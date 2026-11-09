@@ -1037470,5 +1037470,112 @@
       "price_btc": 8.565638216475105e-07,
       "timestamp": "2026-11-09 01:29"
     }
+  ],
+  "2026-11-09 09:19": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9974890993627804,
+      "timestamp": "2026-11-09 09:19"
+    },
+    {
+      "rank": 2,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.1582435582640853e-05,
+      "timestamp": "2026-11-09 09:19"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011629591744365534,
+      "timestamp": "2026-11-09 09:19"
+    },
+    {
+      "rank": 4,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.7382364789347656e-05,
+      "timestamp": "2026-11-09 09:19"
+    },
+    {
+      "rank": 5,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.1486834552723086e-07,
+      "timestamp": "2026-11-09 09:19"
+    },
+    {
+      "rank": 6,
+      "name": "STONK",
+      "symbol": "STONK",
+      "price_btc": 6.734800300818697e-07,
+      "timestamp": "2026-11-09 09:19"
+    },
+    {
+      "rank": 7,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.028389662722417375,
+      "timestamp": "2026-11-09 09:19"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.318749994230007e-08,
+      "timestamp": "2026-11-09 09:19"
+    },
+    {
+      "rank": 9,
+      "name": "Janction",
+      "symbol": "JCT",
+      "price_btc": 1.1491633616590683e-07,
+      "timestamp": "2026-11-09 09:19"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 6.86098627892817e-11,
+      "timestamp": "2026-11-09 09:19"
+    },
+    {
+      "rank": 11,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 4.79013083532676e-08,
+      "timestamp": "2026-11-09 09:19"
+    },
+    {
+      "rank": 12,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009871037814586936,
+      "timestamp": "2026-11-09 09:19"
+    },
+    {
+      "rank": 13,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 2.0086857600993586e-06,
+      "timestamp": "2026-11-09 09:19"
+    },
+    {
+      "rank": 14,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 5.374197841809024e-06,
+      "timestamp": "2026-11-09 09:19"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.468250087319919e-05,
+      "timestamp": "2026-11-09 09:19"
+    }
   ]
 }
