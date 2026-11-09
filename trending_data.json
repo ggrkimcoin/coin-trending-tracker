@@ -1037363,5 +1037363,112 @@
       "price_btc": 1.172201358524186e-05,
       "timestamp": "2026-11-08 21:47"
     }
+  ],
+  "2026-11-09 01:29": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9992841248807078,
+      "timestamp": "2026-11-09 01:29"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009938357218642578,
+      "timestamp": "2026-11-09 01:29"
+    },
+    {
+      "rank": 3,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.2397905556225914e-05,
+      "timestamp": "2026-11-09 01:29"
+    },
+    {
+      "rank": 4,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.114534091461199e-05,
+      "timestamp": "2026-11-09 01:29"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.28322040934324e-08,
+      "timestamp": "2026-11-09 01:29"
+    },
+    {
+      "rank": 6,
+      "name": "Janction",
+      "symbol": "JCT",
+      "price_btc": 1.4344014573743913e-07,
+      "timestamp": "2026-11-09 01:29"
+    },
+    {
+      "rank": 7,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.4863438939390772e-05,
+      "timestamp": "2026-11-09 01:29"
+    },
+    {
+      "rank": 8,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02842905386049004,
+      "timestamp": "2026-11-09 01:29"
+    },
+    {
+      "rank": 9,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.810979689870039e-05,
+      "timestamp": "2026-11-09 01:29"
+    },
+    {
+      "rank": 10,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.008028287558355116,
+      "timestamp": "2026-11-09 01:29"
+    },
+    {
+      "rank": 11,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.00026932080032598087,
+      "timestamp": "2026-11-09 01:29"
+    },
+    {
+      "rank": 12,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 9.212135876341533e-05,
+      "timestamp": "2026-11-09 01:29"
+    },
+    {
+      "rank": 13,
+      "name": "Aero",
+      "symbol": "AERO",
+      "price_btc": 7.685098551796264e-06,
+      "timestamp": "2026-11-09 01:29"
+    },
+    {
+      "rank": 14,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 4.7737978625493895e-08,
+      "timestamp": "2026-11-09 01:29"
+    },
+    {
+      "rank": 15,
+      "name": "UnifAI Network",
+      "symbol": "UAI",
+      "price_btc": 8.565638216475105e-07,
+      "timestamp": "2026-11-09 01:29"
+    }
   ]
 }
