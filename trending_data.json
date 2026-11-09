@@ -1037577,5 +1037577,112 @@
       "price_btc": 1.468250087319919e-05,
       "timestamp": "2026-11-09 09:19"
     }
+  ],
+  "2026-11-09 20:29": [
+    {
+      "rank": 1,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.915218896818681e-07,
+      "timestamp": "2026-11-09 20:29"
+    },
+    {
+      "rank": 2,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00011656027743517361,
+      "timestamp": "2026-11-09 20:29"
+    },
+    {
+      "rank": 3,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 4.45570939499626e-06,
+      "timestamp": "2026-11-09 20:29"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.522525933016869e-08,
+      "timestamp": "2026-11-09 20:29"
+    },
+    {
+      "rank": 5,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001430249085489442,
+      "timestamp": "2026-11-09 20:29"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010034537797944752,
+      "timestamp": "2026-11-09 20:29"
+    },
+    {
+      "rank": 7,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 2.351569518368175e-06,
+      "timestamp": "2026-11-09 20:29"
+    },
+    {
+      "rank": 8,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.108232292832761e-05,
+      "timestamp": "2026-11-09 20:29"
+    },
+    {
+      "rank": 9,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.015755550602853875,
+      "timestamp": "2026-11-09 20:29"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.4616318225572784e-05,
+      "timestamp": "2026-11-09 20:29"
+    },
+    {
+      "rank": 11,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.8583445849234924e-05,
+      "timestamp": "2026-11-09 20:29"
+    },
+    {
+      "rank": 12,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 2.689424348800341e-06,
+      "timestamp": "2026-11-09 20:29"
+    },
+    {
+      "rank": 13,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 1.1603155374841711e-05,
+      "timestamp": "2026-11-09 20:29"
+    },
+    {
+      "rank": 14,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 4.849126875912636e-08,
+      "timestamp": "2026-11-09 20:29"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011590487622879567,
+      "timestamp": "2026-11-09 20:29"
+    }
   ]
 }
