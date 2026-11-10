@@ -1037898,5 +1037898,112 @@
       "price_btc": 0.001675398039442651,
       "timestamp": "2026-11-10 12:15"
     }
+  ],
+  "2026-11-10 20:18": [
+    {
+      "rank": 1,
+      "name": "Super Inu",
+      "symbol": "SI",
+      "price_btc": 2.5756332359181294e-07,
+      "timestamp": "2026-11-10 20:18"
+    },
+    {
+      "rank": 2,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.2323553913205664e-07,
+      "timestamp": "2026-11-10 20:18"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9990548300563908,
+      "timestamp": "2026-11-10 20:18"
+    },
+    {
+      "rank": 4,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 3.9233905191029785e-06,
+      "timestamp": "2026-11-10 20:18"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02779635352468087,
+      "timestamp": "2026-11-10 20:18"
+    },
+    {
+      "rank": 6,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.01399335562781834,
+      "timestamp": "2026-11-10 20:18"
+    },
+    {
+      "rank": 7,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.8961516341705544e-05,
+      "timestamp": "2026-11-10 20:18"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00097879079667423,
+      "timestamp": "2026-11-10 20:18"
+    },
+    {
+      "rank": 9,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.548194523649655e-05,
+      "timestamp": "2026-11-10 20:18"
+    },
+    {
+      "rank": 10,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00011234338463012806,
+      "timestamp": "2026-11-10 20:18"
+    },
+    {
+      "rank": 11,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.000260642029049357,
+      "timestamp": "2026-11-10 20:18"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011276851719568216,
+      "timestamp": "2026-11-10 20:18"
+    },
+    {
+      "rank": 13,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.8464375838512624e-05,
+      "timestamp": "2026-11-10 20:18"
+    },
+    {
+      "rank": 14,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0008300415920851114,
+      "timestamp": "2026-11-10 20:18"
+    },
+    {
+      "rank": 15,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014003010920909893,
+      "timestamp": "2026-11-10 20:18"
+    }
   ]
 }
