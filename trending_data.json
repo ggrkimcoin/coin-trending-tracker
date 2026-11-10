@@ -1037791,5 +1037791,112 @@
       "price_btc": 5.02166070223555e-06,
       "timestamp": "2026-11-10 03:15"
     }
+  ],
+  "2026-11-10 12:15": [
+    {
+      "rank": 1,
+      "name": "Super Inu",
+      "symbol": "SI",
+      "price_btc": 2.1837481484808614e-07,
+      "timestamp": "2026-11-10 12:15"
+    },
+    {
+      "rank": 2,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00011180002607142596,
+      "timestamp": "2026-11-10 12:15"
+    },
+    {
+      "rank": 3,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.33845111539949e-07,
+      "timestamp": "2026-11-10 12:15"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9992540708524079,
+      "timestamp": "2026-11-10 12:15"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.45352439023371e-08,
+      "timestamp": "2026-11-10 12:15"
+    },
+    {
+      "rank": 6,
+      "name": "Aero",
+      "symbol": "AERO",
+      "price_btc": 7.449889635711409e-06,
+      "timestamp": "2026-11-10 12:15"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001137287462821477,
+      "timestamp": "2026-11-10 12:15"
+    },
+    {
+      "rank": 8,
+      "name": "Harmony",
+      "symbol": "ONE",
+      "price_btc": 2.4763832862837945e-08,
+      "timestamp": "2026-11-10 12:15"
+    },
+    {
+      "rank": 9,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.8541023530350826e-05,
+      "timestamp": "2026-11-10 12:15"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009904614183854877,
+      "timestamp": "2026-11-10 12:15"
+    },
+    {
+      "rank": 11,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.241002583714325e-07,
+      "timestamp": "2026-11-10 12:15"
+    },
+    {
+      "rank": 12,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.4492644900688654e-05,
+      "timestamp": "2026-11-10 12:15"
+    },
+    {
+      "rank": 13,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.1970245104540042e-05,
+      "timestamp": "2026-11-10 12:15"
+    },
+    {
+      "rank": 14,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.015438544640372592,
+      "timestamp": "2026-11-10 12:15"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.001675398039442651,
+      "timestamp": "2026-11-10 12:15"
+    }
   ]
 }
