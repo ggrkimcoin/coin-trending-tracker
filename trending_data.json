@@ -1038219,5 +1038219,112 @@
       "price_btc": 0.00025732561664322317,
       "timestamp": "2026-11-11 08:57"
     }
+  ],
+  "2026-11-11 17:00": [
+    {
+      "rank": 1,
+      "name": "ZIG Finance",
+      "symbol": "ZIG",
+      "price_btc": 5.138659089688465e-07,
+      "timestamp": "2026-11-11 17:00"
+    },
+    {
+      "rank": 2,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.013511889132968797,
+      "timestamp": "2026-11-11 17:00"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9993625589822145,
+      "timestamp": "2026-11-11 17:00"
+    },
+    {
+      "rank": 4,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 6.203251960515526e-06,
+      "timestamp": "2026-11-11 17:00"
+    },
+    {
+      "rank": 5,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00011596952164230684,
+      "timestamp": "2026-11-11 17:00"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000991641282148544,
+      "timestamp": "2026-11-11 17:00"
+    },
+    {
+      "rank": 7,
+      "name": "Aero",
+      "symbol": "AERO",
+      "price_btc": 7.553207559886724e-06,
+      "timestamp": "2026-11-11 17:00"
+    },
+    {
+      "rank": 8,
+      "name": "Gram (prev. Toncoin)",
+      "symbol": "GRAM",
+      "price_btc": 1.6018199418424636e-05,
+      "timestamp": "2026-11-11 17:00"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.027964121958687926,
+      "timestamp": "2026-11-11 17:00"
+    },
+    {
+      "rank": 10,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.9695273868983336e-05,
+      "timestamp": "2026-11-11 17:00"
+    },
+    {
+      "rank": 11,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030086139534692986,
+      "timestamp": "2026-11-11 17:00"
+    },
+    {
+      "rank": 12,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 6.657790290544898e-11,
+      "timestamp": "2026-11-11 17:00"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011409391056337614,
+      "timestamp": "2026-11-11 17:00"
+    },
+    {
+      "rank": 14,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.56519248412083e-05,
+      "timestamp": "2026-11-11 17:00"
+    },
+    {
+      "rank": 15,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.438733992978873e-05,
+      "timestamp": "2026-11-11 17:00"
+    }
   ]
 }
