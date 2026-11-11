@@ -1038112,5 +1038112,112 @@
       "price_btc": 0.9989373249926523,
       "timestamp": "2026-11-11 01:04"
     }
+  ],
+  "2026-11-11 08:57": [
+    {
+      "rank": 1,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.013320582174938842,
+      "timestamp": "2026-11-11 08:57"
+    },
+    {
+      "rank": 2,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.568718224052408e-05,
+      "timestamp": "2026-11-11 08:57"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009767191953442551,
+      "timestamp": "2026-11-11 08:57"
+    },
+    {
+      "rank": 4,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0007771386458800729,
+      "timestamp": "2026-11-11 08:57"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.027928491150767034,
+      "timestamp": "2026-11-11 08:57"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 9.904749719958488e-07,
+      "timestamp": "2026-11-11 08:57"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.000170028158454,
+      "timestamp": "2026-11-11 08:57"
+    },
+    {
+      "rank": 8,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.92393636968631e-05,
+      "timestamp": "2026-11-11 08:57"
+    },
+    {
+      "rank": 9,
+      "name": "Janction",
+      "symbol": "JCT",
+      "price_btc": 8.679047488342996e-08,
+      "timestamp": "2026-11-11 08:57"
+    },
+    {
+      "rank": 10,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014024422680748822,
+      "timestamp": "2026-11-11 08:57"
+    },
+    {
+      "rank": 11,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.2266164321589312e-07,
+      "timestamp": "2026-11-11 08:57"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011280383081241807,
+      "timestamp": "2026-11-11 08:57"
+    },
+    {
+      "rank": 13,
+      "name": "Initia",
+      "symbol": "INIT",
+      "price_btc": 3.508648979960447e-06,
+      "timestamp": "2026-11-11 08:57"
+    },
+    {
+      "rank": 14,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.007702207781614049,
+      "timestamp": "2026-11-11 08:57"
+    },
+    {
+      "rank": 15,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.00025732561664322317,
+      "timestamp": "2026-11-11 08:57"
+    }
   ]
 }
