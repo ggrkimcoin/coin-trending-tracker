@@ -1038005,5 +1038005,112 @@
       "price_btc": 0.00014003010920909893,
       "timestamp": "2026-11-10 20:18"
     }
+  ],
+  "2026-11-11 01:04": [
+    {
+      "rank": 1,
+      "name": "Super Inu",
+      "symbol": "SI",
+      "price_btc": 2.1695176242013076e-07,
+      "timestamp": "2026-11-11 01:04"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.463504497672149e-08,
+      "timestamp": "2026-11-11 01:04"
+    },
+    {
+      "rank": 3,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.014062608922269643,
+      "timestamp": "2026-11-11 01:04"
+    },
+    {
+      "rank": 4,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.4299712595695482e-05,
+      "timestamp": "2026-11-11 01:04"
+    },
+    {
+      "rank": 5,
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "price_btc": 2.4079101746343254e-07,
+      "timestamp": "2026-11-11 01:04"
+    },
+    {
+      "rank": 6,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.695056613952917e-05,
+      "timestamp": "2026-11-11 01:04"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011299157047289297,
+      "timestamp": "2026-11-11 01:04"
+    },
+    {
+      "rank": 8,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 4.417225386756705e-06,
+      "timestamp": "2026-11-11 01:04"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000977289415818394,
+      "timestamp": "2026-11-11 01:04"
+    },
+    {
+      "rank": 10,
+      "name": "Aero",
+      "symbol": "AERO",
+      "price_btc": 7.339703663367511e-06,
+      "timestamp": "2026-11-11 01:04"
+    },
+    {
+      "rank": 11,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014046341147243041,
+      "timestamp": "2026-11-11 01:04"
+    },
+    {
+      "rank": 12,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 1.9856877706133613e-06,
+      "timestamp": "2026-11-11 01:04"
+    },
+    {
+      "rank": 13,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "price_btc": 2.2170868220962084e-05,
+      "timestamp": "2026-11-11 01:04"
+    },
+    {
+      "rank": 14,
+      "name": "STONK",
+      "symbol": "STONK",
+      "price_btc": 7.011657458128436e-07,
+      "timestamp": "2026-11-11 01:04"
+    },
+    {
+      "rank": 15,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9989373249926523,
+      "timestamp": "2026-11-11 01:04"
+    }
   ]
 }
