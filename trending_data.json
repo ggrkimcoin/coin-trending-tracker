@@ -1038540,5 +1038540,112 @@
       "price_btc": 0.0009697650103879085,
       "timestamp": "2026-11-12 07:59"
     }
+  ],
+  "2026-11-12 16:44": [
+    {
+      "rank": 1,
+      "name": "ni hao cat",
+      "symbol": "MIHAO",
+      "price_btc": 2.408071511818941e-07,
+      "timestamp": "2026-11-12 16:44"
+    },
+    {
+      "rank": 2,
+      "name": "Seppuku",
+      "symbol": "SEPPUKU",
+      "price_btc": 2.6987766965309e-07,
+      "timestamp": "2026-11-12 16:44"
+    },
+    {
+      "rank": 3,
+      "name": "Rocco",
+      "symbol": "ROCCO",
+      "price_btc": 2.7648723682481e-07,
+      "timestamp": "2026-11-12 16:44"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9978351569181297,
+      "timestamp": "2026-11-12 16:44"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.476441052421024e-08,
+      "timestamp": "2026-11-12 16:44"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02796425347513627,
+      "timestamp": "2026-11-12 16:44"
+    },
+    {
+      "rank": 7,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 1.9395783149383883e-06,
+      "timestamp": "2026-11-12 16:44"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009920106737170836,
+      "timestamp": "2026-11-12 16:44"
+    },
+    {
+      "rank": 9,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.8449380886193214e-05,
+      "timestamp": "2026-11-12 16:44"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011331565381730623,
+      "timestamp": "2026-11-12 16:44"
+    },
+    {
+      "rank": 11,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.372941695047092e-05,
+      "timestamp": "2026-11-12 16:44"
+    },
+    {
+      "rank": 12,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002913068124464133,
+      "timestamp": "2026-11-12 16:44"
+    },
+    {
+      "rank": 13,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.7781973341057725e-05,
+      "timestamp": "2026-11-12 16:44"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1107194983181018e-05,
+      "timestamp": "2026-11-12 16:44"
+    },
+    {
+      "rank": 15,
+      "name": "Gram (prev. Toncoin)",
+      "symbol": "GRAM",
+      "price_btc": 1.74288811518673e-05,
+      "timestamp": "2026-11-12 16:44"
+    }
   ]
 }
