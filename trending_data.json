@@ -1038326,5 +1038326,112 @@
       "price_btc": 1.438733992978873e-05,
       "timestamp": "2026-11-11 17:00"
     }
+  ],
+  "2026-11-12 00:10": [
+    {
+      "rank": 1,
+      "name": "ZIG Finance",
+      "symbol": "ZIG",
+      "price_btc": 5.123587963716744e-07,
+      "timestamp": "2026-11-12 00:10"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.400390075566439e-08,
+      "timestamp": "2026-11-12 00:10"
+    },
+    {
+      "rank": 3,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.01313327669185328,
+      "timestamp": "2026-11-12 00:10"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9989221113914364,
+      "timestamp": "2026-11-12 00:10"
+    },
+    {
+      "rank": 5,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 4.309738800660661e-06,
+      "timestamp": "2026-11-12 00:10"
+    },
+    {
+      "rank": 6,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 2.0452959806313093e-06,
+      "timestamp": "2026-11-12 00:10"
+    },
+    {
+      "rank": 7,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 6.125533662144541e-11,
+      "timestamp": "2026-11-12 00:10"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009749051950996231,
+      "timestamp": "2026-11-12 00:10"
+    },
+    {
+      "rank": 9,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002921529998736103,
+      "timestamp": "2026-11-12 00:10"
+    },
+    {
+      "rank": 10,
+      "name": "Gram (prev. Toncoin)",
+      "symbol": "GRAM",
+      "price_btc": 1.5856275407317637e-05,
+      "timestamp": "2026-11-12 00:10"
+    },
+    {
+      "rank": 11,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 8.429008854185067e-05,
+      "timestamp": "2026-11-12 00:10"
+    },
+    {
+      "rank": 12,
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "price_btc": 3.485179598322548e-05,
+      "timestamp": "2026-11-12 00:10"
+    },
+    {
+      "rank": 13,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011263868897838955,
+      "timestamp": "2026-11-12 00:10"
+    },
+    {
+      "rank": 14,
+      "name": "Stellar",
+      "symbol": "XLM",
+      "price_btc": 1.9874886053030448e-06,
+      "timestamp": "2026-11-12 00:10"
+    },
+    {
+      "rank": 15,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.2573523530669976e-07,
+      "timestamp": "2026-11-12 00:10"
+    }
   ]
 }
