@@ -1038433,5 +1038433,112 @@
       "price_btc": 2.2573523530669976e-07,
       "timestamp": "2026-11-12 00:10"
     }
+  ],
+  "2026-11-12 07:59": [
+    {
+      "rank": 1,
+      "name": "ZIG Finance",
+      "symbol": "ZIG",
+      "price_btc": 5.093383628347622e-07,
+      "timestamp": "2026-11-12 07:59"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.386687658714889e-08,
+      "timestamp": "2026-11-12 07:59"
+    },
+    {
+      "rank": 3,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.013384027915660476,
+      "timestamp": "2026-11-12 07:59"
+    },
+    {
+      "rank": 4,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.9297676785371355e-05,
+      "timestamp": "2026-11-12 07:59"
+    },
+    {
+      "rank": 5,
+      "name": "Gram (prev. Toncoin)",
+      "symbol": "GRAM",
+      "price_btc": 1.635490678325253e-05,
+      "timestamp": "2026-11-12 07:59"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9995272865220364,
+      "timestamp": "2026-11-12 07:59"
+    },
+    {
+      "rank": 7,
+      "name": "Aero",
+      "symbol": "AERO",
+      "price_btc": 7.246272380306001e-06,
+      "timestamp": "2026-11-12 07:59"
+    },
+    {
+      "rank": 8,
+      "name": "Epic Private Internet Cash",
+      "symbol": "EPIC",
+      "price_btc": 1.10587208877972e-05,
+      "timestamp": "2026-11-12 07:59"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.027834975196237035,
+      "timestamp": "2026-11-12 07:59"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001126545544900157,
+      "timestamp": "2026-11-12 07:59"
+    },
+    {
+      "rank": 11,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.0001371700785939377,
+      "timestamp": "2026-11-12 07:59"
+    },
+    {
+      "rank": 12,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.3868825426029096e-05,
+      "timestamp": "2026-11-12 07:59"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0015918480895372197,
+      "timestamp": "2026-11-12 07:59"
+    },
+    {
+      "rank": 14,
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "price_btc": 3.46229359268227e-05,
+      "timestamp": "2026-11-12 07:59"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009697650103879085,
+      "timestamp": "2026-11-12 07:59"
+    }
   ]
 }
