@@ -1038861,5 +1038861,112 @@
       "price_btc": 1.952274596345362e-05,
       "timestamp": "2026-11-13 03:12"
     }
+  ],
+  "2026-11-13 11:56": [
+    {
+      "rank": 1,
+      "name": "Seppuku",
+      "symbol": "SEPPUKU",
+      "price_btc": 2.8555277200406206e-07,
+      "timestamp": "2026-11-13 11:56"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0005511645430951,
+      "timestamp": "2026-11-13 11:56"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.001064837424762443,
+      "timestamp": "2026-11-13 11:56"
+    },
+    {
+      "rank": 4,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.0510494398267356e-05,
+      "timestamp": "2026-11-13 11:56"
+    },
+    {
+      "rank": 5,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 2.0021340264535614e-06,
+      "timestamp": "2026-11-13 11:56"
+    },
+    {
+      "rank": 6,
+      "name": "Akedo",
+      "symbol": "AKE",
+      "price_btc": 9.446608768039628e-08,
+      "timestamp": "2026-11-13 11:56"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.803841038619872e-08,
+      "timestamp": "2026-11-13 11:56"
+    },
+    {
+      "rank": 8,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.013860165394453712,
+      "timestamp": "2026-11-13 11:56"
+    },
+    {
+      "rank": 9,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 2.3085236552662397e-05,
+      "timestamp": "2026-11-13 11:56"
+    },
+    {
+      "rank": 10,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.746152731225463e-05,
+      "timestamp": "2026-11-13 11:56"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.475897879942841e-05,
+      "timestamp": "2026-11-13 11:56"
+    },
+    {
+      "rank": 12,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.028294257933467428,
+      "timestamp": "2026-11-13 11:56"
+    },
+    {
+      "rank": 13,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00011170941535017019,
+      "timestamp": "2026-11-13 11:56"
+    },
+    {
+      "rank": 14,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 8.402388908404957e-05,
+      "timestamp": "2026-11-13 11:56"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011647417981818311,
+      "timestamp": "2026-11-13 11:56"
+    }
   ]
 }
