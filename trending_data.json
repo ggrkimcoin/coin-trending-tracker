@@ -1038754,5 +1038754,112 @@
       "price_btc": 2.1043553189295636e-06,
       "timestamp": "2026-11-12 22:36"
     }
+  ],
+  "2026-11-13 03:12": [
+    {
+      "rank": 1,
+      "name": "ni hao cat",
+      "symbol": "MIHAO",
+      "price_btc": 2.1385403890172992e-07,
+      "timestamp": "2026-11-13 03:12"
+    },
+    {
+      "rank": 2,
+      "name": "Sanctum",
+      "symbol": "SANC",
+      "price_btc": 1.3821261103623985e-06,
+      "timestamp": "2026-11-13 03:12"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9976371881739681,
+      "timestamp": "2026-11-13 03:12"
+    },
+    {
+      "rank": 4,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.01345810025076516,
+      "timestamp": "2026-11-13 03:12"
+    },
+    {
+      "rank": 5,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014130198131676684,
+      "timestamp": "2026-11-13 03:12"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02826914461053235,
+      "timestamp": "2026-11-13 03:12"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.645614083904567e-08,
+      "timestamp": "2026-11-13 03:12"
+    },
+    {
+      "rank": 8,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.4493373301697644e-05,
+      "timestamp": "2026-11-13 03:12"
+    },
+    {
+      "rank": 9,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 8.370208201393135e-05,
+      "timestamp": "2026-11-13 03:12"
+    },
+    {
+      "rank": 10,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 6.485230057739829e-11,
+      "timestamp": "2026-11-13 03:12"
+    },
+    {
+      "rank": 11,
+      "name": "Aero",
+      "symbol": "AERO",
+      "price_btc": 7.175091791806394e-06,
+      "timestamp": "2026-11-13 03:12"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.122869279261272e-05,
+      "timestamp": "2026-11-13 03:12"
+    },
+    {
+      "rank": 13,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.62704647433417e-05,
+      "timestamp": "2026-11-13 03:12"
+    },
+    {
+      "rank": 14,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.001026573035221536,
+      "timestamp": "2026-11-13 03:12"
+    },
+    {
+      "rank": 15,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 1.952274596345362e-05,
+      "timestamp": "2026-11-13 03:12"
+    }
   ]
 }
