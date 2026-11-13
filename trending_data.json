@@ -1038968,5 +1038968,112 @@
       "price_btc": 0.0011647417981818311,
       "timestamp": "2026-11-13 11:56"
     }
+  ],
+  "2026-11-13 19:23": [
+    {
+      "rank": 1,
+      "name": "ni hao cat",
+      "symbol": "MIHAO",
+      "price_btc": 2.890895042529604e-07,
+      "timestamp": "2026-11-13 19:23"
+    },
+    {
+      "rank": 2,
+      "name": "Seppuku",
+      "symbol": "SEPPUKU",
+      "price_btc": 3.248678685926014e-07,
+      "timestamp": "2026-11-13 19:23"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9998068319170651,
+      "timestamp": "2026-11-13 19:23"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.939505424398053e-08,
+      "timestamp": "2026-11-13 19:23"
+    },
+    {
+      "rank": 5,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014550714908459004,
+      "timestamp": "2026-11-13 19:23"
+    },
+    {
+      "rank": 6,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00011885735659128996,
+      "timestamp": "2026-11-13 19:23"
+    },
+    {
+      "rank": 7,
+      "name": "Akedo",
+      "symbol": "AKE",
+      "price_btc": 1.7472214396698301e-07,
+      "timestamp": "2026-11-13 19:23"
+    },
+    {
+      "rank": 8,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.182501924474425e-05,
+      "timestamp": "2026-11-13 19:23"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.00105565702289251,
+      "timestamp": "2026-11-13 19:23"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.4860595728504953e-05,
+      "timestamp": "2026-11-13 19:23"
+    },
+    {
+      "rank": 11,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.1218417788219686e-05,
+      "timestamp": "2026-11-13 19:23"
+    },
+    {
+      "rank": 12,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011616221367239821,
+      "timestamp": "2026-11-13 19:23"
+    },
+    {
+      "rank": 13,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 1.20400463631786e-05,
+      "timestamp": "2026-11-13 19:23"
+    },
+    {
+      "rank": 14,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.700269072242337e-05,
+      "timestamp": "2026-11-13 19:23"
+    },
+    {
+      "rank": 15,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.2126115524667075e-05,
+      "timestamp": "2026-11-13 19:23"
+    }
   ]
 }
