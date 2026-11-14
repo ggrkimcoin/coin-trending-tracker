@@ -1039075,5 +1039075,112 @@
       "price_btc": 1.2126115524667075e-05,
       "timestamp": "2026-11-13 19:23"
     }
+  ],
+  "2026-11-14 00:44": [
+    {
+      "rank": 1,
+      "name": "ni hao cat",
+      "symbol": "MIHAO",
+      "price_btc": 2.2852932154231083e-07,
+      "timestamp": "2026-11-14 00:44"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9988307054594647,
+      "timestamp": "2026-11-14 00:44"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.916388905790374e-08,
+      "timestamp": "2026-11-14 00:44"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001142475428591232,
+      "timestamp": "2026-11-14 00:44"
+    },
+    {
+      "rank": 5,
+      "name": "Akedo",
+      "symbol": "AKE",
+      "price_btc": 1.680215660772186e-07,
+      "timestamp": "2026-11-14 00:44"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010505176077242862,
+      "timestamp": "2026-11-14 00:44"
+    },
+    {
+      "rank": 7,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.219292672697485e-05,
+      "timestamp": "2026-11-14 00:44"
+    },
+    {
+      "rank": 8,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00011866772092066267,
+      "timestamp": "2026-11-14 00:44"
+    },
+    {
+      "rank": 9,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00014414424048866454,
+      "timestamp": "2026-11-14 00:44"
+    },
+    {
+      "rank": 10,
+      "name": "Stellar",
+      "symbol": "XLM",
+      "price_btc": 2.137296329786572e-06,
+      "timestamp": "2026-11-14 00:44"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.028240257696339095,
+      "timestamp": "2026-11-14 00:44"
+    },
+    {
+      "rank": 12,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.452199611887988e-07,
+      "timestamp": "2026-11-14 00:44"
+    },
+    {
+      "rank": 13,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 7.820662641694506e-06,
+      "timestamp": "2026-11-14 00:44"
+    },
+    {
+      "rank": 14,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.2928919053824632e-05,
+      "timestamp": "2026-11-14 00:44"
+    },
+    {
+      "rank": 15,
+      "name": "Sei",
+      "symbol": "SEI",
+      "price_btc": 6.248535510555575e-07,
+      "timestamp": "2026-11-14 00:44"
+    }
   ]
 }
