@@ -1039182,5 +1039182,112 @@
       "price_btc": 6.248535510555575e-07,
       "timestamp": "2026-11-14 00:44"
     }
+  ],
+  "2026-11-14 07:25": [
+    {
+      "rank": 1,
+      "name": "Akedo",
+      "symbol": "AKE",
+      "price_btc": 1.905229424712712e-07,
+      "timestamp": "2026-11-14 07:25"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9986887208038395,
+      "timestamp": "2026-11-14 07:25"
+    },
+    {
+      "rank": 3,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.000118744203663171,
+      "timestamp": "2026-11-14 07:25"
+    },
+    {
+      "rank": 4,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.4650856351165195e-05,
+      "timestamp": "2026-11-14 07:25"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011178520730435358,
+      "timestamp": "2026-11-14 07:25"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 8.697932598598725e-08,
+      "timestamp": "2026-11-14 07:25"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010284531066037368,
+      "timestamp": "2026-11-14 07:25"
+    },
+    {
+      "rank": 8,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.00026297064282920465,
+      "timestamp": "2026-11-14 07:25"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.028171536005574385,
+      "timestamp": "2026-11-14 07:25"
+    },
+    {
+      "rank": 10,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.3268770886145264e-05,
+      "timestamp": "2026-11-14 07:25"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 1.0058629196808178e-06,
+      "timestamp": "2026-11-14 07:25"
+    },
+    {
+      "rank": 12,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 2.0654311469114937e-06,
+      "timestamp": "2026-11-14 07:25"
+    },
+    {
+      "rank": 13,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.9452135667694926e-05,
+      "timestamp": "2026-11-14 07:25"
+    },
+    {
+      "rank": 14,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.3700526046994048e-07,
+      "timestamp": "2026-11-14 07:25"
+    },
+    {
+      "rank": 15,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 1.9905483613304646e-06,
+      "timestamp": "2026-11-14 07:25"
+    }
   ]
 }
