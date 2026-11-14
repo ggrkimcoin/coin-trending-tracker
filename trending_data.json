@@ -1039503,5 +1039503,112 @@
       "price_btc": 0.01298367892887313,
       "timestamp": "2026-11-14 19:46"
     }
+  ],
+  "2026-11-14 23:42": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9977128378174831,
+      "timestamp": "2026-11-14 23:42"
+    },
+    {
+      "rank": 2,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001086636461846672,
+      "timestamp": "2026-11-14 23:42"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009900007958865227,
+      "timestamp": "2026-11-14 23:42"
+    },
+    {
+      "rank": 4,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.413749091686238e-05,
+      "timestamp": "2026-11-14 23:42"
+    },
+    {
+      "rank": 5,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.4081166939780426e-05,
+      "timestamp": "2026-11-14 23:42"
+    },
+    {
+      "rank": 6,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 7.48176619861908e-05,
+      "timestamp": "2026-11-14 23:42"
+    },
+    {
+      "rank": 7,
+      "name": "Aster",
+      "symbol": "ASTER",
+      "price_btc": 7.824953255976652e-06,
+      "timestamp": "2026-11-14 23:42"
+    },
+    {
+      "rank": 8,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0028436910622501406,
+      "timestamp": "2026-11-14 23:42"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02735707643746525,
+      "timestamp": "2026-11-14 23:42"
+    },
+    {
+      "rank": 10,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.6519805496808325e-05,
+      "timestamp": "2026-11-14 23:42"
+    },
+    {
+      "rank": 11,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 3.6216070911153343e-06,
+      "timestamp": "2026-11-14 23:42"
+    },
+    {
+      "rank": 12,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00013680383764401086,
+      "timestamp": "2026-11-14 23:42"
+    },
+    {
+      "rank": 13,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.336182286844901e-05,
+      "timestamp": "2026-11-14 23:42"
+    },
+    {
+      "rank": 14,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.013307597318975167,
+      "timestamp": "2026-11-14 23:42"
+    },
+    {
+      "rank": 15,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.0793458243992202e-05,
+      "timestamp": "2026-11-14 23:42"
+    }
   ]
 }
