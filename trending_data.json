@@ -1039824,5 +1039824,112 @@
       "price_btc": 4.736930140427517e-06,
       "timestamp": "2026-11-15 13:36"
     }
+  ],
+  "2026-11-15 19:36": [
+    {
+      "rank": 1,
+      "name": "Macca the Gator",
+      "symbol": "MACCA",
+      "price_btc": 2.2589360138184069e-07,
+      "timestamp": "2026-11-15 19:36"
+    },
+    {
+      "rank": 2,
+      "name": "ni hao cat",
+      "symbol": "MIHAO",
+      "price_btc": 2.4726487706759266e-07,
+      "timestamp": "2026-11-15 19:36"
+    },
+    {
+      "rank": 3,
+      "name": "AudaCity",
+      "symbol": "DACITYCOIN",
+      "price_btc": 2.387408337261454e-07,
+      "timestamp": "2026-11-15 19:36"
+    },
+    {
+      "rank": 4,
+      "name": "Gato The Cat",
+      "symbol": "GATO",
+      "price_btc": 2.7778360750692137e-07,
+      "timestamp": "2026-11-15 19:36"
+    },
+    {
+      "rank": 5,
+      "name": "Identity.md",
+      "symbol": "IMD",
+      "price_btc": 2.8740545960383385e-07,
+      "timestamp": "2026-11-15 19:36"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.999710577782664,
+      "timestamp": "2026-11-15 19:36"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.645114297592158e-08,
+      "timestamp": "2026-11-15 19:36"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011010103183183414,
+      "timestamp": "2026-11-15 19:36"
+    },
+    {
+      "rank": 9,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.013876684824969522,
+      "timestamp": "2026-11-15 19:36"
+    },
+    {
+      "rank": 10,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.387154004990239e-05,
+      "timestamp": "2026-11-15 19:36"
+    },
+    {
+      "rank": 11,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0003097605601684859,
+      "timestamp": "2026-11-15 19:36"
+    },
+    {
+      "rank": 12,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 2.37485645671822e-06,
+      "timestamp": "2026-11-15 19:36"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 1.851482767377821e-06,
+      "timestamp": "2026-11-15 19:36"
+    },
+    {
+      "rank": 14,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 7.978156070503969e-05,
+      "timestamp": "2026-11-15 19:36"
+    },
+    {
+      "rank": 15,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.0023869649996054545,
+      "timestamp": "2026-11-15 19:36"
+    }
   ]
 }
