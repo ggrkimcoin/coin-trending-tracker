@@ -1039610,5 +1039610,112 @@
       "price_btc": 1.0793458243992202e-05,
       "timestamp": "2026-11-14 23:42"
     }
+  ],
+  "2026-11-15 05:21": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0011298929801011,
+      "timestamp": "2026-11-15 05:21"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.001018351027554299,
+      "timestamp": "2026-11-15 05:21"
+    },
+    {
+      "rank": 3,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001093316372683202,
+      "timestamp": "2026-11-15 05:21"
+    },
+    {
+      "rank": 4,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.823816920578695e-05,
+      "timestamp": "2026-11-15 05:21"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02793055456836859,
+      "timestamp": "2026-11-15 05:21"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0029144455432793355,
+      "timestamp": "2026-11-15 05:21"
+    },
+    {
+      "rank": 7,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 4.673360183871872e-06,
+      "timestamp": "2026-11-15 05:21"
+    },
+    {
+      "rank": 8,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1129774445075055e-05,
+      "timestamp": "2026-11-15 05:21"
+    },
+    {
+      "rank": 9,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "price_btc": 2.3205171212017296e-06,
+      "timestamp": "2026-11-15 05:21"
+    },
+    {
+      "rank": 10,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.00030441254425676097,
+      "timestamp": "2026-11-15 05:21"
+    },
+    {
+      "rank": 11,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.3655271564981195e-05,
+      "timestamp": "2026-11-15 05:21"
+    },
+    {
+      "rank": 12,
+      "name": "Kava",
+      "symbol": "KAVA",
+      "price_btc": 5.72589721433136e-07,
+      "timestamp": "2026-11-15 05:21"
+    },
+    {
+      "rank": 13,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 4.5856562805015e-08,
+      "timestamp": "2026-11-15 05:21"
+    },
+    {
+      "rank": 14,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00011152141355719475,
+      "timestamp": "2026-11-15 05:21"
+    },
+    {
+      "rank": 15,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.474516362894978e-07,
+      "timestamp": "2026-11-15 05:21"
+    }
   ]
 }
