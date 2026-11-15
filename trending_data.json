@@ -1039931,5 +1039931,112 @@
       "price_btc": 0.0023869649996054545,
       "timestamp": "2026-11-15 19:36"
     }
+  ],
+  "2026-11-15 23:49": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.623826814455847e-08,
+      "timestamp": "2026-11-15 23:49"
+    },
+    {
+      "rank": 2,
+      "name": "AudaCity",
+      "symbol": "DACITYCOIN",
+      "price_btc": 2.4292473671433e-07,
+      "timestamp": "2026-11-15 23:49"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0013800673258408,
+      "timestamp": "2026-11-15 23:49"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011136624123566517,
+      "timestamp": "2026-11-15 23:49"
+    },
+    {
+      "rank": 5,
+      "name": "Aster",
+      "symbol": "ASTER",
+      "price_btc": 7.880150988155864e-06,
+      "timestamp": "2026-11-15 23:49"
+    },
+    {
+      "rank": 6,
+      "name": "Macca the Gator",
+      "symbol": "MACCA",
+      "price_btc": 2.72037740784e-07,
+      "timestamp": "2026-11-15 23:49"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010438333497033978,
+      "timestamp": "2026-11-15 23:49"
+    },
+    {
+      "rank": 8,
+      "name": "Aero",
+      "symbol": "AERO",
+      "price_btc": 6.659726791377617e-06,
+      "timestamp": "2026-11-15 23:49"
+    },
+    {
+      "rank": 9,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.131346724498986e-05,
+      "timestamp": "2026-11-15 23:49"
+    },
+    {
+      "rank": 10,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 4.542802937152147e-08,
+      "timestamp": "2026-11-15 23:49"
+    },
+    {
+      "rank": 11,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 1.8912851533682089e-06,
+      "timestamp": "2026-11-15 23:49"
+    },
+    {
+      "rank": 12,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 4.086634829822179e-06,
+      "timestamp": "2026-11-15 23:49"
+    },
+    {
+      "rank": 13,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0016767478121151051,
+      "timestamp": "2026-11-15 23:49"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002986773271952496,
+      "timestamp": "2026-11-15 23:49"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 4.778251697889691e-06,
+      "timestamp": "2026-11-15 23:49"
+    }
   ]
 }
