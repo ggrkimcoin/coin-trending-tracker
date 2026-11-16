@@ -1040038,5 +1040038,112 @@
       "price_btc": 4.778251697889691e-06,
       "timestamp": "2026-11-15 23:49"
     }
+  ],
+  "2026-11-16 05:18": [
+    {
+      "rank": 1,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.00030802099801027614,
+      "timestamp": "2026-11-16 05:18"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.583586740673e-08,
+      "timestamp": "2026-11-16 05:18"
+    },
+    {
+      "rank": 3,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.013677129600295554,
+      "timestamp": "2026-11-16 05:18"
+    },
+    {
+      "rank": 4,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010237389136449216,
+      "timestamp": "2026-11-16 05:18"
+    },
+    {
+      "rank": 5,
+      "name": "Aster",
+      "symbol": "ASTER",
+      "price_btc": 8.436733638164921e-06,
+      "timestamp": "2026-11-16 05:18"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9992134838085528,
+      "timestamp": "2026-11-16 05:18"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 9.608490554234656e-07,
+      "timestamp": "2026-11-16 05:18"
+    },
+    {
+      "rank": 8,
+      "name": "Seeker",
+      "symbol": "SKR",
+      "price_btc": 1.8272231043469164e-07,
+      "timestamp": "2026-11-16 05:18"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.028023981376078484,
+      "timestamp": "2026-11-16 05:18"
+    },
+    {
+      "rank": 10,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.3925490452769166e-07,
+      "timestamp": "2026-11-16 05:18"
+    },
+    {
+      "rank": 11,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00011059845489478608,
+      "timestamp": "2026-11-16 05:18"
+    },
+    {
+      "rank": 12,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.902693398402999e-05,
+      "timestamp": "2026-11-16 05:18"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1185587809059542e-05,
+      "timestamp": "2026-11-16 05:18"
+    },
+    {
+      "rank": 14,
+      "name": "EVAA Protocol",
+      "symbol": "EVAA",
+      "price_btc": 4.0271655874279754e-05,
+      "timestamp": "2026-11-16 05:18"
+    },
+    {
+      "rank": 15,
+      "name": "Aptos",
+      "symbol": "APT",
+      "price_btc": 7.0681874423877915e-06,
+      "timestamp": "2026-11-16 05:18"
+    }
   ]
 }
