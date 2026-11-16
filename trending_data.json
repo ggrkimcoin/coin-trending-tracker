@@ -1040145,5 +1040145,112 @@
       "price_btc": 7.0681874423877915e-06,
       "timestamp": "2026-11-16 05:18"
     }
+  ],
+  "2026-11-16 15:06": [
+    {
+      "rank": 1,
+      "name": "Macca the Gator",
+      "symbol": "MACCA",
+      "price_btc": 2.7326776068585003e-07,
+      "timestamp": "2026-11-16 15:06"
+    },
+    {
+      "rank": 2,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.1341210718939045e-05,
+      "timestamp": "2026-11-16 15:06"
+    },
+    {
+      "rank": 3,
+      "name": "Gato The Cat",
+      "symbol": "GATO",
+      "price_btc": 2.7112719002355e-07,
+      "timestamp": "2026-11-16 15:06"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.002169958968689,
+      "timestamp": "2026-11-16 15:06"
+    },
+    {
+      "rank": 5,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.624409225859706e-08,
+      "timestamp": "2026-11-16 15:06"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011067820155306147,
+      "timestamp": "2026-11-16 15:06"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010312884395097196,
+      "timestamp": "2026-11-16 15:06"
+    },
+    {
+      "rank": 8,
+      "name": "Bless",
+      "symbol": "BLESS",
+      "price_btc": 2.6220948237076505e-07,
+      "timestamp": "2026-11-16 15:06"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.028406683982967508,
+      "timestamp": "2026-11-16 15:06"
+    },
+    {
+      "rank": 10,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.013527296574763887,
+      "timestamp": "2026-11-16 15:06"
+    },
+    {
+      "rank": 11,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.5264186518369753e-05,
+      "timestamp": "2026-11-16 15:06"
+    },
+    {
+      "rank": 12,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.940238918398457e-05,
+      "timestamp": "2026-11-16 15:06"
+    },
+    {
+      "rank": 13,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 1.928113687457048e-06,
+      "timestamp": "2026-11-16 15:06"
+    },
+    {
+      "rank": 14,
+      "name": "Aster",
+      "symbol": "ASTER",
+      "price_btc": 8.682790586711928e-06,
+      "timestamp": "2026-11-16 15:06"
+    },
+    {
+      "rank": 15,
+      "name": "Aero",
+      "symbol": "AERO",
+      "price_btc": 6.667819061832092e-06,
+      "timestamp": "2026-11-16 15:06"
+    }
   ]
 }
