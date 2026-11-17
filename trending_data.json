@@ -1040359,5 +1040359,112 @@
       "price_btc": 4.0828864465162696e-07,
       "timestamp": "2026-11-17 00:00"
     }
+  ],
+  "2026-11-17 08:52": [
+    {
+      "rank": 1,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.6452854149261934e-05,
+      "timestamp": "2026-11-17 08:52"
+    },
+    {
+      "rank": 2,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.01424848669606206,
+      "timestamp": "2026-11-17 08:52"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0003592733166178,
+      "timestamp": "2026-11-17 08:52"
+    },
+    {
+      "rank": 4,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.023338647315533e-05,
+      "timestamp": "2026-11-17 08:52"
+    },
+    {
+      "rank": 5,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011246342446517587,
+      "timestamp": "2026-11-17 08:52"
+    },
+    {
+      "rank": 6,
+      "name": "EVAA Protocol",
+      "symbol": "EVAA",
+      "price_btc": 6.106539156729363e-05,
+      "timestamp": "2026-11-17 08:52"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.437981282332342e-08,
+      "timestamp": "2026-11-17 08:52"
+    },
+    {
+      "rank": 8,
+      "name": "Beldex",
+      "symbol": "BDX",
+      "price_btc": 1.12631428581643e-06,
+      "timestamp": "2026-11-17 08:52"
+    },
+    {
+      "rank": 9,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0003298161956364614,
+      "timestamp": "2026-11-17 08:52"
+    },
+    {
+      "rank": 10,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.5984587609344843e-05,
+      "timestamp": "2026-11-17 08:52"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.001072338553639493,
+      "timestamp": "2026-11-17 08:52"
+    },
+    {
+      "rank": 12,
+      "name": "Grass",
+      "symbol": "GRASS",
+      "price_btc": 6.1230185102504855e-06,
+      "timestamp": "2026-11-17 08:52"
+    },
+    {
+      "rank": 13,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.665501737339065e-05,
+      "timestamp": "2026-11-17 08:52"
+    },
+    {
+      "rank": 14,
+      "name": "Bless",
+      "symbol": "BLESS",
+      "price_btc": 1.7530626550980131e-07,
+      "timestamp": "2026-11-17 08:52"
+    },
+    {
+      "rank": 15,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.30894578784736e-07,
+      "timestamp": "2026-11-17 08:52"
+    }
   ]
 }
