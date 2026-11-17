@@ -1040466,5 +1040466,112 @@
       "price_btc": 2.30894578784736e-07,
       "timestamp": "2026-11-17 08:52"
     }
+  ],
+  "2026-11-17 18:14": [
+    {
+      "rank": 1,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.58865090607817e-05,
+      "timestamp": "2026-11-17 18:14"
+    },
+    {
+      "rank": 2,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010658408164539487,
+      "timestamp": "2026-11-17 18:14"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9993958449085337,
+      "timestamp": "2026-11-17 18:14"
+    },
+    {
+      "rank": 4,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.734357407362114e-05,
+      "timestamp": "2026-11-17 18:14"
+    },
+    {
+      "rank": 5,
+      "name": "Brevis",
+      "symbol": "BREV",
+      "price_btc": 1.5639415303044739e-06,
+      "timestamp": "2026-11-17 18:14"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011333977835623107,
+      "timestamp": "2026-11-17 18:14"
+    },
+    {
+      "rank": 7,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.00031801972210135555,
+      "timestamp": "2026-11-17 18:14"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.120451478867406e-08,
+      "timestamp": "2026-11-17 18:14"
+    },
+    {
+      "rank": 9,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.00011186008740171076,
+      "timestamp": "2026-11-17 18:14"
+    },
+    {
+      "rank": 10,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 4.1973898582839435e-07,
+      "timestamp": "2026-11-17 18:14"
+    },
+    {
+      "rank": 11,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price_btc": 3.929355019603187e-06,
+      "timestamp": "2026-11-17 18:14"
+    },
+    {
+      "rank": 12,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.456231493263024e-05,
+      "timestamp": "2026-11-17 18:14"
+    },
+    {
+      "rank": 13,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 2.3270061541512965e-07,
+      "timestamp": "2026-11-17 18:14"
+    },
+    {
+      "rank": 14,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1258135021035174e-05,
+      "timestamp": "2026-11-17 18:14"
+    },
+    {
+      "rank": 15,
+      "name": "Terra Luna Classic",
+      "symbol": "LUNC",
+      "price_btc": 6.343736048728341e-10,
+      "timestamp": "2026-11-17 18:14"
+    }
   ]
 }
