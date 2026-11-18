@@ -1040573,5 +1040573,112 @@
       "price_btc": 6.343736048728341e-10,
       "timestamp": "2026-11-17 18:14"
     }
+  ],
+  "2026-11-18 01:30": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.423794095411619e-08,
+      "timestamp": "2026-11-18 01:30"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9988394891653558,
+      "timestamp": "2026-11-18 01:30"
+    },
+    {
+      "rank": 3,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.230509657345675e-05,
+      "timestamp": "2026-11-18 01:30"
+    },
+    {
+      "rank": 4,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.46985508030133e-05,
+      "timestamp": "2026-11-18 01:30"
+    },
+    {
+      "rank": 5,
+      "name": "Quantus",
+      "symbol": "QTC",
+      "price_btc": 0.0006762273842050183,
+      "timestamp": "2026-11-18 01:30"
+    },
+    {
+      "rank": 6,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001154674675647773,
+      "timestamp": "2026-11-18 01:30"
+    },
+    {
+      "rank": 7,
+      "name": "Optimism",
+      "symbol": "OP",
+      "price_btc": 1.1955282191293697e-06,
+      "timestamp": "2026-11-18 01:30"
+    },
+    {
+      "rank": 8,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.5939520797461503e-05,
+      "timestamp": "2026-11-18 01:30"
+    },
+    {
+      "rank": 9,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0003243128248640093,
+      "timestamp": "2026-11-18 01:30"
+    },
+    {
+      "rank": 10,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02804897483482759,
+      "timestamp": "2026-11-18 01:30"
+    },
+    {
+      "rank": 11,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 1.7769329389884704e-06,
+      "timestamp": "2026-11-18 01:30"
+    },
+    {
+      "rank": 12,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price_btc": 0.00011168795846210342,
+      "timestamp": "2026-11-18 01:30"
+    },
+    {
+      "rank": 13,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 4.76953616574291e-06,
+      "timestamp": "2026-11-18 01:30"
+    },
+    {
+      "rank": 14,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.7776351100786465e-05,
+      "timestamp": "2026-11-18 01:30"
+    },
+    {
+      "rank": 15,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 9.406654502889618e-07,
+      "timestamp": "2026-11-18 01:30"
+    }
   ]
 }
