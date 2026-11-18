@@ -1040787,5 +1040787,112 @@
       "price_btc": 1.541312891485933e-05,
       "timestamp": "2026-11-18 09:50"
     }
+  ],
+  "2026-11-18 18:41": [
+    {
+      "rank": 1,
+      "name": "WASTED",
+      "symbol": "WASTED",
+      "price_btc": 2.247490574853236e-07,
+      "timestamp": "2026-11-18 18:41"
+    },
+    {
+      "rank": 2,
+      "name": "Wanted Star",
+      "symbol": "WSTAR",
+      "price_btc": 2.2200827212983455e-07,
+      "timestamp": "2026-11-18 18:41"
+    },
+    {
+      "rank": 3,
+      "name": "Lucia",
+      "symbol": "LUCIA",
+      "price_btc": 2.1914983319565728e-07,
+      "timestamp": "2026-11-18 18:41"
+    },
+    {
+      "rank": 4,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 1.493970361406132e-05,
+      "timestamp": "2026-11-18 18:41"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 3.337036443951694e-05,
+      "timestamp": "2026-11-18 18:41"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.433237872512083e-08,
+      "timestamp": "2026-11-18 18:41"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9973501295061724,
+      "timestamp": "2026-11-18 18:41"
+    },
+    {
+      "rank": 8,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.5901438362727366e-05,
+      "timestamp": "2026-11-18 18:41"
+    },
+    {
+      "rank": 9,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.002401406432470587,
+      "timestamp": "2026-11-18 18:41"
+    },
+    {
+      "rank": 10,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0017046886577411432,
+      "timestamp": "2026-11-18 18:41"
+    },
+    {
+      "rank": 11,
+      "name": "Pieverse",
+      "symbol": "PIEVERSE",
+      "price_btc": 5.221903281755095e-05,
+      "timestamp": "2026-11-18 18:41"
+    },
+    {
+      "rank": 12,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.014522182378730326,
+      "timestamp": "2026-11-18 18:41"
+    },
+    {
+      "rank": 13,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.907921161718388e-07,
+      "timestamp": "2026-11-18 18:41"
+    },
+    {
+      "rank": 14,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001165043352828974,
+      "timestamp": "2026-11-18 18:41"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.001064125034908786,
+      "timestamp": "2026-11-18 18:41"
+    }
   ]
 }
