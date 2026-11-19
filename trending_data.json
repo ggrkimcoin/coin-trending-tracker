@@ -1041001,5 +1041001,112 @@
       "price_btc": 6.446387109488913e-05,
       "timestamp": "2026-11-19 00:58"
     }
+  ],
+  "2026-11-19 08:37": [
+    {
+      "rank": 1,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 3.680271544168615e-05,
+      "timestamp": "2026-11-19 08:37"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.998432358948541,
+      "timestamp": "2026-11-19 08:37"
+    },
+    {
+      "rank": 3,
+      "name": "Terra Luna Classic",
+      "symbol": "LUNC",
+      "price_btc": 7.17383179986276e-10,
+      "timestamp": "2026-11-19 08:37"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.404070316244344e-08,
+      "timestamp": "2026-11-19 08:37"
+    },
+    {
+      "rank": 5,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0003641252517142887,
+      "timestamp": "2026-11-19 08:37"
+    },
+    {
+      "rank": 6,
+      "name": "Irys",
+      "symbol": "IRYS",
+      "price_btc": 3.6741596112552515e-07,
+      "timestamp": "2026-11-19 08:37"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010694188595190513,
+      "timestamp": "2026-11-19 08:37"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001167555058724023,
+      "timestamp": "2026-11-19 08:37"
+    },
+    {
+      "rank": 9,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.02826084126861475,
+      "timestamp": "2026-11-19 08:37"
+    },
+    {
+      "rank": 10,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.4943629813926446e-05,
+      "timestamp": "2026-11-19 08:37"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.537717833461457e-05,
+      "timestamp": "2026-11-19 08:37"
+    },
+    {
+      "rank": 12,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.01472599292073257,
+      "timestamp": "2026-11-19 08:37"
+    },
+    {
+      "rank": 13,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 4.2835711573019383e-07,
+      "timestamp": "2026-11-19 08:37"
+    },
+    {
+      "rank": 14,
+      "name": "Bitway",
+      "symbol": "BTW",
+      "price_btc": 1.0671287447408829e-05,
+      "timestamp": "2026-11-19 08:37"
+    },
+    {
+      "rank": 15,
+      "name": "EVAA Protocol",
+      "symbol": "EVAA",
+      "price_btc": 6.652645436907032e-05,
+      "timestamp": "2026-11-19 08:37"
+    }
   ]
 }
