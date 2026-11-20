@@ -1041215,5 +1041215,112 @@
       "price_btc": 1.7002593977028631e-06,
       "timestamp": "2026-11-19 17:59"
     }
+  ],
+  "2026-11-20 00:32": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9979725361032266,
+      "timestamp": "2026-11-20 00:32"
+    },
+    {
+      "rank": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.028231188588457704,
+      "timestamp": "2026-11-20 00:32"
+    },
+    {
+      "rank": 3,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.5464958174112695e-05,
+      "timestamp": "2026-11-20 00:32"
+    },
+    {
+      "rank": 4,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.3676576442191199e-05,
+      "timestamp": "2026-11-20 00:32"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 3.478761056103946e-05,
+      "timestamp": "2026-11-20 00:32"
+    },
+    {
+      "rank": 6,
+      "name": "Sky",
+      "symbol": "SKY",
+      "price_btc": 7.4934990440626e-07,
+      "timestamp": "2026-11-20 00:32"
+    },
+    {
+      "rank": 7,
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "price_btc": 1.5707132789381285e-06,
+      "timestamp": "2026-11-20 00:32"
+    },
+    {
+      "rank": 8,
+      "name": "Anthropic PreStocks",
+      "symbol": "ANTHROPIC",
+      "price_btc": 0.008590483535642807,
+      "timestamp": "2026-11-20 00:32"
+    },
+    {
+      "rank": 9,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.392782080809411e-08,
+      "timestamp": "2026-11-20 00:32"
+    },
+    {
+      "rank": 10,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.000349101882965685,
+      "timestamp": "2026-11-20 00:32"
+    },
+    {
+      "rank": 11,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.4165416088479394e-05,
+      "timestamp": "2026-11-20 00:32"
+    },
+    {
+      "rank": 12,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 2.0108385653359505e-06,
+      "timestamp": "2026-11-20 00:32"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.00308394703603487,
+      "timestamp": "2026-11-20 00:32"
+    },
+    {
+      "rank": 14,
+      "name": "Pieverse",
+      "symbol": "PIEVERSE",
+      "price_btc": 4.858010188364838e-05,
+      "timestamp": "2026-11-20 00:32"
+    },
+    {
+      "rank": 15,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 4.776839324769996e-06,
+      "timestamp": "2026-11-20 00:32"
+    }
   ]
 }
