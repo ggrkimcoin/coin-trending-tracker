@@ -1041750,5 +1041750,112 @@
       "price_btc": 0.0001100626672588427,
       "timestamp": "2026-11-21 06:00"
     }
+  ],
+  "2026-11-21 15:07": [
+    {
+      "rank": 1,
+      "name": "Wanted Star",
+      "symbol": "WSTAR",
+      "price_btc": 2.2324842469835605e-07,
+      "timestamp": "2026-11-21 15:07"
+    },
+    {
+      "rank": 2,
+      "name": "WASTED",
+      "symbol": "WASTED",
+      "price_btc": 2.798484085039241e-07,
+      "timestamp": "2026-11-21 15:07"
+    },
+    {
+      "rank": 3,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 1.4432281370197307e-05,
+      "timestamp": "2026-11-21 15:07"
+    },
+    {
+      "rank": 4,
+      "name": "Chunkee The Manatee",
+      "symbol": "CHUNKEE",
+      "price_btc": 2.2740793826804525e-07,
+      "timestamp": "2026-11-21 15:07"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9985966287587162,
+      "timestamp": "2026-11-21 15:07"
+    },
+    {
+      "rank": 6,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.276146082945288e-08,
+      "timestamp": "2026-11-21 15:07"
+    },
+    {
+      "rank": 7,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 5.417399791322516e-06,
+      "timestamp": "2026-11-21 15:07"
+    },
+    {
+      "rank": 8,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.3209469852023396e-05,
+      "timestamp": "2026-11-21 15:07"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.001014217956049962,
+      "timestamp": "2026-11-21 15:07"
+    },
+    {
+      "rank": 10,
+      "name": "Aero",
+      "symbol": "AERO",
+      "price_btc": 6.566558451186216e-06,
+      "timestamp": "2026-11-21 15:07"
+    },
+    {
+      "rank": 11,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.9634303993499926e-05,
+      "timestamp": "2026-11-21 15:07"
+    },
+    {
+      "rank": 12,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.013150742261515682,
+      "timestamp": "2026-11-21 15:07"
+    },
+    {
+      "rank": 13,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 1.6411586000812525e-06,
+      "timestamp": "2026-11-21 15:07"
+    },
+    {
+      "rank": 14,
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "price_btc": 8.593813521592977e-07,
+      "timestamp": "2026-11-21 15:07"
+    },
+    {
+      "rank": 15,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.971025027096922e-05,
+      "timestamp": "2026-11-21 15:07"
+    }
   ]
 }
