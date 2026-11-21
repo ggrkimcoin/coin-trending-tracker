@@ -1041857,5 +1041857,112 @@
       "price_btc": 3.971025027096922e-05,
       "timestamp": "2026-11-21 15:07"
     }
+  ],
+  "2026-11-21 21:28": [
+    {
+      "rank": 1,
+      "name": "PIPI",
+      "symbol": "PIPI",
+      "price_btc": 3.7695634606510347e-07,
+      "timestamp": "2026-11-21 21:28"
+    },
+    {
+      "rank": 2,
+      "name": "WASTED",
+      "symbol": "WASTED",
+      "price_btc": 2.921306617256341e-07,
+      "timestamp": "2026-11-21 21:28"
+    },
+    {
+      "rank": 3,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.013164419831175767,
+      "timestamp": "2026-11-21 21:28"
+    },
+    {
+      "rank": 4,
+      "name": "Wanted Star",
+      "symbol": "WSTAR",
+      "price_btc": 2.9985893816140377e-07,
+      "timestamp": "2026-11-21 21:28"
+    },
+    {
+      "rank": 5,
+      "name": "Chunkee The Manatee",
+      "symbol": "CHUNKEE",
+      "price_btc": 2.457127983648726e-07,
+      "timestamp": "2026-11-21 21:28"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9985596559393987,
+      "timestamp": "2026-11-21 21:28"
+    },
+    {
+      "rank": 7,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.054768048863583e-08,
+      "timestamp": "2026-11-21 21:28"
+    },
+    {
+      "rank": 8,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 3.278254547158281e-05,
+      "timestamp": "2026-11-21 21:28"
+    },
+    {
+      "rank": 9,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0016093857943090169,
+      "timestamp": "2026-11-21 21:28"
+    },
+    {
+      "rank": 10,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 5.668291301520594e-06,
+      "timestamp": "2026-11-21 21:28"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.027861648700370705,
+      "timestamp": "2026-11-21 21:28"
+    },
+    {
+      "rank": 12,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0003974400454146058,
+      "timestamp": "2026-11-21 21:28"
+    },
+    {
+      "rank": 13,
+      "name": "EVAA Protocol",
+      "symbol": "EVAA",
+      "price_btc": 0.00010577813489977953,
+      "timestamp": "2026-11-21 21:28"
+    },
+    {
+      "rank": 14,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 4.8022915648489344e-05,
+      "timestamp": "2026-11-21 21:28"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011659974464997948,
+      "timestamp": "2026-11-21 21:28"
+    }
   ]
 }
