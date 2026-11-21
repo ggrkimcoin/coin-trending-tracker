@@ -1041643,5 +1041643,112 @@
       "price_btc": 0.001173076181363132,
       "timestamp": "2026-11-20 23:45"
     }
+  ],
+  "2026-11-21 06:00": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9998635733171188,
+      "timestamp": "2026-11-21 06:00"
+    },
+    {
+      "rank": 2,
+      "name": "Chunkee The Manatee",
+      "symbol": "CHUNKEE",
+      "price_btc": 2.4044783826533043e-07,
+      "timestamp": "2026-11-21 06:00"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010126300930845872,
+      "timestamp": "2026-11-21 06:00"
+    },
+    {
+      "rank": 4,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.012513207113686014,
+      "timestamp": "2026-11-21 06:00"
+    },
+    {
+      "rank": 5,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.027996063617304782,
+      "timestamp": "2026-11-21 06:00"
+    },
+    {
+      "rank": 6,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030150906345126935,
+      "timestamp": "2026-11-21 06:00"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011745909531253684,
+      "timestamp": "2026-11-21 06:00"
+    },
+    {
+      "rank": 8,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 3.9844693812407374e-08,
+      "timestamp": "2026-11-21 06:00"
+    },
+    {
+      "rank": 9,
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price_btc": 1.9021203398590813e-06,
+      "timestamp": "2026-11-21 06:00"
+    },
+    {
+      "rank": 10,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.5614641798006924e-05,
+      "timestamp": "2026-11-21 06:00"
+    },
+    {
+      "rank": 11,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.0717426454723977e-05,
+      "timestamp": "2026-11-21 06:00"
+    },
+    {
+      "rank": 12,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 7.637026853710124e-05,
+      "timestamp": "2026-11-21 06:00"
+    },
+    {
+      "rank": 13,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.34022199358814e-08,
+      "timestamp": "2026-11-21 06:00"
+    },
+    {
+      "rank": 14,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0016523012161049181,
+      "timestamp": "2026-11-21 06:00"
+    },
+    {
+      "rank": 15,
+      "name": "EVAA Protocol",
+      "symbol": "EVAA",
+      "price_btc": 0.0001100626672588427,
+      "timestamp": "2026-11-21 06:00"
+    }
   ]
 }
