@@ -1042178,5 +1042178,112 @@
       "price_btc": 0.02817619708499357,
       "timestamp": "2026-11-22 09:30"
     }
+  ],
+  "2026-11-22 17:39": [
+    {
+      "rank": 1,
+      "name": "Wanted Star",
+      "symbol": "WSTAR",
+      "price_btc": 2.7455913216288e-07,
+      "timestamp": "2026-11-22 17:39"
+    },
+    {
+      "rank": 2,
+      "name": "Popo The Turtle",
+      "symbol": "POPO",
+      "price_btc": 2.6350183945287e-07,
+      "timestamp": "2026-11-22 17:39"
+    },
+    {
+      "rank": 3,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 1.471358644965901e-05,
+      "timestamp": "2026-11-22 17:39"
+    },
+    {
+      "rank": 4,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 3.3695006486139e-05,
+      "timestamp": "2026-11-22 17:39"
+    },
+    {
+      "rank": 5,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9993401626126359,
+      "timestamp": "2026-11-22 17:39"
+    },
+    {
+      "rank": 6,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.4102377093560337e-05,
+      "timestamp": "2026-11-22 17:39"
+    },
+    {
+      "rank": 7,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 5.94027905343236e-06,
+      "timestamp": "2026-11-22 17:39"
+    },
+    {
+      "rank": 8,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0004188800592814316,
+      "timestamp": "2026-11-22 17:39"
+    },
+    {
+      "rank": 9,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.019469709014899e-08,
+      "timestamp": "2026-11-22 17:39"
+    },
+    {
+      "rank": 10,
+      "name": "EVAA Protocol",
+      "symbol": "EVAA",
+      "price_btc": 3.8767590119348606e-05,
+      "timestamp": "2026-11-22 17:39"
+    },
+    {
+      "rank": 11,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011562648752633969,
+      "timestamp": "2026-11-22 17:39"
+    },
+    {
+      "rank": 12,
+      "name": "Pieverse",
+      "symbol": "PIEVERSE",
+      "price_btc": 5.986514937136443e-05,
+      "timestamp": "2026-11-22 17:39"
+    },
+    {
+      "rank": 13,
+      "name": "Canton",
+      "symbol": "CC",
+      "price_btc": 1.1814353094793788e-06,
+      "timestamp": "2026-11-22 17:39"
+    },
+    {
+      "rank": 14,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.5248148887336213e-05,
+      "timestamp": "2026-11-22 17:39"
+    },
+    {
+      "rank": 15,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010338729150942449,
+      "timestamp": "2026-11-22 17:39"
+    }
   ]
 }
