@@ -1042392,5 +1042392,112 @@
       "price_btc": 4.849680633927398e-05,
       "timestamp": "2026-11-22 23:20"
     }
+  ],
+  "2026-11-23 06:17": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 6.977954842672431e-08,
+      "timestamp": "2026-11-23 06:17"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0002710931697412,
+      "timestamp": "2026-11-23 06:17"
+    },
+    {
+      "rank": 3,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 4.254341508299748e-08,
+      "timestamp": "2026-11-23 06:17"
+    },
+    {
+      "rank": 4,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 1.4604350620080503e-05,
+      "timestamp": "2026-11-23 06:17"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 3.36585477195211e-05,
+      "timestamp": "2026-11-23 06:17"
+    },
+    {
+      "rank": 6,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 9.048472204351731e-07,
+      "timestamp": "2026-11-23 06:17"
+    },
+    {
+      "rank": 7,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.012853113775005871,
+      "timestamp": "2026-11-23 06:17"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 5.595767276939672e-11,
+      "timestamp": "2026-11-23 06:17"
+    },
+    {
+      "rank": 9,
+      "name": "Injective",
+      "symbol": "INJ",
+      "price_btc": 0.0001011428531469786,
+      "timestamp": "2026-11-23 06:17"
+    },
+    {
+      "rank": 10,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 1.9345693086193515e-05,
+      "timestamp": "2026-11-23 06:17"
+    },
+    {
+      "rank": 11,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.5290296520777605e-05,
+      "timestamp": "2026-11-23 06:17"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.0809417951336537e-05,
+      "timestamp": "2026-11-23 06:17"
+    },
+    {
+      "rank": 13,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 1.0876631986188966e-05,
+      "timestamp": "2026-11-23 06:17"
+    },
+    {
+      "rank": 14,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price_btc": 1.8830117814978846e-06,
+      "timestamp": "2026-11-23 06:17"
+    },
+    {
+      "rank": 15,
+      "name": "Akedo",
+      "symbol": "AKE",
+      "price_btc": 4.480888713281649e-08,
+      "timestamp": "2026-11-23 06:17"
+    }
   ]
 }
