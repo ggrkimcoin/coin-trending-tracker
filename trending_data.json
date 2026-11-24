@@ -1042713,5 +1042713,112 @@
       "price_btc": 1.8214346684503261e-06,
       "timestamp": "2026-11-24 04:38"
     }
+  ],
+  "2026-11-24 15:34": [
+    {
+      "rank": 1,
+      "name": "Variational X",
+      "symbol": "VAR",
+      "price_btc": 2.1813540485967046e-07,
+      "timestamp": "2026-11-24 15:34"
+    },
+    {
+      "rank": 2,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 1.7732215665858155e-07,
+      "timestamp": "2026-11-24 15:34"
+    },
+    {
+      "rank": 3,
+      "name": "Pepe Intelligence",
+      "symbol": "PEI",
+      "price_btc": 2.451346271634171e-07,
+      "timestamp": "2026-11-24 15:34"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0022869856339935,
+      "timestamp": "2026-11-24 15:34"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 3.4278766803121914e-05,
+      "timestamp": "2026-11-24 15:34"
+    },
+    {
+      "rank": 6,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.011945923365765948,
+      "timestamp": "2026-11-24 15:34"
+    },
+    {
+      "rank": 7,
+      "name": "Sky",
+      "symbol": "SKY",
+      "price_btc": 6.297619092956695e-07,
+      "timestamp": "2026-11-24 15:34"
+    },
+    {
+      "rank": 8,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.00041238537029919065,
+      "timestamp": "2026-11-24 15:34"
+    },
+    {
+      "rank": 9,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 3.9519869066330265e-05,
+      "timestamp": "2026-11-24 15:34"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011537957133291674,
+      "timestamp": "2026-11-24 15:34"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010248052596939596,
+      "timestamp": "2026-11-24 15:34"
+    },
+    {
+      "rank": 12,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.011304124331394e-08,
+      "timestamp": "2026-11-24 15:34"
+    },
+    {
+      "rank": 13,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 1.7026330388998497e-05,
+      "timestamp": "2026-11-24 15:34"
+    },
+    {
+      "rank": 14,
+      "name": "Quant",
+      "symbol": "QNT",
+      "price_btc": 0.00241796384633374,
+      "timestamp": "2026-11-24 15:34"
+    },
+    {
+      "rank": 15,
+      "name": "Backpack",
+      "symbol": "BP",
+      "price_btc": 1.3455646049713602e-05,
+      "timestamp": "2026-11-24 15:34"
+    }
   ]
 }
