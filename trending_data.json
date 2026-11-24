@@ -1042606,5 +1042606,112 @@
       "price_btc": 4.99769543787028e-05,
       "timestamp": "2026-11-23 19:00"
     }
+  ],
+  "2026-11-24 04:38": [
+    {
+      "rank": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9998615043292222,
+      "timestamp": "2026-11-24 04:38"
+    },
+    {
+      "rank": 2,
+      "name": "Orochi Network",
+      "symbol": "ON",
+      "price_btc": 2.3197730993552314e-06,
+      "timestamp": "2026-11-24 04:38"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.399702311605692e-08,
+      "timestamp": "2026-11-24 04:38"
+    },
+    {
+      "rank": 4,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0004141247064031556,
+      "timestamp": "2026-11-24 04:38"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010542163105901185,
+      "timestamp": "2026-11-24 04:38"
+    },
+    {
+      "rank": 6,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.028095488602212833,
+      "timestamp": "2026-11-24 04:38"
+    },
+    {
+      "rank": 7,
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "price_btc": 9.910698399987792e-08,
+      "timestamp": "2026-11-24 04:38"
+    },
+    {
+      "rank": 8,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 5.7858216206806965e-11,
+      "timestamp": "2026-11-24 04:38"
+    },
+    {
+      "rank": 9,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 3.5881392652481456e-05,
+      "timestamp": "2026-11-24 04:38"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011866477325907575,
+      "timestamp": "2026-11-24 04:38"
+    },
+    {
+      "rank": 11,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.01251848749515913,
+      "timestamp": "2026-11-24 04:38"
+    },
+    {
+      "rank": 12,
+      "name": "Sky",
+      "symbol": "SKY",
+      "price_btc": 6.531460359232731e-07,
+      "timestamp": "2026-11-24 04:38"
+    },
+    {
+      "rank": 13,
+      "name": "Sanctum",
+      "symbol": "SANC",
+      "price_btc": 1.0488183883974095e-06,
+      "timestamp": "2026-11-24 04:38"
+    },
+    {
+      "rank": 14,
+      "name": "NVIDIA (Ondo Tokenized Stock)",
+      "symbol": "NVDAON",
+      "price_btc": 0.0027108462563407657,
+      "timestamp": "2026-11-24 04:38"
+    },
+    {
+      "rank": 15,
+      "name": "Acurast",
+      "symbol": "ACU",
+      "price_btc": 1.8214346684503261e-06,
+      "timestamp": "2026-11-24 04:38"
+    }
   ]
 }
