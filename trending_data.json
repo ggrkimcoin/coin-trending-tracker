@@ -1043034,5 +1043034,112 @@
       "price_btc": 0.027759936678872624,
       "timestamp": "2026-11-25 09:37"
     }
+  ],
+  "2026-11-25 19:47": [
+    {
+      "rank": 1,
+      "name": "Pepe Intelligence",
+      "symbol": "PEI",
+      "price_btc": 2.937036101318e-07,
+      "timestamp": "2026-11-25 19:47"
+    },
+    {
+      "rank": 2,
+      "name": "Variational X",
+      "symbol": "VAR",
+      "price_btc": 2.3868484593172e-07,
+      "timestamp": "2026-11-25 19:47"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.211792784661724e-08,
+      "timestamp": "2026-11-25 19:47"
+    },
+    {
+      "rank": 4,
+      "name": "Non-Playable Shiba",
+      "symbol": "NPS",
+      "price_btc": 2.6801381052747e-07,
+      "timestamp": "2026-11-25 19:47"
+    },
+    {
+      "rank": 5,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 1.9384588522559863e-07,
+      "timestamp": "2026-11-25 19:47"
+    },
+    {
+      "rank": 6,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 3.483841737035509e-05,
+      "timestamp": "2026-11-25 19:47"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9990216650556677,
+      "timestamp": "2026-11-25 19:47"
+    },
+    {
+      "rank": 8,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0004602140129221459,
+      "timestamp": "2026-11-25 19:47"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010232069918891422,
+      "timestamp": "2026-11-25 19:47"
+    },
+    {
+      "rank": 10,
+      "name": "Litecoin",
+      "symbol": "LTC",
+      "price_btc": 0.0007080308852971857,
+      "timestamp": "2026-11-25 19:47"
+    },
+    {
+      "rank": 11,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 9.098414653922376e-07,
+      "timestamp": "2026-11-25 19:47"
+    },
+    {
+      "rank": 12,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 1.4382779936748171e-06,
+      "timestamp": "2026-11-25 19:47"
+    },
+    {
+      "rank": 13,
+      "name": "MANTRA",
+      "symbol": "MANTRA",
+      "price_btc": 5.598883095520738e-08,
+      "timestamp": "2026-11-25 19:47"
+    },
+    {
+      "rank": 14,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price_btc": 5.802485821815105e-11,
+      "timestamp": "2026-11-25 19:47"
+    },
+    {
+      "rank": 15,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.012636152886628426,
+      "timestamp": "2026-11-25 19:47"
+    }
   ]
 }
