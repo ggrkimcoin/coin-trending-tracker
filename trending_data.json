@@ -1042820,5 +1042820,112 @@
       "price_btc": 1.3455646049713602e-05,
       "timestamp": "2026-11-24 15:34"
     }
+  ],
+  "2026-11-25 00:24": [
+    {
+      "rank": 1,
+      "name": "Variational X",
+      "symbol": "VAR",
+      "price_btc": 2.0989289692920216e-07,
+      "timestamp": "2026-11-25 00:24"
+    },
+    {
+      "rank": 2,
+      "name": "Sky",
+      "symbol": "SKY",
+      "price_btc": 6.924515906648907e-07,
+      "timestamp": "2026-11-25 00:24"
+    },
+    {
+      "rank": 3,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.027729991566973e-08,
+      "timestamp": "2026-11-25 00:24"
+    },
+    {
+      "rank": 4,
+      "name": "Canton",
+      "symbol": "CC",
+      "price_btc": 1.2455343681038332e-06,
+      "timestamp": "2026-11-25 00:24"
+    },
+    {
+      "rank": 5,
+      "name": "XRP",
+      "symbol": "XRP",
+      "price_btc": 1.5451236340925066e-05,
+      "timestamp": "2026-11-25 00:24"
+    },
+    {
+      "rank": 6,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 3.6489293303337966e-05,
+      "timestamp": "2026-11-25 00:24"
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011675657092604646,
+      "timestamp": "2026-11-25 00:24"
+    },
+    {
+      "rank": 8,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 1.5610136512488874e-07,
+      "timestamp": "2026-11-25 00:24"
+    },
+    {
+      "rank": 9,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009947423566258567,
+      "timestamp": "2026-11-25 00:24"
+    },
+    {
+      "rank": 10,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9975093275849992,
+      "timestamp": "2026-11-25 00:24"
+    },
+    {
+      "rank": 11,
+      "name": "Silencio",
+      "symbol": "SLC",
+      "price_btc": 6.04345542897516e-09,
+      "timestamp": "2026-11-25 00:24"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.0818753733168479e-05,
+      "timestamp": "2026-11-25 00:24"
+    },
+    {
+      "rank": 13,
+      "name": "Centrifuge",
+      "symbol": "CFG",
+      "price_btc": 7.587260084286063e-07,
+      "timestamp": "2026-11-25 00:24"
+    },
+    {
+      "rank": 14,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 5.30928165514737e-06,
+      "timestamp": "2026-11-25 00:24"
+    },
+    {
+      "rank": 15,
+      "name": "DOGEBALL",
+      "symbol": "DOGEBALL",
+      "price_btc": 2.808254996927777e-07,
+      "timestamp": "2026-11-25 00:24"
+    }
   ]
 }
