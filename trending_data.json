@@ -1042927,5 +1042927,112 @@
       "price_btc": 2.808254996927777e-07,
       "timestamp": "2026-11-25 00:24"
     }
+  ],
+  "2026-11-25 09:37": [
+    {
+      "rank": 1,
+      "name": "Big Time",
+      "symbol": "BIGTIME",
+      "price_btc": 1.2623949465720923e-07,
+      "timestamp": "2026-11-25 09:37"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9976628021199853,
+      "timestamp": "2026-11-25 09:37"
+    },
+    {
+      "rank": 3,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0009846925701290775,
+      "timestamp": "2026-11-25 09:37"
+    },
+    {
+      "rank": 4,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.001143615737840907,
+      "timestamp": "2026-11-25 09:37"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 3.4246540945109836e-05,
+      "timestamp": "2026-11-25 09:37"
+    },
+    {
+      "rank": 6,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 1.7492329680219036e-07,
+      "timestamp": "2026-11-25 09:37"
+    },
+    {
+      "rank": 7,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.00041633750123334505,
+      "timestamp": "2026-11-25 09:37"
+    },
+    {
+      "rank": 8,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.089331133604775e-08,
+      "timestamp": "2026-11-25 09:37"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 9.151722398426212e-07,
+      "timestamp": "2026-11-25 09:37"
+    },
+    {
+      "rank": 10,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 1.4275873843175724e-06,
+      "timestamp": "2026-11-25 09:37"
+    },
+    {
+      "rank": 11,
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price_btc": 4.35385953634304e-07,
+      "timestamp": "2026-11-25 09:37"
+    },
+    {
+      "rank": 12,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.012275184675992822,
+      "timestamp": "2026-11-25 09:37"
+    },
+    {
+      "rank": 13,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.002970471116457434,
+      "timestamp": "2026-11-25 09:37"
+    },
+    {
+      "rank": 14,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price_btc": 7.634557433766349e-05,
+      "timestamp": "2026-11-25 09:37"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.027759936678872624,
+      "timestamp": "2026-11-25 09:37"
+    }
   ]
 }
