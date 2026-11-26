@@ -1043141,5 +1043141,112 @@
       "price_btc": 0.012636152886628426,
       "timestamp": "2026-11-25 19:47"
     }
+  ],
+  "2026-11-26 02:40": [
+    {
+      "rank": 1,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0004903324584522154,
+      "timestamp": "2026-11-26 02:40"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.257777058671547e-08,
+      "timestamp": "2026-11-26 02:40"
+    },
+    {
+      "rank": 3,
+      "name": "Pieverse",
+      "symbol": "PIEVERSE",
+      "price_btc": 6.338470157213571e-05,
+      "timestamp": "2026-11-26 02:40"
+    },
+    {
+      "rank": 4,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9970984770390676,
+      "timestamp": "2026-11-26 02:40"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 3.354683679737184e-05,
+      "timestamp": "2026-11-26 02:40"
+    },
+    {
+      "rank": 6,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 1.8098152747714097e-07,
+      "timestamp": "2026-11-26 02:40"
+    },
+    {
+      "rank": 7,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 9.102267121004926e-07,
+      "timestamp": "2026-11-26 02:40"
+    },
+    {
+      "rank": 8,
+      "name": "Lighter",
+      "symbol": "LIT",
+      "price_btc": 4.022424010281363e-05,
+      "timestamp": "2026-11-26 02:40"
+    },
+    {
+      "rank": 9,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.012786203730607489,
+      "timestamp": "2026-11-26 02:40"
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010098734856642992,
+      "timestamp": "2026-11-26 02:40"
+    },
+    {
+      "rank": 11,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 4.3053007970299396e-08,
+      "timestamp": "2026-11-26 02:40"
+    },
+    {
+      "rank": 12,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1070798538924034e-05,
+      "timestamp": "2026-11-26 02:40"
+    },
+    {
+      "rank": 13,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 5.873286692291485e-06,
+      "timestamp": "2026-11-26 02:40"
+    },
+    {
+      "rank": 14,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0030320256086405917,
+      "timestamp": "2026-11-26 02:40"
+    },
+    {
+      "rank": 15,
+      "name": "VeChain",
+      "symbol": "VET",
+      "price_btc": 8.047116958916516e-08,
+      "timestamp": "2026-11-26 02:40"
+    }
   ]
 }
