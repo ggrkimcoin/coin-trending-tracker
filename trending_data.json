@@ -1043355,5 +1043355,112 @@
       "price_btc": 0.027974865045320606,
       "timestamp": "2026-11-26 11:58"
     }
+  ],
+  "2026-11-26 21:22": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.271469430695913e-08,
+      "timestamp": "2026-11-26 21:22"
+    },
+    {
+      "rank": 2,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.007372291848472426,
+      "timestamp": "2026-11-26 21:22"
+    },
+    {
+      "rank": 3,
+      "name": "Zylo Ecosystem",
+      "symbol": "ZYLO",
+      "price_btc": 3.968133933343778e-07,
+      "timestamp": "2026-11-26 21:22"
+    },
+    {
+      "rank": 4,
+      "name": "Non-Playable Shiba",
+      "symbol": "NPS",
+      "price_btc": 4.1787946655170173e-07,
+      "timestamp": "2026-11-26 21:22"
+    },
+    {
+      "rank": 5,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.001043893087189614,
+      "timestamp": "2026-11-26 21:22"
+    },
+    {
+      "rank": 6,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0004378903416489653,
+      "timestamp": "2026-11-26 21:22"
+    },
+    {
+      "rank": 7,
+      "name": "Pepe Wojak",
+      "symbol": "PEJAK",
+      "price_btc": 2.3572481492599594e-07,
+      "timestamp": "2026-11-26 21:22"
+    },
+    {
+      "rank": 8,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 3.156720189273563e-05,
+      "timestamp": "2026-11-26 21:22"
+    },
+    {
+      "rank": 9,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9995754643804289,
+      "timestamp": "2026-11-26 21:22"
+    },
+    {
+      "rank": 10,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0015722837491191344,
+      "timestamp": "2026-11-26 21:22"
+    },
+    {
+      "rank": 11,
+      "name": "Montra",
+      "symbol": "MONTRA",
+      "price_btc": 2.2102960547810172e-07,
+      "timestamp": "2026-11-26 21:22"
+    },
+    {
+      "rank": 12,
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price_btc": 1.8578380340641595e-05,
+      "timestamp": "2026-11-26 21:22"
+    },
+    {
+      "rank": 13,
+      "name": "Orbio.so",
+      "symbol": "ORBIO",
+      "price_btc": 2.925158799417282e-07,
+      "timestamp": "2026-11-26 21:22"
+    },
+    {
+      "rank": 14,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 1.7077769390852772e-07,
+      "timestamp": "2026-11-26 21:22"
+    },
+    {
+      "rank": 15,
+      "name": "Kinetiq",
+      "symbol": "KNTQ",
+      "price_btc": 3.3434246646323526e-06,
+      "timestamp": "2026-11-26 21:22"
+    }
   ]
 }
