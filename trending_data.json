@@ -1043248,5 +1043248,112 @@
       "price_btc": 8.047116958916516e-08,
       "timestamp": "2026-11-26 02:40"
     }
+  ],
+  "2026-11-26 11:58": [
+    {
+      "rank": 1,
+      "name": "Commander Vrax",
+      "symbol": "VRAX",
+      "price_btc": 2.37996907222735e-07,
+      "timestamp": "2026-11-26 11:58"
+    },
+    {
+      "rank": 2,
+      "name": "Zylo Ecosystem",
+      "symbol": "ZYLO",
+      "price_btc": 3.9223134603480307e-07,
+      "timestamp": "2026-11-26 11:58"
+    },
+    {
+      "rank": 3,
+      "name": "Non-Playable Shiba",
+      "symbol": "NPS",
+      "price_btc": 2.9270993677069814e-07,
+      "timestamp": "2026-11-26 11:58"
+    },
+    {
+      "rank": 4,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.325137286777207e-08,
+      "timestamp": "2026-11-26 11:58"
+    },
+    {
+      "rank": 5,
+      "name": "Tezos",
+      "symbol": "XTZ",
+      "price_btc": 3.5504385829770067e-06,
+      "timestamp": "2026-11-26 11:58"
+    },
+    {
+      "rank": 6,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0004562617042970746,
+      "timestamp": "2026-11-26 11:58"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9989593861873634,
+      "timestamp": "2026-11-26 11:58"
+    },
+    {
+      "rank": 8,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00015203325732615608,
+      "timestamp": "2026-11-26 11:58"
+    },
+    {
+      "rank": 9,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011653778742403528,
+      "timestamp": "2026-11-26 11:58"
+    },
+    {
+      "rank": 10,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 3.1778315838846883e-05,
+      "timestamp": "2026-11-26 11:58"
+    },
+    {
+      "rank": 11,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 1.773186265014882e-07,
+      "timestamp": "2026-11-26 11:58"
+    },
+    {
+      "rank": 12,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.994519862742809e-07,
+      "timestamp": "2026-11-26 11:58"
+    },
+    {
+      "rank": 13,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.000998892783212701,
+      "timestamp": "2026-11-26 11:58"
+    },
+    {
+      "rank": 14,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.059142724837982e-05,
+      "timestamp": "2026-11-26 11:58"
+    },
+    {
+      "rank": 15,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.027974865045320606,
+      "timestamp": "2026-11-26 11:58"
+    }
   ]
 }
