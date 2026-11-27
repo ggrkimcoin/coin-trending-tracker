@@ -1043569,5 +1043569,112 @@
       "price_btc": 3.340569675840135e-05,
       "timestamp": "2026-11-27 03:57"
     }
+  ],
+  "2026-11-27 13:41": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.373173406992869e-08,
+      "timestamp": "2026-11-27 13:41"
+    },
+    {
+      "rank": 2,
+      "name": "Zylo Ecosystem",
+      "symbol": "ZYLO",
+      "price_btc": 3.9275310382601965e-07,
+      "timestamp": "2026-11-27 13:41"
+    },
+    {
+      "rank": 3,
+      "name": "Portal",
+      "symbol": "PORTAL",
+      "price_btc": 3.441147801631837e-07,
+      "timestamp": "2026-11-27 13:41"
+    },
+    {
+      "rank": 4,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.012330074473607892,
+      "timestamp": "2026-11-27 13:41"
+    },
+    {
+      "rank": 5,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.8103503148824842e-05,
+      "timestamp": "2026-11-27 13:41"
+    },
+    {
+      "rank": 6,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9990070564138305,
+      "timestamp": "2026-11-27 13:41"
+    },
+    {
+      "rank": 7,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010755044634147618,
+      "timestamp": "2026-11-27 13:41"
+    },
+    {
+      "rank": 8,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.007134545156224442,
+      "timestamp": "2026-11-27 13:41"
+    },
+    {
+      "rank": 9,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 1.8060701483401952e-06,
+      "timestamp": "2026-11-27 13:41"
+    },
+    {
+      "rank": 10,
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price_btc": 4.781559980645766e-06,
+      "timestamp": "2026-11-27 13:41"
+    },
+    {
+      "rank": 11,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 1.6878247542289275e-07,
+      "timestamp": "2026-11-27 13:41"
+    },
+    {
+      "rank": 12,
+      "name": "Aero",
+      "symbol": "AERO",
+      "price_btc": 6.512223336659688e-06,
+      "timestamp": "2026-11-27 13:41"
+    },
+    {
+      "rank": 13,
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "price_btc": 8.205929038758158e-07,
+      "timestamp": "2026-11-27 13:41"
+    },
+    {
+      "rank": 14,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.0004438370294533272,
+      "timestamp": "2026-11-27 13:41"
+    },
+    {
+      "rank": 15,
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price_btc": 0.0015809380331966562,
+      "timestamp": "2026-11-27 13:41"
+    }
   ]
 }
