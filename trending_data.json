@@ -1043676,5 +1043676,112 @@
       "price_btc": 0.0015809380331966562,
       "timestamp": "2026-11-27 13:41"
     }
+  ],
+  "2026-11-27 22:31": [
+    {
+      "rank": 1,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.456699988728908e-08,
+      "timestamp": "2026-11-27 22:31"
+    },
+    {
+      "rank": 2,
+      "name": "Zylo Ecosystem",
+      "symbol": "ZYLO",
+      "price_btc": 4.141211204408931e-07,
+      "timestamp": "2026-11-27 22:31"
+    },
+    {
+      "rank": 3,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 1.0005986461060843,
+      "timestamp": "2026-11-27 22:31"
+    },
+    {
+      "rank": 4,
+      "name": "Portal",
+      "symbol": "PORTAL",
+      "price_btc": 6.635590751418261e-07,
+      "timestamp": "2026-11-27 22:31"
+    },
+    {
+      "rank": 5,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.00684200054921241,
+      "timestamp": "2026-11-27 22:31"
+    },
+    {
+      "rank": 6,
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price_btc": 1.7318698756495434e-06,
+      "timestamp": "2026-11-27 22:31"
+    },
+    {
+      "rank": 7,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.8907797997279624e-05,
+      "timestamp": "2026-11-27 22:31"
+    },
+    {
+      "rank": 8,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010638285735074416,
+      "timestamp": "2026-11-27 22:31"
+    },
+    {
+      "rank": 9,
+      "name": "Sky",
+      "symbol": "SKY",
+      "price_btc": 9.122359012722778e-07,
+      "timestamp": "2026-11-27 22:31"
+    },
+    {
+      "rank": 10,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011986577339739245,
+      "timestamp": "2026-11-27 22:31"
+    },
+    {
+      "rank": 11,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price_btc": 0.027783852580524168,
+      "timestamp": "2026-11-27 22:31"
+    },
+    {
+      "rank": 12,
+      "name": "PumpChan",
+      "symbol": "PUMPCHAN",
+      "price_btc": 2.714305165428438e-07,
+      "timestamp": "2026-11-27 22:31"
+    },
+    {
+      "rank": 13,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price_btc": 0.01212675209670439,
+      "timestamp": "2026-11-27 22:31"
+    },
+    {
+      "rank": 14,
+      "name": "Derive",
+      "symbol": "DRV",
+      "price_btc": 6.064439679901529e-06,
+      "timestamp": "2026-11-27 22:31"
+    },
+    {
+      "rank": 15,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "price_btc": 0.00015560667077435034,
+      "timestamp": "2026-11-27 22:31"
+    }
   ]
 }
