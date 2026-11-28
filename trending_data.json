@@ -1043783,5 +1043783,112 @@
       "price_btc": 0.00015560667077435034,
       "timestamp": "2026-11-27 22:31"
     }
+  ],
+  "2026-11-28 04:34": [
+    {
+      "rank": 1,
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price_btc": 0.0031186296866744867,
+      "timestamp": "2026-11-28 04:34"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.9993126016934294,
+      "timestamp": "2026-11-28 04:34"
+    },
+    {
+      "rank": 3,
+      "name": "Portal",
+      "symbol": "PORTAL",
+      "price_btc": 2.712601076334809e-07,
+      "timestamp": "2026-11-28 04:34"
+    },
+    {
+      "rank": 4,
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "price_btc": 0.00043620085898497314,
+      "timestamp": "2026-11-28 04:34"
+    },
+    {
+      "rank": 5,
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price_btc": 4.358545365261201e-08,
+      "timestamp": "2026-11-28 04:34"
+    },
+    {
+      "rank": 6,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010711859859213516,
+      "timestamp": "2026-11-28 04:34"
+    },
+    {
+      "rank": 7,
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price_btc": 5.0859904930561e-05,
+      "timestamp": "2026-11-28 04:34"
+    },
+    {
+      "rank": 8,
+      "name": "Monad",
+      "symbol": "MON",
+      "price_btc": 1.6589898695983455e-07,
+      "timestamp": "2026-11-28 04:34"
+    },
+    {
+      "rank": 9,
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price_btc": 8.607523730572881e-07,
+      "timestamp": "2026-11-28 04:34"
+    },
+    {
+      "rank": 10,
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price_btc": 3.588390450856838e-11,
+      "timestamp": "2026-11-28 04:34"
+    },
+    {
+      "rank": 11,
+      "name": "Pons",
+      "symbol": "PONS",
+      "price_btc": 1.7127289714634506e-06,
+      "timestamp": "2026-11-28 04:34"
+    },
+    {
+      "rank": 12,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price_btc": 2.6070763401670793e-05,
+      "timestamp": "2026-11-28 04:34"
+    },
+    {
+      "rank": 13,
+      "name": "Render",
+      "symbol": "RENDER",
+      "price_btc": 2.3090723935698352e-05,
+      "timestamp": "2026-11-28 04:34"
+    },
+    {
+      "rank": 14,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price_btc": 1.1029166018571175e-05,
+      "timestamp": "2026-11-28 04:34"
+    },
+    {
+      "rank": 15,
+      "name": "USDC",
+      "symbol": "USDC",
+      "price_btc": 1.6649720577954692e-05,
+      "timestamp": "2026-11-28 04:34"
+    }
   ]
 }
