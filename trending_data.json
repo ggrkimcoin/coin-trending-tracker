@@ -1043890,5 +1043890,112 @@
       "price_btc": 1.6649720577954692e-05,
       "timestamp": "2026-11-28 04:34"
     }
+  ],
+  "2026-11-28 13:56": [
+    {
+      "rank": 1,
+      "name": "World Liberty Financial",
+      "symbol": "WLFI",
+      "price_btc": 3.2948721476184036e-07,
+      "timestamp": "2026-11-28 13:56"
+    },
+    {
+      "rank": 2,
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price_btc": 7.256315388713224e-08,
+      "timestamp": "2026-11-28 13:56"
+    },
+    {
+      "rank": 3,
+      "name": "USD1",
+      "symbol": "USD1",
+      "price_btc": 1.690552090552315e-05,
+      "timestamp": "2026-11-28 13:56"
+    },
+    {
+      "rank": 4,
+      "name": "Zylo Ecosystem",
+      "symbol": "ZYLO",
+      "price_btc": 4.1173327977739226e-07,
+      "timestamp": "2026-11-28 13:56"
+    },
+    {
+      "rank": 5,
+      "name": "PumpChan",
+      "symbol": "PUMPCHAN",
+      "price_btc": 2.6963115789563636e-07,
+      "timestamp": "2026-11-28 13:56"
+    },
+    {
+      "rank": 6,
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price_btc": 1.2708266988487402e-05,
+      "timestamp": "2026-11-28 13:56"
+    },
+    {
+      "rank": 7,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "price_btc": 0.999788279813498,
+      "timestamp": "2026-11-28 13:56"
+    },
+    {
+      "rank": 8,
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "price_btc": 2.807119425082013e-05,
+      "timestamp": "2026-11-28 13:56"
+    },
+    {
+      "rank": 9,
+      "name": "Bitway",
+      "symbol": "BTW",
+      "price_btc": 2.5664795383192106e-05,
+      "timestamp": "2026-11-28 13:56"
+    },
+    {
+      "rank": 10,
+      "name": "Monero",
+      "symbol": "XMR",
+      "price_btc": 0.007373512896708934,
+      "timestamp": "2026-11-28 13:56"
+    },
+    {
+      "rank": 11,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price_btc": 0.0010565186420734508,
+      "timestamp": "2026-11-28 13:56"
+    },
+    {
+      "rank": 12,
+      "name": "Beldex",
+      "symbol": "BDX",
+      "price_btc": 1.0318878975075282e-06,
+      "timestamp": "2026-11-28 13:56"
+    },
+    {
+      "rank": 13,
+      "name": "Sui",
+      "symbol": "SUI",
+      "price_btc": 1.1146410265013688e-05,
+      "timestamp": "2026-11-28 13:56"
+    },
+    {
+      "rank": 14,
+      "name": "Akedo",
+      "symbol": "AKE",
+      "price_btc": 1.9218305208709112e-08,
+      "timestamp": "2026-11-28 13:56"
+    },
+    {
+      "rank": 15,
+      "name": "Solana",
+      "symbol": "SOL",
+      "price_btc": 0.0011890073342883762,
+      "timestamp": "2026-11-28 13:56"
+    }
   ]
 }
